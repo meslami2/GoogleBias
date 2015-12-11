@@ -104,15 +104,36 @@ public class GoogleBias implements Job{
     public void execute(JobExecutionContext context)
         throws JobExecutionException {
         
-        int numberOfQueris = 4;
+   
         List<String> listofQueries = new ArrayList<>();
+        
         listofQueries.add("democratic debate");
         listofQueries.add("dem debate");
         listofQueries.add("republican debate");
         listofQueries.add("rep debate");
-
-        for (int i = 0; i < numberOfQueris; i++) {
-            search(listofQueries.get(i), 3);
+        listofQueries.add("democratic debate");
+        
+        listofQueries.add("Bernie Sanders");
+        listofQueries.add("Martin O'Malley");
+        listofQueries.add("Hillary Clinton");
+          
+        listofQueries.add("Jeb Bush");
+        listofQueries.add("Ben Carson");
+        listofQueries.add("Chris Christie");
+        listofQueries.add("Ted Cruz");
+        listofQueries.add("Carly Fiorina");
+        listofQueries.add("Jim Gilmore");
+        listofQueries.add("Lindsey Graham");
+        listofQueries.add("Mike Huckabee");
+        listofQueries.add("John Kasich");
+        listofQueries.add("George Pataki");
+        listofQueries.add("Rand Paul");
+        listofQueries.add("Marco Rubio");
+        listofQueries.add("Rick Santorum");
+        listofQueries.add("Donald Trump");
+        
+        for (int i = 0; i < listofQueries.size(); i++) {
+            search(listofQueries.get(i), 2);
         }
 
     }
