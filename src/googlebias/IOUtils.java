@@ -21,13 +21,16 @@ import java.util.logging.Logger;
  * @author Aale
  */
 public class IOUtils {
+
     public static String SEPERATOR = "\t";
     public static String NEWLINE = "\n";
+
     public static void writeDataIntoFile(String content, String filepath) {
         writeDataIntoFile(content, filepath, true);
     }
-    
+
     public static void writeDataIntoFile(String content, String filepath, boolean append) {
+        System.out.println("File written: " + filepath + " append=" + append);
         FileWriter fw = null;
         try {
             File file = new File(filepath);
@@ -48,7 +51,6 @@ public class IOUtils {
         }
 
     }
-
 
     public static List<String> readFileLineByLine(String filepath, boolean hasHeader) {
         return readFileLineByLine(filepath, null, hasHeader);

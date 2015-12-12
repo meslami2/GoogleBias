@@ -1,0 +1,1821 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Chris Christie",
+    "totalResults": "5330000",
+    "searchTerms": "Chris Christie",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Chris Christie",
+    "totalResults": "5330000",
+    "searchTerms": "Chris Christie",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.337301,
+  "formattedSearchTime": "0.34",
+  "totalResults": "5330000",
+  "formattedTotalResults": "5,330,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "https://en.wikipedia.org/wiki/Chris_Christie",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Christopher James \"Chris\" Christie (born September 6, 1962) is an American \npolitician who is currently the 55th Governor of New Jersey. He has been \ngovernor ...",
+   "htmlSnippet": "Christopher James &quot;\u003cb\u003eChris\u003c/b\u003e&quot; \u003cb\u003eChristie\u003c/b\u003e (born September 6, 1962) is an American \u003cbr\u003e\npolitician who is currently the 55th Governor of New Jersey. He has been \u003cbr\u003e\ngovernor&nbsp;...",
+   "cacheId": "Lfv5ed8AOEAJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Chris_Christie",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eChris\u003c/b\u003e_\u003cb\u003eChristie\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chris_Christie_April_2015_(cropped).jpg/220px-Chris_Christie_April_2015_(cropped).jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "245",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvlI_xUWDcFu_8-iTB-61CeMrQaUHSaCsj066UQ_JxPznQoFnHfyPtxZg"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Chris Christie",
+      "nickname": "Christopher James Christie",
+      "bday": "1962-09-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Telling it like it is | Chris Christie for President",
+   "htmlTitle": "Telling it like it is | \u003cb\u003eChris Christie\u003c/b\u003e for President",
+   "link": "https://www.chrischristie.com/",
+   "displayLink": "www.chrischristie.com",
+   "snippet": "DATE: Friday, December 11, 2015 TIME: 6:00 PM *Doors open at 5:00 PM , town \nhall meeting starts at 6:00 PM LOCATION: The Inn on Main, 200 North Main ...",
+   "htmlSnippet": "DATE: Friday, December 11, 2015 TIME: 6:00 PM *Doors open at 5:00 PM , town \u003cbr\u003e\nhall meeting starts at 6:00 PM LOCATION: The Inn on Main, 200 North Main&nbsp;...",
+   "cacheId": "isRNVEQTeNoJ",
+   "formattedUrl": "https://www.chrischristie.com/",
+   "htmlFormattedUrl": "https://www.\u003cb\u003echrischristie\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://d70h9a36p82zs.cloudfront.net/Ccpres2016/base/assets/1-0-1/production/Announcement_CC_FBLink20-4cf96b134dfb9c510359b1ea1848e49a27ee82992671dc4dec4bb7739abc830c.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "311",
+      "height": "162",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnAQWJPtR2FA6U2f1_KxBdz4imQlyz18fcZQCfkJ9RfZBVZ5-ZyTtbWeoi"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=.7, maximum-scale=2, user-scalable=yes",
+      "title": "Telling it like it is | Chris Christie for President",
+      "author": "Chris Christie",
+      "copyright": "Chris Christie for President",
+      "application-name": "ChrisChristie.com",
+      "og:title": "Chris Christie for President",
+      "og:type": "article",
+      "og:image": "https://d70h9a36p82zs.cloudfront.net/Ccpres2016/base/assets/1-0-1/production/Announcement_CC_FBLink20-4cf96b134dfb9c510359b1ea1848e49a27ee82992671dc4dec4bb7739abc830c.jpg",
+      "og:url": "https://www.ChrisChristie.com",
+      "og:description": "Let's Get To Work. Chris Christie is Telling It Like It Is",
+      "twitter:card": "summary",
+      "twitter:title": "Chris Christie for President",
+      "twitter:description": "Let's Get To Work. Chris Christie is Telling It Like It Is",
+      "twitter:image": "https://d70h9a36p82zs.cloudfront.net/Ccpres2016/base/assets/1-0-1/production/Announcement_CC_FBLink20-4cf96b134dfb9c510359b1ea1848e49a27ee82992671dc4dec4bb7739abc830c.jpg",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "GUc2c7+Rni5Bd9mX/2ZKZvUZ7kd4UPchxn0PiSdKMDWX07yQ8Ftiro26R2cdYXx68nI3VeDWN0axNivNAQYWYQ=="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie (@ChrisChristie) | Twitter",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e (@\u003cb\u003eChrisChristie\u003c/b\u003e) | Twitter",
+   "link": "https://twitter.com/chrischristie",
+   "displayLink": "twitter.com",
+   "snippet": "The latest Tweets from Chris Christie (@ChrisChristie): \"We want leadership from \nthe White House, not lectures. Sign if you agree: https://t.co/J1FHgbSwvE ...",
+   "htmlSnippet": "The latest Tweets from \u003cb\u003eChris Christie\u003c/b\u003e (@\u003cb\u003eChrisChristie\u003c/b\u003e): &quot;We want leadership from \u003cbr\u003e\nthe White House, not lectures. Sign if you agree: https://t.co/J1FHgbSwvE&nbsp;...",
+   "cacheId": "ilvoAE9WXd8J",
+   "formattedUrl": "https://twitter.com/chrischristie",
+   "htmlFormattedUrl": "https://twitter.com/\u003cb\u003echrischristie\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pbs.twimg.com/profile_images/614760759965265920/8ahsjx48_400x400.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp_UoGCv5RTYUsGBKwSfRUmmaKCEtn4dfHqOYHcaAjyvAwRfkYvaqRi4Q"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Office of the Governor",
+   "htmlTitle": "Office of the Governor",
+   "link": "http://www.nj.gov/governor/",
+   "displayLink": "www.nj.gov",
+   "snippet": "New Jersey Governor Chris Christie official Web site contains his key initiatives, \npress releases, biography, and photographs.",
+   "htmlSnippet": "New Jersey Governor \u003cb\u003eChris Christie\u003c/b\u003e official Web site contains his key initiatives, \u003cbr\u003e\npress releases, biography, and photographs.",
+   "formattedUrl": "www.nj.gov/governor/",
+   "htmlFormattedUrl": "www.nj.gov/governor/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nj.gov/governor/library/slides/active/20151125_berryl.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "250",
+      "height": "202",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4dLgKNaWo68cKmncWq-J5LTy3J_87LZ0JEOkiX9ZGn3zdh4ZJF2zd1Ls"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "mgryczon",
+      "revised": "12/01/2015",
+      "wt.cg_n": "Governor"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie Makes Emotional Plea To Rethink Drug Addiction ...",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e Makes Emotional Plea To Rethink Drug Addiction \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.huffingtonpost.com/entry/chris-christie-drug-addiction-treatment_56327ee9e4b0c66bae5bc0f3",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "Oct 30, 2015 ... UPDATE: Christie's talk on addiction, part of the HuffPost original ... Chris Christie \n(R) related a pair of personal anecdotes to elucidate why he ...",
+   "htmlSnippet": "Oct 30, 2015 \u003cb\u003e...\u003c/b\u003e UPDATE: Christie&#39;s talk on addiction, part of the HuffPost original ... \u003cb\u003eChris Christie\u003c/b\u003e \u003cbr\u003e\n(R) related a pair of personal anecdotes to elucidate why he&nbsp;...",
+   "cacheId": "2cE60J2t6-0J",
+   "formattedUrl": "www.huffingtonpost.com/.../chris-christie-drug-addiction-treatment_ 56327ee9e4b0c66bae5bc0f3",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e-drug-addiction-treatment_ 56327ee9e4b0c66bae5bc0f3",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.huffingtonpost.com/asset/1200_630/5628fd781400002200c7a8f0.jpeg?cache=gwtoobae0v"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEqMud_MclrPPKIcaOTeZ213iIhjjQd1lZLojoaXtSc1AJpbkhh3U2qZk"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "fb:app_id": "46744042133",
+      "og:title": "Chris Christie Makes Plea To Change How America Handles Drug Addicts",
+      "og:type": "article",
+      "og:image": "http://img.huffingtonpost.com/asset/1200_630/5628fd781400002200c7a8f0.jpeg?cache=gwtoobae0v",
+      "og:url": "http://www.huffingtonpost.com/entry/chris-christie-drug-addiction-treatment_56327ee9e4b0c66bae5bc0f3",
+      "og:site_name": "The Huffington Post",
+      "og:description": "The New Jersey governor shows why he's so effective in town hall meetings.",
+      "og:locale": "en_US",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@HuffPostPol",
+      "twitter:title": "Chris Christie Makes Plea To Change How America Handles Drug Addicts",
+      "twitter:description": "The New Jersey governor shows why he's so effective in town hall meetings.",
+      "twitter:image": "http://img.huffingtonpost.com/asset/1200_630/5628fd781400002200c7a8f0.jpeg?cache=gwtoobae0v",
+      "sailthru.date": "2015-10-30 15:11:32 -0400",
+      "sailthru.expire_date": "2015-10-31 15:11:32 -0400"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Christie on refugees: Not even 5-year-old orphans - CNNPolitics.com",
+   "htmlTitle": "\u003cb\u003eChristie\u003c/b\u003e on refugees: Not even 5-year-old orphans - CNNPolitics.com",
+   "link": "http://www.cnn.com/2015/11/17/politics/chris-christie-paris-attacks-refugee-orphans/",
+   "displayLink": "www.cnn.com",
+   "snippet": "Nov 17, 2015 ... Chris Christie says the U.S. should not accept any new Syrian refugees, not even \nyoung orphans.",
+   "htmlSnippet": "Nov 17, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eChris Christie\u003c/b\u003e says the U.S. should not accept any new Syrian refugees, not even \u003cbr\u003e\nyoung orphans.",
+   "cacheId": "Wy6Bh2BOYa4J",
+   "formattedUrl": "www.cnn.com/2015/.../chris-christie-paris-attacks-refugee-orphans/",
+   "htmlFormattedUrl": "www.cnn.com/2015/.../\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e-paris-attacks-refugee-orphans/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/151110204101-chris-christie-gop-debate-large-169.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/151110204101-chris-christie-gop-debate-large-169.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "politics",
+      "datecreated": "2015-11-17T13:34:53Z",
+      "datepublished": "2015-11-17T13:34:53Z",
+      "datemodified": "2015-11-17T19:47:48Z",
+      "url": "http://www.cnn.com/2015/11/17/politics/chris-christie-paris-attacks-refugee-orphans/index.html",
+      "author": "Gregory Krieg, CNN",
+      "headline": "Christie on refugees: Not even 5-year-old orphans - CNNPolitics.com",
+      "description": "Chris Christie says the U.S. should not accept any new Syrian refugees, not even young orphans.",
+      "keywords": "politics, Christie on refugees: Not even 5-year-old orphans - CNNPolitics.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/151110204101-chris-christie-gop-debate-large-169.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/151110204101-chris-christie-gop-debate-large-169.jpg",
+      "alternativeheadline": "Christie on refugees: Not even 5-year-old orphans",
+      "articlebody": "Story highlightsChristie says Syrian refugees can't be properly vettedThe New Jersey governor had a different view earlier this year (CNN)Chris Christie says the U.S. should not accept any..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "politics",
+      "og:pubdate": "2015-11-17T13:34:53Z",
+      "pubdate": "2015-11-17T13:34:53Z",
+      "lastmod": "2015-11-17T19:47:48Z",
+      "og:url": "http://www.cnn.com/2015/11/17/politics/chris-christie-paris-attacks-refugee-orphans/index.html",
+      "author": "Gregory Krieg, CNN",
+      "og:title": "Christie on refugees: Not even 5-year-old orphans - CNNPolitics.com",
+      "og:description": "Chris Christie says the U.S. should not accept any new Syrian refugees, not even young orphans.",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/151110204101-chris-christie-gop-debate-large-169.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/151110204101-chris-christie-gop-debate-large-169.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/11/17/politics/chris-christie-paris-attacks-refugee-orphans/index.html",
+      "fb:app_id": "80401312489",
+      "template-top": "politics,art-vid-col,col-migrant-crisis"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Governor Chris Christie",
+   "htmlTitle": "Governor \u003cb\u003eChris Christie\u003c/b\u003e",
+   "link": "https://www.facebook.com/GovChrisChristie/",
+   "displayLink": "www.facebook.com",
+   "snippet": "Governor Chris Christie, Trenton, NJ. 196334 likes · 2439 talking about this. \nHusband and proud father of four.",
+   "htmlSnippet": "Governor \u003cb\u003eChris Christie\u003c/b\u003e, Trenton, NJ. 196334 likes · 2439 talking about this. \u003cbr\u003e\nHusband and proud father of four.",
+   "cacheId": "mUvHZ2jPKikJ",
+   "formattedUrl": "https://www.facebook.com/GovChrisChristie/",
+   "htmlFormattedUrl": "https://www.facebook.com/Gov\u003cb\u003eChrisChristie\u003c/b\u003e/",
+   "pagemap": {
+    "organization": [
+     {
+      "name": "Governor Chris Christie"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "al:android:app_name": "Facebook",
+      "al:android:package": "com.facebook.katana",
+      "al:android:url": "fb://page/493471480388",
+      "al:ios:app_name": "Facebook",
+      "al:ios:app_store_id": "284882215",
+      "al:ios:url": "fb://page/?id=493471480388"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie - The New York Times",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e - The New York Times",
+   "link": "http://www.nytimes.com/topic/person/chris-christie",
+   "displayLink": "www.nytimes.com",
+   "snippet": "News about Chris Christie. Commentary and archival information about \nChristopher J. Christie from The New York Times.",
+   "htmlSnippet": "News about \u003cb\u003eChris Christie\u003c/b\u003e. Commentary and archival information about \u003cbr\u003e\nChristopher J. Christie from The New York Times.",
+   "formattedUrl": "www.nytimes.com/topic/person/chris-christie",
+   "htmlFormattedUrl": "www.nytimes.com/topic/person/\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static01.nyt.com/images/2015/11/19/nyregion/FUED-video/FUED-video-videoSmall.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "tickersymbol": "NYSE NYT"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjCHheL6t0u1yI8mJay47jREhsfKea-xqiWmcnjwG1fVbxAhWIta34jbM2"
+     }
+    ],
+    "newsarticle": [
+     {
+      "headline": "Donald Trump Widens Lead in New Hampshire, Poll Shows",
+      "description": "A CNN/WBUR poll showed Mr. Trump beating his closest rival, Senator Marco Rubio, by more than 2-to-1 — 32 percent to 14 percent — among likely Republican primary voters in New Hampshire.",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/08/us/08firstdraft-poll/08firstdraft-poll-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-08"
+     },
+     {
+      "headline": "Donald Trump and Chris Christie Square Off Over Racial Profiling",
+      "description": "Mr. Trump said on Sunday that he supported some racial and religious profiling in combating terrorism, while Mr. Christie said that stance reflected a lack of “experience and understanding.”",
+      "author": "By PATRICK HEALY",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/06/us/firstdraft-react/firstdraft-react-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-06"
+     },
+     {
+      "headline": "After San Bernardino Attack, Republican Candidates Talk ‘War’",
+      "description": "As Republican candidates demanded on Friday that the United States face up to a new world war, Democrats seemed to offer a more muddled response.",
+      "author": "By MICHAEL BARBARO and TRIP GABRIEL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/05/us/05campaign-web/05campaign-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-04"
+     },
+     {
+      "headline": "Wanting More Than a Veto and a Prayer After Mass Shootings",
+      "description": "In an era when the United States has had an average of one mass shooting or more every day, the country has become the land of the free and the brave, and the home of the futile gesture.",
+      "author": "By JIM DWYER",
+      "datepublished": "2015-12-03"
+     },
+     {
+      "headline": "Christie’s Veto of Gun-Control Bill Is Upheld as Assembly Halts Override",
+      "description": "Democratic leaders invoked the mass shooting in California in a failed attempt to shame Republicans, who had unanimously supported the bill, to reject Gov. Chris Christie’s veto.",
+      "author": "By PATRICK McGEEHAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/03/nyregion/NJGUNS-web/NJGUNS-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-03"
+     },
+     {
+      "headline": "Once Embraced by Chris Christie, New Jersey’s Muslims Feel Betrayed",
+      "description": "Gov. Chris Christie, once hailed as a defender of local Muslims against prejudice, now opposes resettling Syrian refugees in this country.",
+      "author": "By ALEXANDER BURNS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/03/nyregion/sub03CHRISTIE/sub03CHRISTIE-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-02"
+     },
+     {
+      "headline": "Jeb Bush Says He Would Have Probably Skipped Climate Conference",
+      "description": "Jeb Bush belittled President Obama’s trip to Paris for the global climate conference, saying that if he were president, he most likely would have skipped the meeting.",
+      "author": "By TRIP GABRIEL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/01/us/01firstdraft-jeb/01firstdraft-jeb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-01"
+     },
+     {
+      "headline": "At Home, Chris Christie Hears a Dissenting Newspaper Voice",
+      "description": "Gov. Chris Christie is riding high after a coveted endorsement from The New Hampshire Union Leader, but he is not winning such accolades at home.",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/01/us/01firstdraft-christie/01firstdraft-christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-01"
+     },
+     {
+      "headline": "Syrian Family of 7 Is Settled in New Jersey Against Christie’s Opposition",
+      "description": "Gov. Chris Christie has opposed the entry of any Syrian refugees into New Jersey, but he has no control over the federal resettlement program.",
+      "author": "By LIZ ROBBINS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/01/nyregion/01njrefugees-web1/01njrefugees-web1-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-30"
+     },
+     {
+      "headline": "Chris Christie, Rising in New Hampshire, Becomes a Donald Trump Target",
+      "description": "As Chris Christie’s courtship of New Hampshire voters has started showing signs of paying off, Donald J. Trump took an impromptu shot at his record as New Jersey governor in hopes of slowing...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/29/us/29firstdraftnl-christie/29firstdraftnl-christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-30"
+     },
+     {
+      "headline": "Chasing Endorsements, Chris Christie Showers New Hampshire With Calls and Texts",
+      "description": "A long and relentless pursuit of support from leaders in the first Republican primary state is paying off for Gov. Chris Christie of New Jersey.",
+      "author": "By MICHAEL BARBARO",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/30/us/30christie/30christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-29"
+     },
+     {
+      "headline": "Chris Christie Endorsed by Key New Hampshire Newspaper",
+      "description": "Chris Christie’s presidential campaign got a lift on Saturday night with the endorsement of The New Hampshire Union Leader, an influential paper in the state where the New Jersey governor...",
+      "author": "By MAGGIE HABERMAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/29/us/29christie-fd/29christie-fd-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-28"
+     },
+     {
+      "headline": "Which Is More Ludicrous? Donald Trump Edition",
+      "description": "In this game, we try to figure out which act by a presidential candidate is more ridiculous. And nobody wins.",
+      "author": "By ANDREW ROSENTHAL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/25/opinion/25rosenthalWEB/25rosenthalWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-25"
+     },
+     {
+      "headline": "Paris and the Presidential Election",
+      "description": "If terror remains as high in voters’ consciousness in 2016 as it is now, it is likely to pose a major problem for Democrats.",
+      "author": "By THOMAS B. EDSALL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/25/opinion/25edsallWeb/25edsallWeb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-25"
+     },
+     {
+      "headline": "Chris Christie Defends Stance on Dangers of Accepting Refugees",
+      "description": "Under fire for being heartless when it comes to refugees, Gov. Chris Christie defended his view that it was too dangerous to take in persecuted Syrians and warned that America could pay a deadly...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/24/us/24firstdraft-christie/24firstdraft-christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-24"
+     },
+     {
+      "headline": "Chris Christie’s Low Profile in Courage",
+      "description": "Mr. Christie talks a lot about his memories of 9/11 — but he gets fuzzy when it comes to debunking false claims about Arabs celebrating in New Jersey.",
+      "author": "By ELIZABETH WILLIAMSON",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/24/opinion/24williamsonWEB/24williamsonWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-24"
+     },
+     {
+      "headline": "Chris Christie’s Bid Gains New Life as He Invokes 9/11 Amid Fear",
+      "description": "The Paris attacks have brought a sudden intensity, attention and focus to the once-moribund candidacy of Gov. Chris Christie of New Jersey.",
+      "author": "By MICHAEL BARBARO",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/24/us/24CHRISTIEweb/24CHRISTIEweb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-23"
+     },
+     {
+      "headline": "CNN Sets Polling Requirements to Make Main Stage at Next G.O.P. Debate",
+      "description": "CNN said that Republican candidates will need to have either a national polling average of 3.5 percent or higher, or be polling at 4 percent or higher in Iowa or New Hampshire, to qualify for...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/20/us/20firstdraft-cnn/20firstdraft-cnn-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-20"
+     },
+     {
+      "headline": "Terrorism and Refugees Dominate Week in Presidential Race",
+      "description": "Heightened fears about terrorism and a growing refugee crisis have put presidential candidates on the spot this week, requiring them to come up with harried, and sometimes radical, proposals...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/20/us/20firstdraft-terror/20firstdraft-terror-mediumThreeByTwo210-v2.jpg",
+      "datepublished": "2015-11-20"
+     },
+     {
+      "headline": "Chris Christie’s Bridge Scandal",
+      "description": "A New Jersey reader writes that the scandal is still on the front burner.",
+      "datepublished": "2015-11-19"
+     },
+     {
+      "video": "De Blasio Chides Christie on Immigrants Mayor Bill de Blasio of New York criticized Gov. Chris Christie of New Jersey for not accepting Syrian refugees, calling the position “un-American.”...",
+      "headline": "De Blasio Chides Christie on Immigrants",
+      "description": "Mayor Bill de Blasio of New York criticized Gov. Chris Christie of New Jersey for not accepting Syrian refugees, calling the position “un-American.”",
+      "author": "By NEW YORK CITY MAYOR’S OFFICE",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/19/nyregion/FUED-video/FUED-video-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-18"
+     },
+     {
+      "headline": "Republican Candidates Crisscross New Hampshire",
+      "description": "With a November deadline approaching to file papers for gaining a spot on the ballot, many presidential hopefuls have spent a lot of time in the state.",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/07/us/08NEWHAMPSHIREss-slide-KMOJ/08NEWHAMPSHIREss-slide-KMOJ-mediumThreeByTwo210-v2.jpg",
+      "datepublished": "2015-11-08"
+     },
+     {
+      "video": "Drugs and Politics On the campaign trail, presidential candidates acknowledge the problem of America’s growing addiction to legal, prescription and illegal drugs, and discover the bipartisan...",
+      "headline": "Drugs and Politics",
+      "description": "On the campaign trail, presidential candidates acknowledge the problem of America’s growing addiction to legal, prescription and illegal drugs, and discover the bipartisan appeal of drug policy.",
+      "author": "By AINARA TIEFENTHÄLER",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/25/multimedia/heroin-2016-candidates/heroin-2016-candidates-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-30"
+     },
+     {
+      "headline": "Competing Plans for Social Security",
+      "description": "Here is how two proposals — one offered by a Republican candidate for president, the other by a Democrat — would affect the future of Social Security.",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/16/business/retiring-social-security-1445017810814/retiring-social-security-1445017810814-mediumThreeByTwo210.png",
+      "datepublished": "2015-10-16"
+     },
+     {
+      "video": "State of Emergency Declared in N.J. Gov. Chris Christie of New Jersey declared a state of emergency on Thursday in case of a potential land fall by Hurricane Joaquin. By WPVI and VIA ASSOCIATED PRESS",
+      "headline": "State of Emergency Declared in N.J.",
+      "description": "Gov. Chris Christie of New Jersey declared a state of emergency on Thursday in case of a potential land fall by Hurricane Joaquin.",
+      "author": "By WPVI and VIA ASSOCIATED PRESS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/02/nyregion/NJSTORMvideo/NJSTORMvideo-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-01"
+     },
+     {
+      "headline": "How the Republicans Fared in the Second Debate",
+      "description": "For nearly three hours on Wednesday, the Republican presidential candidates sparred over policy, political tactics and, occasionally, physical appearance.",
+      "author": "By MATT FLEGENHEIMER and ASHLEY PARKER",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/09/17/us/16cand-trump2/16cand-trump2-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-09-17"
+     },
+     {
+      "video": "Chris Christie on a Teaching Revolution Gov. Chris Christie of New Jersey appeared at a Republican education summit meeting on Wednesday and said that if there were to be a revolution in teaching,...",
+      "headline": "Chris Christie on a Teaching Revolution",
+      "description": "Gov. Chris Christie of New Jersey appeared at a Republican education summit meeting on Wednesday and said that if there were to be a revolution in teaching, the revolutionaries should be better armed.",
+      "author": "By THE ASSOCIATED PRESS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/08/19/multimedia/christie-nh-summit/christie-nh-summit-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-08-19"
+     },
+     {
+      "headline": "How the Republican Candidates Fared in the First Debate",
+      "description": "The rambunctious presidential debate Thursday night left some Republican candidates shining and others stung. Here are some highlights and low lights from the prime-time showdown.",
+      "author": "By MICHAEL BARBARO and NICHOLAS CONFESSORE",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/08/06/us/politics/repubdebate08062015-600/repubdebate08062015-600-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-08-07"
+     },
+     {
+      "headline": "The Roster: Contenders Named to First Republican Debate",
+      "description": "A look at the line-up for Thursday night’s debate in Cleveland, the first of the Republican primary contest, which will be broadcast by Fox News, and how each candidate could gain with a...",
+      "author": "By MAGGIE HABERMAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/08/04/us/politics/04roster-promo2/04roster-promo2-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-08-04"
+     },
+     {
+      "video": "Christie Proposes Raising Retirement Age The New Jersey governor and Republican presidential candidate proposed increasing the retirement age by two years over the next quarter-century. By...",
+      "headline": "Christie Proposes Raising Retirement Age",
+      "description": "The New Jersey governor and Republican presidential candidate proposed increasing the retirement age by two years over the next quarter-century.",
+      "author": "By C-SPAN via REUTERS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/08/03/multimedia/nh-forum-christie/nh-forum-christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-08-03"
+     },
+     {
+      "video": "The Anatomy of a Christie Town Hall Like many politicians, Chris Christie, the New Jersey governor, has a formula. Spoiler: It involves jacket tossing and wise words from his mom. Nick Corasaniti",
+      "headline": "The Anatomy of a Christie Town Hall",
+      "description": "Like many politicians, Chris Christie, the New Jersey governor, has a formula. Spoiler: It involves jacket tossing and wise words from his mom.",
+      "author": "Nick Corasaniti",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/07/28/multimedia/vn-christie-townhall/vn-christie-townhall-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-07-29"
+     },
+     {
+      "headline": "A Letter About Rail Tunnels Under the Hudson River",
+      "description": "A letter from Transportation Secretary Anthony Foxx urging Gov. Chris Christie of New Jersey and Gov. Andrew M. Cuomo of New York to meet with him to discuss a plan to build new Hudson River...",
+      "datepublished": "2015-07-27"
+     },
+     {
+      "headline": "The Selfie Election",
+      "description": "Forget about waiting in line to get your baby kissed or your lawn sign autographed. Here is a gallery of campaign-trail selfies with presidential hopefuls.",
+      "author": "By THE NEW YORK TIMES",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/07/03/us/politics/selfie-listy-promo/selfie-hp-05-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-07-04"
+     },
+     {
+      "video": "Full Speech: Christie Announces 2016 Bid Gov. Chris Christie of New Jersey told supporters on Tuesday in Livingston, N.J., that he was joining the 2016 presidential race. Associated Press",
+      "headline": "Full Speech: Christie Announces 2016 Bid",
+      "description": "Gov. Chris Christie of New Jersey told supporters on Tuesday in Livingston, N.J., that he was joining the 2016 presidential race.",
+      "author": "Associated Press",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/07/01/us/01announce1/01announce1-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-06-30"
+     },
+     {
+      "video": "Gov. Christie Announces Presidential Bid Gov. Chris Christie of New Jersey announced on Tuesday at his former high school in Livingston, N.J., that he is seeking the 2016 Republican presidential...",
+      "headline": "Gov. Christie Announces Presidential Bid",
+      "description": "Gov. Chris Christie of New Jersey announced on Tuesday at his former high school in Livingston, N.J., that he is seeking the 2016 Republican presidential nomination.",
+      "author": "Associated Press",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/07/01/us/politics/01ANNOUNE-sub-2/01ANNOUNE-sub-2-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-06-30"
+     },
+     {
+      "headline": "What Chris Christie Would Need to Do to Win",
+      "description": "Gov. Chris Christie of New Jersey has entered the race for the Republican presidential nomination. Here is a look at what he would need to do if he hopes to win.",
+      "author": "By JONATHAN MARTIN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/07/01/us/politics/01PATH-web/01PATH-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-06-30"
+     },
+     {
+      "headline": "Presidential Candidates Tell the Story of Their Fathers From the Stump",
+      "description": "Here’s a look at how some of the 2016 presidential candidates and hopefuls have been telling the tales of their fathers on the campaign trail.",
+      "author": "By NICK CORASANITI",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/06/19/us/politics/fathersday2015-Bush/fathersday2015-Bush-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-06-21"
+     },
+     {
+      "headline": "Stacking Up the Presidential Fields",
+      "description": "The Republican party has 16 major presidential candidates this cycle — three times the number of Democrats and more than any other field in recent history.",
+      "author": "By ALICIA PARLAPIANO",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/06/04/us/politics/stacking-up-the-presidential-fields-1433446580733/stacking-up-the-presidential-fields-1433446580733-mediumThreeByTwo210.png",
+      "datepublished": "2015-06-04"
+     },
+     {
+      "headline": "Americans’ Views on the 2016 Presidential Campaign and the Issues",
+      "description": "See what Americans think about Hillary Rodham Clinton, the Republican candidates and issues like the health care law and same-sex marriage.",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/05/05/us/americans-views-on-political-issues-1430851500032/americans-views-on-political-issues-1430851500032-mediumThreeByTwo210.png",
+      "datepublished": "2015-05-05"
+     },
+     {
+      "video": "2 Plead Not Guilty in Bridge Scandal Bill Baroni, a former deputy executive director of the Port Authority, and the lawyer for Bridget Anne Kelly, a former deputy chief of staff for Gov. Chris...",
+      "headline": "2 Plead Not Guilty in Bridge Scandal",
+      "description": "Bill Baroni, a former deputy executive director of the Port Authority, and the lawyer for Bridget Anne Kelly, a former deputy chief of staff for Gov. Chris Christie of New Jersey, discussed the case.",
+      "author": "AP",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/05/04/multimedia/nj-bridge-baroni-kelly/nj-bridge-baroni-kelly-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-05-04"
+     },
+     {
+      "headline": "Wanting More Than a Veto and a Prayer After Mass Shootings",
+      "description": "In an era when the United States has had an average of one mass shooting or more every day, the country has become the land of the free and the brave, and the home of the futile gesture.",
+      "author": "By JIM DWYER",
+      "datepublished": "2015-12-03"
+     },
+     {
+      "headline": "Christie’s Veto of Gun-Control Bill Is Upheld as Assembly Halts Override",
+      "description": "Democratic leaders invoked the mass shooting in California in a failed attempt to shame Republicans, who had unanimously supported the bill, to reject Gov. Chris Christie’s veto.",
+      "author": "By PATRICK McGEEHAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/03/nyregion/NJGUNS-web/NJGUNS-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-03"
+     },
+     {
+      "headline": "Once Embraced by Chris Christie, New Jersey’s Muslims Feel Betrayed",
+      "description": "Gov. Chris Christie, once hailed as a defender of local Muslims against prejudice, now opposes resettling Syrian refugees in this country.",
+      "author": "By ALEXANDER BURNS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/03/nyregion/sub03CHRISTIE/sub03CHRISTIE-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-02"
+     },
+     {
+      "headline": "Syrian Family of 7 Is Settled in New Jersey Against Christie’s Opposition",
+      "description": "Gov. Chris Christie has opposed the entry of any Syrian refugees into New Jersey, but he has no control over the federal resettlement program.",
+      "author": "By LIZ ROBBINS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/01/nyregion/01njrefugees-web1/01njrefugees-web1-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-30"
+     },
+     {
+      "headline": "Chasing Endorsements, Chris Christie Showers New Hampshire With Calls and Texts",
+      "description": "A long and relentless pursuit of support from leaders in the first Republican primary state is paying off for Gov. Chris Christie of New Jersey.",
+      "author": "By MICHAEL BARBARO",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/30/us/30christie/30christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-29"
+     },
+     {
+      "headline": "Chris Christie’s Bid Gains New Life as He Invokes 9/11 Amid Fear",
+      "description": "The Paris attacks have brought a sudden intensity, attention and focus to the once-moribund candidacy of Gov. Chris Christie of New Jersey.",
+      "author": "By MICHAEL BARBARO",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/24/us/24CHRISTIEweb/24CHRISTIEweb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-23"
+     },
+     {
+      "headline": "Malloy Welcomes a Syrian Family to Connecticut as Christie Shuns Refugees",
+      "description": "The fate of Syrian refugees in the United States erupts into a battle over states’ rights, even though governors have no power over the federal resettlement program.",
+      "author": "By LIZ ROBBINS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/16/us/where-syrian-refugees-are-in-the-united-states-1445383194242/where-syrian-refugees-are-in-the-united-states-1445383194242-mediumThreeByTwo210-v10.jpg",
+      "datepublished": "2015-11-18"
+     },
+     {
+      "video": "De Blasio, Drawing New Battle Line, Takes Aim at Christie on Refugees Though embroiled in a long-term conflict with Gov. Andrew M. Cuomo of New York, Mayor Bill de Blasio has now embraced a...",
+      "headline": "De Blasio, Drawing New Battle Line, Takes Aim at Christie on Refugees",
+      "description": "Though embroiled in a long-term conflict with Gov. Andrew M. Cuomo of New York, Mayor Bill de Blasio has now embraced a feud with the New Jersey governor.",
+      "author": "By MICHAEL M. GRYNBAUM",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/19/nyregion/FUED-video/FUED-video-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-18"
+     },
+     {
+      "headline": "A Manhattan Hardware Store Welcomes Refugees as Governors Vow to Shut Them Out",
+      "description": "Chris Christie of New Jersey and at least 25 other governors have said they do not want Syrian refugees to come to their states; for decades, Wankel’s has hired people fleeing violence and...",
+      "author": "By JIM DWYER",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/18/nyregion/18ABOUT-2/18ABOUT-2-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-17"
+     },
+     {
+      "headline": "Chris Christie, Taking Law-and-Order Stance, Sidesteps Bridge Scandal in ’16 Race",
+      "description": "Gov. Chris Christie’s focus on terrorism and crime has helped him turn the page on the political retribution scandal that has threatened his bid for the Republican nomination.",
+      "author": "By ALEXANDER BURNS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/17/nyregion/17CHRISTIE-sub/17CHRISTIE-sub-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-16"
+     },
+     {
+      "headline": "Ex-Allies of Christie Didn’t Receive Evidence in Lane Closings Case, Lawyers Say",
+      "description": "The lawyers filed complaints to the United States District Court in Newark in response to the May indictments of Bill Baroni and Bridget Anne Kelly.",
+      "author": "By PATRICK McGEEHAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/12/nyregion/BRIDGEweb1/BRIDGEweb1-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-11"
+     },
+     {
+      "headline": "Gov. Christie Doesn’t Want Your Vote",
+      "description": "New Jersey wants to make voting easier, so why did the governor veto a bill that would do exactly that?",
+      "author": "By THE EDITORIAL BOARD",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/10/opinion/10tue3web/10tue3web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-09"
+     },
+     {
+      "headline": "G.O.P. Candidates, Lagging, Rely on New Hampshire to Get Close",
+      "description": "Jeb Bush, Chris Christie and John R. Kasich are trying to climb their way back in the presidential race by winning over voters with personal encounters in small towns, schools and senior centers.",
+      "author": "By JONATHAN MARTIN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/07/us/08NEWHAMPSHIREss-slide-KMOJ/08NEWHAMPSHIREss-slide-KMOJ-mediumThreeByTwo210-v2.jpg",
+      "datepublished": "2015-11-08"
+     },
+     {
+      "headline": "New Setback for Chris Christie Just as Hope Was High",
+      "description": "Mr. Christie’s demotion to the so-called undercard debate highlighted his transformation from dominant to underdog.",
+      "author": "By ALEXANDER BURNS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/07/us/07CHRISTIE/07CHRISTIE-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-06"
+     },
+     {
+      "headline": "Gov. Christie, Time to Go Home",
+      "description": "Chris Christie’s debate performance underscored what has been true for months: It’s time to stop running for president and start running New Jersey.",
+      "author": "By THE EDITORIAL BOARD",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/30/opinion/30fri1-web/30fri1-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-29"
+     },
+     {
+      "headline": "With Christie Sidelined, New Jersey Republicans Feel Swagger Fade in ’15 Races",
+      "description": "Gov. Chris Christie, now running for president, has been a spectral presence in state politics amid campaigns for the Assembly.",
+      "author": "By ALEXANDER BURNS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/26/nyregion/26njelex-1/26njelex-1-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-26"
+     },
+     {
+      "headline": "Nurse Held by New Jersey Over Ebola Exposure Sues Christie",
+      "description": "Kaci Hickox, who was forced into quarantine last year after she had contact with Ebola patients in West Africa, said that Gov. Chris Christie and state health officials had held her against...",
+      "author": "By THE ASSOCIATED PRESS",
+      "datepublished": "2015-10-22"
+     },
+     {
+      "headline": "New Jersey Senate Overrides Christie’s Veto of Gun Control Bill",
+      "description": "The vote dilutes a key claim Gov. Chris Christie has made while campaigning for the Republican presidential nomination.",
+      "author": "By PATRICK McGEEHAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/23/nyregion/NJGUNS/NJGUNS-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-22"
+     },
+     {
+      "headline": "Retirees’ Futures Hinge on Candidates’ Plans for Social Security",
+      "description": "Democrats are calling for higher-income workers to pay more in payroll taxes, while Republicans’ proposals focus on cutting benefits.",
+      "author": "By TARA SIEGEL BERNARD",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/16/business/17retiring-web/17retiring-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-16"
+     },
+     {
+      "headline": "Half a Tunnel Is a Good Start",
+      "description": "A new Hudson River tunnel hinges not only on New York and New Jersey, but on Washington’s ability to mobilize its share of the cost.",
+      "author": "By THE EDITORIAL BOARD",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/09/17/opinion/17thu3web/17thu3web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-09-17"
+     },
+     {
+      "headline": "Donald Trump Widens Lead in New Hampshire, Poll Shows",
+      "description": "A CNN/WBUR poll showed Mr. Trump beating his closest rival, Senator Marco Rubio, by more than 2-to-1 — 32 percent to 14 percent — among likely Republican primary voters in New Hampshire.",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/08/us/08firstdraft-poll/08firstdraft-poll-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-08"
+     },
+     {
+      "headline": "Donald Trump and Chris Christie Square Off Over Racial Profiling",
+      "description": "Mr. Trump said on Sunday that he supported some racial and religious profiling in combating terrorism, while Mr. Christie said that stance reflected a lack of “experience and understanding.”",
+      "author": "By PATRICK HEALY",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/06/us/firstdraft-react/firstdraft-react-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-06"
+     },
+     {
+      "headline": "After San Bernardino Attack, Republican Candidates Talk ‘War’",
+      "description": "As Republican candidates demanded on Friday that the United States face up to a new world war, Democrats seemed to offer a more muddled response.",
+      "author": "By MICHAEL BARBARO and TRIP GABRIEL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/05/us/05campaign-web/05campaign-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-04"
+     },
+     {
+      "headline": "Wanting More Than a Veto and a Prayer After Mass Shootings",
+      "description": "In an era when the United States has had an average of one mass shooting or more every day, the country has become the land of the free and the brave, and the home of the futile gesture.",
+      "author": "By JIM DWYER",
+      "datepublished": "2015-12-03"
+     },
+     {
+      "headline": "Christie’s Veto of Gun-Control Bill Is Upheld as Assembly Halts Override",
+      "description": "Democratic leaders invoked the mass shooting in California in a failed attempt to shame Republicans, who had unanimously supported the bill, to reject Gov. Chris Christie’s veto.",
+      "author": "By PATRICK McGEEHAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/03/nyregion/NJGUNS-web/NJGUNS-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-03"
+     },
+     {
+      "headline": "Once Embraced by Chris Christie, New Jersey’s Muslims Feel Betrayed",
+      "description": "Gov. Chris Christie, once hailed as a defender of local Muslims against prejudice, now opposes resettling Syrian refugees in this country.",
+      "author": "By ALEXANDER BURNS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/03/nyregion/sub03CHRISTIE/sub03CHRISTIE-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-02"
+     },
+     {
+      "headline": "Jeb Bush Says He Would Have Probably Skipped Climate Conference",
+      "description": "Jeb Bush belittled President Obama’s trip to Paris for the global climate conference, saying that if he were president, he most likely would have skipped the meeting.",
+      "author": "By TRIP GABRIEL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/01/us/01firstdraft-jeb/01firstdraft-jeb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-01"
+     },
+     {
+      "headline": "At Home, Chris Christie Hears a Dissenting Newspaper Voice",
+      "description": "Gov. Chris Christie is riding high after a coveted endorsement from The New Hampshire Union Leader, but he is not winning such accolades at home.",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/01/us/01firstdraft-christie/01firstdraft-christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-12-01"
+     },
+     {
+      "headline": "Syrian Family of 7 Is Settled in New Jersey Against Christie’s Opposition",
+      "description": "Gov. Chris Christie has opposed the entry of any Syrian refugees into New Jersey, but he has no control over the federal resettlement program.",
+      "author": "By LIZ ROBBINS",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/12/01/nyregion/01njrefugees-web1/01njrefugees-web1-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-30"
+     },
+     {
+      "headline": "Chris Christie, Rising in New Hampshire, Becomes a Donald Trump Target",
+      "description": "As Chris Christie’s courtship of New Hampshire voters has started showing signs of paying off, Donald J. Trump took an impromptu shot at his record as New Jersey governor in hopes of slowing...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/29/us/29firstdraftnl-christie/29firstdraftnl-christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-30"
+     },
+     {
+      "headline": "Chasing Endorsements, Chris Christie Showers New Hampshire With Calls and Texts",
+      "description": "A long and relentless pursuit of support from leaders in the first Republican primary state is paying off for Gov. Chris Christie of New Jersey.",
+      "author": "By MICHAEL BARBARO",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/30/us/30christie/30christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-29"
+     },
+     {
+      "headline": "Chris Christie Endorsed by Key New Hampshire Newspaper",
+      "description": "Chris Christie’s presidential campaign got a lift on Saturday night with the endorsement of The New Hampshire Union Leader, an influential paper in the state where the New Jersey governor...",
+      "author": "By MAGGIE HABERMAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/29/us/29christie-fd/29christie-fd-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-28"
+     },
+     {
+      "headline": "Which Is More Ludicrous? Donald Trump Edition",
+      "description": "In this game, we try to figure out which act by a presidential candidate is more ridiculous. And nobody wins.",
+      "author": "By ANDREW ROSENTHAL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/25/opinion/25rosenthalWEB/25rosenthalWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-25"
+     },
+     {
+      "headline": "Paris and the Presidential Election",
+      "description": "If terror remains as high in voters’ consciousness in 2016 as it is now, it is likely to pose a major problem for Democrats.",
+      "author": "By THOMAS B. EDSALL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/25/opinion/25edsallWeb/25edsallWeb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-25"
+     },
+     {
+      "headline": "Chris Christie Defends Stance on Dangers of Accepting Refugees",
+      "description": "Under fire for being heartless when it comes to refugees, Gov. Chris Christie defended his view that it was too dangerous to take in persecuted Syrians and warned that America could pay a deadly...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/24/us/24firstdraft-christie/24firstdraft-christie-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-24"
+     },
+     {
+      "headline": "Chris Christie’s Low Profile in Courage",
+      "description": "Mr. Christie talks a lot about his memories of 9/11 — but he gets fuzzy when it comes to debunking false claims about Arabs celebrating in New Jersey.",
+      "author": "By ELIZABETH WILLIAMSON",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/24/opinion/24williamsonWEB/24williamsonWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-24"
+     },
+     {
+      "headline": "Chris Christie’s Bid Gains New Life as He Invokes 9/11 Amid Fear",
+      "description": "The Paris attacks have brought a sudden intensity, attention and focus to the once-moribund candidacy of Gov. Chris Christie of New Jersey.",
+      "author": "By MICHAEL BARBARO",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/24/us/24CHRISTIEweb/24CHRISTIEweb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-23"
+     },
+     {
+      "headline": "CNN Sets Polling Requirements to Make Main Stage at Next G.O.P. Debate",
+      "description": "CNN said that Republican candidates will need to have either a national polling average of 3.5 percent or higher, or be polling at 4 percent or higher in Iowa or New Hampshire, to qualify for...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/20/us/20firstdraft-cnn/20firstdraft-cnn-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-20"
+     },
+     {
+      "headline": "Terrorism and Refugees Dominate Week in Presidential Race",
+      "description": "Heightened fears about terrorism and a growing refugee crisis have put presidential candidates on the spot this week, requiring them to come up with harried, and sometimes radical, proposals...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/20/us/20firstdraft-terror/20firstdraft-terror-mediumThreeByTwo210-v2.jpg",
+      "datepublished": "2015-11-20"
+     },
+     {
+      "headline": "Chris Christie’s Bridge Scandal",
+      "description": "A New Jersey reader writes that the scandal is still on the front burner.",
+      "datepublished": "2015-11-19"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "sourceapp": "nyt-v5",
+      "applicationname": "collection",
+      "nyt-collection:identifier": "Christie, Christopher J.",
+      "cn": "Christie, Christopher J.",
+      "nyt-collection:type": "timestopic",
+      "ct": "timestopic",
+      "nyt-collection:display-name": "Chris Christie",
+      "nyt-collection:tagline": "News about Chris Christie, including commentary and archival articles published in The New York Times.",
+      "pt": "collection",
+      "asset_id": "1125017173974",
+      "slug": "Christie, Christopher J.",
+      "og:description": "News about Chris Christie. Commentary and archival information about Christopher J. Christie from The New York Times.",
+      "og:title": "Chris Christie",
+      "twitter:title": "Chris Christie",
+      "news_keywords": "Times Topics",
+      "og:image": "http://static01.nyt.com/images/icons/t_logo_291_black.png",
+      "twitter:image": "http://static01.nyt.com/images/icons/t_logo_291_black.png",
+      "collection:section": "timestopics",
+      "collection:parentsection": "timestopics",
+      "nyt-collection:url": "http://www.nytimes.com/topic/person/chris-christie",
+      "nyt-collection:uri": "/topic/person/chris-christie",
+      "og:url": "http://www.nytimes.com/topic/person/chris-christie",
+      "twitter:url": "http://www.nytimes.com/topic/person/chris-christie",
+      "og:type": "article",
+      "fb:app_id": "9869919170",
+      "dfp-ad-unit-path": "timestopics/christiechristopherj/topic",
+      "collection:language": "en",
+      "wt.z_rcgn": "General",
+      "wt.z_cad": "0"
+     }
+    ],
+    "collectionpage": [
+     {
+      "name": "Chris Christie",
+      "about": "News about Chris Christie, including commentary and archival articles published in The New York Times.",
+      "datepublished": "2015-11-18"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie, Sipping a Smoothie, Was Kicked Off an Amtrak Car For",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e, Sipping a Smoothie, Was Kicked Off an Amtrak Car For",
+   "link": "http://gawker.com/chris-christie-sipping-a-smoothie-was-kicked-off-an-a-1738543549",
+   "displayLink": "gawker.com",
+   "snippet": "Oct 25, 2015 ... New Jersey Governor Chris Christie is having a bad morning.",
+   "htmlSnippet": "Oct 25, 2015 \u003cb\u003e...\u003c/b\u003e New Jersey Governor \u003cb\u003eChris Christie\u003c/b\u003e is having a bad morning.",
+   "cacheId": "PclaLy9J6gUJ",
+   "formattedUrl": "gawker.com/chris-christie-sipping-a-smoothie-was-kicked-off-an-a- 1738543549",
+   "htmlFormattedUrl": "gawker.com/\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e-sipping-a-smoothie-was-kicked-off-an-a- 1738543549",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://i.kinja-img.com/gawker-media/image/upload/s--KNTQ8G-k--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1490085392195750180.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyN14pfkcMOcdQBDXTFnECdiEEgJaYpDewPSY2ghaHNjVhGrO6akSkPDsc"
+     }
+    ],
+    "metatags": [
+     {
+      "dynamic-stylesheet": "//x.kinja-static.com/assets/stylesheets/editor-9974763dc52aaac1ca0676b1178fd366.css",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0,maximum-scale=10.0",
+      "msapplication-square70x70logo": "https://i.kinja-img.com/gawker-media/image/upload/s--Di2kTRut--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/my2vnuuejg3jt9yqbx3z.png",
+      "msapplication-square150x150logo": "https://i.kinja-img.com/gawker-media/image/upload/s--GHGgxH7j--/c_fill,fl_progressive,g_center,h_200,q_80,w_200/my2vnuuejg3jt9yqbx3z.png",
+      "news_keywords": "strawberry smoothie, chris christie, gov christie, new jersey, amtrak, quiet car, Gawker",
+      "twitter:url": "http://gawker.com/chris-christie-sipping-a-smoothie-was-kicked-off-an-a-1738543549",
+      "og:title": "Chris Christie, Sipping a Smoothie, Was Kicked Off an Amtrak Car For Screaming on His Phone [Updated]",
+      "og:type": "article",
+      "twitter:image": "https://i.kinja-img.com/gawker-media/image/upload/s--KNTQ8G-k--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1490085392195750180.jpg",
+      "og:image": "https://i.kinja-img.com/gawker-media/image/upload/s--KNTQ8G-k--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/1490085392195750180.jpg",
+      "author": "Melissa Cronin",
+      "og:url": "http://gawker.com/chris-christie-sipping-a-smoothie-was-kicked-off-an-a-1738543549",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@gawker",
+      "twitter:title": "Chris Christie, Sipping a Smoothie, Was Kicked Off an Amtrak Car For Screaming on His Phone [Updated]",
+      "og:description": "New Jersey Governor Chris Christie is having a bad morning.",
+      "twitter:description": "New Jersey Governor Chris Christie is having a bad morning.",
+      "og:locale": "en_US",
+      "og:site_name": "Gawker",
+      "fb:app_id": "447084078690870"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie on the Issues",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e on the Issues",
+   "link": "http://www.ontheissues.org/Chris_Christie.htm",
+   "displayLink": "www.ontheissues.org",
+   "snippet": "3 days ago ... Chris Christie on the Issues on Chris Christie; Presidential candidates.",
+   "htmlSnippet": "3 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eChris Christie\u003c/b\u003e on the Issues on \u003cb\u003eChris Christie\u003c/b\u003e; Presidential candidates.",
+   "cacheId": "gMh7J9_-9REJ",
+   "formattedUrl": "www.ontheissues.org/Chris_Christie.htm",
+   "htmlFormattedUrl": "www.ontheissues.org/\u003cb\u003eChris\u003c/b\u003e_\u003cb\u003eChristie\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ontheissues.org/Chris_Christie.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "69",
+      "height": "94",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzh79jt2KGct0kb86u3U_DNKVYoXMUegNHLI0SvOSeTxb0p_M_3kAs"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "OnTheIssues.org"
+     }
+    ]
+   }
+  }
+ ]
+}
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Chris Christie",
+    "totalResults": "5400000",
+    "searchTerms": "Chris Christie",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Chris Christie",
+    "totalResults": "5400000",
+    "searchTerms": "Chris Christie",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - Chris Christie",
+    "totalResults": "5400000",
+    "searchTerms": "Chris Christie",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.36266,
+  "formattedSearchTime": "0.36",
+  "totalResults": "5400000",
+  "formattedTotalResults": "5,400,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Christie buys $300K of food & booze with NJ expense account ...",
+   "htmlTitle": "\u003cb\u003eChristie\u003c/b\u003e buys $300K of food &amp; booze with NJ expense account \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://watchdog.org/217942/christie-nj-expense-account/",
+   "displayLink": "watchdog.org",
+   "snippet": "May 11, 2015 ... FOOTBALL, FOOD & FUNDS: Dallas Cowboys owner Jerry Jones (left) talks with \nNew Jersey governor Chris Christie before an NFL football ...",
+   "htmlSnippet": "May 11, 2015 \u003cb\u003e...\u003c/b\u003e FOOTBALL, FOOD &amp; FUNDS: Dallas Cowboys owner Jerry Jones (left) talks with \u003cbr\u003e\nNew Jersey governor \u003cb\u003eChris Christie\u003c/b\u003e before an NFL football&nbsp;...",
+   "formattedUrl": "watchdog.org/217942/christie-nj-expense-account/",
+   "htmlFormattedUrl": "watchdog.org/217942/\u003cb\u003echristie\u003c/b\u003e-nj-expense-account/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://watchdog.org/wp-content/blogs.dir/1/files/2015/05/Chris-Christie-at-MetLife.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "268",
+      "height": "188",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3y-q4GwNWP3t3r2VMxfHfRLAsb5pZCcZ7tHXORx_37az7XHf8kyjYyKU"
+     }
+    ],
+    "metatags": [
+     {
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Christie buys $300K of food & booze with NJ expense account - Watchdog.org",
+      "og:description": "Chris Christie's expense account tells a story of appetite and ambition, one that pits government waste versus the New Jersey governor's waistline.  Christie spent $360,000 from his state allowance during his five years in office. More than 80 percent of that money, or $300,000, was used to buy food, alcohol and desserts, according to a New Jersey Watchdog analysis of records released by the governor’s office.",
+      "og:url": "http://watchdog.org/217942/christie-nj-expense-account/",
+      "og:site_name": "Watchdog.org",
+      "article:publisher": "https://www.facebook.com/Watchdogorg",
+      "article:section": "New Jersey",
+      "article:published_time": "2015-05-11T04:01:22+00:00",
+      "article:modified_time": "2015-08-30T11:28:09+00:00",
+      "og:updated_time": "2015-08-30T11:28:09+00:00",
+      "og:image": "http://watchdog.org/wp-content/blogs.dir/1/files/2015/05/Chris-Christie-at-MetLife.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:description": "Chris Christie's expense account tells a story of appetite and ambition, one that pits government waste versus the New Jersey governor's waistline.  Christie spent $360,000 from his state allowance during his five years in office. More than 80 percent of that money, or $300,000, was used to buy food, alcohol and desserts, according to a New Jersey Watchdog analysis of records released by the governor’s office.",
+      "twitter:title": "Christie buys $300K of food & booze with NJ expense account - Watchdog.org",
+      "twitter:site": "@watchdogorg",
+      "twitter:domain": "Watchdog.org",
+      "twitter:image": "http://watchdog.org/wp-content/blogs.dir/1/files/2015/05/Chris-Christie-at-MetLife.jpg",
+      "twitter:creator": "@watchdogorg",
+      "fb:admins": "brittonrt",
+      "fb:app_id": "304551702969012"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Essential Chris Christie | News, Photos, Videos - NJ.com",
+   "htmlTitle": "The Essential \u003cb\u003eChris Christie\u003c/b\u003e | News, Photos, Videos - NJ.com",
+   "link": "http://www.nj.com/chris-christie/",
+   "displayLink": "www.nj.com",
+   "snippet": "Get the latest news about New Jersey governor Chris Christie. Find photos and \nvideos and comment on the news at NJ.com.",
+   "htmlSnippet": "Get the latest news about New Jersey governor \u003cb\u003eChris Christie\u003c/b\u003e. Find photos and \u003cbr\u003e\nvideos and comment on the news at NJ.com.",
+   "cacheId": "WP39wWHwGIkJ",
+   "formattedUrl": "www.nj.com/chris-christie/",
+   "htmlFormattedUrl": "www.nj.com/\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://image.nj.com/home/njo-media/width700/img/nj-river/photo/christie-promo-0908jpg-d151e44a4fed4d1b.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "283",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtHUzZnfCsV9C1kfKYttrDGqeLMyqWx3kyFcjJk3eF6rEK7tTMHx6-SFM"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "100000302287435",
+      "viewport": "width=device-width,initial-scale=1",
+      "theme-color": "#ebe0d2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie: Black Lives Matter \"chanting in the streets for the ...",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e: Black Lives Matter &quot;chanting in the streets for the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cbsnews.com/news/chris-christie-black-lives-matter-murder-police-officers/",
+   "displayLink": "www.cbsnews.com",
+   "snippet": "Oct 25, 2015 ... Republican presidential candidate Chris Christie blasted President Obama on \nSunday for \"justifying\" the Black Lives Matter movement, which ...",
+   "htmlSnippet": "Oct 25, 2015 \u003cb\u003e...\u003c/b\u003e Republican presidential candidate \u003cb\u003eChris Christie\u003c/b\u003e blasted President Obama on \u003cbr\u003e\nSunday for &quot;justifying&quot; the Black Lives Matter movement, which&nbsp;...",
+   "cacheId": "AlGOvnpEF-IJ",
+   "formattedUrl": "www.cbsnews.com/.../chris-christie-black-lives-matter-murder-police-officers /",
+   "htmlFormattedUrl": "www.cbsnews.com/.../\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e-black-lives-matter-murder-police-officers /",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cbsnews2.cbsistatic.com/hub/i/r/2015/10/25/0d633091-af05-4b7f-adb9-6771741206fa/thumbnail/620x350/dc980d71969e66a1eda63ad9a7d55f6c/christie-jpeg.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "169",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQz-3ZXHq6crvUBBLQuK0vbULi0p8x85huoC1-eX0XOSGlvzh8TtrdoFV4"
+     }
+    ],
+    "article": [
+     {
+      "genre": "News",
+      "sourceorganization": "CBS News",
+      "articlesection": "Face The Nation",
+      "alternativeheadline": "Christie: Some Black Lives Matter followers call for killing cops",
+      "author": "Reena Flores",
+      "description": "\"The president encourages this lawlessness,\" the New Jersey governor said on \"Face the Nation\"",
+      "datepublished": "October 25, 2015, 10:41 AM"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "twitter:creator": "Reena Flores",
+      "twitter:title": "Chris Christie: Black Lives Matter \"chanting in the streets for the murder of police officers\"",
+      "twitter:description": "\"The president encourages this lawlessness,\" the New Jersey governor said on \"Face the Nation\"",
+      "twitter:image": "http://cbsnews2.cbsistatic.com/hub/i/r/2015/10/25/0d633091-af05-4b7f-adb9-6771741206fa/thumbnail/620x350/dc980d71969e66a1eda63ad9a7d55f6c/christie-jpeg.jpg",
+      "og:image": "http://cbsnews2.cbsistatic.com/hub/i/r/2015/10/25/0d633091-af05-4b7f-adb9-6771741206fa/thumbnail/620x350/dc980d71969e66a1eda63ad9a7d55f6c/christie-jpeg.jpg",
+      "og:title": "Chris Christie: Black Lives Matter \"chanting in the streets for the murder of police officers\"",
+      "og:description": "\"The president encourages this lawlessness,\" the New Jersey governor said on \"Face the Nation\"",
+      "article:publisher": "https://www.facebook.com/FaceTheNation",
+      "news_keywords": "2016  gop race, 2016, chris christie"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie News, Photos and Videos - ABC News",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e News, Photos and Videos - ABC News",
+   "link": "http://abcnews.go.com/topics/news/us/chris-christie.htm",
+   "displayLink": "abcnews.go.com",
+   "snippet": "Browse Chris Christie latest news and updates, watch videos and view all photos \nand more. Join the discussion and find more about Chris Christie at ...",
+   "htmlSnippet": "Browse \u003cb\u003eChris Christie\u003c/b\u003e latest news and updates, watch videos and view all photos \u003cbr\u003e\nand more. Join the discussion and find more about \u003cb\u003eChris Christie\u003c/b\u003e at&nbsp;...",
+   "cacheId": "wn2Qb99OkD0J",
+   "formattedUrl": "abcnews.go.com/topics/news/us/chris-christie.htm",
+   "htmlFormattedUrl": "abcnews.go.com/topics/news/us/\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.abcnews.com/images/Technology/WireAP_8a20ffeb7a494af8a038013cb1502b6d_16x9_992.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcmXcwx-egsyPunqXKVTKEBSOZSqscjdr_5Yw7zXOzjv-C05SUhc166YU"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "U.S.",
+      "url": "U.S."
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Chris Christie News, Photos and Videos - ABC News",
+      "og:description": "Browse Chris Christie latest news and updates, watch videos and view all photos and more. Join the discussion and find more about Chris Christie at abcnews.com",
+      "og:site_name": "ABC News",
+      "viewport": "width=device-width",
+      "og:app_id": "185550966885",
+      "og:url": "http://abcnews.go.com/topics/news/us/chris-christie.htm",
+      "og:type": "article"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Why Did Chris Christie Say He Was Appointed US Attorney The Day",
+   "htmlTitle": "Why Did \u003cb\u003eChris Christie\u003c/b\u003e Say He Was Appointed US Attorney The Day",
+   "link": "http://thinkprogress.org/politics/2015/08/07/3689230/chris-christie-september-10/",
+   "displayLink": "thinkprogress.org",
+   "snippet": "Aug 7, 2015 ... At the GOP primary debate Thursday night, New Jersey Gov. Chris Christie (R) \nmisrepresented the timing of his appointment to a Department of ...",
+   "htmlSnippet": "Aug 7, 2015 \u003cb\u003e...\u003c/b\u003e At the GOP primary debate Thursday night, New Jersey Gov. \u003cb\u003eChris Christie\u003c/b\u003e (R) \u003cbr\u003e\nmisrepresented the timing of his appointment to a Department of&nbsp;...",
+   "cacheId": "Ooxs8GCHIaMJ",
+   "formattedUrl": "thinkprogress.org/politics/2015/08/07/.../chris-christie-september-10/",
+   "htmlFormattedUrl": "thinkprogress.org/politics/2015/08/07/.../\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e-september-10/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.thinkprogress.org/wp-content/uploads/2015/08/07112809/christie-debate-gesture-ap.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCsy9doa66dYbb8wmTuheaIAiBJkKeh-fauSbVoNEmmhLfP9Xp6S9r7g31"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0",
+      "google": "nositelinkssearchbox",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@ThinkProgress",
+      "twitter:title": "Why Did Chris Christie Say He Was Appointed U.S. Attorney The Day Before 9/11 When He Wasn’t?",
+      "twitter:creator": "@PykeA",
+      "twitter:description": "For years, New Jersey Gov. Chris Christie (R) has been claiming he was appointed to a federal prosecutor job the day before the 9/11 attacks. He wasn't.",
+      "twitter:image": "http://cdn.thinkprogress.org/wp-content/uploads/2015/08/07112809/christie-debate-gesture-ap-321x214.jpg",
+      "fb:admins": "100001364918392",
+      "fb:app_id": "144881328916524",
+      "og:site_name": "ThinkProgress",
+      "og:url": "http://thinkprogress.org/politics/2015/08/07/3689230/chris-christie-september-10/",
+      "og:image": "http://cdn.thinkprogress.org/wp-content/uploads/2015/08/07112809/christie-debate-gesture-ap.jpg",
+      "thumb1": "http://cdn.thinkprogress.org/wp-content/uploads/2015/08/07112809/christie-debate-gesture-ap.jpg",
+      "thumb2": "http://cdn.thinkprogress.org/wp-content/uploads/2015/08/07112809/christie-debate-gesture-ap.jpg",
+      "article:published_time": "2015-08-07T11:29:04+00:00",
+      "article:author": "https://www.facebook.com/PykeA",
+      "og:type": "article",
+      "og:description": "For years, New Jersey Gov. Chris Christie (R) has been claiming he was appointed to a federal prosecutor job the day before the 9/11 attacks. He wasn't.",
+      "og:title": "Why Did Chris Christie Say He Was Appointed U.S. Attorney The Day Before 9/11 When He Wasn’t?",
+      "elq-topic": "tp-politics"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Smoke That Pot Now, Chris Christie Tells Users in States That Allow It",
+   "htmlTitle": "Smoke That Pot Now, \u003cb\u003eChris Christie\u003c/b\u003e Tells Users in States That Allow It",
+   "link": "http://www.bloomberg.com/politics/articles/2015-07-28/smoke-that-pot-now-christie-tells-users-in-states-that-allow-it",
+   "displayLink": "www.bloomberg.com",
+   "snippet": "Jul 28, 2015 ... New Jersey Governor Chris Christie pauses as he participates in a discussion \nduring the 42nd annual Conservative Political Action ...",
+   "htmlSnippet": "Jul 28, 2015 \u003cb\u003e...\u003c/b\u003e New Jersey Governor \u003cb\u003eChris Christie\u003c/b\u003e pauses as he participates in a discussion \u003cbr\u003e\nduring the 42nd annual Conservative Political Action&nbsp;...",
+   "cacheId": "AsjY7bnlJ5YJ",
+   "formattedUrl": "www.bloomberg.com/.../smoke-that-pot-now-christie-tells-users-in-states-that -allow-it",
+   "htmlFormattedUrl": "www.bloomberg.com/.../smoke-that-pot-now-\u003cb\u003echristie\u003c/b\u003e-tells-users-in-states-that -allow-it",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.bwbx.io/images/idK_APbZqPEo/v2/-1x-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGu7_RZuC2kmo04HgF8YtEBB7ZwHnUhxct73fWUxYWclCpSs8ymimvdD4"
+     }
+    ],
+    "article": [
+     {
+      "genre": "politics",
+      "name": "Smoke That Pot Now, Chris Christie Tells Users in States That Allow It",
+      "headline": "Smoke That Pot Now, Chris Christie Tells Users in States That Allow It",
+      "datepublished": "2015-07-28T18:41:21.733Z",
+      "image": "http://assets.bwbx.io/images/idK_APbZqPEo/v2/750x-1.jpg",
+      "articlebody": "Share on FacebookShare on Twitter Share on LinkedInShare on RedditShare on Google+E-mail Residents in U.S. states that have legalized marijuana should toke up while they still can, New Jersey..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "og:site_name": "Bloomberg.com/politics",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:site": "@bpolitics",
+      "twitter:description": "The New Jersey governor says he would enforce federal laws that criminalize marijuana if elected president.",
+      "twitter:title": "Smoke That Pot Now, Chris Christie Tells Users in States That Allow It",
+      "twitter:url": "http://www.bloomberg.com/politics/articles/2015-07-28/smoke-that-pot-now-christie-tells-users-in-states-that-allow-it",
+      "twitter:image": "http://assets.bwbx.io/images/idK_APbZqPEo/v2/-1x-1.jpg",
+      "og:description": "The New Jersey governor says he would enforce federal laws that criminalize marijuana if elected president.",
+      "og:image": "http://assets.bwbx.io/images/idK_APbZqPEo/v2/-1x-1.jpg",
+      "og:title": "Smoke That Pot Now, Chris Christie Tells Users in States That Allow It",
+      "og:url": "http://www.bloomberg.com/politics/articles/2015-07-28/smoke-that-pot-now-christie-tells-users-in-states-that-allow-it",
+      "news_keywords": "Up In Smoke",
+      "parsely-title": "Smoke That Pot Now, Chris Christie Tells Users in States That Allow It",
+      "parsely-link": "http://www.bloomberg.com/politics/articles/2015-07-28/smoke-that-pot-now-christie-tells-users-in-states-that-allow-it",
+      "parsely-type": "post",
+      "parsely-image-url": "http://assets.bwbx.io/images/idK_APbZqPEo/v2/-1x-1.jpg",
+      "parsely-pub-date": "2015-07-28T18:41:21.733Z",
+      "parsely-section": "politics",
+      "parsely-tags": "Up In Smoke,Region: Global,Page: article",
+      "parsely-post-id": "NS7M016VDKI001",
+      "sailthru.author": "Terrence Dopp",
+      "date": "2015-07-28T18:41:21.733Z",
+      "parsely-author": "Terrence Dopp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie is the thinking man's Donald Trump",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e is the thinking man&#39;s Donald Trump",
+   "link": "http://theweek.com/articles/591377/chris-christie-thinking-mans-donald-trump",
+   "displayLink": "theweek.com",
+   "snippet": "2 days ago ... It's crunch time for the Republican old guard. Donald Trump is on top. Ted Cruz is \nrising. Ben Carson hasn't completely faded away. Meanwhile ...",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e It&#39;s crunch time for the Republican old guard. Donald Trump is on top. Ted Cruz is \u003cbr\u003e\nrising. Ben Carson hasn&#39;t completely faded away. Meanwhile&nbsp;...",
+   "cacheId": "TVVVxrNfZ_IJ",
+   "formattedUrl": "theweek.com/articles/.../chris-christie-thinking-mans-donald-trump",
+   "htmlFormattedUrl": "theweek.com/articles/.../\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e-thinking-mans-donald-trump",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://api.theweek.com/sites/default/files/styles/tw_image_9_4/public/RTX1IGF8%20(1).jpg?itok=eYP_3Ddj&resize=1260x560"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "337",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtWLnGw7tbrNtpHf3tG1Fg0jEKkaR2w-RNStiowdHgb7nBVekUPpTnb3s"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:url": "http://theweek.com/articles/591377/chris-christie-thinking-mans-donald-trump",
+      "og:title": "Chris Christie is the thinking man's Donald Trump",
+      "og:type": "article",
+      "og:description": "The 2016 candidate's securitarian brand is starting to pay off with Republican elites. Will the grassroots follow?",
+      "article:published_time": "2015-12-07T06:05:43-05:00",
+      "og:image": "http://api.theweek.com/sites/default/files/styles/tw_image_9_4/public/RTX1IGF8%20%281%29.jpg?itok=eYP_3Ddj",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@theweek",
+      "twitter:title": "Chris Christie is the thinking man's Donald Trump",
+      "twitter:creator": "@jamespoulos",
+      "twitter:image:src": "http://api.theweek.com/sites/default/files/styles/tw_image_9_4/public/RTX1IGF8%20%281%29.jpg?itok=eYP_3Ddj",
+      "twitter:description": "The 2016 candidate's securitarian brand is starting to pay off with Republican elites. Will the grassroots follow?"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GovChristie - YouTube",
+   "htmlTitle": "GovChristie - YouTube",
+   "link": "https://www.youtube.com/user/GovChristie",
+   "displayLink": "www.youtube.com",
+   "snippet": "Christie: We Have An Obligation To Share Our Blessings With Others ..... \nGovernor Chris Christie: In my five years as Governor, we will have made $4.2 \nbillion in ...",
+   "htmlSnippet": "Christie: We Have An Obligation To Share Our Blessings With Others ..... \u003cbr\u003e\nGovernor \u003cb\u003eChris Christie\u003c/b\u003e: In my five years as Governor, we will have made $4.2 \u003cbr\u003e\nbillion in&nbsp;...",
+   "cacheId": "1bkjvpr3qeUJ",
+   "formattedUrl": "https://www.youtube.com/user/GovChristie",
+   "htmlFormattedUrl": "https://www.youtube.com/user/Gov\u003cb\u003eChristie\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://yt3.ggpht.com/-Vu-ReUV1AYs/AAAAAAAAAAI/AAAAAAAAAAA/Zo0Lfot_Q9g/s900-c-k-no/photo.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/GovChristie"
+     },
+     {
+      "url": "https://plus.google.com/102421850051031700102"
+     },
+     {
+      "url": "http://www.youtube.com/user/GovChristie"
+     },
+     {
+      "url": "https://plus.google.com/102421850051031700102"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzKKp7zliRhGOjoOdJY8GNh8Z-Pr_v4fK3ChhhWAixhNnRbluLGS5I6pxG"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "GovChristie",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/user/GovChristie",
+      "og:title": "GovChristie",
+      "og:image": "https://yt3.ggpht.com/-Vu-ReUV1AYs/AAAAAAAAAAI/AAAAAAAAAAA/Zo0Lfot_Q9g/s900-c-k-no/photo.jpg",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://user/UC9HPE8pwH55pQJGIF8p2vEA",
+      "al:android:url": "https://www.youtube.com/user/GovChristie?feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/user/GovChristie?feature=applinks",
+      "og:type": "profile",
+      "fb:app_id": "87741124305",
+      "twitter:card": "summary",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/user/GovChristie",
+      "twitter:title": "GovChristie",
+      "twitter:image": "https://yt3.ggpht.com/-Vu-ReUV1AYs/AAAAAAAAAAI/AAAAAAAAAAA/Zo0Lfot_Q9g/s900-c-k-no/photo.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://user/UC9HPE8pwH55pQJGIF8p2vEA",
+      "twitter:app:url:ipad": "vnd.youtube://user/UC9HPE8pwH55pQJGIF8p2vEA",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/user/GovChristie"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://yt3.ggpht.com/-Vu-ReUV1AYs/AAAAAAAAAAI/AAAAAAAAAAA/Zo0Lfot_Q9g/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     },
+     {
+      "url": "https://yt3.ggpht.com/-Vu-ReUV1AYs/AAAAAAAAAAI/AAAAAAAAAAA/Zo0Lfot_Q9g/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     }
+    ],
+    "youtubechannelv2": [
+     {
+      "url": "https://www.youtube.com/user/GovChristie",
+      "name": "GovChristie",
+      "paid": "False",
+      "channelid": "UC9HPE8pwH55pQJGIF8p2vEA",
+      "thumbnailurl": "https://yt3.ggpht.com/-Vu-ReUV1AYs/AAAAAAAAAAI/AAAAAAAAAAA/Zo0Lfot_Q9g/s900-c-k-no/photo.jpg",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "My Plan to Raise Growth and Incomes - WSJ",
+   "htmlTitle": "My Plan to Raise Growth and Incomes - WSJ",
+   "link": "http://www.wsj.com/articles/my-plan-to-raise-growth-and-incomes-1431387102",
+   "displayLink": "www.wsj.com",
+   "snippet": "May 11, 2015 ... New Jersey Gov. Chris Christie on his plan to raise growth and incomes.",
+   "htmlSnippet": "May 11, 2015 \u003cb\u003e...\u003c/b\u003e New Jersey Gov. \u003cb\u003eChris Christie\u003c/b\u003e on his plan to raise growth and incomes.",
+   "formattedUrl": "www.wsj.com/articles/my-plan-to-raise-growth-and-incomes-1431387102",
+   "htmlFormattedUrl": "www.wsj.com/articles/my-plan-to-raise-growth-and-incomes-1431387102",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://si.wsj.net/public/resources/images/ED-AT633_christ_G_20150511181345.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "Chris Christie",
+      "url": "Chris Christie",
+      "email": "mailto:"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzqyA4buSoSYlv1LgoNZxsKYtMV4IrtGiLXuqQ5-h3MrJDEoKGiQMYW18"
+     }
+    ],
+    "newsarticle": [
+     {
+      "publisher": "wsj.com",
+      "interactioncount": "UserLikes:523",
+      "headline": "My Plan to Raise Growth and Incomes",
+      "description": "We must target the tax code, because today it’s targeting us. Use three income-tax rates, with the top one 28%.",
+      "articlebody": "ENLARGE Photo: Getty Images/Collection Mix: Subjects RF By Chris Christie Chris Christie The Wall Street Journal CANCEL BiographyChris Christie May 11, 2015 7:31 p.m. ET The fundamental question..."
+     }
+    ],
+    "webpage": [
+     {
+      "datepublished": "2015-05-11T23:31:00.000Z",
+      "datemodified": "2015-05-11T23:31:00.000Z",
+      "datecreated": "2015-05-11T23:31:00.000Z",
+      "description": "New Jersey Gov. Chris Christie on his plan to raise growth and incomes.",
+      "inlanguage": "en-US",
+      "image": "http://si.wsj.net/public/resources/images/ED-AT633_christ_G_20150511181345.jpg"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "Opinion"
+     },
+     {
+      "item": "Commentary"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "dj.asn": "i-0ebd",
+      "user.type": "nonsubscriber",
+      "user.exp": "google_bot",
+      "testkeys": "C",
+      "page.section": "Article",
+      "page.content.type": "article",
+      "page.content.format": "responsive",
+      "og:type": "article",
+      "page.content.source": "WSJ Online Article",
+      "article.template": "full",
+      "page.site": "wsj",
+      "page.region": "na,us",
+      "article.id": "SB10994208795574063550204580635223014208974",
+      "article.type": "Commentary (U.S.)",
+      "article.access": "paid",
+      "article.origheadline": "My Plan to Raise Growth and Incomes",
+      "article.headline": "My Plan to Raise Growth and Incomes",
+      "article.summary": "New Jersey Gov. Chris Christie on his plan to raise growth and incomes.",
+      "apple-itunes-app": "app-id=364387007,app-argument=wsj://launch?articleid=SB10994208795574063550204580635223014208974&headline=My%20Plan%20to%20Raise%20Growth%20and%20Incomes&weburl=http://www.wsj.com/articles/SB10994208795574063550204580635223014208974",
+      "al:ios:url": "wsj://launch?articleid=SB10994208795574063550204580635223014208974&headline=My%20Plan%20to%20Raise%20Growth%20and%20Incomes&weburl=http://www.wsj.com/articles/SB10994208795574063550204580635223014208974",
+      "article.page": "Commentary",
+      "article.section": "Opinion",
+      "article.published": "2015-05-11T23:31:00.000Z",
+      "article.updated": "2015-05-11T23:31:00.000Z",
+      "article.created": "2015-05-11T23:31:00.000Z",
+      "author": "Chris Christie",
+      "news_keywords": "economic performance,indicators,personal income,average earnings,economic news,assault,political,general news,crime,courts",
+      "article:word_count": "1153",
+      "article:image_count": "1",
+      "language": "en-US",
+      "twitter:title": "My Plan to Raise Growth and Incomes",
+      "twitter:description": "New Jersey Gov. Chris Christie on his plan to raise growth and incomes.",
+      "twitter:image": "http://si.wsj.net/public/resources/images/ED-AT633_christ_D_20150511181345.jpg",
+      "twitter:image:src": "http://si.wsj.net/public/resources/images/ED-AT633_christ_G_20150511181345.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:image:alt": "My Plan to Raise Growth and Incomes",
+      "twitter:site": "@WSJ",
+      "twitter:domain": "wsj.com",
+      "fb:app_id": "368513495882",
+      "og:title": "My Plan to Raise Growth and Incomes",
+      "og:description": "New Jersey Gov. Chris Christie on his plan to raise growth and incomes.",
+      "og:url": "http://www.wsj.com/articles/my-plan-to-raise-growth-and-incomes-1431387102",
+      "og:image": "http://si.wsj.net/public/resources/images/ED-AT633_christ_G_20150511181345.jpg",
+      "og:image:width": "553",
+      "og:image:height": "369",
+      "og:locale": "en_US",
+      "og:site_name": "WSJ",
+      "article:publisher": "https://www.facebook.com/wsj"
+     }
+    ],
+    "imageobject": [
+     {
+      "representativeofpage": "http://si.wsj.net/public/resources/images/ED-AT633_christ_J_20150511181345.jpg",
+      "contenturl": "http://si.wsj.net/public/resources/images/ED-AT633_christ_J_20150511181345.jpg",
+      "caption": "Photo: Getty Images/Collection Mix: Subjects RF",
+      "creator": "Photo: Getty Images/Collection Mix: Subjects RF"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151208/120815applesmartcase/120815applesmartcase_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151204/120415ufchamp/120415ufchamp_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151207/120715isissocial2/120715isissocial2_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151207/120715trump/120715trump_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151208/120815lunchwatchlist/120815lunchwatchlist_167x94.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LP887_DOWDUP_C_20151208201129.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LP705_botwt1_C_20151208143102.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LP216_mcgurn_C_20151207161751.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LP288_1208FO_C_20151207174214.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LP312_trump1_C_20151207181458.jpg"
+     }
+    ],
+    "Person": [
+     {
+      "url": "@Ralph Jedda",
+      "name": "Ralph Jedda"
+     },
+     {
+      "url": "@ajay gopalan",
+      "name": "ajay gopalan"
+     },
+     {
+      "url": "@Mike Harry",
+      "name": "Mike Harry"
+     },
+     {
+      "url": "@Sid Vogel",
+      "name": "Sid Vogel"
+     },
+     {
+      "url": "@Eric Robinson",
+      "name": "Eric Robinson"
+     },
+     {
+      "url": "@Eric Robinson",
+      "name": "Eric Robinson"
+     },
+     {
+      "url": "@Tom Blackwell",
+      "name": "Tom Blackwell"
+     },
+     {
+      "url": "@ROBERT EVANS",
+      "name": "ROBERT EVANS"
+     },
+     {
+      "url": "@D Huggins",
+      "name": "D Huggins"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Ralph Jedda",
+      "url": "@Ralph Jedda"
+     },
+     {
+      "fn": "ajay gopalan",
+      "url": "@ajay gopalan"
+     },
+     {
+      "fn": "Mike Harry",
+      "url": "@Mike Harry"
+     },
+     {
+      "fn": "Sid Vogel",
+      "url": "@Sid Vogel"
+     },
+     {
+      "fn": "Eric Robinson",
+      "url": "@Eric Robinson"
+     },
+     {
+      "fn": "Eric Robinson",
+      "url": "@Eric Robinson"
+     },
+     {
+      "fn": "Tom Blackwell",
+      "url": "@Tom Blackwell"
+     },
+     {
+      "fn": "ROBERT EVANS",
+      "url": "@ROBERT EVANS"
+     },
+     {
+      "fn": "D Huggins",
+      "url": "@D Huggins"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chris Christie to teachers union: You deserve a punch in the face ...",
+   "htmlTitle": "\u003cb\u003eChris Christie\u003c/b\u003e to teachers union: You deserve a punch in the face \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.washingtonpost.com/local/education/chris-christie-to-teachers-union-you-deserve-a-punch-in-the-face/2015/08/03/86358c2c-39de-11e5-8e98-115a3cf7d7ae_story.html",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Aug 3, 2015 ... New Jersey Gov. Chris Christie, struggling to gain traction in a crowded 2016 \nGOP presidential field, said Sunday that a national teachers ...",
+   "htmlSnippet": "Aug 3, 2015 \u003cb\u003e...\u003c/b\u003e New Jersey Gov. \u003cb\u003eChris Christie\u003c/b\u003e, struggling to gain traction in a crowded 2016 \u003cbr\u003e\nGOP presidential field, said Sunday that a national teachers&nbsp;...",
+   "formattedUrl": "https://www.washingtonpost.com/.../chris-christie.../86358c2c-39de-11e5- 8e98-115a3cf7d7ae_story.html",
+   "htmlFormattedUrl": "https://www.washingtonpost.com/.../\u003cb\u003echris\u003c/b\u003e-\u003cb\u003echristie\u003c/b\u003e.../86358c2c-39de-11e5- 8e98-115a3cf7d7ae_story.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/08/03/Education/Images/GOP_2016_Christie-0495b-548.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "Lyndsey Layton"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "196",
+      "height": "258",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjI0fviIdCTBnxbGlsBOmpuQzftDEtg4VaE6NHN23MbTDO4jqcrlC03QE"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "GOP presidential hopeful says the union is the “single most destructive force in public education.”",
+      "mainentityofpage": "True",
+      "image": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/08/03/Education/Images/GOP_2016_Christie-0495b-548.jpg",
+      "url": "https://www.washingtonpost.com/local/education/chris-christie-to-teachers-union-you-deserve-a-punch-in-the-face/2015/08/03/86358c2c-39de-11e5-8e98-115a3cf7d7ae_story.html",
+      "headline": "Chris Christie to teachers union: You deserve a punch in the face",
+      "datepublished": "2015-08-03T11:28-500",
+      "articlebody": "New Jersey Gov. Chris Christie, struggling to gain traction in a crowded 2016 GOP presidential field, said Sunday that a national teachers union deserves a “punch in the face” and called..."
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-uuid": "86358c2c-39de-11e5-8e98-115a3cf7d7ae",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+      "referrer": "unsafe-url",
+      "news_keywords": "national education, education, educationpage",
+      "twitter:card": "summary_large_image",
+      "og:description": "GOP presidential hopeful says the union is the “single most destructive force in public education.”",
+      "og:type": "article",
+      "og:site_name": "Washington Post",
+      "og:image": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/08/03/Education/Images/GOP_2016_Christie-0495b-548.jpg",
+      "og:title": "Chris Christie to teachers union: You deserve a punch in the face",
+      "article:publisher": "https://www.facebook.com/washingtonpost",
+      "fb:admins": "1513210492",
+      "fb:app_id": "41245586762",
+      "og:url": "https://www.washingtonpost.com/local/education/chris-christie-to-teachers-union-you-deserve-a-punch-in-the-face/2015/08/03/86358c2c-39de-11e5-8e98-115a3cf7d7ae_story.html",
+      "twitter:creator": "@lyndseylayton"
+     }
+    ]
+   }
+  }
+ ]
+}

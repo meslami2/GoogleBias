@@ -1,0 +1,1338 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jeb Bush",
+    "totalResults": "3210000",
+    "searchTerms": "Jeb Bush",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jeb Bush",
+    "totalResults": "3210000",
+    "searchTerms": "Jeb Bush",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.342427,
+  "formattedSearchTime": "0.34",
+  "totalResults": "3210000",
+  "formattedTotalResults": "3,210,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "https://en.wikipedia.org/wiki/Jeb_Bush",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "John Ellis \"Jeb\" Bush (born February 11, 1953) is an American businessman and \npolitician who served as the 43rd Governor of Florida from 1999 to 2007. He is ...",
+   "htmlSnippet": "John Ellis &quot;\u003cb\u003eJeb\u003c/b\u003e&quot; \u003cb\u003eBush\u003c/b\u003e (born February 11, 1953) is an American businessman and \u003cbr\u003e\npolitician who served as the 43rd Governor of Florida from 1999 to 2007. He is&nbsp;...",
+   "cacheId": "9EQtQ0VAe8IJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Jeb_Bush",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eJeb\u003c/b\u003e_\u003cb\u003eBush\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gov_Jeb_Bush.jpg/220px-Gov_Jeb_Bush.jpg"
+     }
+    ],
+    "person": [
+     {
+      "org": "Democratic"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "260",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHD47KjEHlYGN-yezUIdJMk-oAD4PxJdDIjrhZDI9KgrYyrznPYw4NVlD6"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Jeb Bush",
+      "nickname": "John Ellis Bush",
+      "url": "www.jeb2016.com",
+      "url_text": "www.jeb2016.com",
+      "bday": "1953-02-11",
+      "label": "Coral Gables, Florida"
+     },
+     {
+      "fn": "Jeb Bush"
+     },
+     {
+      "fn": "Lawton Chiles (incumbent)"
+     },
+     {
+      "fn": "Jeb Bush"
+     },
+     {
+      "fn": "Jeb Bush"
+     },
+     {
+      "fn": "Buddy MacKay"
+     },
+     {
+      "fn": "Jeb Bush (incumbent)"
+     },
+     {
+      "fn": "Bill McBride"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home | Jeb 2016",
+   "htmlTitle": "Home | \u003cb\u003eJeb\u003c/b\u003e 2016",
+   "link": "https://jeb2016.com/",
+   "displayLink": "jeb2016.com",
+   "snippet": "The official website of Jeb Bush for President. Learn about Jeb's record as a \nprincipled, conservative reformer, and join the team today.",
+   "htmlSnippet": "The official website of \u003cb\u003eJeb Bush\u003c/b\u003e for President. Learn about Jeb&#39;s record as a \u003cbr\u003e\nprincipled, conservative reformer, and join the team today.",
+   "cacheId": "_xVw1igzYBUJ",
+   "formattedUrl": "https://jeb2016.com/",
+   "htmlFormattedUrl": "https://\u003cb\u003ejeb\u003c/b\u003e2016.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://jeb2016.com/wp-content/uploads/2015/10/Jeb-Bush-Governor-Florida-Hero.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "316",
+      "height": "160",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzQ6FcckQOzBtTted9Ql64ETHE-oIRVi8QcMbUASh3JI0Bbv-AzvmyJGU"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "True",
+      "mobileoptimized": "320",
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tilecolor": "#f01d4f",
+      "msapplication-tileimage": "https://jeb2016.com/wp-content/themes/jeb/library/images/win8-tile-icon.png",
+      "theme-color": "#121212",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Home | Jeb 2016",
+      "og:description": "Jeb for President 2016",
+      "og:url": "https://jeb2016.com/",
+      "og:site_name": "Jeb 2016",
+      "article:section": "Jeb Bush 2016 Site",
+      "article:published_time": "2015-10-12T14:01:11+00:00",
+      "article:modified_time": "2015-11-23T10:55:44+00:00",
+      "og:updated_time": "2015-11-23T10:55:44+00:00",
+      "og:image": "https://jeb2016.com/wp-content/uploads/2015/10/Jeb-Bush-Governor-Florida-Hero.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@JebBush",
+      "twitter:title": "Home | Jeb 2016",
+      "twitter:description": "Jeb for President 2016",
+      "twitter:image": "https://jeb2016.com/wp-content/uploads/2015/10/Jeb-Bush-Governor-Florida-Hero.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush (@JebBush) | Twitter",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e (@\u003cb\u003eJebBush\u003c/b\u003e) | Twitter",
+   "link": "https://twitter.com/jebbush?lang=en",
+   "displayLink": "twitter.com",
+   "snippet": "2975 tweets • 892 photos/videos • 389K followers. \".@POTUS & @HillaryClinton \nhave showed a stunning lack of seriousness in response to the terror threat we ...",
+   "htmlSnippet": "2975 tweets • 892 photos/videos • 389K followers. &quot;.@POTUS &amp; @HillaryClinton \u003cbr\u003e\nhave showed a stunning lack of seriousness in response to the terror threat we&nbsp;...",
+   "cacheId": "PwPHtF9JazoJ",
+   "formattedUrl": "https://twitter.com/jebbush?lang=en",
+   "htmlFormattedUrl": "https://twitter.com/\u003cb\u003ejebbush\u003c/b\u003e?lang=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pbs.twimg.com/profile_images/591000793303547905/eu1KYXqx_400x400.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFZ0xwisH0O8zJxT3xZKZVnrbRm2yMpkAFSo6COWuwK_MSARAsYwRuB04"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e",
+   "link": "https://www.facebook.com/jebbush",
+   "displayLink": "www.facebook.com",
+   "snippet": "Jeb Bush. 300966 likes · 14222 talking about this. 43rd Governor of the State of \nFlorida.",
+   "htmlSnippet": "\u003cb\u003eJeb Bush\u003c/b\u003e. 300966 likes · 14222 talking about this. 43rd Governor of the State of \u003cbr\u003e\nFlorida.",
+   "cacheId": "VuXbEMsBYaUJ",
+   "formattedUrl": "https://www.facebook.com/jebbush",
+   "htmlFormattedUrl": "https://www.facebook.com/\u003cb\u003ejebbush\u003c/b\u003e",
+   "pagemap": {
+    "organization": [
+     {
+      "name": "Jeb Bush"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "al:android:app_name": "Facebook",
+      "al:android:package": "com.facebook.katana",
+      "al:android:url": "fb://page/210257445769973",
+      "al:ios:app_name": "Facebook",
+      "al:ios:app_store_id": "284882215",
+      "al:ios:url": "fb://page/?id=210257445769973"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush On Whether He'd Kill Baby Hitler: 'Hell Yeah, I Would!'",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e On Whether He&#39;d Kill Baby Hitler: &#39;Hell Yeah, I Would!&#39;",
+   "link": "http://www.huffingtonpost.com/entry/jeb-bush-on-killing-baby-hitler_5640e1b6e4b0411d3071da54",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "Nov 9, 2015 ... MOULTONBOROUGH, N.H. -- Have you ever wondered whether, if given the \nopportunity, Jeb Bush would go back in time to kill Adolf Hitler in ...",
+   "htmlSnippet": "Nov 9, 2015 \u003cb\u003e...\u003c/b\u003e MOULTONBOROUGH, N.H. -- Have you ever wondered whether, if given the \u003cbr\u003e\nopportunity, \u003cb\u003eJeb Bush\u003c/b\u003e would go back in time to kill Adolf Hitler in&nbsp;...",
+   "cacheId": "gUlxmoS39VIJ",
+   "formattedUrl": "www.huffingtonpost.com/.../jeb-bush-on-killing-baby-hitler_ 5640e1b6e4b0411d3071da54",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e-on-killing-baby-hitler_ 5640e1b6e4b0411d3071da54",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.huffingtonpost.com/asset/1200_630/5640e50b290000d7004dc7eb.png?cache=wz9pqlnw0l"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr-_XCCM0Osmr1TFVAENOgdOflCREonZY4jEnyNJBrid8m2Bisv7fqRTA"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "fb:app_id": "46744042133",
+      "og:title": "Jeb Bush On Whether He'd Kill Baby Hitler: 'Hell Yeah, I Would!'",
+      "og:type": "article",
+      "og:image": "http://img.huffingtonpost.com/asset/1200_630/5640e50b290000d7004dc7eb.png?cache=wz9pqlnw0l",
+      "og:url": "http://www.huffingtonpost.com/entry/jeb-bush-on-killing-baby-hitler_5640e1b6e4b0411d3071da54",
+      "og:site_name": "The Huffington Post",
+      "og:description": "\"You gotta step up, man.\"",
+      "og:locale": "en_US",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@HuffPostPol",
+      "twitter:title": "Jeb Bush On Whether He'd Kill Baby Hitler: 'Hell Yeah, I Would!'",
+      "twitter:description": "\"You gotta step up, man.\"",
+      "twitter:image": "http://img.huffingtonpost.com/asset/1200_630/5640e50b290000d7004dc7eb.png?cache=wz9pqlnw0l",
+      "sailthru.date": "2015-11-09 14:14:03 -0500",
+      "sailthru.expire_date": "2015-11-10 14:14:03 -0500"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush - Governor - Biography.com",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e - Governor - Biography.com",
+   "link": "http://www.biography.com/people/jeb-bush-201294",
+   "displayLink": "www.biography.com",
+   "snippet": "Jeb Bush is an American politician who served as Florida's governor from 1998 \nto 2007, and is the son and brother of two U.S. Presidents. Learn more at ...",
+   "htmlSnippet": "\u003cb\u003eJeb Bush\u003c/b\u003e is an American politician who served as Florida&#39;s governor from 1998 \u003cbr\u003e\nto 2007, and is the son and brother of two U.S. Presidents. Learn more at&nbsp;...",
+   "cacheId": "5JLv7kdJmWcJ",
+   "formattedUrl": "www.biography.com/people/jeb-bush-201294",
+   "htmlFormattedUrl": "www.biography.com/people/\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e-201294",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a1.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTE4MDAzNDEwMjg4ODA1Mzkw.jpg"
+     }
+    ],
+    "person": [
+     {
+      "image": "http://a1.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTE4MDAzNDEwMjg4ODA1Mzkw.jpg",
+      "description": "Jeb Bush is an American politician who served as Florida's governor from 1998 to 2007, and is the son and brother of two U.S. Presidents. Learn more at Biography.com.",
+      "name": "Jeb Bush",
+      "birthdate": "February 11, 1953 (age 62)",
+      "alumniof": "University of Texas",
+      "additionalname": "Jeb Bush"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFtL-dgMDD3N-I9BkjzA4ljzBsHZWWuHlPLvWFQR0B8hwPPxQusjKIQAc"
+     }
+    ],
+    "metatags": [
+     {
+      "fragment": "!",
+      "handheldfriendly": "True",
+      "mobileoptimized": "320",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "apple-mobile-web-app-capable": "no",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "format-detection": "telephone=no",
+      "pinterest": "nohover",
+      "pagetype": "person",
+      "dcterms.rightsholder": "Bio and the Bio logo are registered trademarks of A&E Television Networks, LLC.",
+      "dcterms.datecopyrighted": "2015",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@bio",
+      "twitter:url": "http://www.biography.com/people/jeb-bush-201294",
+      "twitter:image": "http://a1.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTE4MDAzNDEwMjg4ODA1Mzkw.jpg",
+      "twitter:description": "Jeb Bush is an American politician who served as Florida's governor from 1998 to 2007, and is the son and brother of two U.S. Presidents. Learn more at Biography.com.",
+      "twitter:domain": "www.biography.com",
+      "og:url": "http://www.biography.com/people/jeb-bush-201294",
+      "og:title": "Jeb Bush - Governor",
+      "og:description": "Jeb Bush is an American politician who served as Florida's governor from 1998 to 2007, and is the son and brother of two U.S. Presidents. Learn more at Biography.com.",
+      "og:image": "http://a1.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTE4MDAzNDEwMjg4ODA1Mzkw.jpg",
+      "og:site_name": "Biography",
+      "fb:page_id": "123492867697144",
+      "fb:app_id": "104784826244596",
+      "apple-mobile-web-app-title": "Biography",
+      "parsely-title": "Jeb Bush - Governor - Biography.com",
+      "parsely-link": "http://www.biography.com/people/jeb-bush-201294",
+      "parsely-image-url": "http://a1.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,h_300,q_80,w_400/MTE4MDAzNDEwMjg4ODA1Mzkw.jpg",
+      "parsely-post-id": "ci01a8bfd600f9860b",
+      "parsely-pub-date": "2014-12-17T09:42:37:-0800",
+      "phx:content-item-id": "ci01a8bfd600f9860b",
+      "phx:content-object-type": "ContentPerson"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Jeb Bush",
+      "bday": "1953-02-11",
+      "photo": "http://a1.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTE4MDAzNDEwMjg4ODA1Mzkw.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tumultuous four years at Phillips Academy helped shape Jeb Bush ...",
+   "htmlTitle": "Tumultuous four years at Phillips Academy helped shape \u003cb\u003eJeb Bush\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.bostonglobe.com/news/politics/2015/02/01/tumultuous-four-years-phillips-academy-helped-shape-jeb-bush/q6ccyHNOtP1n6kqDokMBfK/story.html",
+   "displayLink": "www.bostonglobe.com",
+   "snippet": "Feb 1, 2015 ... Jeb Bush, in an interview for this story, recalled it as one of the most difficult times \nof his life, while acknowledging that he made it harder by ...",
+   "htmlSnippet": "Feb 1, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJeb Bush\u003c/b\u003e, in an interview for this story, recalled it as one of the most difficult times \u003cbr\u003e\nof his life, while acknowledging that he made it harder by&nbsp;...",
+   "formattedUrl": "https://www.bostonglobe.com/news/politics/...jeb-bush/.../story.html",
+   "htmlFormattedUrl": "https://www.bostonglobe.com/news/politics/...\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e/.../story.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://c.o0bg.com/rf/image_585w/Boston/2011-2020/2015/02/01/BostonGlobe.com/National/Images/BushJeb1971PotPourri-1357.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "248",
+      "height": "203",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-DWTpGxYrwWYQJrqoBPo-s9dK3mxCT4rEV5j_rLJqvQL5zlPSRBqBPXzI"
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Andover",
+      "addressregion": "MA",
+      "addresscountry": "US"
+     }
+    ],
+    "newsarticle": [
+     {
+      "inlanguage": "en-US",
+      "genre": "news",
+      "articlesection": "Politics",
+      "headline": "Jeb Bush shaped by troubled Phillips Academy years",
+      "name": "Michael Kranish",
+      "datepublished": "2015-02-01 05:00",
+      "articlebody": "In the fall of 1967, when a 14-year-old Texan named John Ellis Bush arrived on the bucolic campus of Phillips Academy in Andover, great expectations preceded him.Jeb, as he was known, should...",
+      "associatedmedia": "Phillips Academy Jeb Bush is pictured in his 1971 class yearbook.",
+      "url": "https://c.o0bg.com/rf/image_371w/Boston/2011-2020/2015/01/30/BostonGlobe.com/National/Images/bush-side.jpg"
+     }
+    ],
+    "geocoordinates": [
+     {
+      "latitude": "42.6583356",
+      "longitude": "-71.13679530000001"
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-instanceid": "15",
+      "eomportal-id": "844706",
+      "eomportal-loid": "4.0.1461734965",
+      "eomportal-uuid": "5f94babc-a8ba-11e4-b92b-2f02b93882da",
+      "eomportal-lastupdate": "Wed Dec 09 14:18:43 EST 2015",
+      "og:latitude": "42.6583356",
+      "og:longitude": "-71.13679530000001",
+      "og:city": "Andover",
+      "og:state": "MA",
+      "og:country": "US",
+      "og:type": "article",
+      "og:description": "In the fall of 1967, a 14-year-old Texan named John Ellis Bush arrived on the bucolic campus of Phillips Academy in Andover, beginning a four-year odyssey in Massachusetts. Jeb, as he was known, was expected to do great things. His father and his brother had preceded him at Andover, and both would eventually be elected president of the United States.",
+      "og:title": "Tumultuous four years at Phillips Academy helped shape Jeb Bush - The Boston Globe",
+      "og:site_name": "BostonGlobe.com",
+      "fb:admins": "100001044693856",
+      "fb:app_id": "103933749691726",
+      "article:publisher": "https://www.facebook.com/globe",
+      "flashsale": "false",
+      "twitter:account_id": "95431448",
+      "news_keywords": "Jeb Bush at Phillips Academy, Jeb Bush, John Ellis  Bush, Prescott  Bush, George  Bush, George W  Bush, Paul  Revere, Lincoln  Chafee, Richard Milhous  Nixon, Charles  Finch",
+      "og:url": "https://www.bostonglobe.com/news/politics/2015/02/01/tumultuous-four-years-phillips-academy-helped-shape-jeb-bush/q6ccyHNOtP1n6kqDokMBfK/story.html",
+      "twitter:card": "summary",
+      "twitter:site": "BostonGlobe",
+      "og:image": "http://c.o0bg.com/rf/image_585w/Boston/2011-2020/2015/02/01/BostonGlobe.com/National/Images/BushJeb1971PotPourri-1357.jpg",
+      "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2015/01/30/BostonGlobe.com/National/Images/jeb-big.jpg",
+      "description": "Jeb Bush and his grandfather, Prescott Bush, at Jeb’s graduation from Andover in June 1971.",
+      "caption": "Jeb Bush and his grandfather, Prescott Bush, at Jeb’s graduation from Andover in June 1971."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush on the Issues",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e on the Issues",
+   "link": "http://www.ontheissues.org/Jeb_Bush.htm",
+   "displayLink": "www.ontheissues.org",
+   "snippet": "2 days ago ... Jeb Bush on the Issues on Jeb Bush; Presidential candidates.",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJeb Bush\u003c/b\u003e on the Issues on \u003cb\u003eJeb Bush\u003c/b\u003e; Presidential candidates.",
+   "cacheId": "wPe-e85xxDoJ",
+   "formattedUrl": "www.ontheissues.org/Jeb_Bush.htm",
+   "htmlFormattedUrl": "www.ontheissues.org/\u003cb\u003eJeb\u003c/b\u003e_\u003cb\u003eBush\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ontheissues.org/Jeb_Bush.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "84",
+      "height": "117",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8fgRNibW6xMqwBiyCms6JZ-eIMALcocgrCK4qxTYHZMj2gpOttOwe"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "OnTheIssues.org"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush Listed Himself as 'Hispanic' on Voter Form - First Draft ...",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e Listed Himself as &#39;Hispanic&#39; on Voter Form - First Draft \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nytimes.com/politics/first-draft/2015/04/06/jeb-bush-listed-himself-as-hispanic-on-voter-form/",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Apr 6, 2015 ... In a 2009 voter-registration application, obtained from the Miami-Dade County \nElections Department, Jeb Bush said he was Hispanic.",
+   "htmlSnippet": "Apr 6, 2015 \u003cb\u003e...\u003c/b\u003e In a 2009 voter-registration application, obtained from the Miami-Dade County \u003cbr\u003e\nElections Department, \u003cb\u003eJeb Bush\u003c/b\u003e said he was Hispanic.",
+   "cacheId": "gLdCkKr-4dcJ",
+   "formattedUrl": "www.nytimes.com/.../jeb-bush-listed-himself-as-hispanic-on-voter-form/",
+   "htmlFormattedUrl": "www.nytimes.com/.../\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e-listed-himself-as-hispanic-on-voter-form/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2015/04/06/us/elections/06firstdraft-jeb-bush/06firstdraft-jeb-bush-thumbLarge-v2.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "tickersymbol": "NYSE NYT"
+     }
+    ],
+    "person": [
+     {
+      "name": "Alan Rappeport"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2015/04/06/us/elections/06firstdraft-jeb-bush/06firstdraft-jeb-bush-thumbLarge-v2.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "channels": "NytNow",
+      "pt": "Blogs",
+      "pst": "Blog Post",
+      "sourceapp": "blogs",
+      "blogpostid": "100000003613378",
+      "author": "Alan Rappeport",
+      "clmst": "Alan Rappeport",
+      "byl": "Alan Rappeport",
+      "puv": "normal",
+      "article:published_time": "2015-04-06",
+      "pud": "20150406",
+      "pdate": "20150406",
+      "ptime": "20150406071452",
+      "utime": "20150407214854",
+      "article:modified_time": "2015-04-07T21:48:54-04:00",
+      "displaydate": "April 6, 2015",
+      "dat": "April 6, 2015",
+      "article:section": "Politics",
+      "cg": "Politics",
+      "scg": "First Draft",
+      "bn": "first-draft",
+      "live_stream_endpoint": "http://static01.nyt.com/live-coverage/first-draft/live-stream-endpoint-04062015.jsonp",
+      "per": "Bush, Columba",
+      "des": "Presidential Election of 2016",
+      "geo": "Florida",
+      "article:tag": "Bush Columba",
+      "news_keywords": "2016 Presidential Election,Columba Bush,Florida,Jeb Bush",
+      "hdl_p": "Bush Marked Himself as ‘Hispanic’ on 2009 Voting Form",
+      "hdl": "Jeb Bush Listed Himself as ‘Hispanic’ on Voter Form",
+      "og:title": "Jeb Bush Listed Himself as ‘Hispanic’ on Voter Form",
+      "og:type": "article",
+      "og:url": "http://www.nytimes.com/politics/first-draft/2015/04/06/jeb-bush-listed-himself-as-hispanic-on-voter-form/",
+      "og:site_name": "First Draft",
+      "og:description": "There is little doubt that Jeb Bush possesses strong credentials for appealing to Hispanic voters.",
+      "og:image": "http://graphics8.nytimes.com/images/2015/04/06/us/elections/06firstdraft-jeb-bush/06firstdraft-jeb-bush-facebookJumbo-v2.jpg",
+      "thumbnail_150": "http://graphics8.nytimes.com/images/2015/04/06/us/elections/06firstdraft-jeb-bush/06firstdraft-jeb-bush-thumbLarge-v2.jpg",
+      "twitter:title": "Jeb Bush Listed Himself as ‘Hispanic’ on Voter Form",
+      "twitter:url": "http://www.nytimes.com/politics/first-draft/2015/04/06/jeb-bush-listed-himself-as-hispanic-on-voter-form/",
+      "twitter:description": "There is little doubt that Jeb Bush possesses strong credentials for appealing to Hispanic voters.",
+      "twitter:image": "http://graphics8.nytimes.com/images/2015/04/06/us/elections/06firstdraft-jeb-bush/06firstdraft-jeb-bush-thumbLarge-v2.jpg",
+      "thumbnail": "http://graphics8.nytimes.com/images/2015/04/06/us/elections/06firstdraft-jeb-bush/06firstdraft-jeb-bush-thumbLarge-v2.jpg",
+      "twitter:site": "@NYTPolitics",
+      "adxpage": "blog.nytimes.com/first-draft/post",
+      "article:collection": "http://json8.nytimes.com/services/json/sectionfronts/politics/index.jsonp",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "dfp-ad-unit-path": "us/politics/firstdraft"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/04/06/us/elections/06firstdraft-jeb-bush/06firstdraft-jeb-bush-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "In a 2009 voter-registration application, obtained from the Miami-Dade County Elections Department, Jeb Bush said he was Hispanic.Credit Joe Raedle/Getty Images",
+      "copyrightholder": "Credit Joe Raedle/Getty Images"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Making a Difference | Jeb Bush - YouTube",
+   "htmlTitle": "Making a Difference | \u003cb\u003eJeb Bush\u003c/b\u003e - YouTube",
+   "link": "https://www.youtube.com/watch?v=YQt_E4acnWo",
+   "displayLink": "www.youtube.com",
+   "snippet": "Jun 14, 2015 ... For more, visit http://jeb.cm/1Ivx1tA. ... Making a Difference | Jeb Bush ... George \nW. Bush discusses his father, Jeb in 2016, and the Iraq War ...",
+   "htmlSnippet": "Jun 14, 2015 \u003cb\u003e...\u003c/b\u003e For more, visit http://jeb.cm/1Ivx1tA. ... Making a Difference | \u003cb\u003eJeb Bush\u003c/b\u003e ... George \u003cbr\u003e\nW. Bush discusses his father, Jeb in 2016, and the Iraq War&nbsp;...",
+   "cacheId": "sJjDiQIA96UJ",
+   "formattedUrl": "https://www.youtube.com/watch?v=YQt_E4acnWo",
+   "htmlFormattedUrl": "https://www.youtube.com/watch?v=YQt_E4acnWo",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/YQt_E4acnWo/maxresdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.youtube.com/watch?v=YQt_E4acnWo",
+      "name": "Making a Difference | Jeb Bush",
+      "description": "For more, visit http://jeb.cm/1Ivx1tA",
+      "paid": "False",
+      "channelid": "UCxuef1vrlJMjZRrFmYyGSeQ",
+      "videoid": "YQt_E4acnWo",
+      "duration": "PT3M14S",
+      "unlisted": "False",
+      "thumbnailurl": "https://i.ytimg.com/vi/YQt_E4acnWo/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/YQt_E4acnWo",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "137344",
+      "datepublished": "2015-06-14",
+      "genre": "People & Blogs"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/channel/UCxuef1vrlJMjZRrFmYyGSeQ"
+     },
+     {
+      "url": "https://plus.google.com/109731409251660726026"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPtzxh342vochj3f9fd8-Ck-UAVg8gYIevpx-eF_sp3T69Z9qG4BF5JA"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Making a Difference | Jeb Bush",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/watch?v=YQt_E4acnWo",
+      "og:title": "Making a Difference | Jeb Bush",
+      "og:image": "https://i.ytimg.com/vi/YQt_E4acnWo/maxresdefault.jpg",
+      "og:description": "For more, visit http://jeb.cm/1Ivx1tA",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=YQt_E4acnWo&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=YQt_E4acnWo&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/watch?v=YQt_E4acnWo&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/YQt_E4acnWo",
+      "og:video:secure_url": "https://www.youtube.com/embed/YQt_E4acnWo",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/watch?v=YQt_E4acnWo",
+      "twitter:title": "Making a Difference | Jeb Bush",
+      "twitter:description": "For more, visit http://jeb.cm/1Ivx1tA",
+      "twitter:image": "https://i.ytimg.com/vi/YQt_E4acnWo/maxresdefault.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=YQt_E4acnWo&feature=applinks",
+      "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=YQt_E4acnWo&feature=applinks",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=YQt_E4acnWo",
+      "twitter:player": "https://www.youtube.com/embed/YQt_E4acnWo",
+      "twitter:player:width": "1280",
+      "twitter:player:height": "720"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://i.ytimg.com/vi/YQt_E4acnWo/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ]
+   }
+  }
+ ]
+}
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jeb Bush",
+    "totalResults": "3210000",
+    "searchTerms": "Jeb Bush",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jeb Bush",
+    "totalResults": "3210000",
+    "searchTerms": "Jeb Bush",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - Jeb Bush",
+    "totalResults": "3210000",
+    "searchTerms": "Jeb Bush",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.342497,
+  "formattedSearchTime": "0.34",
+  "totalResults": "3210000",
+  "formattedTotalResults": "3,210,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush's file | PolitiFact Florida",
+   "htmlTitle": "\u003cb\u003eJeb Bush&#39;s\u003c/b\u003e file | PolitiFact Florida",
+   "link": "http://www.politifact.com/personalities/jeb-bush/",
+   "displayLink": "www.politifact.com",
+   "snippet": "Jeb Bush is running for president of the United States in 2016. He served two \nterms as the governor of Florida from 1999 to 2007. He is also the brother of \nformer ...",
+   "htmlSnippet": "\u003cb\u003eJeb Bush\u003c/b\u003e is running for president of the United States in 2016. He served two \u003cbr\u003e\nterms as the governor of Florida from 1999 to 2007. He is also the brother of \u003cbr\u003e\nformer&nbsp;...",
+   "cacheId": "pi7sC14P_m8J",
+   "formattedUrl": "www.politifact.com/personalities/jeb-bush/",
+   "htmlFormattedUrl": "www.politifact.com/personalities/\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.tampabay.com/resources/images/specials/2014/04/mylaw-logo2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "219",
+      "height": "74",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRriGEnJXVyxk-Y3q8tBzn2vrWOzhDWHm0098Ablw6fT69-OTOpxxFhkyM"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Election 2016: Jeb Bush hunkers down with family to assess his ...",
+   "htmlTitle": "Election 2016: \u003cb\u003eJeb Bush\u003c/b\u003e hunkers down with family to assess his \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cbsnews.com/news/jeb-bush-hunkers-down-with-family-to-assess-where-his-candidacy-stands/",
+   "displayLink": "www.cbsnews.com",
+   "snippet": "Oct 23, 2015 ... Jeb Bush will attend a finance meeting this weekend in Houston convened by \nformer President George H. W. Bush and attended by Bush's ...",
+   "htmlSnippet": "Oct 23, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJeb Bush\u003c/b\u003e will attend a finance meeting this weekend in Houston convened by \u003cbr\u003e\nformer President George H. W. Bush and attended by Bush&#39;s&nbsp;...",
+   "cacheId": "svYOdhyXpeMJ",
+   "formattedUrl": "www.cbsnews.com/.../jeb-bush-hunkers-down-with-family-to-assess-where- his-candidacy-stands/",
+   "htmlFormattedUrl": "www.cbsnews.com/.../\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e-hunkers-down-with-family-to-assess-where- his-candidacy-stands/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/10/23/9659902d-ce6e-4ed5-97f7-1ba61b14a379/thumbnail/620x350/077f98a82585ee16b2015360224b1b82/rts4hz9.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "169",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvXmzSzxfE-GS0T2KkG19T8iDO3m9cKNt67o_WjO-2bERFjKfFN7SFi8c"
+     }
+    ],
+    "article": [
+     {
+      "genre": "News",
+      "sourceorganization": "CBS News",
+      "articlesection": "Politics",
+      "alternativeheadline": "Jeb Bush hunkers down with family to assess his candidacy",
+      "author": "Major Garrett",
+      "description": "A GOP source says there is a \"donor revolt in progress\" over Bush's struggling campaign",
+      "datepublished": "October 23, 2015, 6:03 PM"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "twitter:creator": "Major Garrett",
+      "twitter:title": "Election 2016: Jeb Bush hunkers down with family to assess his candidacy",
+      "twitter:description": "A GOP source says there is a \"donor revolt in progress\" over Bush's struggling campaign",
+      "twitter:image": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/10/23/9659902d-ce6e-4ed5-97f7-1ba61b14a379/thumbnail/620x350/077f98a82585ee16b2015360224b1b82/rts4hz9.jpg",
+      "og:image": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/10/23/9659902d-ce6e-4ed5-97f7-1ba61b14a379/thumbnail/620x350/077f98a82585ee16b2015360224b1b82/rts4hz9.jpg",
+      "og:title": "Election 2016: Jeb Bush hunkers down with family to assess his candidacy",
+      "og:description": "A GOP source says there is a \"donor revolt in progress\" over Bush's struggling campaign",
+      "article:publisher": "https://www.facebook.com/CBSPolitics",
+      "news_keywords": "jeb bush, 2016 presidential election, george hw bush, donald trump, 2016 campaign, george w. bush"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush: People Need to Work Longer Hours - ABC News",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e: People Need to Work Longer Hours - ABC News",
+   "link": "http://abcnews.go.com/Politics/jeb-bush-people-work-longer-hours/story?id=32313997",
+   "displayLink": "abcnews.go.com",
+   "snippet": "Jul 8, 2015 ... Republican presidential candidate Jeb Bush said Wednesday that in order to \ngrow the economy “people need to work longer hours” -- a ...",
+   "htmlSnippet": "Jul 8, 2015 \u003cb\u003e...\u003c/b\u003e Republican presidential candidate \u003cb\u003eJeb Bush\u003c/b\u003e said Wednesday that in order to \u003cbr\u003e\ngrow the economy “people need to work longer hours” -- a&nbsp;...",
+   "formattedUrl": "abcnews.go.com/Politics/jeb-bush-people-work-longer-hours/story?id...",
+   "htmlFormattedUrl": "abcnews.go.com/Politics/\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e-people-work-longer-hours/story?id...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.abcnews.go.com/images/Politics/ap_jeb_bush_tax_returns_jc_150630_16x9_992.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuDyLwq8BHh63H2SpN01h7Q8vlraS6E8C4dAx1v2pFum9U_C7znIxgo98v"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "U.S.",
+      "url": "U.S."
+     }
+    ],
+    "metatags": [
+     {
+      "author": "ABC News",
+      "copyright": "Copyright (c) 2015 ABC News Internet Ventures",
+      "fb:admins": "704409894",
+      "fb:app_id": "4942312939",
+      "fb_title": "Jeb Bush: People Need to Work Longer Hours",
+      "og:site_name": "ABC News",
+      "og:title": "Jeb Bush: People Need to Work Longer Hours",
+      "og:description": "Jeb Bush recited his oft-said plan to grow the economy by 4 percent, adding that workforce participation has to rise.",
+      "og:url": "http://abcnews.go.com/Politics/jeb-bush-people-work-longer-hours/story?id=32313997",
+      "og:image:type": "image/jpeg",
+      "og:image": "http://a.abcnews.go.com/images/Politics/ap_jeb_bush_tax_returns_jc_150630_16x9_992.jpg",
+      "dc.date.issued": "2015-07-10",
+      "date": "2015-07-10",
+      "last-modified": "2015-07-10 10:27:10",
+      "news_keywords": "Jeb Bush, presidential race 2016, economy,",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@ABC",
+      "twitter:creator": "@CandaceSmith_",
+      "twitter:title": "Jeb Bush: People Need to Work Longer Hours",
+      "twitter:description": "Jeb Bush recited his oft-said plan to grow the economy by 4 percent, adding that workforce participation has to rise.",
+      "twitter:url": "http://abcnews.go.com/Politics/jeb-bush-people-work-longer-hours/story?id=32313997",
+      "twitter:image:width": "150",
+      "twitter:image:height": "116",
+      "twitter:app:name:iphone": "ABC News",
+      "twitter:app:id:iphone": "300255638",
+      "twitter:app:url:iphone": "abcnewsiphone://link/story,32313997",
+      "twitter:app:name:ipad": "ABC News",
+      "twitter:app:id:ipad": "306934135",
+      "twitter:app:url:ipad": "abcnewsipad://link/story,32313997",
+      "twitter:app:name:googleplay": "ABC News",
+      "twitter:app:id:googleplay": "com.abc.abcnews",
+      "twitter:app:url:googleplay": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/jeb-bush-people-work-longer-hours/story?id=32313997",
+      "twitter:image": "http://a.abcnews.go.com/images/Politics/ap_jeb_bush_tax_returns_jc_150630_4x3t_240.jpg",
+      "al:iphone:url": "abcnewsiphone://link/story,32313997",
+      "al:iphone:app_store_id": "300255638",
+      "al:iphone:app_name": "ABC News - Breaking US & World News",
+      "al:ipad:url": "abcnewsipad://link/story,32313997",
+      "al:ipad:app_store_id": "380520716",
+      "al:ipad:app_name": "ABC News for iPad",
+      "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/jeb-bush-people-work-longer-hours/story?id=32313997",
+      "al:android:app_name": "ABC News Breaking Latest News",
+      "al:android:package": "com.abc.abcnews",
+      "al:web:url": "http://abcnews.go.com/Politics/jeb-bush-people-work-longer-hours/story?id=32313997",
+      "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yeah, Jeb Bush Is Probably Toast | FiveThirtyEight",
+   "htmlTitle": "Yeah, \u003cb\u003eJeb Bush\u003c/b\u003e Is Probably Toast | FiveThirtyEight",
+   "link": "http://fivethirtyeight.com/datalab/jeb-bush-cnbc-republican-debate/",
+   "displayLink": "fivethirtyeight.com",
+   "snippet": "Oct 29, 2015 ... You know, I think Jeb Bush is toast,” I told one of my editors after Wednesday \nnight's debate. “I kinda do too,” he replied. “I'm just worried ...",
+   "htmlSnippet": "Oct 29, 2015 \u003cb\u003e...\u003c/b\u003e You know, I think \u003cb\u003eJeb Bush\u003c/b\u003e is toast,” I told one of my editors after Wednesday \u003cbr\u003e\nnight&#39;s debate. “I kinda do too,” he replied. “I&#39;m just worried&nbsp;...",
+   "cacheId": "sor7o03Ap0YJ",
+   "formattedUrl": "fivethirtyeight.com/datalab/jeb-bush-cnbc-republican-debate/",
+   "htmlFormattedUrl": "fivethirtyeight.com/datalab/\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e-cnbc-republican-debate/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://espnfivethirtyeight.files.wordpress.com/2015/10/gettyimages-494744178.jpg?w=1200"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJdph44j0SX4j3wt1oRSflOjlRtJ0DEtREwc78hL0jYaMXKRkOvB2uezE"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:type": "article",
+      "og:title": "Yeah, Jeb Bush Is Probably Toast",
+      "og:url": "http://fivethirtyeight.com/datalab/jeb-bush-cnbc-republican-debate/",
+      "og:description": "“You know, I think Jeb Bush is toast,” I told one of my editors after Wednesday night’s debate. “I kinda do too,” he replied. “I’m just worried because that’s what everyone else seems to think too….",
+      "article:published_time": "2015-10-29T05:01:29+00:00",
+      "article:modified_time": "2015-10-29T11:44:17+00:00",
+      "og:site_name": "FiveThirtyEight",
+      "og:image": "https://espnfivethirtyeight.files.wordpress.com/2015/10/gettyimages-494744178.jpg?w=1200",
+      "og:image:width": "1200",
+      "og:image:height": "900",
+      "og:locale": "en_US",
+      "twitter:image:src": "https://espnfivethirtyeight.files.wordpress.com/2015/10/gettyimages-494744178.jpg?w=640",
+      "twitter:card": "summary_large_image",
+      "article:publisher": "https://www.facebook.com/FiveThirtyEight",
+      "fb:app_id": "797620670264818",
+      "article:author": "https://facebook.com/natesilver",
+      "twitter:widgets:csp": "on",
+      "twitter:maxage": "300",
+      "twitter:site": "FiveThirtyEight",
+      "twitter:site:id": "2303751216",
+      "twitter:creator": "natesilver538",
+      "twitter:creator:id": "16017475",
+      "application-name": "FiveThirtyEight",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "Nate Silver’s FiveThirtyEight uses statistical analysis — hard numbers — to tell compelling stories about politics, sports, science, economics and lifestyle.",
+      "msapplication-task": "name=Subscribe;action-uri=http://fivethirtyeight.com/feed/;icon-uri=http://0.gravatar.com/blavatar/2a2b628e813bd94080c4b8714f73bfcd?s=16",
+      "dc.date.issued": "2015-10-29T11:44:17+00:00",
+      "news_keywords": "2016 Election, 2016 Republican Debates, 2016 Republican Primary, Ben Carson, Chris Christie, CNBC Debate, Donald Trump, Jeb Bush, Marco Rubio, Ted Cruz"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush Orders Across-the-Board Pay Cuts for Struggling Campaign",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e Orders Across-the-Board Pay Cuts for Struggling Campaign",
+   "link": "http://www.bloomberg.com/politics/articles/2015-10-23/jeb-bush-orders-across-the-board-pay-cuts-for-struggling-campaign",
+   "displayLink": "www.bloomberg.com",
+   "snippet": "Oct 23, 2015 ... Jeb Bush, once a front-runner for the Republican presidential nomination, is \nslashing pay across the board for his struggling campaign as he ...",
+   "htmlSnippet": "Oct 23, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJeb Bush\u003c/b\u003e, once a front-runner for the Republican presidential nomination, is \u003cbr\u003e\nslashing pay across the board for his struggling campaign as he&nbsp;...",
+   "cacheId": "JU__TuMMsy4J",
+   "formattedUrl": "www.bloomberg.com/.../jeb-bush-orders-across-the-board-pay-cuts-for- struggling-campaign",
+   "htmlFormattedUrl": "www.bloomberg.com/.../\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e-orders-across-the-board-pay-cuts-for- struggling-campaign",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.bwbx.io/images/iGV_MpcnL1bY/v1/765x430.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuSyxZ9vJ8AeYXXUISMllVu6dALlWv-OGB8eAVF_Aae48kLX8pMAYIitU"
+     }
+    ],
+    "article": [
+     {
+      "genre": "politics",
+      "articlesection": "Shakeup",
+      "name": "Jeb Bush Orders Across-the-Board Pay Cuts for Struggling Campaign",
+      "headline": "Jeb Bush Orders Across-the-Board Pay Cuts for Struggling Campaign",
+      "description": "Bush's advisers, under pressure from their donors and from falling and stagnant poll numbers, came to the conclusion that a course correction was essential.",
+      "image": "http://assets.bwbx.io/images/iQPpk3L0ET9k/v1/220x220.png",
+      "datepublished": "2015-10-23T14:59:53.877Z",
+      "articlebody": "Share on FacebookShare on Twitter Share on LinkedInShare on RedditShare on Google+E-mail Jeb Bush, once a front-runner for the Republican presidential nomination, is slashing pay across the..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "og:site_name": "Bloomberg.com/politics",
+      "og:type": "website",
+      "twitter:card": "summary",
+      "twitter:site": "@bpolitics",
+      "twitter:description": "Bush's advisers, under pressure from their donors and from falling and stagnant poll numbers, came to the conclusion that a course correction was essential.",
+      "twitter:title": "Jeb Bush Orders Across-the-Board Pay Cuts for Struggling Campaign",
+      "twitter:url": "http://www.bloomberg.com/politics/articles/2015-10-23/jeb-bush-orders-across-the-board-pay-cuts-for-struggling-campaign",
+      "twitter:image": "http://assets.bwbx.io/images/i5j2WuCwOBBI/v1/-1x-1.jpg",
+      "og:description": "Bush's advisers, under pressure from their donors and from falling and stagnant poll numbers, came to the conclusion that a course correction was essential.",
+      "og:image": "http://assets.bwbx.io/images/i5j2WuCwOBBI/v1/-1x-1.jpg",
+      "og:title": "Jeb Bush Orders Across-the-Board Pay Cuts for Struggling Campaign",
+      "og:url": "http://www.bloomberg.com/politics/articles/2015-10-23/jeb-bush-orders-across-the-board-pay-cuts-for-struggling-campaign",
+      "parsely-title": "Jeb Bush Orders Across-the-Board Pay Cuts for Struggling Campaign",
+      "parsely-link": "http://www.bloomberg.com/politics/articles/2015-10-23/jeb-bush-orders-across-the-board-pay-cuts-for-struggling-campaign",
+      "parsely-type": "post",
+      "parsely-image-url": "http://assets.bwbx.io/images/i5j2WuCwOBBI/v1/-1x-1.jpg",
+      "parsely-pub-date": "2015-10-23T14:59:53.877Z",
+      "parsely-section": "politics",
+      "parsely-tags": "Region: Global,Page: article",
+      "parsely-post-id": "NWOHNT6JTSFK01",
+      "sailthru.author": "Michael C Bender,Mark Halperin",
+      "date": "2015-10-23T14:59:53.877Z",
+      "parsely-author": "Michael C Bender"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb's growing list of unfortunate comments - POLITICO",
+   "htmlTitle": "\u003cb\u003eJeb&#39;s\u003c/b\u003e growing list of unfortunate comments - POLITICO",
+   "link": "http://www.politico.com/story/2015/10/jeb-bush-unfortunate-comments-stuff-happens-214390",
+   "displayLink": "www.politico.com",
+   "snippet": "Oct 2, 2015 ... Allie Brandenburger, spokesperson for Jeb Bush, said the comments were taken \nout of context. “It is sad and beyond craven that liberal ...",
+   "htmlSnippet": "Oct 2, 2015 \u003cb\u003e...\u003c/b\u003e Allie Brandenburger, spokesperson for \u003cb\u003eJeb Bush\u003c/b\u003e, said the comments were taken \u003cbr\u003e\nout of context. “It is sad and beyond craven that liberal&nbsp;...",
+   "cacheId": "Pk4vEDcGYDAJ",
+   "formattedUrl": "www.politico.com/.../jeb-bush-unfortunate-comments-stuff-happens-214390",
+   "htmlFormattedUrl": "www.politico.com/.../\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e-unfortunate-comments-stuff-happens-214390",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://v.politico.com/images/1155968404/201510/291/1155968404_4527410880001_Jeb-Comp-video-.jpg?pubId=1155968404"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgckPghtProvxSuuSthG3skg2Wz0pl8hJTi3cE2tWYDl95_fUKbJJctDOp"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Jeb’s growing list of unfortunate comments",
+      "og:description": "Here are some of Bush’s most ill-worded comments since launching his campaign.",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:type": "article",
+      "og:url": "http://www.politico.com/story/2015/10/jeb-bush-unfortunate-comments-stuff-happens-214390",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@politico",
+      "twitter:creator": "@politico",
+      "og:fb_appid": "114037015331397",
+      "og:site_name": "POLITICO",
+      "og:image": "http://v.politico.com/images/1155968404/201510/291/1155968404_4527410880001_Jeb-Comp-video-.jpg?pubId=1155968404"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Daniel Strauss",
+      "url": "http://www.politico.com/staff/daniel-strauss",
+      "url_text": "Daniel Strauss"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Education of Jeb Bush - The New Yorker",
+   "htmlTitle": "The Education of \u003cb\u003eJeb Bush\u003c/b\u003e - The New Yorker",
+   "link": "http://www.newyorker.com/magazine/2015/01/26/testing-time",
+   "displayLink": "www.newyorker.com",
+   "snippet": "Jan 26, 2015 ... Jeb Bush has maintained a national profile on the issue with which, as governor \nof Florida, he had sought to make his biggest mark: education ...",
+   "htmlSnippet": "Jan 26, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJeb Bush\u003c/b\u003e has maintained a national profile on the issue with which, as governor \u003cbr\u003e\nof Florida, he had sought to make his biggest mark: education&nbsp;...",
+   "cacheId": "r3rLSaGeFnEJ",
+   "formattedUrl": "www.newyorker.com/magazine/2015/01/26/testing-time",
+   "htmlFormattedUrl": "www.newyorker.com/magazine/2015/01/26/testing-time",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.newyorker.com/wp-content/uploads/2015/01/150126_r26056-1200-630-15112900.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.newyorker.com/contributors/alec-macgillis",
+      "name": "Alec MacGillis"
+     },
+     {
+      "name": "Alec MacGillis",
+      "url": "http://www.newyorker.com/contributors/alec-macgillis"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRSVPIqGxVmWfNAvl0g0kkEzmOvxo0A-5o01NiIeVk2ZtAxH4IgYIZUsQ"
+     }
+    ],
+    "newsarticle": [
+     {
+      "name": "Testing Time",
+      "publisher": "The New Yorker",
+      "url": "http://www.newyorker.com/magazine/2015/01/26/testing-time",
+      "wordcount": "7417",
+      "articlesection": "The Political Scene",
+      "printedition": "January 26, 2015 Issue",
+      "printsection": "The Political Scene",
+      "printpage": "042",
+      "datepublished": "2015-01-26",
+      "headline": "Testing Time",
+      "alternativeheadline": "Jeb Bush’s educational experiment.",
+      "articlebody": "Bush has maintained a national profile on the issue with which, as governor, he had sought to make his biggest mark: education reform. Credit Illustration by Dan Adel In December, Jeb Bush...",
+      "image": "http://www.newyorker.com/wp-content/uploads/2015/01/150126_r26056-320.jpg",
+      "description": "Bush has maintained a national profile on the issue with which, as governor, he had sought to make his biggest mark: education reform. Credit Illustration by Dan Adel",
+      "copyrightholder": "Credit Illustration by Dan Adel"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "handheldfriendly": "true",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-title": "The New Yorker",
+      "environment": "prod",
+      "id": "2960293",
+      "fb:admins": "501890909",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "The Education of Jeb Bush",
+      "og:description": "Jeb Bush has maintained a national profile on the issue with which, as governor of Florida, he had sought to make his biggest mark: education reform.",
+      "og:url": "http://www.newyorker.com/magazine/2015/01/26/testing-time",
+      "og:site_name": "The New Yorker",
+      "og:image": "http://www.newyorker.com/wp-content/uploads/2015/01/150126_r26056-1200-630-15112900.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:description": "Jeb Bush has maintained a national profile on the issue with which, as governor of Florida, he had sought to make his biggest mark: education reform.",
+      "twitter:title": "The Education of Jeb Bush",
+      "twitter:site": "@newyorker",
+      "twitter:domain": "The New Yorker",
+      "twitter:image": "http://www.newyorker.com/wp-content/uploads/2015/01/150126_r26056-1200-630-15112900.jpg",
+      "twitter:creator": "@newyorker",
+      "wp-parsely_version": "1.7",
+      "parsely-metadata": "{\"id\":\"2960293\",\"title_alt\":\"The Education of Jeb Bush\"}"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alec MacGillis",
+      "url": "http://www.newyorker.com/contributors/alec-macgillis"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Why is it all going wrong for Jeb Bush? - BBC News",
+   "htmlTitle": "Why is it all going wrong for \u003cb\u003eJeb Bush\u003c/b\u003e? - BBC News",
+   "link": "http://www.bbc.com/news/world-us-canada-34841715",
+   "displayLink": "www.bbc.com",
+   "snippet": "Nov 18, 2015 ... Jeb Bush was the early frontrunner for the Republican presidential nomination, \nbut his campaign has gone badly wrong, says Nick Bryant.",
+   "htmlSnippet": "Nov 18, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJeb Bush\u003c/b\u003e was the early frontrunner for the Republican presidential nomination, \u003cbr\u003e\nbut his campaign has gone badly wrong, says Nick Bryant.",
+   "cacheId": "nQG-uswYeE8J",
+   "formattedUrl": "www.bbc.com/news/world-us-canada-34841715",
+   "htmlFormattedUrl": "www.bbc.com/news/world-us-canada-34841715",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ichef.bbci.co.uk/news/1024/cpsprodpb/BA06/production/_86722674_030110032-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvxKd0Chy7rFU00W3cx7Ajuom3xX-cqXwDc74VBX3fdrqbVI7vM4D1bnQs"
+     }
+    ],
+    "metatags": [
+     {
+      "x-country": "us",
+      "x-audience": "US",
+      "cps_audience": "US",
+      "cps_changequeueid": "262642067",
+      "og:title": "Why is it all going wrong for Jeb Bush? - BBC News",
+      "og:type": "article",
+      "og:description": "Jeb Bush was the early frontrunner for the Republican presidential nomination, but his campaign has gone badly wrong, says Nick Bryant.",
+      "og:site_name": "BBC News",
+      "og:locale": "en_GB",
+      "og:article:author": "BBC News",
+      "og:article:section": "US & Canada",
+      "og:url": "http://www.bbc.com/news/world-us-canada-34841715",
+      "og:image": "http://ichef.bbci.co.uk/news/1024/cpsprodpb/BA06/production/_86722674_030110032-1.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@BBCWorld",
+      "twitter:title": "Why is it all going wrong for Jeb Bush? - BBC News",
+      "twitter:description": "Jeb Bush was the early frontrunner for the Republican presidential nomination, but his campaign has gone badly wrong, says Nick Bryant.",
+      "twitter:creator": "@BBCWorld",
+      "twitter:image:src": "http://ichef.bbci.co.uk/news/560/cpsprodpb/BA06/production/_86722674_030110032-1.jpg",
+      "twitter:image:alt": "Republican presidential candidate Jeb Bush",
+      "twitter:domain": "www.bbc.com",
+      "apple-mobile-web-app-title": "BBC News",
+      "application-name": "BBC News",
+      "msapplication-tileimage": "http://static.bbci.co.uk/news/1.103.0490/windows-eight-icon-144x144.png",
+      "msapplication-tilecolor": "#bb1919",
+      "mobile-web-app-capable": "yes",
+      "theme-color": "#bb1919",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "fb:admins": "100004154058350"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "It's make or break time for Jeb Bush - The Washington Post",
+   "htmlTitle": "It&#39;s make or break time for \u003cb\u003eJeb Bush\u003c/b\u003e - The Washington Post",
+   "link": "https://www.washingtonpost.com/politics/its-make-or-break-time-for-jeb-bush/2015/09/27/73d5f6fa-63c0-11e5-b38e-06883aacba64_story.html",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Sep 27, 2015 ... Jeb Bush is entering a critical phase of his Republican presidential campaign, \nwith top donors warning that the former Florida governor needs ...",
+   "htmlSnippet": "Sep 27, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJeb Bush\u003c/b\u003e is entering a critical phase of his Republican presidential campaign, \u003cbr\u003e\nwith top donors warning that the former Florida governor needs&nbsp;...",
+   "formattedUrl": "https://www.washingtonpost.com/...jeb-bush/.../73d5f6fa-63c0-11e5-b38e- 06883aacba64_story.html",
+   "htmlFormattedUrl": "https://www.washingtonpost.com/...\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e/.../73d5f6fa-63c0-11e5-b38e- 06883aacba64_story.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/09/27/National-Politics/Images/GOP_2016_Bush-0ccdf-4206.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "Ed O'Keefe"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuaBcpoZlOg37ZitrJoomjYImGYQ4-weeCZ2Ozq-QbYORozQ1fxP07FhQ"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "Once the front-runner, the former governor needs to perform better soon, donors warn.",
+      "mainentityofpage": "True",
+      "image": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/09/27/National-Politics/Images/GOP_2016_Bush-0ccdf-4206.jpg",
+      "url": "https://www.washingtonpost.com/politics/its-make-or-break-time-for-jeb-bush/2015/09/27/73d5f6fa-63c0-11e5-b38e-06883aacba64_story.html",
+      "headline": "It’s make or break time for Jeb Bush",
+      "datepublished": "2015-09-27T03:07-500",
+      "articlebody": "Jeb Bush is entering a critical phase of his Republican presidential campaign, with top donors warning that the former Florida governor needs to demonstrate growth in the polls over the next..."
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-uuid": "73d5f6fa-63c0-11e5-b38e-06883aacba64",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+      "referrer": "unsafe-url",
+      "news_keywords": "Jeb Bush, Marco Rubio, Donald Trump, campaign 2016, south carolina, jeb bush and free stuff, jeb bush and black voters, michael tyler, dan pfeiffer, scott walker, fundraising, George W. Bush, Laura Bush, Columba Bush, Jeb Bush Jr.",
+      "twitter:card": "summary_large_image",
+      "og:description": "Once the front-runner, the former governor needs to perform better soon, donors warn.",
+      "og:type": "article",
+      "og:site_name": "Washington Post",
+      "og:image": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/09/27/National-Politics/Images/GOP_2016_Bush-0ccdf-4206.jpg",
+      "og:title": "It’s make or break time for Jeb Bush",
+      "article:publisher": "https://www.facebook.com/washingtonpost",
+      "fb:admins": "1513210492",
+      "fb:app_id": "41245586762",
+      "og:url": "https://www.washingtonpost.com/politics/its-make-or-break-time-for-jeb-bush/2015/09/27/73d5f6fa-63c0-11e5-b38e-06883aacba64_story.html",
+      "apple-itunes-app": "app-id=938922398, app-argument=https://www.washingtonpost.com/politics/its-make-or-break-time-for-jeb-bush/2015/09/27/73d5f6fa-63c0-11e5-b38e-06883aacba64_story.html",
+      "article:author": "https://www.facebook.com/pages/Ed-OKeefe/147995121918931",
+      "author": "https://www.facebook.com/pages/Ed-OKeefe/147995121918931",
+      "twitter:creator": "@edatpost"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jeb Bush launches 2016 presidential bid - CNNPolitics.com",
+   "htmlTitle": "\u003cb\u003eJeb Bush\u003c/b\u003e launches 2016 presidential bid - CNNPolitics.com",
+   "link": "http://www.cnn.com/2015/06/15/politics/jeb-bush-2016-presidential-announcement/",
+   "displayLink": "www.cnn.com",
+   "snippet": "Jun 15, 2015 ... Miami (CNN) Jeb Bush, a scion of the most recognizable family in Republican \npolitics who fashioned an image as a sober-minded conservative ...",
+   "htmlSnippet": "Jun 15, 2015 \u003cb\u003e...\u003c/b\u003e Miami (CNN) \u003cb\u003eJeb Bush\u003c/b\u003e, a scion of the most recognizable family in Republican \u003cbr\u003e\npolitics who fashioned an image as a sober-minded conservative&nbsp;...",
+   "cacheId": "XLlNzfr27HgJ",
+   "formattedUrl": "www.cnn.com/2015/06/.../jeb-bush-2016-presidential-announcement/",
+   "htmlFormattedUrl": "www.cnn.com/2015/06/.../\u003cb\u003ejeb\u003c/b\u003e-\u003cb\u003ebush\u003c/b\u003e-2016-presidential-announcement/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150615065737-jeb-bush-june-11-2015-large-169.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150615065737-jeb-bush-june-11-2015-large-169.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "politics",
+      "datecreated": "2015-06-15T10:08:43Z",
+      "datepublished": "2015-06-15T10:08:43Z",
+      "datemodified": "2015-06-15T21:37:17Z",
+      "url": "http://www.cnn.com/2015/06/15/politics/jeb-bush-2016-presidential-announcement/index.html",
+      "author": "Peter Hamby and Chris Moody, CNN",
+      "headline": "Jeb Bush launches 2016 presidential bid - CNNPolitics.com",
+      "description": "Jeb Bush, who fashioned an image as a sober-minded conservative while governor of Florida, is running for president.",
+      "keywords": "politics, Jeb Bush launches 2016 presidential bid - CNNPolitics.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150615065737-jeb-bush-june-11-2015-large-169.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/150615065737-jeb-bush-june-11-2015-large-169.jpg",
+      "alternativeheadline": "Jeb Bush launches 2016 presidential bid",
+      "articlebody": "Story highlights Jeb Bush's announcement speech was briefly interrupted by immigration protestorsBush isn't a clear front-runner as he enters the presidential raceHe faces challenges surrounding..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "politics",
+      "og:pubdate": "2015-06-15T10:08:43Z",
+      "pubdate": "2015-06-15T10:08:43Z",
+      "lastmod": "2015-06-15T21:37:17Z",
+      "og:url": "http://www.cnn.com/2015/06/15/politics/jeb-bush-2016-presidential-announcement/index.html",
+      "author": "Peter Hamby and Chris Moody, CNN",
+      "og:title": "Jeb Bush launches 2016 presidential bid - CNNPolitics.com",
+      "og:description": "Jeb Bush, who fashioned an image as a sober-minded conservative while governor of Florida, is running for president.",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150615065737-jeb-bush-june-11-2015-large-169.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/150615065737-jeb-bush-june-11-2015-large-169.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/06/15/politics/jeb-bush-2016-presidential-announcement/index.html",
+      "fb:app_id": "80401312489"
+     }
+    ]
+   }
+  }
+ ]
+}

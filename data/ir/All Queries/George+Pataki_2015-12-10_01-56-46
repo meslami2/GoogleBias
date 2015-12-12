@@ -1,0 +1,1957 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - George Pataki",
+    "totalResults": "262000",
+    "searchTerms": "George Pataki",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - George Pataki",
+    "totalResults": "262000",
+    "searchTerms": "George Pataki",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.297036,
+  "formattedSearchTime": "0.30",
+  "totalResults": "262000",
+  "formattedTotalResults": "262,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki for President 2016 - People Over Politics",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e for President 2016 - People Over Politics",
+   "link": "http://www.georgepataki.com/",
+   "displayLink": "www.georgepataki.com",
+   "snippet": "The official campaign website of George Pataki for President. Learn all about \nGeorge Pataki here.",
+   "htmlSnippet": "The official campaign website of \u003cb\u003eGeorge Pataki\u003c/b\u003e for President. Learn all about \u003cbr\u003e\n\u003cb\u003eGeorge Pataki\u003c/b\u003e here.",
+   "cacheId": "uFEfXvMEm3UJ",
+   "formattedUrl": "www.georgepataki.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003egeorgepataki\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://georgepatakicom.bmediapreview.info/files/2114/3278/1975/FacebookShare.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaoKWeGmO5RjbC14R8vAmREhqk3lhk2tmNzgFYUlkYdgjW0qu_w3bhEZf5"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Pataki for President",
+      "og:description": "The official campaign website of George Pataki for President 2016.",
+      "og:url": "http://georgepataki.com",
+      "og:site_name": "George Pataki",
+      "article:publisher": "https://www.facebook.com/GovGeorgePataki?fref=ts",
+      "og:image": "http://georgepatakicom.bmediapreview.info/files/2114/3278/1975/FacebookShare.png",
+      "twitter:card": "summary_large_image",
+      "twitter:description": "The official campaign website of George Pataki for President 2016.",
+      "twitter:title": "Pataki for President",
+      "twitter:site": "@governorpataki",
+      "twitter:domain": "George Pataki",
+      "twitter:url": "https://georgepataki.com",
+      "twitter:image:src": "http://georgepatakicom.bmediapreview.info/files/2114/3278/1975/FacebookShare.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "https://en.wikipedia.org/wiki/George_Pataki",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "George Elmer Pataki is an American lawyer and politician who served as the \n53rd Governor of New York (1995–2006). A member of the Republican Party, ...",
+   "htmlSnippet": "\u003cb\u003eGeorge\u003c/b\u003e Elmer \u003cb\u003ePataki\u003c/b\u003e is an American lawyer and politician who served as the \u003cbr\u003e\n53rd Governor of New York (1995–2006). A member of the Republican Party,&nbsp;...",
+   "cacheId": "veDRxRuLE-kJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/George_Pataki",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eGeorge\u003c/b\u003e_\u003cb\u003ePataki\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/George_Pataki.jpg/220px-George_Pataki.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "246",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzJJDWUz_NKNIApsGBlhlCLygwHJRawAaw0iH55YgKiU2Qi0Li7M4AxSU"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "George Pataki",
+      "nickname": "George Elmer Pataki",
+      "bday": "1945-06-24"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 13 stages of grief for presidential candidate George Pataki - The ...",
+   "htmlTitle": "The 13 stages of grief for presidential candidate \u003cb\u003eGeorge Pataki\u003c/b\u003e - The \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.washingtonpost.com/news/politics/wp/2015/09/09/the-13-stages-of-grief-for-presidential-candidate-george-pataki/",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Sep 9, 2015 ... Stage 1: Try to get noticed by talking about George Pataki.",
+   "htmlSnippet": "Sep 9, 2015 \u003cb\u003e...\u003c/b\u003e Stage 1: Try to get noticed by talking about \u003cb\u003eGeorge Pataki\u003c/b\u003e.",
+   "formattedUrl": "https://www.washingtonpost.com/.../the-13-stages-of-grief-for-presidential- candidate-george-pataki/",
+   "htmlFormattedUrl": "https://www.washingtonpost.com/.../the-13-stages-of-grief-for-presidential- candidate-\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.washingtonpost.com/news/politics/wp-content/uploads/sites/11/2015/09/pataki-pic.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "David A. Fahrenthold"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "318",
+      "height": "159",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1v69lBQaSpzll-o99Uq2_Yurvmpea56N-om6o4R_W6txVa1R1MH7HYtc"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "Stage 1: Try to get noticed by talking about George Pataki.",
+      "mainentityofpage": "True",
+      "image": "http://www.washingtonpost.com/news/politics/wp-content/uploads/sites/11/2015/09/pataki-pic.jpg",
+      "url": "https://www.washingtonpost.com/news/politics/wp/2015/09/09/the-13-stages-of-grief-for-presidential-candidate-george-pataki/",
+      "headline": "The 13 stages of grief for presidential candidate George Pataki",
+      "datepublished": "2015-09-09T11:55-500",
+      "articlebody": "Pataki after the lower-polling canddiate debate in Cleveland on Aug. 6. (Brian Snyder/Reuters) The 13 stages of grief for former New York governor — and long-shot presidential candidate —..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+      "referrer": "unsafe-url",
+      "news_keywords": "george pataki, new york governor, 2016 presidential race, republicans",
+      "twitter:card": "summary_large_image",
+      "og:description": "Stage 1: Try to get noticed by talking about George Pataki.",
+      "og:type": "article",
+      "og:site_name": "Washington Post",
+      "og:image": "http://www.washingtonpost.com/news/politics/wp-content/uploads/sites/11/2015/09/pataki-pic.jpg",
+      "og:title": "The 13 stages of grief for presidential candidate George Pataki",
+      "article:publisher": "https://www.facebook.com/washingtonpost",
+      "fb:admins": "1513210492",
+      "fb:app_id": "41245586762",
+      "og:url": "https://www.washingtonpost.com/news/politics/wp/2015/09/09/the-13-stages-of-grief-for-presidential-candidate-george-pataki/",
+      "apple-itunes-app": "app-id=938922398, app-argument=https://www.washingtonpost.com/news/politics/wp/2015/09/09/the-13-stages-of-grief-for-presidential-candidate-george-pataki/",
+      "article:author": "https://www.facebook.com/fahrenthold",
+      "author": "https://www.facebook.com/fahrenthold",
+      "twitter:creator": "@Fahrenthold"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki on the Issues",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e on the Issues",
+   "link": "http://www.ontheissues.org/George_Pataki.htm",
+   "displayLink": "www.ontheissues.org",
+   "snippet": "3 days ago ... George Pataki on the Issues on George Pataki; Presidential candidates.",
+   "htmlSnippet": "3 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eGeorge Pataki\u003c/b\u003e on the Issues on \u003cb\u003eGeorge Pataki\u003c/b\u003e; Presidential candidates.",
+   "cacheId": "m4Qqz2ptxpkJ",
+   "formattedUrl": "www.ontheissues.org/George_Pataki.htm",
+   "htmlFormattedUrl": "www.ontheissues.org/\u003cb\u003eGeorge\u003c/b\u003e_\u003cb\u003ePataki\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ontheissues.org/George_Pataki.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "84",
+      "height": "117",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3LISlUtJkdmxDFLBmXe3zAF9hG8bvxVge4F7iY0aTBjIxZO-w-14V"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "OnTheIssues.org"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George E. Pataki (@GovernorPataki) | Twitter",
+   "htmlTitle": "\u003cb\u003eGeorge\u003c/b\u003e E. \u003cb\u003ePataki\u003c/b\u003e (@GovernorPataki) | Twitter",
+   "link": "https://twitter.com/governorpataki?lang=en",
+   "displayLink": "twitter.com",
+   "snippet": "The latest Tweets from George E. Pataki (@GovernorPataki). Candidate for \nPresident, 3-Term Governor of NY, Husband, Father, Proud Military Dad.",
+   "htmlSnippet": "The latest Tweets from \u003cb\u003eGeorge\u003c/b\u003e E. \u003cb\u003ePataki\u003c/b\u003e (@GovernorPataki). Candidate for \u003cbr\u003e\nPresident, 3-Term Governor of NY, Husband, Father, Proud Military Dad.",
+   "cacheId": "3ySBvoqonEEJ",
+   "formattedUrl": "https://twitter.com/governorpataki?lang=en",
+   "htmlFormattedUrl": "https://twitter.com/governor\u003cb\u003epataki\u003c/b\u003e?lang=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pbs.twimg.com/profile_images/603934306193383424/wbiabKhJ_400x400.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtfGle5-5oYokaZT8Ar_UWnrBomLkCBGy5MXOv-bMEscx4BLKnVHGOIdQ"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George E. Pataki",
+   "htmlTitle": "\u003cb\u003eGeorge\u003c/b\u003e E. \u003cb\u003ePataki\u003c/b\u003e",
+   "link": "https://www.facebook.com/GovGeorgePataki/",
+   "displayLink": "www.facebook.com",
+   "snippet": "George E. Pataki. 19733 likes · 66 talking about this. Pataki for President 2016.",
+   "htmlSnippet": "\u003cb\u003eGeorge\u003c/b\u003e E. \u003cb\u003ePataki\u003c/b\u003e. 19733 likes · 66 talking about this. \u003cb\u003ePataki\u003c/b\u003e for President 2016.",
+   "cacheId": "vR_m1nmbg64J",
+   "formattedUrl": "https://www.facebook.com/GovGeorgePataki/",
+   "htmlFormattedUrl": "https://www.facebook.com/Gov\u003cb\u003eGeorgePataki\u003c/b\u003e/",
+   "pagemap": {
+    "organization": [
+     {
+      "name": "George E. Pataki"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "al:android:app_name": "Facebook",
+      "al:android:package": "com.facebook.katana",
+      "al:android:url": "fb://page/180698708704667"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki: Presidential race is turning into a 'reality gong show'",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e: Presidential race is turning into a &#39;reality gong show&#39;",
+   "link": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+   "displayLink": "www.usatoday.com",
+   "snippet": "Nov 12, 2015 ... Bumped from the undercard debate, George Pataki says he may not even bother \nto watch.",
+   "htmlSnippet": "Nov 12, 2015 \u003cb\u003e...\u003c/b\u003e Bumped from the undercard debate, \u003cb\u003eGeorge Pataki\u003c/b\u003e says he may not even bother \u003cbr\u003e\nto watch.",
+   "cacheId": "T0H42gBcajoJ",
+   "formattedUrl": "www.usatoday.com/story/news/.../11/.../george-pataki.../75532608/",
+   "htmlFormattedUrl": "www.usatoday.com/story/news/.../11/.../\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e.../75532608/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gannett-cdn.com/-mm-/a93aecb30fdd255bb9ded149e07c107d0943bd4e/c=0-44-3741-2158&r=x1683&c=3200x1680/local/-/media/2015/11/10/USATODAY/USATODAY/635827695177630665-XXX-GEORGE-PATAKI-12-77429998.JPG"
+     }
+    ],
+    "videoobject": [
+     {
+      "width": "540",
+      "height": "304",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4605063307001_Pataki.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/news/politics/2015/11/10/75531366/",
+      "uploaddate": "11/10/2015 3:57:44 PM",
+      "description": "USA TODAY Washington Bureau Chief Susan Page talks with 2016 Republican presidential hopeful and former New York governor George Pataki about being left off of the debate stage, the Republican..."
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2dtSqp7xOEJVUcJjCQ_eP05TCGY6mbmTQmReZ_VzSm_DrrnzwBuWgmrs"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "Bumped from the undercard debate, George Pataki says he may not even bother to watch.",
+      "thumbnailurl": "http://www.gannett-cdn.com/-mm-/f15f2646b2035e33abd0956db70af0214f8d0c51/c=0-7-3741-3748&r=x153&c=150x150/local/-/media/2015/11/10/USATODAY/USATODAY/635827695177630665-XXX-GEORGE-PATAKI-12-77429998.JPG",
+      "thumbnailheight": "150",
+      "thumbnailwidth": "150",
+      "image": "http://www.gannett-cdn.com/-mm-/0160804bd8ef181698ccefc3580964aebf4e3f73/c=0-7-3741-3748&r=x203&c=200x200/local/-/media/2015/11/10/USATODAY/USATODAY/635827695177630665-XXX-GEORGE-PATAKI-12-77429998.JPG",
+      "datemodified": "2015-11-12T16:57:58.6030000",
+      "datepublished": "2015-11-10T17:21:43.8430000",
+      "articlesection": "news,politics,elections",
+      "headline": "George Pataki: Presidential race is turning into a 'reality gong show'",
+      "articlebody": "USA TODAY Washington Bureau Chief Susan Page talks with 2016 Republican presidential hopeful and former New York governor George Pataki about being left off of the debate stage, the Republican..."
+     },
+     {
+      "url": "WashingtonNew transportation law accelerates safety mandatesNew transportation law accelerates safety mandatesCongress approved the tougher mandates in response to tank car derailments and...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "New transportation law accelerates safety mandates",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Washington",
+      "datepublished": "13 minutes ago"
+     },
+     {
+      "url": "NewsSupreme Court appears likely to uphold Arizona districtsSupreme Court appears likely to uphold Arizona districtsRepublicans' challenge over population deviations faces high hurdle, justices...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Supreme Court appears likely to uphold Arizona districts",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "News",
+      "datepublished": "20 minutes ago"
+     },
+     {
+      "url": "Nation NowTrump doesn't back down on call for Muslim banTrump doesn't back down on call for Muslim banDonald Trump continued to call Tuesday for a “shutdown” of Muslims entering the United...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Trump doesn't back down on call for Muslim ban",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Nation Now",
+      "datepublished": "8 hours, 3 minutes ago"
+     },
+     {
+      "url": "NationZuckerberg family welcomes baby with $45 billion surpriseZuckerberg family welcomes baby with $45 billion surpriseIn the wake of the birth of their baby girl Max, Facebook CEO Mark Zuckerburg...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Zuckerberg family welcomes baby with $45 billion surprise",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Nation",
+      "datepublished": "26 minutes ago"
+     },
+     {
+      "url": "NationHit-and-run suspect ratted out by her own Ford FocusHit-and-run suspect ratted out by her own Ford FocusFlorida women insisted that she hadn't hit anything, but police trusted her car.Nation5...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Hit-and-run suspect ratted out by her own Ford Focus",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Nation",
+      "datepublished": "5 hours, 32 minutes ago"
+     },
+     {
+      "url": "WorldA look at the man who might be Venezuela's next presidentA look at the man who might be Venezuela's next presidentThe election victory by the opposition boosts presidential prospects of...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "A look at the man who might be Venezuela's next president",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "World",
+      "datepublished": "29 minutes ago"
+     },
+     {
+      "url": "TechScience says: Men are better navigatorsScience says: Men are better navigatorsBut not necessarily because of testosterone.Tech4 hours, 42 minutes ago",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Science says: Men are better navigators",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Tech",
+      "datepublished": "4 hours, 42 minutes ago"
+     },
+     {
+      "url": "Elections 2016GOP Power Rankings for week 15GOP Power Rankings for week 15USA TODAY's GOP Power Rankings motion graphic for the week of December 8, 2015. By Ramon Padilla, USA TODAYElections...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "GOP Power Rankings for week 15",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Elections 2016",
+      "datepublished": "37 minutes ago"
+     },
+     {
+      "url": "NationAttorney: SCOTUS Would Strike Down Trump PlanAttorney: SCOTUS Would Strike Down Trump PlanAn immigration attorney in New York City said that Donald Trump's comments about restricting...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Attorney: SCOTUS Would Strike Down Trump Plan",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Nation",
+      "datepublished": "55 minutes ago"
+     },
+     {
+      "url": "NewsFun and festive Santas from around the worldFun and festive Santas from around the worldVanessa Ray turns the tables as she delivers a holiday candle to Santa Claus after unveiling Origins...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Fun and festive Santas from around the world",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "News",
+      "datepublished": "1 hour, 9 minutes ago"
+     },
+     {
+      "url": "NationPolice Investigate Pig Head Left Outside MosquePolice Investigate Pig Head Left Outside MosqueThe caretaker at a Philadelphia mosque said he found a severed pig's head on the sidewalk,...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Police Investigate Pig Head Left Outside Mosque",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Nation",
+      "datepublished": "1 hour, 16 minutes ago"
+     },
+     {
+      "url": "MoneyLawmakers examine beer merger's impact on competionLawmakers examine beer merger's impact on competionA Senate panel reviewed the $107 billion deal between Anheuser-Busch InBev and SAB...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Lawmakers examine beer merger's impact on competion",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Money",
+      "datepublished": "1 hour, 23 minutes ago"
+     },
+     {
+      "url": "ElectionsKasich to Trump supporter: We shouldn’t 'divide people'Kasich to Trump supporter: We shouldn’t 'divide people'Kasich to Trump supporter: We shouldn’t 'divide people'Elections1...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Kasich to Trump supporter: We shouldn’t 'divide people'",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Elections",
+      "datepublished": "1 hour, 25 minutes ago"
+     },
+     {
+      "url": "WashingtonIndiana governor: Banning Muslims not the same as banning SyriansIndiana governor: Banning Muslims not the same as banning SyriansIndiana Gov. Mike Pence Tuesday criticized Donald...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Indiana governor: Banning Muslims not the same as banning Syrians",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Washington",
+      "datepublished": "1 hour, 26 minutes ago"
+     },
+     {
+      "url": "Sponsor StoryInteractive: Need-to-know resources for small biz ownersInteractive: Need-to-know resources for small biz ownersGet your business started or take it to the next level with help...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Interactive: Need-to-know resources for small biz owners",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Sponsor Story",
+      "datepublished": "3 weeks, 1 day ago"
+     },
+     {
+      "url": "NationCAIR Accuses Trump of \"Trashing Constitution\"CAIR Accuses Trump of \"Trashing Constitution\"The executive director of the Council on American-Islamic Relations says Donald Trump's proposal...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "CAIR Accuses Trump of \"Trashing Constitution\"",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Nation",
+      "datepublished": "1 hour, 30 minutes ago"
+     },
+     {
+      "url": "NewsCongress still divided over budget billCongress still divided over budget billGOP leaders are now openly predicting that Congress will fail to meet a Dec. 11 deadline for funding the federal...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Congress still divided over budget bill",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "News",
+      "datepublished": "1 hour, 37 minutes ago"
+     },
+     {
+      "url": "ElectionsFiorina: Trump's call to ban Muslims violates ConstitutionFiorina: Trump's call to ban Muslims violates ConstitutionCarly Fiorina criticized Donald Trump Tuesday in Des Moines, calling...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Fiorina: Trump's call to ban Muslims violates Constitution",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Elections",
+      "datepublished": "1 hour, 41 minutes ago"
+     },
+     {
+      "url": "ElectionsDole says he 'might oversleep' on Election Day if Cruz is GOP nomineeDole says he 'might oversleep' on Election Day if Cruz is GOP nomineeThe former Kansas senator, and current Jeb...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Dole says he 'might oversleep' on Election Day if Cruz is GOP nominee",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Elections",
+      "datepublished": "1 hour, 41 minutes ago"
+     },
+     {
+      "url": "NationThe scientific way to win at rock-paper-scissorsThe scientific way to win at rock-paper-scissorsAn experiment suggests players tend to use a certain strategy, and you can exploit it....",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "The scientific way to win at rock-paper-scissors",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Nation",
+      "datepublished": "1 hour, 42 minutes ago"
+     },
+     {
+      "url": "ElectionsWhite House assails Trump's proposed Muslim ban (and his hair)White House assails Trump's proposed Muslim ban (and his hair)Obama's spokesman denounced Trump's plan to bar Muslims...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "White House assails Trump's proposed Muslim ban (and his hair)",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Elections",
+      "datepublished": "1 hour, 45 minutes ago"
+     },
+     {
+      "url": "WorldRecord refugee flights hit all parts of globeRecord refugee flights hit all parts of globeNever before in history have so many people in so many places been uprooted from homes.World2...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Record refugee flights hit all parts of globe",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "World",
+      "datepublished": "2 weeks, 5 days ago"
+     },
+     {
+      "url": "ElectionsCarly Fiorina struggling to break through with womenCarly Fiorina struggling to break through with womenFor the only woman in the Republican presidential race, gender hasn’t been...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Carly Fiorina struggling to break through with women",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Elections",
+      "datepublished": "1 hour, 45 minutes ago"
+     },
+     {
+      "url": "NationThe air you're breathing could be making you fatThe air you're breathing could be making you fatResearchers say breathing in polluted air could increase your risk of being overweight....",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "The air you're breathing could be making you fat",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Nation",
+      "datepublished": "1 hour, 45 minutes ago"
+     },
+     {
+      "url": "NewsU.S. Muslims report more bias cases across the nationU.S. Muslims report more bias cases across the nationAnti-Muslim incidents are on the rise since last week’s San Bernardino shooting.News1...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "U.S. Muslims report more bias cases across the nation",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "News",
+      "datepublished": "1 hour, 55 minutes ago"
+     },
+     {
+      "url": "TVVictoria's Secret Fashion Show: 4 things to watch forVictoria's Secret Fashion Show: 4 things to watch forThe 2015 Victoria's Secret Fashion Show will highlight its newest models and latest...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "Victoria's Secret Fashion Show: 4 things to watch for",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "TV",
+      "datepublished": "2 hours ago"
+     },
+     {
+      "url": "MoneyCEOs, craft brewers argue costs of beer mergerCEOs, craft brewers argue costs of beer mergerCEOs and members of the craft brewing industry are making their case in Washington about the...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "headline": "CEOs, craft brewers argue costs of beer merger",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "articlesection": "Money",
+      "datepublished": "2 hours, 1 minute ago"
+     }
+    ],
+    "metatags": [
+     {
+      "content-type": "text/html; charset=UTF-8",
+      "google": "notranslate",
+      "fb:app_id": "215046668549694",
+      "og:site_name": "USA TODAY",
+      "og:image": "http://www.gannett-cdn.com/-mm-/a93aecb30fdd255bb9ded149e07c107d0943bd4e/c=0-44-3741-2158&r=x1683&c=3200x1680/local/-/media/2015/11/10/USATODAY/USATODAY/635827695177630665-XXX-GEORGE-PATAKI-12-77429998.JPG",
+      "og:image:width": "3200",
+      "og:image:height": "1680",
+      "twitter:card": "summary_large_image",
+      "twitter:image:src": "http://www.gannett-cdn.com/-mm-/eef632185ab02b5c667b2e58866b079a543d5f14/c=0-44-3741-2158&r=x453&c=800x450/local/-/media/2015/11/10/USATODAY/USATODAY/635827695177630665-XXX-GEORGE-PATAKI-12-77429998.JPG",
+      "twitter:site": "@usatoday",
+      "twitter:creator": "@usatoday",
+      "twitter:title": "George Pataki: Presidential race is turning into a 'reality gong show'",
+      "twitter:description": "Bumped from the undercard debate, George Pataki says he may not even bother to watch.",
+      "og:title": "George Pataki: Presidential race is turning into a 'reality gong show'",
+      "og:description": "Bumped from the undercard debate, George Pataki says he may not even bother to watch.",
+      "og:url": "http://www.usatoday.com/story/news/politics/elections/2015/11/10/george-pataki-republicans-2016-debates/75532608/",
+      "og:type": "article",
+      "news_keywords": "George Pataki, 2016 election, Republicans, Republican debate",
+      "cxenseparse:recs:articleid": "75532608",
+      "cxenseparse:pageclass": "article",
+      "cxenseparse:recs:publishtime": "2015-11-12T16:57:58.6030000",
+      "cxenseparse:recs:category": "news/politics/elections",
+      "cxenseparse:title": "George Pataki: Presidential race is turning into a 'reality gong show'",
+      "cxenseparse:author": "Susan Page",
+      "cxenseparse:recs:contenttype": "story",
+      "cxenseparse:gci_asset_type": "story",
+      "cxenseparse:recs:image": "http://www.gannett-cdn.com/-mm-/f15f2646b2035e33abd0956db70af0214f8d0c51/c=0-7-3741-3748&r=x153&c=150x150/local/-/media/2015/11/10/USATODAY/USATODAY/635827695177630665-XXX-GEORGE-PATAKI-12-77429998.JPG",
+      "cxenseparse:recs:imagedimensions": "150x150",
+      "cxenseparse:gci-topic": "Persons/Donald Trump",
+      "cxenseparse:gci-categories": "Persons/Donald Trump",
+      "viewport": "width=1070"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://www.gannett-cdn.com/-mm-/d695d53b5b4ec638b3b1cf5579cb8d9a78e71753/c=237-0-3317-4106&r=537&c=0-0-534-712/local/-/media/2015/11/10/USATODAY/USATODAY/635827695177630665-XXX-GEORGE-PATAKI-12-77429998.JPG",
+      "name": "XXX {GEORGE PATAKI} 12.JPG NY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki, in Presidential Bid, Fights to Jog Voters' Memories ...",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e, in Presidential Bid, Fights to Jog Voters&#39; Memories \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nytimes.com/2015/08/20/nyregion/george-pataki-in-presidential-bid-fights-to-jog-voters-memories.html",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Aug 19, 2015 ... George Pataki at a luncheon in Windham, N.H. The former three-term governor \nfaces vast obstacles in his bid for the Republican presidential ...",
+   "htmlSnippet": "Aug 19, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eGeorge Pataki\u003c/b\u003e at a luncheon in Windham, N.H. The former three-term governor \u003cbr\u003e\nfaces vast obstacles in his bid for the Republican presidential&nbsp;...",
+   "formattedUrl": "www.nytimes.com/.../george-pataki-in-presidential-bid-fights-to-jog-voters- memories.html",
+   "htmlFormattedUrl": "www.nytimes.com/.../\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e-in-presidential-bid-fights-to-jog-voters- memories.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static01.nyt.com/images/2015/08/20/nyregion/PATAKIweb1alt/PATAKIweb1alt-master675.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "tickersymbol": "NYSE NYT"
+     }
+    ],
+    "person": [
+     {
+      "name": "ALEXANDER BURNS"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEFxOHHPjMWxe58WwVW4zvATnNrDoIlyZpvQBYMCrAWE8HHpC5FsXr_og"
+     }
+    ],
+    "newsarticle": [
+     {
+      "alternativeheadline": "Pataki Fighting to Jog Voters’ Memories as He Campaigns for President",
+      "description": "Mr. Pataki, one of the 17 Republican contenders, spends a lot of time reminding people that he used to be governor of New York.",
+      "genre": "News",
+      "identifier": "100000003859708",
+      "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+      "inlanguage": "en-US",
+      "datepublished": "2015-08-19",
+      "articlesection": "N.Y. / Region",
+      "datemodified": "2015-08-22",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/08/20/nyregion/PATAKIweb1alt/PATAKIweb1alt-thumbStandard.jpg",
+      "headline": "George Pataki, in Presidential Bid, Fights to Jog Voters’ Memories",
+      "articlebody": "WINDHAM, N.H. — As former Gov. George E. Pataki of New York strolled through the luncheon for seniors, bending his 6-foot-5 frame downward to make small talk over a soundtrack of square-dance...",
+      "printedition": "New York edition",
+      "copyrightnotice": "© 2015 The New York Times Company",
+      "copyrightyear": "2015"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "sourceapp": "nyt-v5",
+      "applicationname": "article",
+      "al:android:url": "nytimes://reader/id/100000003859708",
+      "al:android:package": "com.nytimes.android",
+      "al:android:app_name": "NYTimes",
+      "twitter:app:name:googleplay": "NYTimes",
+      "twitter:app:id:googleplay": "com.nytimes.android",
+      "twitter:app:url:googleplay": "nytimes://reader/id/100000003859708",
+      "al:iphone:url": "nytimes://www.nytimes.com/2015/08/20/nyregion/george-pataki-in-presidential-bid-fights-to-jog-voters-memories.html",
+      "al:iphone:app_store_id": "284862083",
+      "al:iphone:app_name": "NYTimes",
+      "al:ipad:url": "nytimes://www.nytimes.com/2015/08/20/nyregion/george-pataki-in-presidential-bid-fights-to-jog-voters-memories.html",
+      "al:ipad:app_store_id": "357066198",
+      "al:ipad:app_name": "NYTimes",
+      "hdl_p": "Pataki Fighting to Jog Voters’ Memories as He Campaigns for President",
+      "articleid": "100000003859708",
+      "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+      "hdl": "George Pataki, in Presidential Bid, Fights to Jog Voters’ Memories",
+      "pdate": "20150819",
+      "utime": "20150822060001",
+      "ptime": "20150819125206",
+      "displaydate": "Aug. 19, 2015",
+      "dat": "Aug. 19, 2015",
+      "lp": "Mr. Pataki, one of the 17 Republican contenders, spends a lot of time reminding people that he used to be governor of New York.",
+      "msapplication-starturl": "http://www.nytimes.com",
+      "cre": "The New York Times",
+      "slug": "20pataki",
+      "article:collection": "http://json8.nytimes.com/services/json/sectionfronts/nyregion/index.jsonp",
+      "sectionfront_jsonp": "http://json8.nytimes.com/services/json/sectionfronts/nyregion/index.jsonp",
+      "og:url": "http://www.nytimes.com/2015/08/20/nyregion/george-pataki-in-presidential-bid-fights-to-jog-voters-memories.html",
+      "og:type": "article",
+      "og:title": "George Pataki, in Presidential Bid, Fights to Jog Voters’ Memories",
+      "og:description": "Mr. Pataki, one of the 17 Republican contenders, spends a lot of time reminding people that he used to be governor of New York.",
+      "article:published": "2015-08-19",
+      "article:section": "N.Y. / Region",
+      "article:section-taxonomy-id": "C4DC8C0C-E148-4201-BF10-82F1C903DBFB",
+      "article:section_url": "http://www.nytimes.com/pages/nyregion/index.html",
+      "fb:app_id": "9869919170",
+      "twitter:url": "http://www.nytimes.com/2015/08/20/nyregion/george-pataki-in-presidential-bid-fights-to-jog-voters-memories.html",
+      "twitter:title": "George Pataki, in Presidential Bid, Fights to Jog Voters’ Memories",
+      "twitter:description": "Mr. Pataki, one of the 17 Republican contenders, spends a lot of time reminding people that he used to be governor of New York.",
+      "author": "Alexander Burns",
+      "tone": "news",
+      "byl": "By ALEXANDER BURNS",
+      "pt": "article",
+      "cg": "nyregion",
+      "pst": "News",
+      "tom": "News",
+      "edt": "NewYork"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://static01.nyt.com/images/2015/08/20/nyregion/PATAKIweb1alt/PATAKIweb1alt-master675.jpg",
+      "height": "450",
+      "width": "675",
+      "caption": "Former Gov. George Pataki at a luncheon in Windham, N.H. The former three-term governor faces vast obstacles in his bid for the Republican presidential nomination. Credit Cheryl Senter for...",
+      "description": "Former Gov. George Pataki at a luncheon in Windham, N.H. The former three-term governor faces vast obstacles in his bid for the Republican presidential nomination. Credit Cheryl Senter for...",
+      "copyrightholder": "Credit Cheryl Senter for The New York Times"
+     },
+     {
+      "url": "http://static01.nyt.com/images/2015/08/20/nyregion/PATAKIweb2/PATAKIweb2-articleLarge.jpg",
+      "height": "400",
+      "width": "600",
+      "caption": "In the first round of televised debates, Mr. Pataki was left out of the prime time forum and given a slot in the so-called underdog debate. Credit Doug Mills/The New York Times",
+      "description": "In the first round of televised debates, Mr. Pataki was left out of the prime time forum and given a slot in the so-called underdog debate. Credit Doug Mills/The New York Times",
+      "copyrightholder": "Credit Doug Mills/The New York Times"
+     },
+     {
+      "url": "http://static01.nyt.com/images/2015/08/20/nyregion/PATAKIweb3/PATAKIweb3-articleLarge.jpg",
+      "height": "422",
+      "width": "600",
+      "caption": "Mr. Pataki with former Mayor Rudolph Giuliani and President George W. Bush in 2001, a few days after the Sept. 11 terrorist attacks. Credit Doug Mills/Associated Press",
+      "description": "Mr. Pataki with former Mayor Rudolph Giuliani and President George W. Bush in 2001, a few days after the Sept. 11 terrorist attacks. Credit Doug Mills/Associated Press",
+      "copyrightholder": "Credit Doug Mills/Associated Press"
+     },
+     {
+      "url": "http://static01.nyt.com/images/2015/08/20/nyregion/PATAKIweb1/PATAKIweb1-articleLarge.jpg",
+      "height": "400",
+      "width": "600",
+      "caption": "Mr. Pataki speaking at a picnic in Sandown, N.H. He has concentrated his campaign efforts in New Hampshire, the only Northeastern state with an early primary. Credit Cheryl Senter for The New...",
+      "description": "Mr. Pataki speaking at a picnic in Sandown, N.H. He has concentrated his campaign efforts in New Hampshire, the only Northeastern state with an early primary. Credit Cheryl Senter for The New...",
+      "copyrightholder": "Credit Cheryl Senter for The New York Times"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "5 Things You Should Know About George Pataki : It's All Politics : NPR",
+   "htmlTitle": "5 Things You Should Know About \u003cb\u003eGeorge Pataki\u003c/b\u003e : It&#39;s All Politics : NPR",
+   "link": "http://www.npr.org/sections/itsallpolitics/2015/05/28/410147689/5-things-you-should-know-about-george-pataki",
+   "displayLink": "www.npr.org",
+   "snippet": "May 28, 2015 ... For most voters, the name George Pataki might not ring a bell. But he was the last \nRepublican elected to major statewide office in New York in ...",
+   "htmlSnippet": "May 28, 2015 \u003cb\u003e...\u003c/b\u003e For most voters, the name \u003cb\u003eGeorge Pataki\u003c/b\u003e might not ring a bell. But he was the last \u003cbr\u003e\nRepublican elected to major statewide office in New York in&nbsp;...",
+   "formattedUrl": "www.npr.org/sections/.../5-things-you-should-know-about-george-pataki",
+   "htmlFormattedUrl": "www.npr.org/sections/.../5-things-you-should-know-about-\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.npr.org/assets/img/2015/05/27/ap844948344732_wide-16106541783f8c1069e5dfba968ca76a8e218265.jpg?s=1400"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrADv_1z-HGdqSRmlWblnxrqggtmzXSWM7acZJaCCAs_XUyghZ8YV2R3A"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no",
+      "date": "2015-05-28",
+      "og:title": "5 Things You Should Know About George Pataki",
+      "og:url": "http://www.npr.org/sections/itsallpolitics/2015/05/28/410147689/5-things-you-should-know-about-george-pataki",
+      "og:type": "article",
+      "og:description": "For most voters, the name George Pataki might not ring a bell. But he was the last Republican elected to major statewide office in New York in more than 20 years. And he's running for president.",
+      "og:image": "http://media.npr.org/assets/img/2015/05/27/ap844948344732_wide-16106541783f8c1069e5dfba968ca76a8e218265.jpg?s=1400",
+      "og:site_name": "NPR.org",
+      "fb:app_id": "138837436154588",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@NPR",
+      "twitter:domain": "npr.org",
+      "twitter:image:src": "http://media.npr.org/assets/img/2015/05/27/ap844948344732_wide-16106541783f8c1069e5dfba968ca76a8e218265.jpg?s=1400"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Why Is George Pataki Still Running For President? GOP Debate ...",
+   "htmlTitle": "Why Is \u003cb\u003eGeorge Pataki\u003c/b\u003e Still Running For President? GOP Debate \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ibtimes.com/why-george-pataki-still-running-president-gop-debate-shows-former-new-york-governor-2160724",
+   "displayLink": "www.ibtimes.com",
+   "snippet": "Oct 28, 2015 ... Republican U.S. presidential candidate and former New York Gov. George Pataki \nspeaks at a forum for lower-polling candidates held by CNBC ...",
+   "htmlSnippet": "Oct 28, 2015 \u003cb\u003e...\u003c/b\u003e Republican U.S. presidential candidate and former New York Gov. \u003cb\u003eGeorge Pataki\u003c/b\u003e \u003cbr\u003e\nspeaks at a forum for lower-polling candidates held by CNBC&nbsp;...",
+   "cacheId": "K41YiTqY8akJ",
+   "formattedUrl": "www.ibtimes.com/why-george-pataki-still-running-president-gop-debate- shows-former-new-york-governor-2160724",
+   "htmlFormattedUrl": "www.ibtimes.com/why-\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e-still-running-president-gop-debate- shows-former-new-york-governor-2160724",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/10/28/rtx1tpl5.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "Cristina Silva",
+      "name": "Cristina Silva"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "274",
+      "height": "184",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFofLVNlEZ1-kuyH1OEeEZIXrzYYMXyNQX9iLNnBmMr0WdQN0lN7ldR0"
+     }
+    ],
+    "newsarticle": [
+     {
+      "url": "http://www.ibtimes.com/why-george-pataki-still-running-president-gop-debate-shows-former-new-york-governor-2160724",
+      "image": "http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/v2_article_large/public/2015/10/28/rtx1tpl5.jpg",
+      "alternativeheadline": "Why Is George Pataki Still Running For President?",
+      "articlesection": "National",
+      "datemodified": "2015-12-07T00:32:16-05:00",
+      "headline": "Why Is George Pataki Still Running For President? GOP Debate Shows Former New York Governor Lacks Spark",
+      "datepublished": "2015-10-28T18:37:19-04:00",
+      "articlebody": "Former New York Gov. George Pataki praised blue-collar workers and railed against Wall Street Wednesday during the third Republican presidential debate, vowing to take a harsh stance against..."
+     }
+    ],
+    "webpage": [
+     {
+      "relatedlink": "Fiorina Flickers In And Out Of The Public Eye"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "news_keywords": "george pataki governor new york ny president presidential white house campaign gop republican 2015 2016 debate, george pataki governor new york ny president presidential white house campaign gop republican 2015 2016 debate cnbc, george pataki governor new",
+      "fb:app_id": "263851690471857",
+      "og:type": "article",
+      "og:site_name": "International Business Times",
+      "og:url": "http://www.ibtimes.com/why-george-pataki-still-running-president-gop-debate-shows-former-new-york-governor-2160724",
+      "og:title": "Why Is George Pataki Still Running For President? GOP Debate Shows Former New York Governor Lacks Spark",
+      "og:description": "Pataki remains popular in New York, a Democratic-voting state where he was a three-term governor. He last held office in 2006.",
+      "og:image": "http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/10/28/rtx1tpl5.jpg",
+      "article:section": "National",
+      "article:modified_time": "2015-12-07T00:32:16-05:00",
+      "article:published_time": "2015-10-28T18:37:19-04:00",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Why Is George Pataki Still Running For President? GOP Debate Shows Former New York Governor Lacks Spark",
+      "twitter:url": "http://www.ibtimes.com/why-george-pataki-still-running-president-gop-debate-shows-former-new-york-governor-2160724",
+      "twitter:description": "Pataki remains popular in New York, a Democratic-voting state where he was a three-term governor. He last held office in 2006.",
+      "twitter:image": "http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/10/28/rtx1tpl5.jpg",
+      "msapplication-tilecolor": "#333333",
+      "msapplication-tileimage": "http://s1.ibtimes.com/sites/www.ibtimes.com/themes/us_ibtimes/favicons/mstile-144x144.png",
+      "msapplication-config": "http://www.ibtimes.com/sites/www.ibtimes.com/themes/us_ibtimes/favicons/browserconfig.xml",
+      "twitter:image:src": "http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/10/28/rtx1tpl5.jpg"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/v2_article_large/public/2015/10/28/rtx1tpl5.jpg",
+      "caption": "Republican U.S. presidential candidate and former New York Gov. George Pataki speaks at a forum for lower-polling candidates held by CNBC in Boulder, Colorado, Oct. 28, 2015.",
+      "copyrightholder": "Reuters"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "National",
+      "title": "National"
+     }
+    ]
+   }
+  }
+ ]
+}
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - George Pataki",
+    "totalResults": "262000",
+    "searchTerms": "George Pataki",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - George Pataki",
+    "totalResults": "262000",
+    "searchTerms": "George Pataki",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - George Pataki",
+    "totalResults": "262000",
+    "searchTerms": "George Pataki",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.280691,
+  "formattedSearchTime": "0.28",
+  "totalResults": "262000",
+  "formattedTotalResults": "262,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Pataki for President 2016 - YouTube",
+   "htmlTitle": "\u003cb\u003ePataki\u003c/b\u003e for President 2016 - YouTube",
+   "link": "https://www.youtube.com/watch?v=aw5DmSp0gtI",
+   "displayLink": "www.youtube.com",
+   "snippet": "May 28, 2015 ... http://www.GeorgePataki.com - Official 2016 Presidential campaign launch video \nfor George Pataki, former Governor of New York.",
+   "htmlSnippet": "May 28, 2015 \u003cb\u003e...\u003c/b\u003e http://www.GeorgePataki.com - Official 2016 Presidential campaign launch video \u003cbr\u003e\nfor \u003cb\u003eGeorge Pataki\u003c/b\u003e, former Governor of New York.",
+   "cacheId": "D81MsZrbAzkJ",
+   "formattedUrl": "https://www.youtube.com/watch?v=aw5DmSp0gtI",
+   "htmlFormattedUrl": "https://www.youtube.com/watch?v=aw5DmSp0gtI",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/aw5DmSp0gtI/maxresdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.youtube.com/watch?v=aw5DmSp0gtI",
+      "name": "Pataki for President 2016",
+      "description": "http://www.GeorgePataki.com - Official 2016 Presidential campaign launch video for George Pataki, former Governor of New York.",
+      "paid": "False",
+      "channelid": "UCuP7cm-m6JDhhBxH8HfFSjQ",
+      "videoid": "aw5DmSp0gtI",
+      "duration": "PT4M9S",
+      "unlisted": "False",
+      "thumbnailurl": "https://i.ytimg.com/vi/aw5DmSp0gtI/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/aw5DmSp0gtI",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "31520",
+      "datepublished": "2015-05-28",
+      "genre": "People & Blogs"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/channel/UCuP7cm-m6JDhhBxH8HfFSjQ"
+     },
+     {
+      "url": "https://plus.google.com/103823857236762934534"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRK17NkvCv8emZwDtJCM6nWxhIAT5LZiMKFXaqtpfs31R82fAGtn6kGGN0E"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Pataki for President 2016",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/watch?v=aw5DmSp0gtI",
+      "og:title": "Pataki for President 2016",
+      "og:image": "https://i.ytimg.com/vi/aw5DmSp0gtI/maxresdefault.jpg",
+      "og:description": "http://www.GeorgePataki.com - Official 2016 Presidential campaign launch video for George Pataki, former Governor of New York.",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=aw5DmSp0gtI&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=aw5DmSp0gtI&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/watch?v=aw5DmSp0gtI&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/aw5DmSp0gtI",
+      "og:video:secure_url": "https://www.youtube.com/embed/aw5DmSp0gtI",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "George Pataki (Politician)",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/watch?v=aw5DmSp0gtI",
+      "twitter:title": "Pataki for President 2016",
+      "twitter:description": "http://www.GeorgePataki.com - Official 2016 Presidential campaign launch video for George Pataki, former Governor of New York.",
+      "twitter:image": "https://i.ytimg.com/vi/aw5DmSp0gtI/maxresdefault.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=aw5DmSp0gtI&feature=applinks",
+      "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=aw5DmSp0gtI&feature=applinks",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=aw5DmSp0gtI",
+      "twitter:player": "https://www.youtube.com/embed/aw5DmSp0gtI",
+      "twitter:player:width": "1280",
+      "twitter:player:height": "720"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://i.ytimg.com/vi/aw5DmSp0gtI/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki to announce presidential bid Thursday | New York Post",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e to announce presidential bid Thursday | New York Post",
+   "link": "http://nypost.com/2015/05/25/george-pataki-to-announce-presidential-bid-thursday/",
+   "displayLink": "nypost.com",
+   "snippet": "May 25, 2015 ... George Pataki plans to announce Thursday that he's joining the crowded \nRepublican field for president. The three-term governor will unveil his ...",
+   "htmlSnippet": "May 25, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eGeorge Pataki\u003c/b\u003e plans to announce Thursday that he&#39;s joining the crowded \u003cbr\u003e\nRepublican field for president. The three-term governor will unveil his&nbsp;...",
+   "cacheId": "kY8Ei6Ox9fwJ",
+   "formattedUrl": "nypost.com/.../george-pataki-to-announce-presidential-bid-thursday/",
+   "htmlFormattedUrl": "nypost.com/.../\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e-to-announce-presidential-bid-thursday/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://thenypost.files.wordpress.com/2015/05/pataki-1.jpg?quality=100&strip=all"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0WVKIaHspUow5tNqOzHLOxSoKAxVr-4c5CzkP4PfwtPJHtsCr5nntm4Wh"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2015 NYP Holdings. All rights reserved.",
+      "p:domain_verify": "44b526edc36ffbcc163412ee9fe42833",
+      "og:type": "article",
+      "og:title": "George Pataki to announce presidential bid Thursday",
+      "og:url": "http://nypost.com/2015/05/25/george-pataki-to-announce-presidential-bid-thursday/",
+      "og:description": "WASHINGTON — Ignoring the polls and pundits, former New York Gov. George Pataki plans to announce Thursday that he’s joining the crowded Republican field for president. The three-term governor will...",
+      "article:published_time": "2015-05-25T23:04:21+00:00",
+      "article:modified_time": "2015-05-26T14:10:46+00:00",
+      "og:site_name": "New York Post",
+      "og:image:width": "1200",
+      "og:image:height": "800",
+      "og:locale": "en_US",
+      "twitter:site": "@nypost",
+      "twitter:image:src": "https://thenypost.files.wordpress.com/2015/05/pataki-1.jpg?quality=100&strip=all&w=664&h=441&crop=1",
+      "twitter:card": "summary_large_image",
+      "twitter:creator": "@nypost",
+      "article:publisher": "https://www.facebook.com/WordPresscom",
+      "twitter:title": "George Pataki to announce presidential bid Thursday",
+      "twitter:description": "WASHINGTON — Ignoring the polls and pundits, former New York Gov. George Pataki plans to announce Thursday that he’s joining the crowded Republican field for president. The three-term governor",
+      "twitter:image": "https://thenypost.files.wordpress.com/2015/05/pataki-1.jpg?quality=100&strip=all&w=664&h=441&crop=1",
+      "og:image": "https://thenypost.files.wordpress.com/2015/05/pataki-1.jpg?quality=100&strip=all",
+      "og:image:secure_url": "https://i2.wp.com/thenypost.files.wordpress.com/2015/05/pataki-1.jpg?quality=100&strip=all",
+      "sailthru.date": "2015-05-25 19:04:21",
+      "sailthru.title": "George Pataki to announce presidential bid Thursday",
+      "sailthru.tags": "2016-presidential-election,george-pataki,",
+      "sailthru.description": "WASHINGTON — Ignoring the polls and pundits, former New York Gov. George Pataki plans to announce Thursday that he’s joining the crowded Republican field for president. The three-term governor will unveil his candidacy in Exeter, N.H.",
+      "sailthru.image.full": "https://thenypost.files.wordpress.com/2015/05/pataki-1.jpg?quality=100&strip=all",
+      "sailthru.image.thumb": "https://thenypost.files.wordpress.com/2015/05/pataki-1.jpg?quality=100&strip=all&w=231&h=154&crop=1",
+      "nypost-section": "News",
+      "parsely-page": "{\"title\":\"George Pataki to announce presidential bid Thursday\",\"link\":\"http:\\/\\/nypost.com\\/2015\\/05\\/25\\/george-pataki-to-announce-presidential-bid-thursday\\/\",\"image_url\":\"https:\\/\\/thenypost.files.wordpress.com\\/2015\\/05\\/pataki-1.jpg?quality=100&strip=all\",\"type\":\"post\",\"post_id\":\"nypost-9693601\",\"pub_date\":\"2015-05-26T00:04:21Z\",\"section\":\"news\",\"author\":[\"Marisa Schultz\"],\"tags\":[\"2016 presidential election\",\"george pataki\",\"\\/article\"]}",
+      "parsely-metadata": "{\"post_id\":9693601}",
+      "msvalidate.01": "8188997BC82071CE07AB711B5675CE54",
+      "application-name": "New York Post",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "Your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.",
+      "msapplication-task": "name=Subscribe;action-uri=http://nypost.com/feed/;icon-uri=http://1.gravatar.com/blavatar/5a214da64b1b66f28cbfcd6b1b352675?s=16"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki makes long-shot bid for President - CNNPolitics.com",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e makes long-shot bid for President - CNNPolitics.com",
+   "link": "http://www.cnn.com/2015/05/28/politics/george-pataki-presidential-announcement-2016/",
+   "displayLink": "www.cnn.com",
+   "snippet": "May 28, 2015 ... Washington (CNN) George Pataki, the newest addition to the packed Republican \nWhite House race, said Thursday the bottom of the pack is the ...",
+   "htmlSnippet": "May 28, 2015 \u003cb\u003e...\u003c/b\u003e Washington (CNN) \u003cb\u003eGeorge Pataki\u003c/b\u003e, the newest addition to the packed Republican \u003cbr\u003e\nWhite House race, said Thursday the bottom of the pack is the&nbsp;...",
+   "cacheId": "mcjIv6jwcaAJ",
+   "formattedUrl": "www.cnn.com/.../george-pataki-presidential-announcement-2016/",
+   "htmlFormattedUrl": "www.cnn.com/.../\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e-presidential-announcement-2016/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/141222111842-george-pataki-file-t3-entertainment.jpg",
+      "type": "1",
+      "width": "168",
+      "height": "180"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/141222111842-george-pataki-file-t3-entertainment.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "politics",
+      "datecreated": "2015-05-28T11:52:22Z",
+      "datepublished": "2015-05-28T11:52:22Z",
+      "datemodified": "2015-05-29T02:07:31Z",
+      "url": "http://www.cnn.com/2015/05/28/politics/george-pataki-presidential-announcement-2016/index.html",
+      "author": "Theodore Schleifer and Stephen Collinson, CNN",
+      "headline": "George Pataki makes long-shot bid for President - CNNPolitics.com",
+      "description": "George Pataki, the newest addition to the packed Republican White House race, said Thursday the bottom of the pack is the best place to start.",
+      "keywords": "politics, George Pataki makes long-shot bid for President - CNNPolitics.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/141222111842-george-pataki-file-t3-entertainment.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/141222111842-george-pataki-file-t3-entertainment.jpg",
+      "alternativeheadline": "George Pataki makes long-shot bid for President",
+      "articlebody": "Washington (CNN)George Pataki, the newest addition to the packed Republican White House race, said Thursday the bottom of the pack is the best place to start, as he kicked off his long-shot..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "politics",
+      "og:pubdate": "2015-05-28T11:52:22Z",
+      "pubdate": "2015-05-28T11:52:22Z",
+      "lastmod": "2015-05-29T02:07:31Z",
+      "og:url": "http://www.cnn.com/2015/05/28/politics/george-pataki-presidential-announcement-2016/index.html",
+      "author": "Theodore Schleifer and Stephen Collinson, CNN",
+      "og:title": "George Pataki makes long-shot bid for President - CNNPolitics.com",
+      "og:description": "George Pataki, the newest addition to the packed Republican White House race, said Thursday the bottom of the pack is the best place to start.",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/141222111842-george-pataki-file-t3-entertainment.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/141222111842-george-pataki-file-t3-entertainment.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/05/28/politics/george-pataki-presidential-announcement-2016/index.html",
+      "fb:app_id": "80401312489",
+      "template-top": "politics,bra-2016-elections,art-vid-col,col-race-to-2016"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Donald Trump's 'SNL' Gig Triggers George Pataki's Equal Time ...",
+   "htmlTitle": "Donald Trump&#39;s &#39;SNL&#39; Gig Triggers \u003cb\u003eGeorge Pataki&#39;s\u003c/b\u003e Equal Time \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://variety.com/2015/tv/news/donald-trump-saturday-night-live-equal-time-george-pataki-1201640266/",
+   "displayLink": "variety.com",
+   "snippet": "Nov 13, 2015 ... Following Donald Trump's \"SNL\" gig, Republican presidential candidate George \nPataki is planning to file an equal time request.",
+   "htmlSnippet": "Nov 13, 2015 \u003cb\u003e...\u003c/b\u003e Following Donald Trump&#39;s &quot;SNL&quot; gig, Republican presidential candidate \u003cb\u003eGeorge\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003ePataki\u003c/b\u003e is planning to file an equal time request.",
+   "cacheId": "xMV2WB3m59UJ",
+   "formattedUrl": "variety.com/.../donald-trump-saturday-night-live-equal-time-george-pataki- 1201640266/",
+   "htmlFormattedUrl": "variety.com/.../donald-trump-saturday-night-live-equal-time-\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e- 1201640266/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pmcvariety.files.wordpress.com/2015/11/donald-trump-snl.jpg?w=1000&h=563&crop=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5wiQZHLjoyENGtRw-4rUmlvof5xXIu9MxfX--feDNYiAOGW7485RQq9I"
+     }
+    ],
+    "article": [
+     {
+      "comment": "Post A Comment 5"
+     }
+    ],
+    "metatags": [
+     {
+      "handheldfriendly": "True",
+      "mobileoptimized": "320",
+      "viewport": "width=device-width",
+      "apple-mobile-web-app-capable": "yes",
+      "msapplication-tileimage": "https://s0.wp.com/wp-content/themes/vip/pmc-variety-2014/library/images/icons/apple-touch-icon-144x144-precomposed.png",
+      "msapplication-tilecolor": "#ffffff",
+      "publish-date": "2015-11-14 01:16:54 +0000",
+      "alexaverifyid": "4IBqfMBcohHTnitnTLanYijElhs",
+      "fb:admins": "697514199",
+      "news_keywords": "Donald Trump, George Pataki, Saturday Night Live",
+      "og:type": "article",
+      "og:title": "Donald Trump's 'SNL' Hosting Gig Triggers Equal Time Request From George Pataki",
+      "og:url": "http://variety.com/2015/tv/news/donald-trump-saturday-night-live-equal-time-george-pataki-1201640266/",
+      "og:description": "Republican presidential candidate George Pataki is planning to file an equal time request with 16 NBC affiliates after Donald Trump's hosting gig on \"Saturday Night Live\" last week. Pataki's commun...",
+      "article:published_time": "2015-11-14T01:16:54+00:00",
+      "article:modified_time": "2015-11-14T01:16:54+00:00",
+      "og:site_name": "Variety",
+      "og:image": "https://pmcvariety.files.wordpress.com/2015/11/donald-trump-snl.jpg?w=1000&h=563&crop=1",
+      "og:image:width": "670",
+      "og:image:height": "377",
+      "og:locale": "en_US",
+      "twitter:site": "@variety",
+      "twitter:image:src": "https://pmcvariety.files.wordpress.com/2015/11/donald-trump-snl.jpg?w=640",
+      "twitter:card": "summary",
+      "twitter:creator": "@tedstew",
+      "author": "Ted Johnson",
+      "title": "Donald Trump's 'SNL' Hosting Gig Triggers Equal Time Request From George Pataki",
+      "published_at": "2015-11-13 17:16:54",
+      "image": "https://pmcvariety.files.wordpress.com/2015/11/donald-trump-snl.jpg",
+      "comment_count": "5",
+      "topics": "TV",
+      "tags": "Donald Trump",
+      "content_type": "Article",
+      "appeared_in_print": "No",
+      "application-name": "Variety",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-task": "name=Subscribe;action-uri=http://variety.com/feed/;icon-uri=http://0.gravatar.com/blavatar/afbe6c08bf4c400143c9e8e30f5b923a?s=16",
+      "fb:page_id": "12616252196"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Home"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Umm..."
+     },
+     {
+      "fn": "Bill B."
+     },
+     {
+      "fn": "Bernice Maminski",
+      "url": "https://www.facebook.com/app_scoped_user_id/905767659508718/",
+      "url_text": "Bernice Maminski"
+     },
+     {
+      "fn": "Guest",
+      "nickname": "Guest"
+     },
+     {
+      "fn": "Umm..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki 'chuckles' at Jeb Bush campaign cuts - CNNPolitics ...",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e &#39;chuckles&#39; at Jeb Bush campaign cuts - CNNPolitics \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cnn.com/2015/10/23/politics/george-pataki-laughing-jeb-bush-cuts/",
+   "displayLink": "www.cnn.com",
+   "snippet": "George Pataki 'chuckles' at Jeb Bush campaign cuts. By Tal Kopan, CNN. \nUpdated 3:22 PM ET, Fri October 23, 2015. Fake candidate polling better than \nBush, ...",
+   "htmlSnippet": "\u003cb\u003eGeorge Pataki\u003c/b\u003e &#39;chuckles&#39; at Jeb Bush campaign cuts. By Tal Kopan, CNN. \u003cbr\u003e\nUpdated 3:22 PM ET, Fri October 23, 2015. Fake candidate polling better than \u003cbr\u003e\nBush,&nbsp;...",
+   "cacheId": "DXWeW16BUNoJ",
+   "formattedUrl": "www.cnn.com/2015/10/23/.../george-pataki-laughing-jeb-bush-cuts/",
+   "htmlFormattedUrl": "www.cnn.com/2015/10/23/.../\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e-laughing-jeb-bush-cuts/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/151023151359-george-pataki-august-5-2015-large-169.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/151023151359-george-pataki-august-5-2015-large-169.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "politics",
+      "datecreated": "2015-10-23T17:39:47Z",
+      "datepublished": "2015-10-23T17:39:47Z",
+      "datemodified": "2015-10-23T19:22:05Z",
+      "url": "http://www.cnn.com/2015/10/23/politics/george-pataki-laughing-jeb-bush-cuts/index.html",
+      "author": "Tal Kopan, CNN",
+      "headline": "George Pataki 'chuckles' at Jeb Bush campaign cuts - CNNPolitics.com",
+      "description": "Jeb Bush cutting his campaign salaries is amusing given how much money he has raised -- at least according to his GOP presidential opponent George Pataki, who barely has thousands of dollars...",
+      "keywords": "politics, George Pataki 'chuckles' at Jeb Bush campaign cuts - CNNPolitics.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/151023151359-george-pataki-august-5-2015-large-169.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/151023151359-george-pataki-august-5-2015-large-169.jpg",
+      "alternativeheadline": "George Pataki 'chuckles' at Jeb Bush campaign cuts",
+      "articlebody": "Story highlightsLast quarter, Pataki raised about $150,000 and only had $13,000 cash on handBush's campaign is cutting payroll costs by 40%, according to internal campaign documentsWashington..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "politics",
+      "og:pubdate": "2015-10-23T17:39:47Z",
+      "pubdate": "2015-10-23T17:39:47Z",
+      "lastmod": "2015-10-23T19:22:05Z",
+      "og:url": "http://www.cnn.com/2015/10/23/politics/george-pataki-laughing-jeb-bush-cuts/index.html",
+      "author": "Tal Kopan, CNN",
+      "og:title": "George Pataki 'chuckles' at Jeb Bush campaign cuts - CNNPolitics.com",
+      "og:description": "Jeb Bush cutting his campaign salaries is amusing given how much money he has raised -- at least according to his GOP presidential opponent George Pataki, who barely has thousands of dollars in the bank.",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/151023151359-george-pataki-august-5-2015-large-169.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/151023151359-george-pataki-august-5-2015-large-169.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/10/23/politics/george-pataki-laughing-jeb-bush-cuts/index.html",
+      "fb:app_id": "80401312489"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Centrist George Pataki Joins Race for GOP Presidential Nomination ...",
+   "htmlTitle": "Centrist \u003cb\u003eGeorge Pataki\u003c/b\u003e Joins Race for GOP Presidential Nomination \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wsj.com/articles/ex-new-york-gov-george-pataki-announces-presidential-bid-1432814676",
+   "displayLink": "www.wsj.com",
+   "snippet": "May 28, 2015 ... Three-term former New York Gov. George Pataki declared he is running for the \nRepublican presidential nomination in a bid that will test the ...",
+   "htmlSnippet": "May 28, 2015 \u003cb\u003e...\u003c/b\u003e Three-term former New York Gov. \u003cb\u003eGeorge Pataki\u003c/b\u003e declared he is running for the \u003cbr\u003e\nRepublican presidential nomination in a bid that will test the&nbsp;...",
+   "formattedUrl": "www.wsj.com/.../ex-new-york-gov-george-pataki-announces-presidential-bid -1432814676",
+   "htmlFormattedUrl": "www.wsj.com/.../ex-new-york-gov-\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e-announces-presidential-bid -1432814676",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://si.wsj.net/public/resources/images/BN-IQ346_PATAKI_G_20150528121919.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "Heather Haddon",
+      "url": "Heather Haddon",
+      "email": "heather.haddon@wsj.com"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7JvfthfZ53nRf6sVFOkBdLR7KRS2L_oGZ1PikwDz0HeFwMy4eKJe_4dmp"
+     }
+    ],
+    "newsarticle": [
+     {
+      "publisher": "wsj.com",
+      "headline": "Centrist George Pataki Joins Race for GOP Presidential Nomination",
+      "description": "Ex-New York governor led a heavily Democratic state, joins crowded field of Republican candidates",
+      "articlebody": "By Heather Haddon Heather Haddon The Wall Street Journal CANCEL BiographyHeather Haddon @heatherhaddon Google+ heather.haddon@wsj.com Updated May 28, 2015 5:18 p.m. ET 138 COMMENTS George Pataki,...",
+      "interactioncount": "UserComments:138"
+     }
+    ],
+    "webpage": [
+     {
+      "datepublished": "2015-05-28T21:18:00.000Z",
+      "datemodified": "2015-05-28T21:18:00.000Z",
+      "datecreated": "2015-05-28T12:04:00.000Z",
+      "description": "Three-term former New York Gov. George Pataki declared he is running for the Republican presidential nomination in a bid that will test the Republican electorate’s interest in a centrist...",
+      "inlanguage": "en-US",
+      "image": "http://si.wsj.net/public/resources/images/BN-IQ346_PATAKI_G_20150528121919.jpg"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "U.S."
+     },
+     {
+      "item": "Politics"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "dj.asn": "i-d50f",
+      "user.type": "nonsubscriber",
+      "user.exp": "google_bot",
+      "testkeys": "C",
+      "page.section": "Article",
+      "page.content.type": "article",
+      "page.content.format": "responsive",
+      "og:type": "article",
+      "page.content.source": "WSJ Online Article",
+      "article.template": "full",
+      "page.site": "wsj",
+      "page.region": "na,us",
+      "article.id": "SB11295793630700694761804581013273434396988",
+      "article.type": "Politics and Policy",
+      "article.access": "paid",
+      "article.origheadline": "Ex-New York Gov. George Pataki Announces Presidential Bid",
+      "article.headline": "Ex-New York Gov. George Pataki announces bid for GOP presidential nomination",
+      "article.summary": "Three-term former New York Gov. George Pataki declared he is running for the Republican presidential nomination in a bid that will test the Republican electorate’s interest in a centrist who led a heavily Democratic state.",
+      "apple-itunes-app": "app-id=364387007,app-argument=wsj://launch?articleid=SB11295793630700694761804581013273434396988&headline=Ex-New%20York%20Gov.%20George%20Pataki%20announces%20bid%20for%20GOP%20presidential%20nomination&weburl=http://www.wsj.com/articles/SB11295793630700694761804581013273434396988",
+      "al:ios:url": "wsj://launch?articleid=SB11295793630700694761804581013273434396988&headline=Ex-New%20York%20Gov.%20George%20Pataki%20announces%20bid%20for%20GOP%20presidential%20nomination&weburl=http://www.wsj.com/articles/SB11295793630700694761804581013273434396988",
+      "article.page": "Politics",
+      "article.section": "US",
+      "article.published": "2015-05-28T21:18:00.000Z",
+      "article.updated": "2015-05-28T21:18:00.000Z",
+      "article.created": "2015-05-28T12:04:00.000Z",
+      "author": "Heather Haddon",
+      "news_keywords": "election 2016,george pataki,gop nomination,gop presidential nomination,pataki,pataki announces,pataki launches,pataki president,pataki presidential nomination,George Pataki",
+      "article:word_count": "995",
+      "article:image_count": "1",
+      "article:embed_count": "2",
+      "article:internal_link_count": "6",
+      "language": "en-US",
+      "twitter:title": "Centrist George Pataki Joins Race for GOP Presidential Nomination",
+      "twitter:description": "Three-term former New York Gov. George Pataki declared he is running for the Republican presidential nomination in a bid that will test the Republican electorate’s interest in a centrist who led a heavily Democratic state.",
+      "twitter:image": "http://si.wsj.net/public/resources/images/BN-IQ346_PATAKI_D_20150528121919.jpg",
+      "twitter:image:src": "http://si.wsj.net/public/resources/images/BN-IQ346_PATAKI_G_20150528121919.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:image:alt": "Ex-New York Gov. George Pataki announces bid for GOP presidential nomination",
+      "twitter:creator": "@heatherhaddon",
+      "twitter:site": "@WSJ",
+      "twitter:domain": "wsj.com",
+      "fb:app_id": "368513495882",
+      "og:title": "Centrist George Pataki Joins Race for GOP Presidential Nomination",
+      "og:description": "Three-term former New York Gov. George Pataki declared he is running for the Republican presidential nomination in a bid that will test the Republican electorate’s interest in a centrist who led a heavily Democratic state.",
+      "og:url": "http://www.wsj.com/articles/ex-new-york-gov-george-pataki-announces-presidential-bid-1432814676",
+      "og:image": "http://si.wsj.net/public/resources/images/BN-IQ346_PATAKI_G_20150528121919.jpg",
+      "og:image:width": "553",
+      "og:image:height": "369",
+      "og:locale": "en_US"
+     }
+    ],
+    "imageobject": [
+     {
+      "representativeofpage": "http://si.wsj.net/public/resources/images/BN-IQ346_PATAKI_J_20150528121919.jpg",
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-IQ346_PATAKI_J_20150528121919.jpg",
+      "caption": "Former New York Gov. George Pataki announces his candidacy for the 2016 GOP presidential nomination on Thursday, May 28, 2015 in Exeter, N.H.",
+      "description": "Former New York Gov. George Pataki announces his candidacy for the 2016 GOP presidential nomination on Thursday, May 28, 2015 in Exeter, N.H.",
+      "creator": "Photo: Darren McCollester/Getty Images"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151205/120515isclaim/120515isclaim_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151204/12042015climatechange/12042015climatechange_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151124/filmstarwars/filmstarwars_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151203/120315isisamerica/120315isisamerica_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151203/120215mahjong/120215mahjong_167x94.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-KU432_1016OB_C_20151016154120.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LO782_1206ir_C_20151206140734.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LO631_1terro_C_20151204180907.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LK285_INFORM_C_20151123134853.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LO147_1203Al_C_20151203164744.jpg"
+     }
+    ],
+    "Person": [
+     {
+      "url": "@Steve Sewell",
+      "name": "Steve Sewell"
+     },
+     {
+      "url": "@SRIDHAR CHILIMURI",
+      "name": "SRIDHAR CHILIMURI"
+     },
+     {
+      "url": "@Michael R. Ambrecht",
+      "name": "Michael R. Ambrecht"
+     },
+     {
+      "url": "@DYLAN CIRALDO",
+      "name": "DYLAN CIRALDO"
+     },
+     {
+      "url": "@DYLAN CIRALDO",
+      "name": "DYLAN CIRALDO"
+     },
+     {
+      "url": "@Albert Griffith",
+      "name": "Albert Griffith"
+     },
+     {
+      "url": "@Jamilla Graves",
+      "name": "Jamilla Graves"
+     },
+     {
+      "url": "@Albert Griffith",
+      "name": "Albert Griffith"
+     },
+     {
+      "url": "@Albert Griffith",
+      "name": "Albert Griffith"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Steve Sewell",
+      "url": "@Steve Sewell"
+     },
+     {
+      "fn": "SRIDHAR CHILIMURI",
+      "url": "@SRIDHAR CHILIMURI"
+     },
+     {
+      "fn": "Michael R. Ambrecht",
+      "url": "@Michael R. Ambrecht"
+     },
+     {
+      "fn": "DYLAN CIRALDO",
+      "url": "@DYLAN CIRALDO"
+     },
+     {
+      "fn": "DYLAN CIRALDO",
+      "url": "@DYLAN CIRALDO"
+     },
+     {
+      "fn": "Albert Griffith",
+      "url": "@Albert Griffith"
+     },
+     {
+      "fn": "Jamilla Graves",
+      "url": "@Jamilla Graves"
+     },
+     {
+      "fn": "Albert Griffith",
+      "url": "@Albert Griffith"
+     },
+     {
+      "fn": "Albert Griffith",
+      "url": "@Albert Griffith"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki challenges Trump to debate on immigration ...",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e challenges Trump to debate on immigration \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cnn.com/2015/07/06/politics/george-pataki-donald-trump-debate-immigration/",
+   "displayLink": "www.cnn.com",
+   "snippet": "Jul 8, 2015 ... Manchester, New Hampshire (CNN) Former New York Gov. George Pataki \nchallenged Donald Trump to a one-on-one debate on immigration ...",
+   "htmlSnippet": "Jul 8, 2015 \u003cb\u003e...\u003c/b\u003e Manchester, New Hampshire (CNN) Former New York Gov. \u003cb\u003eGeorge Pataki\u003c/b\u003e \u003cbr\u003e\nchallenged Donald Trump to a one-on-one debate on immigration&nbsp;...",
+   "cacheId": "Iu9_7dDT-NQJ",
+   "formattedUrl": "www.cnn.com/.../george-pataki-donald-trump-debate-immigration/",
+   "htmlFormattedUrl": "www.cnn.com/.../\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e-donald-trump-debate-immigration/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150703173102-george-pataki-donald-trump-composite-large-169.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150703173102-george-pataki-donald-trump-composite-large-169.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "politics",
+      "datecreated": "2015-07-06T21:43:00Z",
+      "datepublished": "2015-07-06T21:43:00Z",
+      "datemodified": "2015-07-08T17:01:42Z",
+      "url": "http://www.cnn.com/2015/07/06/politics/george-pataki-donald-trump-debate-immigration/index.html",
+      "author": "Cassie Spodak, CNN",
+      "headline": "George Pataki challenges Trump to debate on immigration - CNNPolitics.com",
+      "description": "Pataki challenged Donald Trump to a one-on-one debate on immigration Monday in New Hampshire, saying he wants to hear a real plan for reform from Trump.",
+      "keywords": "politics, George Pataki challenges Trump to debate on immigration - CNNPolitics.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150703173102-george-pataki-donald-trump-composite-large-169.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/150703173102-george-pataki-donald-trump-composite-large-169.jpg",
+      "alternativeheadline": "Pataki challenges Trump to debate on immigration, as Trump slams critics",
+      "articlebody": "Manchester, New Hampshire (CNN)Former New York Gov. George Pataki challenged Donald Trump to a one-on-one debate on immigration Monday in New Hampshire, saying he wants to hear a real plan..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "politics",
+      "og:pubdate": "2015-07-06T21:43:00Z",
+      "pubdate": "2015-07-06T21:43:00Z",
+      "lastmod": "2015-07-08T17:01:42Z",
+      "og:url": "http://www.cnn.com/2015/07/06/politics/george-pataki-donald-trump-debate-immigration/index.html",
+      "author": "Cassie Spodak, CNN",
+      "og:title": "George Pataki challenges Trump to debate on immigration - CNNPolitics.com",
+      "og:description": "Pataki challenged Donald Trump to a one-on-one debate on immigration Monday in New Hampshire, saying he wants to hear a real plan for reform from Trump.",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150703173102-george-pataki-donald-trump-composite-large-169.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/150703173102-george-pataki-donald-trump-composite-large-169.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/07/06/politics/george-pataki-donald-trump-debate-immigration/index.html",
+      "fb:app_id": "80401312489",
+      "template-top": "politics,bra-2016-elections,art-vid-col,col-race-to-2016"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Forget Trump. Never Mind Clinton. Here's How George Pataki Wins ...",
+   "htmlTitle": "Forget Trump. Never Mind Clinton. Here&#39;s How \u003cb\u003eGeorge Pataki\u003c/b\u003e Wins \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.thestreet.com/story/13355730/1/forget-trump-never-mind-clinton-get-ready-for-president-pataki.html",
+   "displayLink": "www.thestreet.com",
+   "snippet": "Nov 10, 2015 ... What if the Republican primary field never shakes out the way conventional \nwisdom says it should? What if everything we thought we knew ...",
+   "htmlSnippet": "Nov 10, 2015 \u003cb\u003e...\u003c/b\u003e What if the Republican primary field never shakes out the way conventional \u003cbr\u003e\nwisdom says it should? What if everything we thought we knew&nbsp;...",
+   "cacheId": "M-dvnKhzkiMJ",
+   "formattedUrl": "www.thestreet.com/.../forget-trump-never-mind-clinton-get-ready-for- president-pataki.html",
+   "htmlFormattedUrl": "www.thestreet.com/.../forget-trump-never-mind-clinton-get-ready-for- president-\u003cb\u003epataki\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/patakidefeatsclinton_600x400.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "name": "The 8 Republican Candidates and Where They Stand on Economic Issues",
+      "thumbnailurl": "http://vid.thestreet.com/p/105/thumbnail/entry_id/0_i2z887eo/height/630",
+      "width": "608",
+      "height": "340",
+      "embedurl": "//s.t.st/embed/13357803.html",
+      "contenturl": "http://www.thestreet.com/story/13355730/1/forget-trump-never-mind-clinton-get-ready-for-president-pataki.html",
+      "description": "With the next round of Republican debates approaching, it's a good time to take a quick look at each candidate and how they're doing."
+     }
+    ],
+    "person": [
+     {
+      "url": "Jeffrey Kanige",
+      "name": "Jeffrey Kanige"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb1WxRfc711Imf54Of8YWLsHwTCKIhlxR1o4UWBCGnh9RKFBQzaIeaGrCM"
+     }
+    ],
+    "article": [
+     {
+      "headline": "Forget Trump. Never Mind Clinton. Get Ready for President Pataki",
+      "keywords": "Financial, News, Stock, Market, Headlines, Investments, Quotes, Trading, TheStreet, Jeffrey Kanige, Politics",
+      "description": "Assume that everything you thought you knew about politics is wrong. This time around, it's a reasonable assumption..",
+      "inlanguage": "en-US",
+      "articlesection": "Politics",
+      "articlebody": "Reddit Email Print Reprint What if the Republican primary field never shakes out the way conventional wisdom says it should? What if everything we thought we knew about the nominating process..."
+     }
+    ],
+    "metatags": [
+     {
+      "date": "2015-11-10 09:54:00.0",
+      "news_keywords": "Donald Trump, Hillary Clinton, George Pataki, politics, campaign, presidential election, White House, polls, Republicans, GOP, debates",
+      "author": "Jeffrey Kanige",
+      "section": "Politics",
+      "contenttype": "article",
+      "og:title": "Forget Trump. The next president could be someone you don't expect",
+      "og:description": "Assume that everything you thought you knew about politics is wrong. This time around, it's a reasonable assumption.",
+      "og:url": "http://www.thestreet.com/story/13355730/1/forget-trump-never-mind-clinton-get-ready-for-president-pataki.html",
+      "og:type": "article",
+      "og:locale": "en_US",
+      "og:site_name": "TheStreet",
+      "twitter:card": "summary",
+      "twitter:site": "@TheStreet",
+      "twitter:url": "http://www.thestreet.com/story/13355730/1/.html",
+      "twitter:title": "Forget Trump. Here's how an unknown candidate can make it to the White House",
+      "twitter:description": "Assume that everything you thought you knew about politics is wrong. This time around, it's a reasonable assumption.",
+      "og:image": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/patakidefeatsclinton_600x400.jpg",
+      "twitter:image": "//s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/patakidefeatsclinton_600x400.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "George Pataki Is Wearing Two Hats: Presidential Candidate and ...",
+   "htmlTitle": "\u003cb\u003eGeorge Pataki\u003c/b\u003e Is Wearing Two Hats: Presidential Candidate and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.wsj.com/articles/george-pataki-is-wearing-two-hats-presidential-candidate-and-cattleman-1437962070",
+   "displayLink": "www.wsj.com",
+   "snippet": "Jul 26, 2015 ... Former New York Gov. George Pataki opens the door to the barn at his 412-acre \nfarm in Essex, N.Y. The property overlooks Lake Champlain.",
+   "htmlSnippet": "Jul 26, 2015 \u003cb\u003e...\u003c/b\u003e Former New York Gov. \u003cb\u003eGeorge Pataki\u003c/b\u003e opens the door to the barn at his 412-acre \u003cbr\u003e\nfarm in Essex, N.Y. The property overlooks Lake Champlain.",
+   "formattedUrl": "www.wsj.com/.../george-pataki-is-wearing-two-hats-presidential-candidate- and-cattleman-1437962070",
+   "htmlFormattedUrl": "www.wsj.com/.../\u003cb\u003egeorge\u003c/b\u003e-\u003cb\u003epataki\u003c/b\u003e-is-wearing-two-hats-presidential-candidate- and-cattleman-1437962070",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://si.wsj.net/public/resources/images/BN-JO102_NYPATA_G_20150724185759.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "Mike Vilensky",
+      "url": "Mike Vilensky",
+      "email": "Mike.Vilensky@wsj.com"
+     },
+     {
+      "name": "Heather Haddon",
+      "url": "Heather Haddon",
+      "email": "heather.haddon@wsj.com"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHzwXoZHypo4cD9QF5QAm1xUFXkRMSUGHvRVpgmZPWTJYb0ck5cni6eP8"
+     }
+    ],
+    "newsarticle": [
+     {
+      "publisher": "wsj.com",
+      "interactioncount": "UserLikes:1268",
+      "headline": "George Pataki Is Wearing Two Hats: Presidential Candidate and Cattleman",
+      "description": "Former New York governor quietly operates South Farm at Abingdon Square Greenmarket in Manhattan",
+      "articlebody": "George Pataki, Presidential Candidate and Quiet Cattleman Former New York governor quietly operates South Farm at Abingdon Square Greenmarket in Manhattan fullscreen PreviousNext 1 of 10 SHOW...",
+      "caption": "The Patakis take in the view of Lake Champlain. Ben Sarle for The Wall Street Journal …",
+      "creator": "Ben Sarle for The Wall Street Journal"
+     }
+    ],
+    "webpage": [
+     {
+      "datepublished": "2015-07-27T01:54:00.000Z",
+      "datemodified": "2015-07-27T01:54:00.000Z",
+      "datecreated": "2015-07-27T01:54:00.000Z",
+      "description": "A beef stand with a political back story has shaken up New York farming circles since it opened last month at a Manhattan greenmarket. South Farm is operated by a former New York governor:...",
+      "inlanguage": "en-US",
+      "image": "http://si.wsj.net/public/resources/images/BN-JO102_NYPATA_G_20150724185759.jpg"
+     }
+    ],
+    "listitem": [
+     {
+      "item": "U.S."
+     },
+     {
+      "item": "New York"
+     },
+     {
+      "item": "NY Politics"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "dj.asn": "i-a811",
+      "user.type": "nonsubscriber",
+      "user.exp": "google_bot",
+      "testkeys": "C",
+      "page.section": "Article",
+      "page.content.type": "article",
+      "page.content.format": "responsive",
+      "og:type": "article",
+      "page.content.source": "WSJ Online Article",
+      "article.template": "full",
+      "page.site": "wsj",
+      "page.region": "na,us",
+      "article.id": "SB10651628538975954845404581122303754837180",
+      "article.type": "NY Politics",
+      "article.access": "paid",
+      "article.origheadline": "George Pataki Is Wearing Two Hats: Presidential Candidate and Cattleman",
+      "article.headline": "Former Gov. George Pataki is wearing two hats: presidential candidate and cattleman",
+      "article.summary": "A beef stand with a political back story has shaken up New York farming circles since it opened last month at a Manhattan greenmarket. South Farm is operated by a former New York governor: George Pataki, who is running for president.",
+      "apple-itunes-app": "app-id=364387007,app-argument=wsj://launch?articleid=SB10651628538975954845404581122303754837180&headline=Former%20Gov.%20George%20Pataki%20is%20wearing%20two%20hats%3A%20presidential%20candidate%20and%20cattleman&weburl=http://www.wsj.com/articles/SB10651628538975954845404581122303754837180",
+      "al:ios:url": "wsj://launch?articleid=SB10651628538975954845404581122303754837180&headline=Former%20Gov.%20George%20Pataki%20is%20wearing%20two%20hats%3A%20presidential%20candidate%20and%20cattleman&weburl=http://www.wsj.com/articles/SB10651628538975954845404581122303754837180",
+      "article.page": "New York",
+      "article.section": "US",
+      "article.published": "2015-07-27T01:54:00.000Z",
+      "article.updated": "2015-07-27T01:54:00.000Z",
+      "article.created": "2015-07-27T01:54:00.000Z",
+      "author": "Mike Vilensky And Heather Haddon",
+      "news_keywords": "abingdon square greenmarket,beef stand,cattle,cattleman,cows,essex new york,george pataki,gop,governor,libby pataki",
+      "article:word_count": "856",
+      "article:image_count": "2",
+      "article:embed_count": "2",
+      "article:internal_link_count": "7",
+      "article:external_link_count": "2",
+      "language": "en-US",
+      "twitter:title": "George Pataki Is Wearing Two Hats: Presidential Candidate and Cattleman",
+      "twitter:description": "A beef stand with a political back story has shaken up New York farming circles since it opened last month at a Manhattan greenmarket. South Farm is operated by a former New York governor: George Pataki, who is running for president.",
+      "twitter:image": "http://si.wsj.net/public/resources/images/BN-JO102_NYPATA_D_20150724185759.jpg",
+      "twitter:image:src": "http://si.wsj.net/public/resources/images/BN-JO102_NYPATA_G_20150724185759.jpg",
+      "twitter:card": "summary_large_image",
+      "twitter:image:alt": "Former Gov. George Pataki is wearing two hats: presidential candidate and cattleman",
+      "twitter:creator": "@mikevilensky",
+      "twitter:site": "@WSJ",
+      "twitter:domain": "wsj.com",
+      "fb:app_id": "368513495882",
+      "og:title": "George Pataki Is Wearing Two Hats: Presidential Candidate and Cattleman",
+      "og:description": "A beef stand with a political back story has shaken up New York farming circles since it opened last month at a Manhattan greenmarket. South Farm is operated by a former New York governor: George Pataki, who is running for president.",
+      "og:url": "http://www.wsj.com/articles/george-pataki-is-wearing-two-hats-presidential-candidate-and-cattleman-1437962070",
+      "og:image": "http://si.wsj.net/public/resources/images/BN-JO102_NYPATA_G_20150724185759.jpg",
+      "og:image:width": "553",
+      "og:image:height": "369"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN204_NYPATA_J_20150722185504.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN201_NYPATA_J_20150722185446.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN200_NYPATA_J_20150722185446.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN198_NYPATA_J_20150722185446.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN199_NYPATA_J_20150722185446.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN203_NYPATA_J_20150722185446.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN202_NYPATA_J_20150722185446.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN206_NYPATA_J_20150722185503.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN207_NYPATA_J_20150722185503.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN205_NYPATA_J_20150722185503.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN204_NYPATA_J_20150722185504.jpg"
+     },
+     {
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JN201_NYPATA_J_20150722185446.jpg"
+     },
+     {
+      "representativeofpage": "http://si.wsj.net/public/resources/images/BN-JO102_NYPATA_P_20150724185759.jpg",
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JO102_NYPATA_P_20150724185759.jpg",
+      "caption": "Mr. Pataki, on a tractor.",
+      "description": "Mr. Pataki, on a tractor.",
+      "creator": "Photo: Ben Sarle for The Wall Street Journal"
+     },
+     {
+      "representativeofpage": "http://si.wsj.net/public/resources/images/BN-JO103_NYPATA_P_20150724185812.jpg",
+      "contenturl": "http://si.wsj.net/public/resources/images/BN-JO103_NYPATA_P_20150724185812.jpg",
+      "caption": "Libby Pataki, in the horse barn.",
+      "description": "Libby Pataki, in the horse barn.",
+      "creator": "Photo: Ben Sarle for The Wall Street Journal"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151208/120815applesmartcase/120815applesmartcase_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151208/120815pixelc/120815pixelc_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151204/120415ufchamp/120415ufchamp_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151208/120715hadeda/120715hadeda_167x94.jpg"
+     },
+     {
+      "contenturl": "http://m.wsj.net/video/20151208/120815trumpreacts/120815trumpreacts_167x94.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LP887_DOWDUP_C_20151208201129.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LP705_botwt1_C_20151208143102.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LP528_trumpm_C_20151208111303.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/NA-CI071_VISA_C_20151208203534.jpg"
+     },
+     {
+      "contenturl": "http://s.wsj.net/public/resources/images/BN-LP216_mcgurn_C_20151207161751.jpg"
+     }
+    ],
+    "Person": [
+     {
+      "url": "@Bill Greenstein",
+      "name": "Bill Greenstein"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Bill Greenstein",
+      "url": "@Bill Greenstein"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Longest Long Shots of the 2016 GOP Race - The Atlantic",
+   "htmlTitle": "The Longest Long Shots of the 2016 GOP Race - The Atlantic",
+   "link": "http://www.theatlantic.com/politics/archive/2015/02/the-longest-long-shots-of-the-2016-gop-race/385273/",
+   "displayLink": "www.theatlantic.com",
+   "snippet": "Feb 10, 2015 ... More than a dozen Republicans are eyeing presidential bids, but the potential \ncandidacies of George Pataki, Jim Gilmore, and Bob Ehrlich may ...",
+   "htmlSnippet": "Feb 10, 2015 \u003cb\u003e...\u003c/b\u003e More than a dozen Republicans are eyeing presidential bids, but the potential \u003cbr\u003e\ncandidacies of \u003cb\u003eGeorge Pataki\u003c/b\u003e, Jim Gilmore, and Bob Ehrlich may&nbsp;...",
+   "cacheId": "ppPdetQrFIwJ",
+   "formattedUrl": "www.theatlantic.com/politics/archive/2015/02/the.../385273/",
+   "htmlFormattedUrl": "www.theatlantic.com/politics/archive/2015/02/the.../385273/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.theatlantic.com/assets/media/img/mt/2015/02/GilmorePatakiEhrlich/lead_large.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSBboNZ3mIloljQkjDsxmC1w89zyqNuA4bxWS4jByyu01mlN-QCwa8spU"
+     }
+    ],
+    "newsarticle": [
+     {
+      "headline": "The Longest Long Shots of the 2016 GOP Race",
+      "description": "More than a dozen Republicans are eyeing presidential bids, but the potential candidacies of George Pataki, Jim Gilmore, and Bob Ehrlich may be the most baffling. What are they thinking?",
+      "image": "http://cdn.theatlantic.com/assets/media/img/mt/2015/02/GilmorePatakiEhrlich/lead_large.jpg?1430146686",
+      "datepublished": "2015-02-10T06:00:00",
+      "articlebody": "Former Governors George Pataki of New York, Jim Gilmore of Virginia, and Bob Ehrlich of Maryland have been out of elected office for a combined 29 years. They have no devoted national followings,..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, maximum-scale=1.0, width=device-width",
+      "og:site_name": "The Atlantic",
+      "og:locale": "en_US",
+      "fb:admins": "577048155,17301937",
+      "fb:page_id": "29259828486",
+      "fb:app_id": "100770816677686",
+      "p:domain_verify": "68e1a0361a557708fefc992f3309ed70",
+      "og:title": "The Longest Long Shots of the 2016 GOP Race",
+      "og:type": "article",
+      "og:url": "http://www.theatlantic.com/politics/archive/2015/02/the-longest-long-shots-of-the-2016-gop-race/385273/",
+      "og:image": "http://cdn.theatlantic.com/assets/media/img/mt/2015/02/GilmorePatakiEhrlich/lead_large.jpg",
+      "og:description": "More than a dozen Republicans are eyeing presidential bids, but the potential candidacies of George Pataki, Jim Gilmore, and Bob Ehrlich may be the most baffling. What are they thinking?",
+      "author": "Russell Berman",
+      "twitter:site": "@theatlantic",
+      "twitter:domain": "theatlantic.com",
+      "twitter:card": "summary",
+      "parsely-page": "{\"title\": \"The Longest Long Shots of the 2016 GOP Race\", \"type\": \"post\", \"section\": \"politics\", \"author\": \"Russell Berman\", \"post_id\": 385273, \"link\": \"http://www.theatlantic.com/politics/archive/2015/02/the-longest-long-shots-of-the-2016-gop-race/385273/\", \"pub_date\": \"2015-02-10T06:00:00Z\"}"
+     }
+    ]
+   }
+  }
+ ]
+}

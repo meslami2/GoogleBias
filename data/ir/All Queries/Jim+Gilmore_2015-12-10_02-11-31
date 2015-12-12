@@ -1,0 +1,1676 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jim Gilmore",
+    "totalResults": "687000",
+    "searchTerms": "Jim Gilmore",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jim Gilmore",
+    "totalResults": "687000",
+    "searchTerms": "Jim Gilmore",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.315045,
+  "formattedSearchTime": "0.32",
+  "totalResults": "687000",
+  "formattedTotalResults": "687,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "https://en.wikipedia.org/wiki/Jim_Gilmore",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "James Stuart \"Jim\" Gilmore III (born October 6, 1949) is an American politician \nwho was the 68th Governor of Virginia from 1998 to 2002. A member of the ...",
+   "htmlSnippet": "James Stuart &quot;\u003cb\u003eJim\u003c/b\u003e&quot; \u003cb\u003eGilmore\u003c/b\u003e III (born October 6, 1949) is an American politician \u003cbr\u003e\nwho was the 68th Governor of Virginia from 1998 to 2002. A member of the&nbsp;...",
+   "cacheId": "mOSGj8asZqMJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Jim_Gilmore",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eJim\u003c/b\u003e_\u003cb\u003eGilmore\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jim_Gilmore_2015.jpg/220px-Jim_Gilmore_2015.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "259",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0OoSdE_eUZwCZ9dGKJVM4sffO0SPmkwaoQNzHNDQ-Cxo9QEX5DNYUsr4"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Jim Gilmore",
+      "nickname": "James Stuart Gilmore III",
+      "bday": "1949-10-06"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore for America",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e for America",
+   "link": "http://www.gilmoreforamerica.com/",
+   "displayLink": "www.gilmoreforamerica.com",
+   "snippet": "Jim Gilmore is running for president of the United States.",
+   "htmlSnippet": "\u003cb\u003eJim Gilmore\u003c/b\u003e is running for president of the United States.",
+   "cacheId": "KVq-Ij-2proJ",
+   "formattedUrl": "www.gilmoreforamerica.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003egilmore\u003c/b\u003eforamerica.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Jim Gilmore for America",
+      "og:description": "Jim Gilmore is running for president of the United States.",
+      "og:url": "http://www.gilmoreforamerica.com/",
+      "og:site_name": "Jim Gilmore for America",
+      "twitter:card": "summary",
+      "twitter:description": "Jim Gilmore is running for president of the United States.",
+      "twitter:title": "Jim Gilmore for America",
+      "twitter:domain": "Jim Gilmore for America"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Campaigns start too early? Well, not Jim Gilmore's. The Washington ...",
+   "htmlTitle": "Campaigns start too early? Well, not \u003cb\u003eJim Gilmore&#39;s\u003c/b\u003e. The Washington \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.washingtonpost.com/politics/campaigns-start-too-early-well-not-jim-gilmores/2015/09/07/f9c3bf72-556f-11e5-8bb1-b488d231bba2_story.html",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Sep 7, 2015 ... Jim Gilmore is running for president. He's just not campaigning for president. \nThat's what sets him apart. In fact, since Gilmore — a former ...",
+   "htmlSnippet": "Sep 7, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJim Gilmore\u003c/b\u003e is running for president. He&#39;s just not campaigning for president. \u003cbr\u003e\nThat&#39;s what sets him apart. In fact, since Gilmore — a former&nbsp;...",
+   "formattedUrl": "https://www.washingtonpost.com/...jim-gilmores/.../f9c3bf72-556f-11e5- 8bb1-b488d231bba2_story.html",
+   "htmlFormattedUrl": "https://www.washingtonpost.com/...\u003cb\u003ejim\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003es/.../f9c3bf72-556f-11e5- 8bb1-b488d231bba2_story.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/09/03/National-Politics/Images/230082544.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "David A. Fahrenthold"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx6acz-dmiGGlLQtIkUpTSebO_mZlKXeUDasJTltRg7WBSYC9zNrMyg-M"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "The former Virginia governor’s presidential effort is hardly off the ground, but he insists it’s serious.",
+      "mainentityofpage": "True",
+      "image": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/09/03/National-Politics/Images/230082544.jpg",
+      "url": "https://www.washingtonpost.com/politics/campaigns-start-too-early-well-not-jim-gilmores/2015/09/07/f9c3bf72-556f-11e5-8bb1-b488d231bba2_story.html",
+      "headline": "Campaigns start too early? Well, not Jim Gilmore’s.",
+      "datepublished": "2015-09-07T08:09-500",
+      "articlebody": "Jim Gilmore is running for president. He’s just not campaigning for president. That’s what sets him apart. In fact, since Gilmore — a former governor of Virginia — officially got into..."
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-uuid": "f9c3bf72-556f-11e5-8bb1-b488d231bba2",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+      "referrer": "unsafe-url",
+      "news_keywords": "jim gilmore, gilmore for president, 2016 presidential campaign, ppinclude",
+      "twitter:card": "summary_large_image",
+      "og:description": "The former Virginia governor’s presidential effort is hardly off the ground, but he insists it’s serious.",
+      "og:type": "article",
+      "og:site_name": "Washington Post",
+      "og:image": "https://img.washingtonpost.com/rw/2010-2019/WashingtonPost/2015/09/03/National-Politics/Images/230082544.jpg",
+      "og:title": "Campaigns start too early? Well, not Jim Gilmore’s.",
+      "article:publisher": "https://www.facebook.com/washingtonpost",
+      "fb:admins": "1513210492",
+      "fb:app_id": "41245586762",
+      "og:url": "https://www.washingtonpost.com/politics/campaigns-start-too-early-well-not-jim-gilmores/2015/09/07/f9c3bf72-556f-11e5-8bb1-b488d231bba2_story.html",
+      "apple-itunes-app": "app-id=938922398, app-argument=https://www.washingtonpost.com/politics/campaigns-start-too-early-well-not-jim-gilmores/2015/09/07/f9c3bf72-556f-11e5-8bb1-b488d231bba2_story.html",
+      "article:author": "https://www.facebook.com/fahrenthold",
+      "author": "https://www.facebook.com/fahrenthold",
+      "twitter:creator": "@Fahrenthold"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore (@gov_gilmore) | Twitter",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e (@gov_gilmore) | Twitter",
+   "link": "https://twitter.com/gov_gilmore?lang=en",
+   "displayLink": "twitter.com",
+   "snippet": "The latest Tweets from Jim Gilmore (@gov_gilmore). Candidate for the \nRepublican nomination for President. Former Virginia Governor (1998-2002). \nRichmond ...",
+   "htmlSnippet": "The latest Tweets from \u003cb\u003eJim Gilmore\u003c/b\u003e (@gov_gilmore). Candidate for the \u003cbr\u003e\nRepublican nomination for President. Former Virginia Governor (1998-2002). \u003cbr\u003e\nRichmond&nbsp;...",
+   "cacheId": "rt1idEaDQ3IJ",
+   "formattedUrl": "https://twitter.com/gov_gilmore?lang=en",
+   "htmlFormattedUrl": "https://twitter.com/gov_\u003cb\u003egilmore\u003c/b\u003e?lang=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pbs.twimg.com/profile_images/635099460142526464/FWfCTuS-_400x400.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "192",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzxJF6O6jrU-GV9yrCOJtP8TthgstkpxJm_iQCtrY_GoV1hKzBgVVlRirn"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore Blows Up on CNN for Being Excluded from Debates ...",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e Blows Up on CNN for Being Excluded from Debates \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.mediaite.com/tv/jim-gilmore-blows-up-on-cnn-for-being-excluded-from-debates-blames-cnn/",
+   "displayLink": "www.mediaite.com",
+   "snippet": "Nov 1, 2015 ... Jim Gilmore is barely registering in the Republican primary polls, but he believes \nhe deserves a spot in the debates and blew up on CNN this ...",
+   "htmlSnippet": "Nov 1, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJim Gilmore\u003c/b\u003e is barely registering in the Republican primary polls, but he believes \u003cbr\u003e\nhe deserves a spot in the debates and blew up on CNN this&nbsp;...",
+   "cacheId": "uOaMB1QSo2cJ",
+   "formattedUrl": "www.mediaite.com/.../jim-gilmore-blows-up-on-cnn-for-being-excluded- from-debates-blames-cnn/",
+   "htmlFormattedUrl": "www.mediaite.com/.../\u003cb\u003ejim\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003e-blows-up-on-cnn-for-being-excluded- from-debates-blames-cnn/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mediaite.com/wp-content/uploads/2015/11/gilmore-300x197.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.5, minimum-scale=1.0",
+      "og:title": "Jim Gilmore Blows Up on CNN for Being Excluded from Debates, Blames CNN",
+      "og:image": "http://www.mediaite.com/wp-content/uploads/2015/11/gilmore-300x197.jpg",
+      "twitter:card": "summary",
+      "twitter:site": "@mediaite",
+      "twitter:creator": "@feldmaniac",
+      "twitter:title": "Jim Gilmore Blows Up on CNN for Being Excluded from Debates, Blames CNN",
+      "twitter:description": "Jim Gilmore is barely registering in the Republican primary polls, but he believes he deserves a spot in the debates and blew up on CNN this morning, blaming that network and others for keeping him out of the process.",
+      "twitter:image": "http://www.mediaite.com/wp-content/uploads/2015/11/gilmore-300x197.jpg",
+      "nextgen": "1.5.5",
+      "date": "1970-01-01T00:00:00+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore on the Issues",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e on the Issues",
+   "link": "http://www.ontheissues.org/Jim_Gilmore.htm",
+   "displayLink": "www.ontheissues.org",
+   "snippet": "Jim Gilmore on the Issues on Jim Gilmore; Presidential candidates.",
+   "htmlSnippet": "\u003cb\u003eJim Gilmore\u003c/b\u003e on the Issues on \u003cb\u003eJim Gilmore\u003c/b\u003e; Presidential candidates.",
+   "cacheId": "R0DkHct_NooJ",
+   "formattedUrl": "www.ontheissues.org/Jim_Gilmore.htm",
+   "htmlFormattedUrl": "www.ontheissues.org/\u003cb\u003eJim\u003c/b\u003e_\u003cb\u003eGilmore\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ontheissues.org/Jim_Gilmore.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "84",
+      "height": "117",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9eCejczkdkjGSvIvTXmgeM8Yk9y0jrFoCd9pYiMZA9Pr7hCrngTz"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "OnTheIssues.org"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "5 Things You Should Know About Jim Gilmore : It's All Politics : NPR",
+   "htmlTitle": "5 Things You Should Know About \u003cb\u003eJim Gilmore\u003c/b\u003e : It&#39;s All Politics : NPR",
+   "link": "http://www.npr.org/sections/itsallpolitics/2015/07/08/421145703/5-things-you-should-know-about-jim-gilmore",
+   "displayLink": "www.npr.org",
+   "snippet": "Jul 8, 2015 ... Former Virginia Gov. Jim Gilmore told the Richmond Times-Dispatch he's in and \nplans to make an official announcement the first week in ...",
+   "htmlSnippet": "Jul 8, 2015 \u003cb\u003e...\u003c/b\u003e Former Virginia Gov. \u003cb\u003eJim Gilmore\u003c/b\u003e told the Richmond Times-Dispatch he&#39;s in and \u003cbr\u003e\nplans to make an official announcement the first week in&nbsp;...",
+   "formattedUrl": "www.npr.org/sections/.../5-things-you-should-know-about-jim-gilmore",
+   "htmlFormattedUrl": "www.npr.org/sections/.../5-things-you-should-know-about-\u003cb\u003ejim\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.npr.org/assets/img/2015/07/08/ap_840740327569_wide-8088bc58c6f2750213ce63c40c0d9d1691afb986.jpg?s=1400"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHfGLynrFMNrQSuwWE5IFUPz1na9Oe6AeJRmMkgEQr0JnfIs9Tk_kAaIM"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "General",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no",
+      "date": "2015-07-08",
+      "og:title": "5 Things You Should Know About Jim Gilmore",
+      "og:url": "http://www.npr.org/sections/itsallpolitics/2015/07/08/421145703/5-things-you-should-know-about-jim-gilmore",
+      "og:type": "article",
+      "og:description": "Ex-Gov. Jim Gilmore, R-Va., is the 15th Republican to get in the presidential race. He's an Army veteran, speaks German, played the clarinet competitively and loves Pizza Hut and Miller Genuine Draft.",
+      "og:image": "http://media.npr.org/assets/img/2015/07/08/ap_840740327569_wide-8088bc58c6f2750213ce63c40c0d9d1691afb986.jpg?s=1400",
+      "og:site_name": "NPR.org",
+      "fb:app_id": "138837436154588",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@NPR",
+      "twitter:domain": "npr.org",
+      "twitter:image:src": "http://media.npr.org/assets/img/2015/07/08/ap_840740327569_wide-8088bc58c6f2750213ce63c40c0d9d1691afb986.jpg?s=1400"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gilmore says he will run for president - Richmond Times-Dispatch ...",
+   "htmlTitle": "\u003cb\u003eGilmore\u003c/b\u003e says he will run for president - Richmond Times-Dispatch \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.richmond.com/news/virginia/government-politics/article_30b836ff-1768-5bcb-9681-f942acfb711f.html",
+   "displayLink": "www.richmond.com",
+   "snippet": "Jul 7, 2015 ... Gilmore, 65, Virginia's governor from 1998 to 2002, broke the news late ... Jim \nGilmore says he is running for president and plans a formal ...",
+   "htmlSnippet": "Jul 7, 2015 \u003cb\u003e...\u003c/b\u003e Gilmore, 65, Virginia&#39;s governor from 1998 to 2002, broke the news late ... \u003cb\u003eJim\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eGilmore\u003c/b\u003e says he is running for president and plans a formal&nbsp;...",
+   "formattedUrl": "www.richmond.com/.../article_30b836ff-1768-5bcb-9681-f942acfb711f. html",
+   "htmlFormattedUrl": "www.richmond.com/.../article_30b836ff-1768-5bcb-9681-f942acfb711f. html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/5c/45c5e6f2-d479-11e4-acb5-c3e72a079c1f/5515470d7437d.image.jpg?resize=760%2C585"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "197",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkN0gTAdlI-g4nj3tEGqTOx7yiBu4ctMLyVrys49D1I0F18q7t67vgJXbN"
+     }
+    ],
+    "metatags": [
+     {
+      "news_keywords": "#printsection_td_a1,government-politics,breaking",
+      "fb:app_id": "359392482564",
+      "og:title": "Gilmore says he will run for president",
+      "og:site_name": "Richmond Times-Dispatch",
+      "og:image": "http://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/5c/45c5e6f2-d479-11e4-acb5-c3e72a079c1f/5515470d7437d.image.jpg?resize=760%2C585",
+      "og:image:height": "585",
+      "og:image:width": "760",
+      "og:url": "http://www.richmond.com/news/virginia/government-politics/article_30b836ff-1768-5bcb-9681-f942acfb711f.html",
+      "og:description": "Gilmore, 65, Virginia's governor from 1998 to 2002, broke the news late Tuesday in an exclusive telephone interview with the Richmond Times-Dispatch.",
+      "og:type": "article",
+      "twitter:site": "@richmonddotcom",
+      "twitter:creator": "@",
+      "twitter:card": "summary",
+      "p:domain_verify": "76099571785251a341c8e146d86d708e",
+      "fb:admins": "100001414653607"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Gilmore says he will run for president - Richmond Times-Dispatch: Virginia Politics",
+      "url": "http://www.richmond.com/",
+      "url_text": "Gilmore says he will run for president - Richmond Times-Dispatch: Virginia Politics"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore plans to live-tweet the debate - POLITICO",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e plans to live-tweet the debate - POLITICO",
+   "link": "http://www.politico.com/story/2015/09/republican-debate-jim-gilmore-twitter-213657",
+   "displayLink": "www.politico.com",
+   "snippet": "Sep 15, 2015 ... Jim Gilmore's steamed that CNN has excluded him, and only him, from \nWednesday's Republican debates, but he's going to jump into the fray ...",
+   "htmlSnippet": "Sep 15, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJim Gilmore&#39;s\u003c/b\u003e steamed that CNN has excluded him, and only him, from \u003cbr\u003e\nWednesday&#39;s Republican debates, but he&#39;s going to jump into the fray&nbsp;...",
+   "cacheId": "dnnrpidOW3UJ",
+   "formattedUrl": "www.politico.com/.../republican-debate-jim-gilmore-twitter-213657",
+   "htmlFormattedUrl": "www.politico.com/.../republican-debate-\u003cb\u003ejim\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003e-twitter-213657",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://images.politicopro.com/images/campaigns/150708_jim_gilmore-ap.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "305",
+      "height": "165",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1S11XIHFcumXVePKJfrbEo0upPG5rNnVfDb7KzSq-rqeLOGqlvvPu6TPK"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Jim Gilmore plans to live-tweet the debate",
+      "og:description": "“CNN and the RNC have decided to muzzle me.&quot;",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:type": "article",
+      "og:url": "http://www.politico.com/story/2015/09/republican-debate-jim-gilmore-twitter-213657",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@politico",
+      "twitter:creator": "@politico",
+      "og:fb_appid": "114037015331397",
+      "og:site_name": "POLITICO",
+      "og:image": "https://images.politicopro.com/images/campaigns/150708_jim_gilmore-ap.jpg"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Kyle Cheney",
+      "url": "http://www.politico.com/staff/kyle-cheney",
+      "url_text": "Kyle Cheney"
+     },
+     {
+      "fn": "Kyle Cheney",
+      "url": "http://www.politico.com/staff/kyle-cheney",
+      "url_text": "Kyle Cheney"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore Accuses Lindsey Graham Of 'Dishonoring The Uniform ...",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e Accuses Lindsey Graham Of &#39;Dishonoring The Uniform \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://dailycaller.com/2015/11/13/jim-gilmore-accuses-lindsey-graham-of-dishonoring-the-uniform/",
+   "displayLink": "dailycaller.com",
+   "snippet": "Nov 13, 2015 ... Jim Gilmore attacked fellow veteran and GOP rival Sen. Lindsey Graham of \nSouth Carolina for “dishonoring the uniform.”",
+   "htmlSnippet": "Nov 13, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJim Gilmore\u003c/b\u003e attacked fellow veteran and GOP rival Sen. Lindsey Graham of \u003cbr\u003e\nSouth Carolina for “dishonoring the uniform.”",
+   "cacheId": "hZ5HNRwrKJgJ",
+   "formattedUrl": "dailycaller.com/.../jim-gilmore-accuses-lindsey-graham-of-dishonoring-the- uniform/",
+   "htmlFormattedUrl": "dailycaller.com/.../\u003cb\u003ejim\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003e-accuses-lindsey-graham-of-dishonoring-the- uniform/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn01.dailycaller.com/wp-content/uploads/2015/04/Jim-Gilmore-e1429890937389.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "343",
+      "height": "147",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSapr-iMmJo7bQhxsdKPaXI77FyicR3OHT4VxvxbCqXFfaoHTLQ6Kd32BOV"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:url": "http://dailycaller.com/2015/11/13/jim-gilmore-accuses-lindsey-graham-of-dishonoring-the-uniform/",
+      "twitter:card": "summary",
+      "twitter:site": "@dailycaller",
+      "twitter:site:id": "39308549",
+      "twitter:title": "Jim Gilmore Accuses Lindsey Graham Of ‘Dishonoring The Uniform’ Via @dailycaller",
+      "twitter:description": "Gilmore is struggling for attention",
+      "twitter:image:src": "http://dailycaller.com/wp-content/uploads/2015/04/Jim-Gilmore-e1429890937389.jpg",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "fb:app_id": "143489452702",
+      "og:site_name": "The Daily Caller",
+      "og:description": "Former Virginia Gov. Jim Gilmore, struggling for attention in the Republican presidential race, attacked fellow veteran and GOP rival Sen. [crscore]Lindsey Graham[/crscore] of South Carolina for \"dish",
+      "og:title": "Jim Gilmore Accuses Lindsey Graham Of ‘Dishonoring The Uniform’",
+      "og:url": "http://dailycaller.com/2015/11/13/jim-gilmore-accuses-lindsey-graham-of-dishonoring-the-uniform/",
+      "og:type": "article",
+      "og:image": "http://cdn01.dailycaller.com/wp-content/uploads/2015/04/Jim-Gilmore-e1429890937389.jpg",
+      "og:image:width": "965",
+      "og:image:height": "415",
+      "sailthru.description": "Former Virginia Gov. Jim Gilmore, struggling for attention in the Republican presidential race, attacked fellow veteran and GOP rival Sen. [crscore]Lindsey Graham[/crscore] of South Carolina for \"dish",
+      "sailthru.title": "Jim Gilmore Accuses Lindsey Graham Of 'Dishonoring The Uniform'",
+      "sailthru.date": "2015-11-13 12:35:10",
+      "sailthru.image.full": "http://cdn01.dailycaller.com/wp-content/uploads/2015/04/Jim-Gilmore-e1429890937389.jpg",
+      "sailthru.author": "Alex Pappas",
+      "sailthru.tags": "elections-2016,lindsey-graham,alex-pappas",
+      "wp-parsely_version": "1.6",
+      "parsely-page": "{\"title\":\"Jim Gilmore Accuses Lindsey Graham Of ‘Dishonoring The Uniform’\",\"link\":\"http:\\/\\/dailycaller.com\\/2015\\/11\\/13\\/jim-gilmore-accuses-lindsey-graham-of-dishonoring-the-uniform\\/\",\"image_url\":\"http:\\/\\/dailycaller.com\\/wp-content\\/uploads\\/2015\\/04\\/Jim-Gilmore-e1429890937389.jpg\",\"type\":\"post\",\"post_id\":\"4785859\",\"pub_date\":\"2015-11-13T17:35:10Z\",\"section\":\"DC Exclusives - Original Reporting\",\"author\":\"Alex Pappas\",\"tags\":[\"elections 2016\",\"jim gilmore\",\"lindsey graham\"]}"
+     }
+    ]
+   }
+  }
+ ]
+}
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jim Gilmore",
+    "totalResults": "687000",
+    "searchTerms": "Jim Gilmore",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jim Gilmore",
+    "totalResults": "687000",
+    "searchTerms": "Jim Gilmore",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - Jim Gilmore",
+    "totalResults": "687000",
+    "searchTerms": "Jim Gilmore",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.295697,
+  "formattedSearchTime": "0.30",
+  "totalResults": "687000",
+  "formattedTotalResults": "687,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore - 2016 Republican Presidential Candidates",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e - 2016 Republican Presidential Candidates",
+   "link": "http://2016.republican-candidates.org/Gilmore/",
+   "displayLink": "2016.republican-candidates.org",
+   "snippet": "James Stuart Gilmore III, who prefers to be addressed by the shorthand name “\nJim”, was born in Richmond, Virginia. He earned a Bachelor of Arts and a Juris ...",
+   "htmlSnippet": "\u003cb\u003eJames\u003c/b\u003e Stuart \u003cb\u003eGilmore\u003c/b\u003e III, who prefers to be addressed by the shorthand name “\u003cbr\u003e\n\u003cb\u003eJim\u003c/b\u003e”, was born in Richmond, Virginia. He earned a Bachelor of Arts and a Juris&nbsp;...",
+   "cacheId": "Yykjv6FCS9EJ",
+   "formattedUrl": "2016.republican-candidates.org/Gilmore/",
+   "htmlFormattedUrl": "2016.republican-candidates.org/\u003cb\u003eGilmore\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/Jim-Gilmore.gif"
+     }
+    ],
+    "person": [
+     {
+      "role": "Former Governor of Virginia"
+     },
+     {
+      "url": "Jim Gilmore",
+      "name": "Jim Gilmore",
+      "jobtitle": "Former Governor of Virginia",
+      "givenname": "James",
+      "additionalname": "Stuart",
+      "familyname": "Gilmore",
+      "birthdate": "October 6th, 1949"
+     },
+     {
+      "jobtitle": "2016 Republican Candidate",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1954-09-06",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Carly-Fiorina.gif",
+      "url": "Carly Fiorina",
+      "name": "Carly Fiorina"
+     },
+     {
+      "jobtitle": "2016 Republican Presidential Candidate",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1951-09-18",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Ben-Carson.gif",
+      "url": "Ben Carson",
+      "name": "Ben Carson"
+     },
+     {
+      "jobtitle": "2016 Republican Presidential Candidate",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1953-02-11",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Jeb-Bush.gif",
+      "url": "Jeb Bush",
+      "name": "Jeb Bush"
+     },
+     {
+      "jobtitle": "Republican Candidate 2016",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1946-06-14",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Donald-Trump.gif",
+      "url": "Donald Trump",
+      "name": "Donald Trump"
+     },
+     {
+      "jobtitle": "Republican Candidate 2016",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1955-08-24",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Mike-Huckabee.gif",
+      "url": "Mike Huckabee",
+      "name": "Mike Huckabee"
+     },
+     {
+      "jobtitle": "Republican Candidate",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1970-12-22",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Ted-Cruz.gif",
+      "url": "Ted Cruz",
+      "name": "Ted Cruz"
+     },
+     {
+      "jobtitle": "2016 Republican Candidate",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1971-05-28",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Marco-Rubio.gif",
+      "url": "Marco Rubio",
+      "name": "Marco Rubio"
+     },
+     {
+      "jobtitle": "2016 Republican Presidential Candidate",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1971-05-28",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Jefferson-Sherman.gif",
+      "url": "Jefferson Sherman",
+      "name": "Jefferson Sherman"
+     },
+     {
+      "jobtitle": "2016 Republican Presidential Candidate",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1971-05-28",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Kerry-Bowers.gif",
+      "url": "Kerry Bowers",
+      "name": "Kerry Bowers"
+     },
+     {
+      "jobtitle": "2016 Republican Presidential Candidate",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1971-05-28",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Michael-Bickelmeyer.gif",
+      "url": "Michael Bickelmeyer",
+      "name": "Michael Bickelmeyer"
+     },
+     {
+      "jobtitle": "Republican Candidate 2016",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1971-05-28",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Valma-Kittington.gif",
+      "url": "Valma Kittington",
+      "name": "Valma Kittington"
+     },
+     {
+      "jobtitle": "2016 Republican Candidate",
+      "affiliation": "Republican Party",
+      "seeks": "Republican presidential nomination",
+      "birthdate": "1971-05-28",
+      "image": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Chris-Christie.gif",
+      "url": "Chris Christie",
+      "name": "Chris Christie"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "128",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTf8OfrsBVXBTkzbBTlAF7dfCHPbG0wklTn5dQACRpGG5U10mr9et1Uv90"
+     }
+    ],
+    "postaladdress": [
+     {
+      "addresslocality": "Milwaukee",
+      "addressregion": "Wisconsin",
+      "streetaddress": "500 W. Kilbourn Ave.",
+      "postalcode": "53203",
+      "addresscountry": "United States"
+     },
+     {
+      "addresslocality": "Las Vegas",
+      "addressregion": "Nevada",
+      "streetaddress": "3355 S Las Vegas Blvd",
+      "postalcode": "89109",
+      "addresscountry": "United States"
+     }
+    ],
+    "event": [
+     {
+      "startdate": "2015-11-10T19:00",
+      "enddate": "2015-11-10T23:00",
+      "url": "4th Republican Debate",
+      "name": "4th Republican Debate"
+     },
+     {
+      "startdate": "2015-12-15T20:00",
+      "enddate": "2015-12-15T22:00",
+      "url": "5th Republican Debate",
+      "name": "5th Republican Debate"
+     },
+     {
+      "startdate": "2016-02-01",
+      "location": "Iowa",
+      "url": "Iowa Republican caucuses",
+      "name": "Iowa Republican caucuses"
+     },
+     {
+      "startdate": "2016-02-09",
+      "location": "New Hampshire",
+      "url": "New Hampshire Republican primary",
+      "name": "New Hampshire Republican primary"
+     },
+     {
+      "startdate": "2016-02-20",
+      "location": "South Carolina",
+      "url": "South Carolina Republican primary",
+      "name": "South Carolina Republican primary"
+     },
+     {
+      "startdate": "2016-02-23",
+      "location": "Nevada",
+      "url": "Nevada Republican caucuses",
+      "name": "Nevada Republican caucuses"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Politicks.org",
+      "copyright": "Politicks.org",
+      "date": "2015-12-09",
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ],
+    "place": [
+     {
+      "name": "Milwaukee Theater"
+     },
+     {
+      "name": "The Venetian | Las Vegas"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Jim Gilmore",
+      "title": "Former Governor of Virginia",
+      "url": "http://2016.republican-candidates.org/Gilmore",
+      "bday": "1949-10-06"
+     },
+     {
+      "fn": "Carly Fiorina",
+      "title": "2016 Republican Candidate",
+      "url": "http://2016.republican-candidates.org/Fiorina",
+      "bday": "1954-09-06",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Carly-Fiorina.gif"
+     },
+     {
+      "fn": "Ben Carson",
+      "title": "2016 Republican Presidential Candidate",
+      "url": "http://2016.republican-candidates.org/Carson",
+      "bday": "1951-09-18",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Ben-Carson.gif"
+     },
+     {
+      "fn": "Jeb Bush",
+      "title": "2016 Republican Presidential Candidate",
+      "url": "http://2016.republican-candidates.org/Bush",
+      "bday": "1953-02-11",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Jeb-Bush.gif"
+     },
+     {
+      "fn": "Donald Trump",
+      "title": "Republican Candidate 2016",
+      "url": "http://2016.republican-candidates.org/Trump",
+      "bday": "1946-06-14",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Donald-Trump.gif"
+     },
+     {
+      "fn": "Mike Huckabee",
+      "title": "Republican Candidate 2016",
+      "url": "http://2016.republican-candidates.org/Huckabee",
+      "bday": "1955-08-24",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Mike-Huckabee.gif"
+     },
+     {
+      "fn": "Ted Cruz",
+      "title": "Republican Candidate",
+      "url": "http://2016.republican-candidates.org/Cruz",
+      "bday": "1970-12-22",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Ted-Cruz.gif"
+     },
+     {
+      "fn": "Marco Rubio",
+      "title": "2016 Republican Candidate",
+      "url": "http://2016.republican-candidates.org/Rubio",
+      "bday": "1971-05-28",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Marco-Rubio.gif"
+     },
+     {
+      "fn": "Jefferson Sherman",
+      "title": "2016 Republican Presidential Candidate",
+      "url": "http://2016.presidential-candidates.org/Sherman",
+      "bday": "1971-05-28",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Jefferson-Sherman.gif"
+     },
+     {
+      "fn": "Kerry Bowers",
+      "title": "2016 Republican Presidential Candidate",
+      "url": "http://2016.presidential-candidates.org/Bowers",
+      "bday": "1971-05-28",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Kerry-Bowers.gif"
+     },
+     {
+      "fn": "Michael Bickelmeyer",
+      "title": "2016 Republican Presidential Candidate",
+      "url": "http://2016.presidential-candidates.org/Bickelmeyer",
+      "bday": "1971-05-28",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Michael-Bickelmeyer.gif"
+     },
+     {
+      "fn": "Valma Kittington",
+      "title": "Republican Candidate 2016",
+      "url": "http://2016.presidential-candidates.org/Kittington",
+      "bday": "1971-05-28",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Valma-Kittington.gif"
+     },
+     {
+      "fn": "Chris Christie",
+      "title": "2016 Republican Candidate",
+      "url": "http://2016.presidential-candidates.org/Christie",
+      "bday": "1971-05-28",
+      "photo": "http://politicks.org/IMAGES/CANDIDATES/2016/PRESIDENT/index/Chris-Christie.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Even With Rick Perry Out, Jim Gilmore Remains on the Sidelines ...",
+   "htmlTitle": "Even With Rick Perry Out, \u003cb\u003eJim Gilmore\u003c/b\u003e Remains on the Sidelines \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nytimes.com/live/second-republican-debate-cnn-election-2016/even-with-perry-out-gilmore-remains-on-the-sidelines/",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Sep 17, 2015 ... Former Gov. Jim Gilmore of Virginia participated in a pre-debate forum last month\n, but he will not be on the \"undercard\" stage Wednesday night.",
+   "htmlSnippet": "Sep 17, 2015 \u003cb\u003e...\u003c/b\u003e Former Gov. \u003cb\u003eJim Gilmore\u003c/b\u003e of Virginia participated in a pre-debate forum last month\u003cbr\u003e\n, but he will not be on the &quot;undercard&quot; stage Wednesday night.",
+   "cacheId": "AE4xdQEvpikJ",
+   "formattedUrl": "www.nytimes.com/.../even-with-perry-out-gilmore-remains-on-the-sidelines/",
+   "htmlFormattedUrl": "www.nytimes.com/.../even-with-perry-out-\u003cb\u003egilmore\u003c/b\u003e-remains-on-the-sidelines/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2015/09/16/us/politics/16live-blog-gilmore/16live-blog-gilmore-tmagArticle.jpg",
+      "type": "1",
+      "width": "275",
+      "height": "183"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "tickersymbol": "NYSE NYT"
+     }
+    ],
+    "person": [
+     {
+      "name": "Matt Flegenheimer"
+     },
+     {
+      "name": "Nick Corasaniti"
+     },
+     {
+      "name": "Margot Sanger-Katz"
+     },
+     {
+      "name": "Matt Flegenheimer"
+     },
+     {
+      "name": "Alan Rappeport"
+     },
+     {
+      "name": "Alan Rappeport"
+     },
+     {
+      "name": "Nicholas Confessore"
+     },
+     {
+      "name": "Maggie Haberman"
+     },
+     {
+      "name": "Maggie Haberman"
+     },
+     {
+      "name": "Nicholas Confessore"
+     },
+     {
+      "name": "Neil Irwin"
+     },
+     {
+      "name": "Maggie Haberman"
+     },
+     {
+      "name": "Maggie Haberman"
+     },
+     {
+      "name": "Alan Rappeport"
+     },
+     {
+      "name": "Nicholas Confessore"
+     },
+     {
+      "name": "Maggie Haberman"
+     },
+     {
+      "name": "Alan Rappeport"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://graphics8.nytimes.com/packages/images/icons/t_logo_300_black.png"
+     }
+    ],
+    "newsarticle": [
+     {
+      "datepublished": "2015-09-16T23:16:27",
+      "datemodified": "Wed Sep 16 2015 16:16:27 GMT-0700 (PDT)",
+      "headline": "Republican Debate Highlights",
+      "url": "Republican Debate Highlights",
+      "articlebody": "1) Jeb Bush brought the fight to Donald J. Trump, with mixed success. He noted that Mr. Trump had tried, unsuccessfully, to sway him in a push for casino gambling in Florida. He issued a forceful..."
+     },
+     {
+      "datepublished": "2015-09-16T11:21:21",
+      "datemodified": "Wed Sep 16 2015 04:21:21 GMT-0700 (PDT)",
+      "headline": "Even With Rick Perry Out, Jim Gilmore Remains on the Sidelines",
+      "url": "Even With Rick Perry Out, Jim Gilmore Remains on the Sidelines",
+      "articlebody": "When Rick Perry announced he was ending his presidential campaign last week, one Republican candidate saw it as his golden debate ticket."
+     },
+     {
+      "datepublished": "2015-09-17T01:05:46",
+      "datemodified": "Wed Sep 16 2015 18:05:46 GMT-0700 (PDT)",
+      "headline": "Donald Trump, Ben Carson and Rand Paul on Vaccines and Autism",
+      "url": "Donald Trump, Ben Carson and Rand Paul on Vaccines and Autism",
+      "articlebody": "Donald J. Trump said that he believes vaccines can cause autism in children, even though decades of evidence refute this notion and no credible studies demonstrate any such link."
+     },
+     {
+      "datepublished": "2015-09-16T23:15:14",
+      "datemodified": "Wed Sep 16 2015 16:15:14 GMT-0700 (PDT)",
+      "headline": "Moments From the Second G.O.P. Debate",
+      "url": "Moments From the Second G.O.P. Debate"
+     },
+     {
+      "datepublished": "11:12 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "alanrappeport",
+      "url": "alanrappeport"
+     },
+     {
+      "datepublished": "2015-09-16T23:11:10",
+      "datemodified": "Wed Sep 16 2015 16:11:10 GMT-0700 (PDT)",
+      "headline": "All Wound Up and Ready to Spin",
+      "url": "All Wound Up and Ready to Spin"
+     },
+     {
+      "datepublished": "11:10 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "alanrappeport",
+      "url": "alanrappeport"
+     },
+     {
+      "datepublished": "11:07 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "nconfess",
+      "url": "nconfess"
+     },
+     {
+      "datepublished": "11:01 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "maggie.haberman",
+      "url": "maggie.haberman"
+     },
+     {
+      "datepublished": "11:01 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "maggie.haberman",
+      "url": "maggie.haberman"
+     },
+     {
+      "datepublished": "2015-09-16T23:01:23",
+      "datemodified": "Wed Sep 16 2015 16:01:23 GMT-0700 (PDT)",
+      "headline": "Donald Trump’s New Nickname?",
+      "url": "Donald Trump’s New Nickname?",
+      "articlebody": "Humble."
+     },
+     {
+      "datepublished": "2015-09-16T23:00:58",
+      "datemodified": "Wed Sep 16 2015 16:00:58 GMT-0700 (PDT)",
+      "headline": "Donald Trump and Jeb Bush",
+      "url": "Donald Trump and Jeb Bush"
+     },
+     {
+      "datepublished": "11:00 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "nconfess",
+      "url": "nconfess"
+     },
+     {
+      "datepublished": "2015-09-16T22:58:55",
+      "datemodified": "Wed Sep 16 2015 15:58:55 GMT-0700 (PDT)",
+      "headline": "Chris Christie Overstates Peril to Social Security",
+      "url": "Chris Christie Overstates Peril to Social Security",
+      "articlebody": "Gov. Chris Christie, in a discussion of the finances of Social Security and arguing for reining in the retirement program’s costs, said that “Harvard and Dartmouth said that Social Security..."
+     },
+     {
+      "datepublished": "10:58 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "maggie.haberman",
+      "url": "maggie.haberman"
+     },
+     {
+      "datepublished": "10:58 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "maggie.haberman",
+      "url": "maggie.haberman"
+     },
+     {
+      "datepublished": "10:58 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "alanrappeport",
+      "url": "alanrappeport"
+     },
+     {
+      "datepublished": "2015-09-16T22:58:28",
+      "datemodified": "Wed Sep 16 2015 15:58:28 GMT-0700 (PDT)",
+      "headline": "How It Played in Scottsdale, Ariz.",
+      "url": "How It Played in Scottsdale, Ariz."
+     },
+     {
+      "datepublished": "10:58 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "nconfess",
+      "url": "nconfess"
+     },
+     {
+      "datepublished": "10:57 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "maggie.haberman",
+      "url": "maggie.haberman"
+     },
+     {
+      "datepublished": "10:57 pm ETSep 16, 2015",
+      "datemodified": "Invalid Date",
+      "headline": "alanrappeport",
+      "url": "alanrappeport"
+     },
+     {
+      "datepublished": "2015-09-16T22:57:15",
+      "datemodified": "Wed Sep 16 2015 15:57:15 GMT-0700 (PDT)",
+      "headline": "Ben Carson and Donald Trump",
+      "url": "Ben Carson and Donald Trump"
+     }
+    ],
+    "metatags": [
+     {
+      "pt": "Blogs",
+      "pst": "LiveBlog",
+      "sourceapp": "blogs",
+      "author": "Nick Corasaniti",
+      "clmst": "Nick Corasaniti",
+      "byl": "Nick Corasaniti",
+      "article:author": "http://topics.nytimes.com/top/reference/timestopics/people/c/nick_corasaniti/index.html",
+      "puv": "normal",
+      "article:published_time": "2015-09-16",
+      "pud": "20150916",
+      "pdate": "20150916",
+      "ptime": "20150916112121",
+      "utime": "20150916183347",
+      "article:modified_time": "2015-09-16T18:33:47-04:00",
+      "displaydate": "September 16, 2015",
+      "dat": "September 16, 2015",
+      "article:section": "us",
+      "cg": "us",
+      "scg": "politics",
+      "bn": "live",
+      "slug": "second-republican-debate-cnn-election-2016",
+      "hdl": "Even With Rick Perry Out, Jim Gilmore Remains on the Sidelines",
+      "og:title": "Even With Rick Perry Out, Jim Gilmore Remains on the Sidelines",
+      "og:type": "article",
+      "og:url": "http://www.nytimes.com/live/second-republican-debate-cnn-election-2016/even-with-perry-out-gilmore-remains-on-the-sidelines/",
+      "og:site_name": "The New York Times Politics and Washington",
+      "og:description": "We chatted about and analyzed the second G.O.P. debate in real time.",
+      "thumbnail_150": "http://graphics8.nytimes.com/packages/images/icons/t_logo_300_black.png",
+      "twitter:title": "Even With Rick Perry Out, Jim Gilmore Remains on the Sidelines",
+      "twitter:url": "http://www.nytimes.com/live/second-republican-debate-cnn-election-2016/even-with-perry-out-gilmore-remains-on-the-sidelines/",
+      "twitter:description": "We chatted about and analyzed the second G.O.P. debate in real time.",
+      "twitter:image": "http://graphics8.nytimes.com/packages/images/icons/t_logo_300_black.png",
+      "thumbnail": "http://graphics8.nytimes.com/packages/images/icons/t_logo_300_black.png",
+      "twitter:site": "@NYTPolitics",
+      "applicationname": "liveblogs",
+      "adxpage": "blog.nytimes.com/live/post",
+      "article:collection": "http://json8.nytimes.com/services/json/sectionfronts/us/index.jsonp",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "dfp-ad-unit-path": "us/live",
+      "wt.z_rcgn": "Politics"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/09/17/us/17highlightsweb2/17highlightsweb2-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "Donald J. Trump and Jeb BushCredit Max Whittaker for The New York Times",
+      "copyrightholder": "Credit Max Whittaker for The New York Times"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/09/17/us/17highlightsweb1/17highlightsweb1-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "Donald J. Trump, left, Jeb Bush, Gov. Scott Walker and Gov. John Kasich listened to Carly Fiorina.Credit Max Whittaker for The New York Times",
+      "copyrightholder": "Credit Max Whittaker for The New York Times"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/09/17/us/17highlightsweb3/17highlightsweb3-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "Senator Ted Cruz and Ben CarsonCredit Max Whittaker for The New York Times",
+      "copyrightholder": "Credit Max Whittaker for The New York Times"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/09/16/multimedia/repubdebate09162015-188/repubdebate09162015-188-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "Senator Marco RubioCredit Max Whittaker for The New York Times",
+      "copyrightholder": "Credit Max Whittaker for The New York Times"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/09/16/us/politics/16live-blog-gilmore/16live-blog-gilmore-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "Former Gov. Jim Gilmore of Virginia participated in a pre-debate forum last month, but he will not be on the \"undercard\" stage Wednesday night.Credit John Minchillo/Associated Press",
+      "copyrightholder": "Credit John Minchillo/Associated Press"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/09/16/multimedia/monicareaganlibraryrepub-28/monicareaganlibraryrepub-28-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "Members of the news media waiting in the spin room.Credit Monica Almeida/The New York Times",
+      "copyrightholder": "Credit Monica Almeida/The New York Times"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/09/16/multimedia/repubdebate09162015-231/repubdebate09162015-231-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "Credit Max Whittaker for The New York Times",
+      "copyrightholder": "Credit Max Whittaker for The New York Times"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/09/16/us/rebpubdebatePHOENIX2/rebpubdebatePHOENIX2-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "Nathan Duell watched the Republican candidates debate by live stream at the Studio Movie Grill in Scottsdale, Ariz.Credit Caitlin O'Hara for The New York Times",
+      "copyrightholder": "Credit Caitlin O'Hara for The New York Times"
+     },
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/09/16/multimedia/repubdebate09162015-197/repubdebate09162015-197-tmagArticle.jpg",
+      "height": "395",
+      "width": "592",
+      "description": "Credit Max Whittaker for The New York Times",
+      "copyrightholder": "Credit Max Whittaker for The New York Times"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Matt Flegenheimer"
+     },
+     {
+      "fn": "Nick Corasaniti"
+     },
+     {
+      "fn": "Margot Sanger-Katz"
+     },
+     {
+      "fn": "Matt Flegenheimer"
+     },
+     {
+      "fn": "Alan Rappeport"
+     },
+     {
+      "fn": "Alan Rappeport"
+     },
+     {
+      "fn": "Nicholas Confessore"
+     },
+     {
+      "fn": "Maggie Haberman"
+     },
+     {
+      "fn": "Maggie Haberman"
+     },
+     {
+      "fn": "Nicholas Confessore"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EXCLUSIVE - Former Virginia Governor Jim Gilmore: Why I'm ...",
+   "htmlTitle": "EXCLUSIVE - Former Virginia Governor \u003cb\u003eJim Gilmore\u003c/b\u003e: Why I&#39;m \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.breitbart.com/big-government/2015/07/30/exclusive-former-virginia-governor-jim-gilmore-why-im-running-for-president/",
+   "displayLink": "www.breitbart.com",
+   "snippet": "Jul 30, 2015 ... Hello, I'm Jim Gilmore and today I am announcing my candidacy for the \nRepublican nomination for President of the United States.",
+   "htmlSnippet": "Jul 30, 2015 \u003cb\u003e...\u003c/b\u003e Hello, I&#39;m \u003cb\u003eJim Gilmore\u003c/b\u003e and today I am announcing my candidacy for the \u003cbr\u003e\nRepublican nomination for President of the United States.",
+   "cacheId": "4aWtIl7yldwJ",
+   "formattedUrl": "www.breitbart.com/.../exclusive-former-virginia-governor-jim-gilmore-why- im-running-for-president/",
+   "htmlFormattedUrl": "www.breitbart.com/.../exclusive-former-virginia-governor-\u003cb\u003ejim\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003e-why- im-running-for-president/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.breitbart.com/media/2015/07/jim-gilmore-getty.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSZ6GIK9c7UH4SmDpJloT2xzmVuy6IO2El6IsUD0nJvcnozr5stLu4ELv-"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "EXCLUSIVE - Former Virginia Governor Jim Gilmore: Why I'm Running for President - Breitbart",
+      "og:description": "Hello, I’m Jim Gilmore and today I am announcing my candidacy for the Republican nomination for President of the United States.",
+      "og:url": "http://www.breitbart.com/big-government/2015/07/30/exclusive-former-virginia-governor-jim-gilmore-why-im-running-for-president/",
+      "og:site_name": "Breitbart",
+      "article:publisher": "https://www.facebook.com/Breitbart",
+      "article:section": "2016 Presidential Race",
+      "article:published_time": "2015-07-30T08:03:17+00:00",
+      "og:image": "http://media.breitbart.com/media/2015/07/jim-gilmore-getty.jpg",
+      "twitter:card": "summary",
+      "twitter:description": "Hello, I’m Jim Gilmore and today I am announcing my candidacy for the Republican nomination for President of the United States.",
+      "twitter:title": "EXCLUSIVE - Former Virginia Governor Jim Gilmore: Why I'm Running for President - Breitbart",
+      "twitter:site": "@BreitbartNews",
+      "twitter:domain": "Breitbart",
+      "twitter:image": "http://media.breitbart.com/media/2015/07/jim-gilmore-getty.jpg",
+      "twitter:creator": "@BreitbartNews",
+      "article:categories": "Big Government,2016 Presidential Race",
+      "msapplication-tilecolor": "#ff5500",
+      "application-name": "Breitbart",
+      "apple-mobile-web-app-title": "Breitbart",
+      "msapplication-tileimage": "/mstile-144x144.png",
+      "mobile-web-app-capable": "yes",
+      "msapplication-config": "/browserconfig.xml",
+      "op:markup_version": "v1.0"
+     }
+    ],
+    "blogposting": [
+     {
+      "headline": "EXCLUSIVE — Former Virginia Governor Jim Gilmore: Why I’m Running for President",
+      "image": "http://media.breitbart.com/media/2015/07/jim-gilmore-getty-640x480.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Strategic Horizons LLP | Introducing Jim Gilmore",
+   "htmlTitle": "Strategic Horizons LLP | Introducing \u003cb\u003eJim Gilmore\u003c/b\u003e",
+   "link": "http://www.strategichorizons.com/jimGilmore.html",
+   "displayLink": "www.strategichorizons.com",
+   "snippet": "Biography of Jim Gilmore, writer, speaker, and consultant on innovating thinking \nand the experience economy.",
+   "htmlSnippet": "Biography of \u003cb\u003eJim Gilmore\u003c/b\u003e, writer, speaker, and consultant on innovating thinking \u003cbr\u003e\nand the experience economy.",
+   "cacheId": "ihtyG3NjLNYJ",
+   "formattedUrl": "www.strategichorizons.com/jimGilmore.html",
+   "htmlFormattedUrl": "www.strategichorizons.com/\u003cb\u003ejimGilmore\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.strategichorizons.com/images/GilmoreWeb.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "196",
+      "height": "258",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMVsfVQvKTZiP_aUWFXkd_hSOK9vqpsqfXoIbIfbxPaD1uzxryYJB_d3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "James Gilmore, Ex-Virginia Governor, Files Papers to Run for ...",
+   "htmlTitle": "\u003cb\u003eJames Gilmore\u003c/b\u003e, Ex-Virginia Governor, Files Papers to Run for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nytimes.com/politics/first-draft/2015/07/29/james-gilmore-ex-virginia-governor-files-papers-to-run-for-president/",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Jul 29, 2015 ... James S. Gilmore III, the former governor of Virginia, filed paperwork with the \nFederal Election Commission on Wednesday to enter the ...",
+   "htmlSnippet": "Jul 29, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJames\u003c/b\u003e S. \u003cb\u003eGilmore\u003c/b\u003e III, the former governor of Virginia, filed paperwork with the \u003cbr\u003e\nFederal Election Commission on Wednesday to enter the&nbsp;...",
+   "cacheId": "T7FFOTshdeIJ",
+   "formattedUrl": "www.nytimes.com/.../james-gilmore-ex-virginia-governor-files-papers-to-run -for-president/",
+   "htmlFormattedUrl": "www.nytimes.com/.../\u003cb\u003ejames\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003e-ex-virginia-governor-files-papers-to-run -for-president/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2015/07/29/us/politics/29firstdraft-gilmore/29firstdraft-gilmore-thumbLarge.jpg",
+      "type": "1",
+      "width": "120",
+      "height": "120"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "tickersymbol": "NYSE NYT"
+     }
+    ],
+    "person": [
+     {
+      "name": "Alan Rappeport"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2015/07/29/us/politics/29firstdraft-gilmore/29firstdraft-gilmore-thumbLarge.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "pt": "Blogs",
+      "pst": "Blog Post",
+      "sourceapp": "blogs",
+      "author": "Alan Rappeport",
+      "clmst": "Alan Rappeport",
+      "byl": "Alan Rappeport",
+      "puv": "normal",
+      "article:published_time": "2015-07-29",
+      "pud": "20150729",
+      "pdate": "20150729",
+      "ptime": "20150729180103",
+      "utime": "20150729220103",
+      "article:modified_time": "2015-07-29T22:01:03-04:00",
+      "displaydate": "July 29, 2015",
+      "dat": "July 29, 2015",
+      "article:section": "Politics",
+      "cg": "Politics",
+      "scg": "First Draft",
+      "bn": "first-draft",
+      "live_stream_endpoint": "http://static01.nyt.com/live-coverage/first-draft/live-stream-endpoint-07292015.jsonp",
+      "per": "Gilmore, James S",
+      "des": "Presidential Election of 2016",
+      "org": "Federal Election Commission",
+      "geo": "Virginia",
+      "article:tag": "Gilmore James S",
+      "hdl": "James Gilmore, Ex-Virginia Governor, Files Papers to Run for President",
+      "og:title": "James Gilmore, Ex-Virginia Governor, Files Papers to Run for President",
+      "og:type": "article",
+      "og:url": "http://www.nytimes.com/politics/first-draft/2015/07/29/james-gilmore-ex-virginia-governor-files-papers-to-run-for-president/",
+      "og:site_name": "First Draft",
+      "og:description": "James S. Gilmore III, the former governor of Virginia, filed paperwork with the Federal Election Commission on Wednesday to enter the crowded field of Republican presidential contestants.",
+      "og:image": "http://graphics8.nytimes.com/images/2015/07/29/us/politics/29firstdraft-gilmore/29firstdraft-gilmore-facebookJumbo.jpg",
+      "thumbnail_150": "http://graphics8.nytimes.com/images/2015/07/29/us/politics/29firstdraft-gilmore/29firstdraft-gilmore-thumbLarge.jpg",
+      "twitter:title": "James Gilmore, Ex-Virginia Governor, Files Papers to Run for President",
+      "twitter:url": "http://www.nytimes.com/politics/first-draft/2015/07/29/james-gilmore-ex-virginia-governor-files-papers-to-run-for-president/",
+      "twitter:description": "James S. Gilmore III, the former governor of Virginia, filed paperwork with the Federal Election Commission on Wednesday to enter the crowded field of Republican presidential contestants.",
+      "twitter:image": "http://graphics8.nytimes.com/images/2015/07/29/us/politics/29firstdraft-gilmore/29firstdraft-gilmore-thumbLarge.jpg",
+      "thumbnail": "http://graphics8.nytimes.com/images/2015/07/29/us/politics/29firstdraft-gilmore/29firstdraft-gilmore-thumbLarge.jpg",
+      "twitter:site": "@NYTPolitics",
+      "adxpage": "blog.nytimes.com/first-draft/post",
+      "article:collection": "http://json8.nytimes.com/services/json/sectionfronts/politics/index.jsonp",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "dfp-ad-unit-path": "politics/firstdraft",
+      "wt.z_rcgn": "Politics",
+      "wt.z_rcgs": "First Draft"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://graphics8.nytimes.com/images/2015/07/29/us/politics/29firstdraft-gilmore/29firstdraft-gilmore-tmagArticle.jpg",
+      "height": "394",
+      "width": "592",
+      "description": "James S. Gilmore III spoke at a Republican Leadership Summit in Nashua, N.H., in April.Credit Jim Cole/Associated Press",
+      "copyrightholder": "Credit Jim Cole/Associated Press"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore, the veteran's candidate | Washington Examiner",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e, the veteran&#39;s candidate | Washington Examiner",
+   "link": "http://www.washingtonexaminer.com/jim-gilmore-the-veterans-candidate/article/2575886",
+   "displayLink": "www.washingtonexaminer.com",
+   "snippet": "Nov 7, 2015 ... Former Virginia Gov. Jim Gilmore says 'experience' is what makes him the best \npresidential candidate for veterans. (AP Photo/Jim Cole, File) ...",
+   "htmlSnippet": "Nov 7, 2015 \u003cb\u003e...\u003c/b\u003e Former Virginia Gov. \u003cb\u003eJim Gilmore\u003c/b\u003e says &#39;experience&#39; is what makes him the best \u003cbr\u003e\npresidential candidate for veterans. (AP Photo/Jim Cole, File)&nbsp;...",
+   "cacheId": "TlYPzDLhRKIJ",
+   "formattedUrl": "www.washingtonexaminer.com/jim-gilmore-the-veterans.../2575886",
+   "htmlFormattedUrl": "www.washingtonexaminer.com/\u003cb\u003ejim\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003e-the-veterans.../2575886",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.washingtonexaminer.biz/cache/730x400-992da3fd6cad8a3013fe1026d7a54d4b.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,user-scalable=0",
+      "apple-itunes-app": "app-id=890150273",
+      "copyright": "Copyright (c) 2015 The Washington Examiner. All Rights Reserved",
+      "news_keywords": "Veterans Affairs,New Hampshire,Healthcare,2016 Elections,Campaigns,Veterans,Daniel Chaitin",
+      "fb:app_id": "190451957673826",
+      "fb:admins": "1285945407",
+      "og:site_name": "Washington Examiner",
+      "og:type": "article",
+      "og:url": "http://www.washingtonexaminer.com/jim-gilmore-the-veterans-candidate/article/2575886",
+      "og:title": "Jim Gilmore, the veteran's candidate",
+      "og:description": "The former govenor says 'experience' is what makes him the best presidential candidate for veterans",
+      "twitter:card": "summary",
+      "twitter:site": "@dcexaminer",
+      "twitter:title": "Jim Gilmore, the veteran's candidate",
+      "twitter:description": "Republican presidential candidate Jim Gilmore believes he is the best candidate for veterans — but why? Experience, the Army veteran said in a phone interview with the Washington Examiner. The fact that I have actually been in uniform, stationed overseas. I'm one of the two veterans in the race ... I have empathy and understanding of veterans that I think other candidates — there's no reason for them to have it. I have actual experience. And from a managerial standpoint, we have to get things done. We have to understand that we have to make it a priority. Sen. Lindsey Graham, R-S.C., is the only other remaining presidential candidate in either party that has military experience. Gilmore said that the U.S. needs to take better care of its veterans and improve access and quality of medical care. I'm talking about post-traumatic stress disorder, he told the Examiner, and the fact that we don't fill vacancies in so many of those psychology positions in the Veterans Administration because of location and lack ",
+      "twitter:creator": "@danielchaitin7",
+      "og:image": "http://cdn.washingtonexaminer.biz/cache/730x400-992da3fd6cad8a3013fe1026d7a54d4b.jpg",
+      "twitter:image": "http://cdn.washingtonexaminer.biz/cache/730x400-992da3fd6cad8a3013fe1026d7a54d4b.jpg",
+      "twitter:widgets:csp": "on",
+      "msvalidate.01": "0F003B4674EABE0F24651B476B61A43C"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "James S. Gilmore",
+   "htmlTitle": "\u003cb\u003eJames\u003c/b\u003e S. \u003cb\u003eGilmore\u003c/b\u003e",
+   "link": "http://www.nga.org/cms/home/governors/past-governors-bios/page_virginia/col2-content/main-content-list/title_gilmore_james.html",
+   "displayLink": "www.nga.org",
+   "snippet": "JAMES S. GILMORE III was born and raised in Richmond, Virginia. He received \nan undergraduate degree from the University of Virginia in 1971. After a ...",
+   "htmlSnippet": "\u003cb\u003eJAMES\u003c/b\u003e S. \u003cb\u003eGILMORE\u003c/b\u003e III was born and raised in Richmond, Virginia. He received \u003cbr\u003e\nan undergraduate degree from the University of Virginia in 1971. After a&nbsp;...",
+   "cacheId": "DjdQrJVrQSMJ",
+   "formattedUrl": "www.nga.org/cms/home/.../past.../title_gilmore_james.html",
+   "htmlFormattedUrl": "www.nga.org/cms/home/.../past.../title_\u003cb\u003egilmore\u003c/b\u003e_\u003cb\u003ejames\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nga.org/files/live/sites/NGA/files/images/Govimages/JAMESGILMORE.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "98",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0cYuhiEXiy8hB9toVPrzjLm17KuRSUCtW40aM6932y90HkIvhxCTMZw"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "root"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore: All You Need to Know",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e: All You Need to Know",
+   "link": "http://www.newsweek.com/jim-gilmore-all-you-need-know-365898",
+   "displayLink": "www.newsweek.com",
+   "snippet": "Aug 26, 2015 ... Republican presidential candidates (L-R), former Virginia Governor Jim Gilmore, \nU.S. Senator Lindsey Graham, Louisiana Governor Bobby ...",
+   "htmlSnippet": "Aug 26, 2015 \u003cb\u003e...\u003c/b\u003e Republican presidential candidates (L-R), former Virginia Governor \u003cb\u003eJim Gilmore\u003c/b\u003e, \u003cbr\u003e\nU.S. Senator Lindsey Graham, Louisiana Governor Bobby&nbsp;...",
+   "cacheId": "HT_rcqx0EIQJ",
+   "formattedUrl": "www.newsweek.com/jim-gilmore-all-you-need-know-365898",
+   "htmlFormattedUrl": "www.newsweek.com/\u003cb\u003ejim\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003e-all-you-need-know-365898",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s.newsweek.com/sites/www.newsweek.com/files/2015/08/26/826jimgilmore.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "James M. Lindsay",
+      "name": "James M. Lindsay"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "277",
+      "height": "182",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRu_XeHbZ0D_jCkXeuDsMRpfT3bQ0H548x9ZKjEdC7gz7nKpbeKk132H8"
+     }
+    ],
+    "newsarticle": [
+     {
+      "url": "http://www.newsweek.com/jim-gilmore-all-you-need-know-365898",
+      "image": "http://s.newsweek.com/sites/www.newsweek.com/files/2015/08/26/826jimgilmore.jpg",
+      "alternativeheadline": "Jim Gilmore: All You Need to Know",
+      "articlesection": "Opinion",
+      "datemodified": "2015-08-26T11:48:04-04:00",
+      "headline": "Jim Gilmore: All You Need to Know",
+      "datepublished": "2015-08-26T11:48:04-04:00",
+      "articlebody": "This article first appeared on the Council on Foreign Relations site. The state of Virginia fashions itself as the “Birthplace of Presidents.” Eight American presidents, and four of the..."
+     }
+    ],
+    "webpage": [
+     {
+      "relatedlink": "http://www.newsweek.com/jim-gilmore-gops-17th-presidential-candidate-358319"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "news_keywords": "http://blogs.cfr.org/lindsay/2015/08/24/campaign-2016-jim-gilmore-gop-presidential-candidate/?cid=otr-partner_site-newsweek",
+      "fb:app_id": "1477235949189913",
+      "og:type": "article",
+      "og:site_name": "Newsweek",
+      "og:url": "http://www.newsweek.com/jim-gilmore-all-you-need-know-365898",
+      "og:title": "Jim Gilmore: All You Need to Know",
+      "og:description": "His father was a supermarket butcher, he stood for president in 2007 and he’s on the board of the NRA.",
+      "og:image": "http://s.newsweek.com/sites/www.newsweek.com/files/2015/08/26/826jimgilmore.jpg",
+      "article:section": "Opinion",
+      "article:modified_time": "2015-08-26T11:48:04-04:00",
+      "article:published_time": "2015-08-26T11:48:04-04:00",
+      "twitter:site": "@newsweek",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Jim Gilmore: All You Need to Know",
+      "twitter:url": "http://www.newsweek.com/jim-gilmore-all-you-need-know-365898",
+      "twitter:description": "His father was a supermarket butcher, he stood for president in 2007 and he’s on the board of the NRA.",
+      "twitter:image": "http://s.newsweek.com/sites/www.newsweek.com/files/2015/08/26/826jimgilmore.jpg",
+      "msapplication-tilecolor": "#ff0000",
+      "msapplication-tileimage": "http://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/favicons/mstile-144x144.png",
+      "msapplication-config": "http://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+      "twitter:image:src": "http://s.newsweek.com/sites/www.newsweek.com/files/2015/08/26/826jimgilmore.jpg"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "http://s.newsweek.com/sites/www.newsweek.com/files/styles/headline/public/2015/08/26/826jimgilmore.jpg",
+      "caption": "Republican presidential candidates (L-R), former Virginia Governor Jim Gilmore, U.S. Senator Lindsey Graham, Louisiana Governor Bobby Jindal and former Texas Governor Rick Perry, pose before...",
+      "copyrightholder": "Aaron Josefczyk/Reuters"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Gilmore gets verified, doesn't lose Twitter power rankings.",
+   "htmlTitle": "\u003cb\u003eJim Gilmore\u003c/b\u003e gets verified, doesn&#39;t lose Twitter power rankings.",
+   "link": "http://www.slate.com/blogs/the_slatest/2015/11/06/jim_gilmore_gets_verified_doesn_t_lose_twitter_power_rankings.html",
+   "displayLink": "www.slate.com",
+   "snippet": "Nov 6, 2015 ... Hello and welcome to Week 11 of the Slatest's 2016 Twitter Power Rankings. \nAbove, you'll find our handy interactive of the entire week's worth ...",
+   "htmlSnippet": "Nov 6, 2015 \u003cb\u003e...\u003c/b\u003e Hello and welcome to Week 11 of the Slatest&#39;s 2016 Twitter Power Rankings. \u003cbr\u003e\nAbove, you&#39;ll find our handy interactive of the entire week&#39;s worth&nbsp;...",
+   "cacheId": "cX0A4w5wRJ8J",
+   "formattedUrl": "www.slate.com/.../jim_gilmore_gets_verified_doesn_t_lose_twitter_power_ rankings.html",
+   "htmlFormattedUrl": "www.slate.com/.../\u003cb\u003ejim\u003c/b\u003e_\u003cb\u003egilmore\u003c/b\u003e_gets_verified_doesn_t_lose_twitter_power_ rankings.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/11/06/jim_gilmore_gets_verified_doesn_t_lose_twitter_power_rankings/487405120-republican-presidential-candidate-jim-gilmore-addresses.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvJUz8pzeqGb--0q1viSoo1_Sh6AjAx8uil4fAytaMn38qDoUG6olEar7G"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "og:title": "Guess Which Candidate Finally Got Verified by Twitter This Week? OK, Fine, It Was Jim Gilmore.",
+      "article:publisher": "http://www.facebook.com/Slate",
+      "article:author": "https://www.facebook.com/joshua.marc.voorhees",
+      "og:type": "article",
+      "og:url": "http://www.slate.com/blogs/the_slatest/2015/11/06/jim_gilmore_gets_verified_doesn_t_lose_twitter_power_rankings.html",
+      "og:image": "http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/11/06/jim_gilmore_gets_verified_doesn_t_lose_twitter_power_rankings/487405120-republican-presidential-candidate-jim-gilmore-addresses.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "og:site_name": "Slate Magazine",
+      "og:description": "Hello and welcome to Week 11 of the Slatest’s 2016 Twitter Power Rankings. Above, you’ll find our handy interactive of the entire week’s worth of candidate",
+      "fb:app_id": "142011022527753",
+      "tw-line": "Bernie win the week on Twitter w/play from Donald Trump's playbook",
+      "fb-share": "Better still, he didn't finish last in our power rankings. Gilmore-mentum!",
+      "parsely-page": "{   \"title\": \"Guess Which Candidate Finally Got Verified by Twitter This Week? OK, Fine, It Was Jim Gilmore.\",   \"link\": \"http://www.slate.com/blogs/the_slatest/2015/11/06/jim_gilmore_gets_verified_doesn_t_lose_twitter_power_rankings.html\",   \"image_url\": \"http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/11/06/jim_gilmore_gets_verified_doesn_t_lose_twitter_power_rankings/487405120-republican-presidential-candidate-jim-gilmore-addresses.jpg.CROP.thumbnail-small.jpg\",   \"type\": \"post\",   \"post_id\": \"227151106009\",   \"pub_date\": \"2015-11-06T15:11:00Z\",   \"section\": \"briefing\",   \"author\": \"Josh Voorhees and Andrew Kahn\",   \"tags\": [     \"2016 campaign\",     \"politics\"   ] }",
+      "sailthru.tags": "twitter power rankings, jim gilmore twitter, gilmore 2016, bernie tweets, donald trump twitter",
+      "sailthru.author": "Josh Voorhees, Andrew Kahn",
+      "sailthru.date": "2015-11-06T15:11:00Z",
+      "sailthru.description": "Hello and welcome to Week 11 of the Slatest’s 2016 Twitter Power Rankings. Above, you’ll find our handy interactive of the entire week’s worth of candidate",
+      "sailthru.image.full": "http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/11/06/jim_gilmore_gets_verified_doesn_t_lose_twitter_power_rankings/487405120-republican-presidential-candidate-jim-gilmore-addresses.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "sailthru.headline": "This Week’s 2016 Twitter Power Rankings",
+      "sailthru.promoheadline": "Guess Which Candidate Finally Got Verified by Twitter This Week? OK, Fine, It Was Jim Gilmore."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Everything You Need to Know About Jim Gilmore",
+   "htmlTitle": "Everything You Need to Know About \u003cb\u003eJim Gilmore\u003c/b\u003e",
+   "link": "http://abcnews.go.com/Politics/meet-jim-gilmore-2016-republican-presidential-candidate/story?id=32670102",
+   "displayLink": "abcnews.go.com",
+   "snippet": "Jul 28, 2015 ... Meet Jim Gilmore: Everything You Need to Know (And Probably Didn't Know) \nAbout the 2016 Republican Presidential Candidate.",
+   "htmlSnippet": "Jul 28, 2015 \u003cb\u003e...\u003c/b\u003e Meet \u003cb\u003eJim Gilmore\u003c/b\u003e: Everything You Need to Know (And Probably Didn&#39;t Know) \u003cbr\u003e\nAbout the 2016 Republican Presidential Candidate.",
+   "formattedUrl": "abcnews.go.com/Politics/meet-jim-gilmore-2016-republican.../story?id...",
+   "htmlFormattedUrl": "abcnews.go.com/Politics/meet-\u003cb\u003ejim\u003c/b\u003e-\u003cb\u003egilmore\u003c/b\u003e-2016-republican.../story?id...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.abcnews.go.com/images/Politics/ap_gilmore_lb_150727_16x9_992.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFUdZLEINCuJvqUKS0yZwkt_zkdn0FBUKa9xbDuvPGgNrtyhRj7iWgCPI"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "U.S.",
+      "url": "U.S."
+     }
+    ],
+    "metatags": [
+     {
+      "author": "ABC News",
+      "copyright": "Copyright (c) 2015 ABC News Internet Ventures",
+      "fb:admins": "704409894",
+      "fb:app_id": "4942312939",
+      "fb_title": "Everything You Need to Know About Jim Gilmore",
+      "og:site_name": "ABC News",
+      "og:title": "Everything You Need to Know About Jim Gilmore",
+      "og:description": "Meet Jim Gilmore: Everything You Need to Know (And Probably Didn't Know) About the 2016 Republican Presidential Candidate",
+      "og:url": "http://abcnews.go.com/Politics/meet-jim-gilmore-2016-republican-presidential-candidate/story?id=32670102",
+      "og:image:type": "image/jpeg",
+      "og:image": "http://a.abcnews.go.com/images/Politics/ap_gilmore_lb_150727_16x9_992.jpg",
+      "dc.date.issued": "2015-08-03",
+      "date": "2015-08-03",
+      "last-modified": "2015-08-03 17:25:47",
+      "news_keywords": "Jim Gilmore, 2016, Virginia",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@ABC",
+      "twitter:title": "Everything You Need to Know About Jim Gilmore",
+      "twitter:description": "Meet Jim Gilmore: Everything You Need to Know (And Probably Didn't Know) About the 2016 Republican Presidential Candidate",
+      "twitter:url": "http://abcnews.go.com/Politics/meet-jim-gilmore-2016-republican-presidential-candidate/story?id=32670102",
+      "twitter:image:width": "150",
+      "twitter:image:height": "116",
+      "twitter:app:name:iphone": "ABC News",
+      "twitter:app:id:iphone": "300255638",
+      "twitter:app:url:iphone": "abcnewsiphone://link/story,32670102",
+      "twitter:app:name:ipad": "ABC News",
+      "twitter:app:id:ipad": "306934135",
+      "twitter:app:url:ipad": "abcnewsipad://link/story,32670102",
+      "twitter:app:name:googleplay": "ABC News",
+      "twitter:app:id:googleplay": "com.abc.abcnews",
+      "twitter:app:url:googleplay": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/meet-jim-gilmore-2016-republican-presidential-candidate/story?id=32670102",
+      "twitter:image": "http://a.abcnews.go.com/images/Politics/ap_gilmore_lb_150727_4x3t_240.jpg",
+      "al:iphone:url": "abcnewsiphone://link/story,32670102",
+      "al:iphone:app_store_id": "300255638",
+      "al:iphone:app_name": "ABC News - Breaking US & World News",
+      "al:ipad:url": "abcnewsipad://link/story,32670102",
+      "al:ipad:app_store_id": "380520716",
+      "al:ipad:app_name": "ABC News for iPad",
+      "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/meet-jim-gilmore-2016-republican-presidential-candidate/story?id=32670102",
+      "al:android:app_name": "ABC News Breaking Latest News",
+      "al:android:package": "com.abc.abcnews",
+      "al:web:url": "http://abcnews.go.com/Politics/meet-jim-gilmore-2016-republican-presidential-candidate/story?id=32670102",
+      "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ]
+   }
+  }
+ ]
+}

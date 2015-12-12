@@ -1,0 +1,1235 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Ted Cruz",
+    "totalResults": "13600000",
+    "searchTerms": "Ted Cruz",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Ted Cruz",
+    "totalResults": "13600000",
+    "searchTerms": "Ted Cruz",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.274228,
+  "formattedSearchTime": "0.27",
+  "totalResults": "13600000",
+  "formattedTotalResults": "13,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz for President",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e for President",
+   "link": "https://www.tedcruz.org/",
+   "displayLink": "www.tedcruz.org",
+   "snippet": "Courageous Conservatives -- Reigniting the Promise of America.",
+   "htmlSnippet": "Courageous Conservatives -- Reigniting the Promise of America.",
+   "cacheId": "R-Dr_Rc9VCYJ",
+   "formattedUrl": "https://www.tedcruz.org/",
+   "htmlFormattedUrl": "https://www.\u003cb\u003etedcruz\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://cdn.tedcruz.org/wp-content/uploads/2015/04/header-image2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-un_lrUvhM56bIwj8ItbDYdcgLGl5u7qDRsmQULB8GYHan1e6AbyESG4"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "mobile-web-app-capable": "yes",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Ted Cruz for President",
+      "og:description": "Courageous Conservatives -- Reigniting the Promise of America.",
+      "og:url": "https://www.tedcruz.org/",
+      "og:site_name": "Cruz for President",
+      "og:image": "https://cdn.tedcruz.org/wp-content/uploads/2015/04/header-image2.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "https://en.wikipedia.org/wiki/Ted_Cruz",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Rafael Edward \"Ted\" Cruz (born December 22, 1970) is an American politician \nand the junior U.S. Senator from Texas. He is a candidate for President of the ...",
+   "htmlSnippet": "Rafael Edward &quot;\u003cb\u003eTed\u003c/b\u003e&quot; \u003cb\u003eCruz\u003c/b\u003e (born December 22, 1970) is an American politician \u003cbr\u003e\nand the junior U.S. Senator from Texas. He is a candidate for President of the&nbsp;...",
+   "cacheId": "BSglTB7aSMoJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Ted_Cruz",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eTed\u003c/b\u003e_\u003cb\u003eCruz\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ted_Cruz,_official_portrait,_113th_Congress.jpg/220px-Ted_Cruz,_official_portrait,_113th_Congress.jpg"
+     }
+    ],
+    "person": [
+     {
+      "org": "Republican"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "220",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZINYsO01eoqNYPK56JOOTrvAXF3XbdHf28p5S5nfyijA-lTqLulnxi4Y"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Ted Cruz",
+      "nickname": "Rafael Edward Cruz",
+      "bday": "1970-12-22"
+     },
+     {
+      "fn": "David Dewhurst"
+     },
+     {
+      "fn": "Ted Cruz"
+     },
+     {
+      "fn": "Tom Leppert"
+     },
+     {
+      "fn": "Craig James"
+     },
+     {
+      "fn": "Glenn Addison"
+     },
+     {
+      "fn": "Lela Pittenger"
+     },
+     {
+      "fn": "Ben Gambini"
+     },
+     {
+      "fn": "Curt Cleaver"
+     },
+     {
+      "fn": "Joe Argis"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz (@tedcruz) | Twitter",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e (@\u003cb\u003etedcruz\u003c/b\u003e) | Twitter",
+   "link": "https://twitter.com/tedcruz?lang=en",
+   "displayLink": "twitter.com",
+   "snippet": "The latest Tweets from Ted Cruz (@tedcruz). Father of two, @heidiscruz's \nhusband, U.S. Senator, fighter for liberty, player of iPhone games, 2016 GOP ...",
+   "htmlSnippet": "The latest Tweets from \u003cb\u003eTed Cruz\u003c/b\u003e (@\u003cb\u003etedcruz\u003c/b\u003e). Father of two, @heidiscruz&#39;s \u003cbr\u003e\nhusband, U.S. Senator, fighter for liberty, player of iPhone games, 2016 GOP&nbsp;...",
+   "cacheId": "ZK8Dd7izy9MJ",
+   "formattedUrl": "https://twitter.com/tedcruz?lang=en",
+   "htmlFormattedUrl": "https://twitter.com/\u003cb\u003etedcruz\u003c/b\u003e?lang=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pbs.twimg.com/profile_images/478888071518093312/Rdiy3UhY_400x400.jpeg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyeQ1GQsPubigZxk4tzdifwVW5tSXx-kUwTMibUSJZkYgq67B73AFuygwa"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e",
+   "link": "https://www.facebook.com/tedcruzpage/",
+   "displayLink": "www.facebook.com",
+   "snippet": "Ted Cruz. 1661185 likes · 278814 talking about this. US Senator from Texas and \ncandidate for the Republican nomination for President of the United...",
+   "htmlSnippet": "\u003cb\u003eTed Cruz\u003c/b\u003e. 1661185 likes · 278814 talking about this. US Senator from Texas and \u003cbr\u003e\ncandidate for the Republican nomination for President of the United...",
+   "cacheId": "D9raNBhwlZwJ",
+   "formattedUrl": "https://www.facebook.com/tedcruzpage/",
+   "htmlFormattedUrl": "https://www.facebook.com/\u003cb\u003etedcruz\u003c/b\u003epage/",
+   "pagemap": {
+    "organization": [
+     {
+      "name": "Ted Cruz"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "al:android:app_name": "Facebook",
+      "al:android:package": "com.facebook.katana",
+      "al:android:url": "fb://page/69983322463",
+      "al:ios:app_name": "Facebook",
+      "al:ios:app_store_id": "284882215",
+      "al:ios:url": "fb://page/?id=69983322463"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz | U.S. Senator for Texas",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e | U.S. Senator for Texas",
+   "link": "http://www.cruz.senate.gov/",
+   "displayLink": "www.cruz.senate.gov",
+   "snippet": "The official homepage of Senator Ted Cruz of Texas.",
+   "htmlSnippet": "The official homepage of Senator \u003cb\u003eTed Cruz\u003c/b\u003e of Texas.",
+   "cacheId": "PXg2LCE0b_AJ",
+   "formattedUrl": "www.cruz.senate.gov/",
+   "htmlFormattedUrl": "www.\u003cb\u003ecruz\u003c/b\u003e.senate.gov/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://img.youtube.com/vi/FYmoroOMEiU/hqdefault.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB6BakGMMyHyAfarhGt9T5lyv60kWv74zXYY3MgK6QGScRh5mNG98d80Wj"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cruz: 'No meaningful risk' of Christians committing terrorism - The ...",
+   "htmlTitle": "\u003cb\u003eCruz\u003c/b\u003e: &#39;No meaningful risk&#39; of Christians committing terrorism - The \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.washingtonpost.com/news/post-politics/wp/2015/11/15/cruz-no-meaningful-risk-of-christians-committing-terrorism/",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Nov 15, 2015 ... MYRTLE BEACH, S.C. — Sen. Ted Cruz Sunday continued to call for Muslim \nrefugees from Syria to be barred from entering the United States ...",
+   "htmlSnippet": "Nov 15, 2015 \u003cb\u003e...\u003c/b\u003e MYRTLE BEACH, S.C. — Sen. \u003cb\u003eTed Cruz\u003c/b\u003e Sunday continued to call for Muslim \u003cbr\u003e\nrefugees from Syria to be barred from entering the United States&nbsp;...",
+   "formattedUrl": "https://www.washingtonpost.com/.../cruz-no-meaningful-risk-of-christians- committing-terrorism/",
+   "htmlFormattedUrl": "https://www.washingtonpost.com/.../\u003cb\u003ecruz\u003c/b\u003e-no-meaningful-risk-of-christians- committing-terrorism/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-09-29/AP/Congress_Budget-06d04.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "Katie Zezima"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "271",
+      "height": "186",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUN7Or5Zp-obzggpoF4yJ6lfs9TMm6QgL5ptS5q0YNZ2MmWJ4MNr6ZaQcU"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "He would allow Christian refugees from Syria into the U.S., but not Muslim ones",
+      "mainentityofpage": "True",
+      "image": "http://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-09-29/AP/Congress_Budget-06d04.jpg",
+      "url": "https://www.washingtonpost.com/news/post-politics/wp/2015/11/15/cruz-no-meaningful-risk-of-christians-committing-terrorism/",
+      "headline": "Cruz: ‘No meaningful risk’ of Christians committing terrorism",
+      "datepublished": "2015-11-15T06:12-500",
+      "articlebody": "Sen Ted Cruz (R-Tex.) wants to only let Christian refugees from Syria into the United States. (Mark J. Terrill/AP) MYRTLE BEACH, S.C. — Sen. Ted Cruz Sunday continued to call for Muslim refugees..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+      "referrer": "unsafe-url",
+      "news_keywords": "ted cruz, syria, terrorism, jeb bush, christian, muslim, islamic state, isis",
+      "twitter:card": "summary_large_image",
+      "og:description": "He would allow Christian refugees from Syria into the U.S., but not Muslim ones",
+      "og:type": "article",
+      "og:site_name": "Washington Post",
+      "og:image": "http://img.washingtonpost.com/rf/image_908w/2010-2019/Wires/Images/2015-09-29/AP/Congress_Budget-06d04.jpg",
+      "og:title": "Cruz: ‘No meaningful risk’ of Christians committing terrorism",
+      "article:publisher": "https://www.facebook.com/washingtonpost",
+      "fb:admins": "1513210492",
+      "fb:app_id": "41245586762",
+      "og:url": "https://www.washingtonpost.com/news/post-politics/wp/2015/11/15/cruz-no-meaningful-risk-of-christians-committing-terrorism/",
+      "apple-itunes-app": "app-id=938922398, app-argument=https://www.washingtonpost.com/news/post-politics/wp/2015/11/15/cruz-no-meaningful-risk-of-christians-committing-terrorism/",
+      "article:author": "https://www.facebook.com/zezimak",
+      "author": "https://www.facebook.com/zezimak",
+      "twitter:creator": "@katiezez"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz, the Absolutist - The New Yorker",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e, the Absolutist - The New Yorker",
+   "link": "http://www.newyorker.com/magazine/2014/06/30/the-absolutist-2",
+   "displayLink": "www.newyorker.com",
+   "snippet": "Jun 30, 2014 ... Ted Cruz says, “In both law and politics, I think the essential battle is the meta-\nbattle of framing the narrative.” From his reading of Sun Tzu he ...",
+   "htmlSnippet": "Jun 30, 2014 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eTed Cruz\u003c/b\u003e says, “In both law and politics, I think the essential battle is the meta-\u003cbr\u003e\nbattle of framing the narrative.” From his reading of Sun Tzu he&nbsp;...",
+   "cacheId": "NpbUydb6YvcJ",
+   "formattedUrl": "www.newyorker.com/magazine/2014/06/30/the-absolutist-2",
+   "htmlFormattedUrl": "www.newyorker.com/magazine/2014/06/30/the-absolutist-2",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.newyorker.com/wp-content/uploads/2014/06/140630_r25193-670.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.newyorker.com/contributors/jeffrey-toobin",
+      "name": "Jeffrey Toobin"
+     },
+     {
+      "name": "Jeffrey Toobin",
+      "url": "http://www.newyorker.com/contributors/jeffrey-toobin",
+      "image": "http://www.newyorker.com/wp-content/uploads/2014/03/toobin.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "197",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPIrCPls7LqTkpVvU_mWW_x753FnIn9B2NODdFmg7nEWTki8J5mx3jxoU"
+     }
+    ],
+    "newsarticle": [
+     {
+      "name": "The Absolutist",
+      "publisher": "The New Yorker",
+      "url": "http://www.newyorker.com/magazine/2014/06/30/the-absolutist-2",
+      "wordcount": "8559",
+      "articlesection": "The Political Scene",
+      "printedition": "June 30, 2014 Issue",
+      "printsection": "The Political Scene",
+      "printpage": "034",
+      "datepublished": "2014-06-30",
+      "headline": "The Absolutist",
+      "alternativeheadline": "Ted Cruz is an unyielding debater—and the far right’s most formidable advocate.",
+      "articlebody": "Ted Cruz says, “In both law and politics, I think the essential battle is the meta-battle of framing the narrative.” From his reading of Sun Tzu he has learned that a battle is won by “choosi...",
+      "image": "http://www.newyorker.com/wp-content/uploads/2014/06/140630_r25193-670.jpg",
+      "description": "Ted Cruz says, “In both law and politics, I think the essential battle is the meta-battle of framing the narrative.” From his reading of Sun Tzu he has learned that a battle is won by “choosi...",
+      "copyrightholder": "Credit Photograph by Pari Dukovic"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0",
+      "handheldfriendly": "true",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-title": "The New Yorker",
+      "environment": "prod",
+      "id": "1564011",
+      "fb:admins": "501890909",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Ted Cruz, the Absolutist",
+      "og:description": "The Republican junior senator from Texas is the far right’s most formidable advocate—and a 2016 contender.",
+      "og:url": "http://www.newyorker.com/magazine/2014/06/30/the-absolutist-2",
+      "og:site_name": "The New Yorker",
+      "article:tag": "(Sen.) John Cornyn"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Jeffrey Toobin",
+      "url": "http://www.newyorker.com/contributors/jeffrey-toobin",
+      "photo": "http://www.newyorker.com/wp-content/uploads/2014/03/toobin.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz's file | PolitiFact Texas",
+   "htmlTitle": "\u003cb\u003eTed Cruz&#39;s\u003c/b\u003e file | PolitiFact Texas",
+   "link": "http://www.politifact.com/personalities/ted-cruz/",
+   "displayLink": "www.politifact.com",
+   "snippet": "Ted Cruz, elected to the U.S. Senate in 2012, is a candidate for president of the \nUnited States in 2016. He is the former solicitor general for the state of Texas, ...",
+   "htmlSnippet": "\u003cb\u003eTed Cruz\u003c/b\u003e, elected to the U.S. Senate in 2012, is a candidate for president of the \u003cbr\u003e\nUnited States in 2016. He is the former solicitor general for the state of Texas,&nbsp;...",
+   "cacheId": "ySc4_j9sgZkJ",
+   "formattedUrl": "www.politifact.com/personalities/ted-cruz/",
+   "htmlFormattedUrl": "www.politifact.com/personalities/\u003cb\u003eted\u003c/b\u003e-\u003cb\u003ecruz\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.politifact.com.s3.amazonaws.com/politifact%2Fmugs%2FTed_Cruz_1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "74",
+      "height": "74",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCkbG66wuxGdzm0s6A0lB1EVIqd_4zIkAcGk1ThHrRSL-aLjyqXnjNIA"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e",
+   "link": "http://www.tedcruz.com/",
+   "displayLink": "www.tedcruz.com",
+   "snippet": "SUPPORT PRESIDENT OBAMA. IMMIGRATION REFORM NOW! View on Mobile\n.",
+   "htmlSnippet": "SUPPORT PRESIDENT OBAMA. IMMIGRATION REFORM NOW! View on Mobile\u003cbr\u003e\n.",
+   "cacheId": "5pCPmn3c80IJ",
+   "formattedUrl": "www.tedcruz.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003etedcruz\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is Ted Cruz, born in Canada, eligible to run for president? (Updated ...",
+   "htmlTitle": "Is \u003cb\u003eTed Cruz\u003c/b\u003e, born in Canada, eligible to run for president? (Updated \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.politifact.com/truth-o-meter/article/2015/mar/26/ted-cruz-born-canada-eligible-run-president-update/",
+   "displayLink": "www.politifact.com",
+   "snippet": "Mar 26, 2015 ... Ted Cruz, R-Texas, was born outside the United States, a fact he willingly offered. \nCruz, who was born in Canada, has maintained there are no ...",
+   "htmlSnippet": "Mar 26, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eTed Cruz\u003c/b\u003e, R-Texas, was born outside the United States, a fact he willingly offered. \u003cbr\u003e\nCruz, who was born in Canada, has maintained there are no&nbsp;...",
+   "cacheId": "FuHOzrJ3K4IJ",
+   "formattedUrl": "www.politifact.com/.../ted-cruz-born-canada-eligible-run-president-update/",
+   "htmlFormattedUrl": "www.politifact.com/.../\u003cb\u003eted\u003c/b\u003e-\u003cb\u003ecruz\u003c/b\u003e-born-canada-eligible-run-president-update/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.politifact.com.s3.amazonaws.com/politifact%2Fphotos%2FCruz_Liberty_University.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "289",
+      "height": "174",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtfP8ouAOsTXGgAx6IMyM07pLkpoHNE0dn6K7ou6c7sAyr4HaK7DS_29Qw"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "106379906558",
+      "og:title": "Is Ted Cruz, born in Canada, eligible to run for president? (Updated)",
+      "og:type": "article",
+      "og:url": "http://www.politifact.com/truth-o-meter/article/2015/mar/26/ted-cruz-born-canada-eligible-run-president-update/",
+      "og:image": "http://static.politifact.com.s3.amazonaws.com:80/politifact%2Fphotos%2FCruz_Liberty_University.jpg",
+      "og:site_name": "PolitiFact",
+      "fb:admins": "750116788",
+      "og:description": "For most of his presidential campaign and much of his presidency, President Barack Obama endured erroneous claims that he was born in Kenya rather than the United States. He released the short form of his birth certificate to prove he was born in Hawaii. Then the long form. The conspiracists died down, but they remained. Now, the first candidate to throw his hat in the ring for the 2016 presidential contest, Sen. Ted Cruz, R-Texas, was born outside the United States, a fact he willingly offered. Cruz, who was born in Canada, has maintained there are no constitutional barriers that ...",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@politifact",
+      "twitter:url": "http://www.politifact.com/truth-o-meter/article/2015/mar/26/ted-cruz-born-canada-eligible-run-president-update/",
+      "twitter:username": "PolitiFact",
+      "twitter:title": "Is Ted Cruz, born in Canada, eligible to run for president? (Updated)",
+      "twitter:description": "For most of his presidential campaign and much of his presidency, President Barack Obama endured erroneous claims that he was born in Kenya rather than the United States. He released the short form of his birth certificate to prove he was born in Hawaii. Then the long form. The conspiracists died down, but they remained. Now, the first candidate to throw his hat in the ring&nbsp;for the 2016 presidential contest, Sen. Ted Cruz, R-Texas, was born outside the United States, a fact he willingly offered. Cruz, who was born in Canada, has maintained there are no constitutional barriers that prevent ...",
+      "twitter:image": "http://static.politifact.com/images/twitter-meter.png",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  }
+ ]
+}
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Ted Cruz",
+    "totalResults": "13600000",
+    "searchTerms": "Ted Cruz",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Ted Cruz",
+    "totalResults": "13600000",
+    "searchTerms": "Ted Cruz",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - Ted Cruz",
+    "totalResults": "13600000",
+    "searchTerms": "Ted Cruz",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.250021,
+  "formattedSearchTime": "0.25",
+  "totalResults": "13600000",
+  "formattedTotalResults": "13,600,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2016 Republican primary: George W. Bush unleashes on Ted Cruz ...",
+   "htmlTitle": "2016 Republican primary: George W. Bush unleashes on \u003cb\u003eTed Cruz\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.politico.com/story/2015/10/jeb-bush-george-bush-donors-ted-cruz-214933",
+   "displayLink": "www.politico.com",
+   "snippet": "Oct 19, 2015 ... It's George W. Bush's former employee — Ted Cruz. ... Bush took a harsh view of \nCruz's apparent alliance with Trump, who stood with the ...",
+   "htmlSnippet": "Oct 19, 2015 \u003cb\u003e...\u003c/b\u003e It&#39;s George W. Bush&#39;s former employee — \u003cb\u003eTed Cruz\u003c/b\u003e. ... Bush took a harsh view of \u003cbr\u003e\nCruz&#39;s apparent alliance with Trump, who stood with the&nbsp;...",
+   "cacheId": "myavxpe6FnYJ",
+   "formattedUrl": "www.politico.com/.../jeb-bush-george-bush-donors-ted-cruz-214933",
+   "htmlFormattedUrl": "www.politico.com/.../jeb-bush-george-bush-donors-\u003cb\u003eted\u003c/b\u003e-\u003cb\u003ecruz\u003c/b\u003e-214933",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.politico.com/b2/66/c210137e45e485773639c2e9bb8c/151019-george-w-bush-gty-1160.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "305",
+      "height": "165",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQCAuJP3tKhcdD-CVO016PbWaQ0RsBDZ1NPTJXZ0dwcJZbNHyRh-bUJmpU"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "George W. Bush unleashes on Ted Cruz",
+      "og:description": "'I just don't like that guy,' the former president tells donors.",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:type": "article",
+      "og:url": "http://www.politico.com/story/2015/10/jeb-bush-george-bush-donors-ted-cruz-214933",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@politico",
+      "twitter:creator": "@politico",
+      "og:fb_appid": "114037015331397",
+      "og:site_name": "POLITICO",
+      "og:image": "http://static.politico.com/b2/66/c210137e45e485773639c2e9bb8c/151019-george-w-bush-gty-1160.jpg"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Eli Stokols",
+      "url": "http://www.politico.com/staff/eli-stokols",
+      "url_text": "Eli Stokols"
+     },
+     {
+      "fn": "Nick Gass",
+      "url": "http://www.politico.com/staff/nick-gass",
+      "url_text": "Nick Gass"
+     },
+     {
+      "fn": "Nick Gass",
+      "url": "http://www.politico.com/staff/nick-gass",
+      "url_text": "Nick Gass"
+     },
+     {
+      "fn": "Ben Schreckinger",
+      "url": "http://www.politico.com/staff/ben-schreckinger",
+      "url_text": "Ben Schreckinger"
+     },
+     {
+      "fn": "Eli Stokols",
+      "url": "http://www.politico.com/staff/eli-stokols",
+      "url_text": "Eli Stokols"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz Store: Home",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e Store: Home",
+   "link": "https://store.tedcruz.org/",
+   "displayLink": "store.tedcruz.org",
+   "snippet": "Ted Cruz Fan Jersey. $87.00 ... Cruz Limited Edition Christmas Sweater. $65.00 \n... Cruz 2016 Winter Package- Navy. $40.00 ...",
+   "htmlSnippet": "\u003cb\u003eTed Cruz\u003c/b\u003e Fan Jersey. $87.00 ... Cruz Limited Edition Christmas Sweater. $65.00 \u003cbr\u003e\n... Cruz 2016 Winter Package- Navy. $40.00&nbsp;...",
+   "cacheId": "In611eOY3VsJ",
+   "formattedUrl": "https://store.tedcruz.org/",
+   "htmlFormattedUrl": "https://store.\u003cb\u003etedcruz\u003c/b\u003e.org/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://store.tedcruz.org/wp-content/uploads/2015/06/accessories.jpeg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "289",
+      "height": "174",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzvlmUJKmQeTKLquK10JFjV0nXHTtakVSmiEWHuNtRZwkmXhWg1PFemp7s"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Home - Ted Cruz Store",
+      "og:url": "https://store.tedcruz.org/",
+      "og:site_name": "Ted Cruz Store",
+      "og:image": "http://store.tedcruz.org/wp-content/uploads/2015/06/accessories.jpeg",
+      "twitter:card": "summary",
+      "twitter:title": "Home - Ted Cruz Store",
+      "twitter:image": "http://store.tedcruz.org/wp-content/uploads/2015/06/accessories.jpeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz - YouTube",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e - YouTube",
+   "link": "https://www.youtube.com/user/TedCruzforSenate",
+   "displayLink": "www.youtube.com",
+   "snippet": "Paid for by Cruz for President. www.tedcruz.org. ... Watch QueueQueue. Remove \nall; Disconnect. Watch Queue. Queue. __count__/__total__. Cruz for President ...",
+   "htmlSnippet": "Paid for by Cruz for President. www.\u003cb\u003etedcruz\u003c/b\u003e.org. ... Watch QueueQueue. Remove \u003cbr\u003e\nall; Disconnect. Watch Queue. Queue. __count__/__total__. Cruz for President&nbsp;...",
+   "cacheId": "zzlctPlkiUgJ",
+   "formattedUrl": "https://www.youtube.com/user/TedCruzforSenate",
+   "htmlFormattedUrl": "https://www.youtube.com/user/\u003cb\u003eTedCruz\u003c/b\u003eforSenate",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://yt3.ggpht.com/-2tyuOqUfc2E/AAAAAAAAAAI/AAAAAAAAAAA/YFr1s1VOChU/s900-c-k-no/photo.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/TedCruzforSenate"
+     },
+     {
+      "url": "https://plus.google.com/115804886008767056591"
+     },
+     {
+      "url": "http://www.youtube.com/user/TedCruzforSenate"
+     },
+     {
+      "url": "https://plus.google.com/115804886008767056591"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9L7c8guOHv9pQS8__CuiZUD-Xdvlym4Eby0wxxiFnzX8IoQ0yEAwJK_E"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Ted Cruz",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/user/TedCruzforSenate",
+      "og:title": "Ted Cruz",
+      "og:image": "https://yt3.ggpht.com/-2tyuOqUfc2E/AAAAAAAAAAI/AAAAAAAAAAA/YFr1s1VOChU/s900-c-k-no/photo.jpg",
+      "og:description": "Paid for by Cruz for President. www.tedcruz.org",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://user/UCzMQMhq7Id0Y_wSDA_CJdGg",
+      "al:android:url": "https://www.youtube.com/user/TedCruzforSenate?feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/user/TedCruzforSenate?feature=applinks",
+      "og:type": "profile",
+      "fb:app_id": "87741124305",
+      "fb:profile_id": "tedcruzpage",
+      "twitter:card": "summary",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/user/TedCruzforSenate",
+      "twitter:title": "Ted Cruz",
+      "twitter:description": "Paid for by Cruz for President. www.tedcruz.org",
+      "twitter:image": "https://yt3.ggpht.com/-2tyuOqUfc2E/AAAAAAAAAAI/AAAAAAAAAAA/YFr1s1VOChU/s900-c-k-no/photo.jpg",
+      "twitter:app:name:iphone": "YouTube",
+      "twitter:app:id:iphone": "544007664",
+      "twitter:app:name:ipad": "YouTube",
+      "twitter:app:id:ipad": "544007664",
+      "twitter:app:url:iphone": "vnd.youtube://user/UCzMQMhq7Id0Y_wSDA_CJdGg",
+      "twitter:app:url:ipad": "vnd.youtube://user/UCzMQMhq7Id0Y_wSDA_CJdGg",
+      "twitter:app:name:googleplay": "YouTube",
+      "twitter:app:id:googleplay": "com.google.android.youtube",
+      "twitter:app:url:googleplay": "https://www.youtube.com/user/TedCruzforSenate"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://yt3.ggpht.com/-2tyuOqUfc2E/AAAAAAAAAAI/AAAAAAAAAAA/YFr1s1VOChU/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     },
+     {
+      "url": "https://yt3.ggpht.com/-2tyuOqUfc2E/AAAAAAAAAAI/AAAAAAAAAAA/YFr1s1VOChU/s900-c-k-no/photo.jpg",
+      "width": "900",
+      "height": "900"
+     }
+    ],
+    "youtubechannelv2": [
+     {
+      "url": "https://www.youtube.com/user/TedCruzforSenate",
+      "name": "Ted Cruz",
+      "description": "Paid for by Cruz for President. www.tedcruz.org",
+      "paid": "False",
+      "channelid": "UCzMQMhq7Id0Y_wSDA_CJdGg",
+      "thumbnailurl": "https://yt3.ggpht.com/-2tyuOqUfc2E/AAAAAAAAAAI/AAAAAAAAAAA/YFr1s1VOChU/s900-c-k-no/photo.jpg",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz going on Obamacare - CNNPolitics.com",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e going on Obamacare - CNNPolitics.com",
+   "link": "http://www.cnn.com/2015/03/24/politics/ted-cruz-obamacare/",
+   "displayLink": "www.cnn.com",
+   "snippet": "Mar 24, 2015 ... (CNN) Ted Cruz is going on Obamacare. The newly announced Republican \npresidential candidate told CNN's Dana Bash on Tuesday that he ...",
+   "htmlSnippet": "Mar 24, 2015 \u003cb\u003e...\u003c/b\u003e (CNN) \u003cb\u003eTed Cruz\u003c/b\u003e is going on Obamacare. The newly announced Republican \u003cbr\u003e\npresidential candidate told CNN&#39;s Dana Bash on Tuesday that he&nbsp;...",
+   "cacheId": "e5gVwTr60q8J",
+   "formattedUrl": "www.cnn.com/2015/03/24/politics/ted-cruz-obamacare/",
+   "htmlFormattedUrl": "www.cnn.com/2015/03/24/politics/\u003cb\u003eted\u003c/b\u003e-\u003cb\u003ecruz\u003c/b\u003e-obamacare/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150317125510-ted-cruz-gallery-7-large-169.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150317125510-ted-cruz-gallery-7-large-169.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "politics",
+      "datecreated": "2015-03-24T19:55:34Z",
+      "datepublished": "2015-03-24T19:55:34Z",
+      "datemodified": "2015-03-25T02:23:01Z",
+      "url": "http://www.cnn.com/2015/03/24/politics/ted-cruz-obamacare/index.html",
+      "author": "Dana Bash and MJ Lee, CNN",
+      "headline": "Ted Cruz going on Obamacare - CNNPolitics.com",
+      "description": "Ted Cruz is going on Obamacare.",
+      "keywords": "politics, Ted Cruz going on Obamacare - CNNPolitics.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150317125510-ted-cruz-gallery-7-large-169.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/150317125510-ted-cruz-gallery-7-large-169.jpg",
+      "alternativeheadline": "Ted Cruz going on Obamacare",
+      "articlebody": "Story highlights After interview, Cruz spokesperson says senator won't take government contribution to purchase Obamacare (CNN)Ted Cruz is going on Obamacare.The newly announced Republican..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "politics",
+      "og:pubdate": "2015-03-24T19:55:34Z",
+      "pubdate": "2015-03-24T19:55:34Z",
+      "lastmod": "2015-03-25T02:23:01Z",
+      "og:url": "http://www.cnn.com/2015/03/24/politics/ted-cruz-obamacare/index.html",
+      "author": "Dana Bash and MJ Lee, CNN",
+      "og:title": "Ted Cruz going on Obamacare - CNNPolitics.com",
+      "og:description": "Ted Cruz is going on Obamacare.",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150317125510-ted-cruz-gallery-7-large-169.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/150317125510-ted-cruz-gallery-7-large-169.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/03/24/politics/ted-cruz-obamacare/index.html",
+      "fb:app_id": "80401312489",
+      "template-top": "politics,art-vid-col,col-ted-cruz"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pundits Have It All Wrong. Ted Cruz Is a Real Threat For the ...",
+   "htmlTitle": "The Pundits Have It All Wrong. \u003cb\u003eTed Cruz\u003c/b\u003e Is a Real Threat For the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.politico.com/magazine/story/2015/11/get-over-it-ted-cruz-is-a-real-threat-for-the-nomination-213351",
+   "displayLink": "www.politico.com",
+   "snippet": "Nov 12, 2015 ... Ted Cruz gets no respect. At least no respect in keeping with the impressiveness \nof the campaign he's built and his increasing odds of winning ...",
+   "htmlSnippet": "Nov 12, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eTed Cruz\u003c/b\u003e gets no respect. At least no respect in keeping with the impressiveness \u003cbr\u003e\nof the campaign he&#39;s built and his increasing odds of winning&nbsp;...",
+   "cacheId": "LBMFevK0ACIJ",
+   "formattedUrl": "www.politico.com/.../get-over-it-ted-cruz-is-a-real-threat-for-the-nomination- 213351",
+   "htmlFormattedUrl": "www.politico.com/.../get-over-it-\u003cb\u003eted\u003c/b\u003e-\u003cb\u003ecruz\u003c/b\u003e-is-a-real-threat-for-the-nomination- 213351",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s3-origin-images.politico.com/2013/01/07/130107_ted_cruz_ap_605.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "305",
+      "height": "165",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXqX_ct7pw9R5ykdYkilyIz11d33pnMF-DLbdVe2e0ZkMtSzXPsHUCPSIu"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "The Pundits Have It All Wrong. Ted Cruz Is a Real Threat For the Nomination.",
+      "og:description": "The Texas senator is a severely underrated contender.",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:type": "article",
+      "og:url": "http://www.politico.com/magazine/story/2015/11/get-over-it-ted-cruz-is-a-real-threat-for-the-nomination-213351",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@politico",
+      "twitter:creator": "@politico",
+      "og:fb_appid": "114037015331397",
+      "og:site_name": "POLITICO Magazine",
+      "og:image": "http://s3-origin-images.politico.com/2013/01/07/130107_ted_cruz_ap_605.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Senator Ted Cruz on His \"The World Is on Fire\" Comments and ...",
+   "htmlTitle": "Senator \u003cb\u003eTed Cruz\u003c/b\u003e on His &quot;The World Is on Fire&quot; Comments and \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.youtube.com/watch?v=m0UJ_Sc0Udk",
+   "displayLink": "www.youtube.com",
+   "snippet": "Mar 16, 2015 ... Ted Cruz responds to reports that he terrified a three-year-old girl with a political \nspeech over the weekend. » Subscribe to Late Night: ...",
+   "htmlSnippet": "Mar 16, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eTed Cruz\u003c/b\u003e responds to reports that he terrified a three-year-old girl with a political \u003cbr\u003e\nspeech over the weekend. » Subscribe to Late Night:&nbsp;...",
+   "cacheId": "YKWZL3h7HCgJ",
+   "formattedUrl": "https://www.youtube.com/watch?v=m0UJ_Sc0Udk",
+   "htmlFormattedUrl": "https://www.youtube.com/watch?v=m0UJ_Sc0Udk",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/m0UJ_Sc0Udk/maxresdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.youtube.com/watch?v=m0UJ_Sc0Udk",
+      "name": "Senator Ted Cruz on His \"The World Is on Fire\" Comments and Global Warming",
+      "description": "Ted Cruz responds to reports that he terrified a three-year-old girl with a political speech over the weekend. » Subscribe to Late Night: http://bit.ly/LateN...",
+      "paid": "False",
+      "channelid": "UCVTyTA7-g9nopHeHbeuvpRA",
+      "videoid": "m0UJ_Sc0Udk",
+      "duration": "PT4M49S",
+      "unlisted": "False",
+      "thumbnailurl": "https://i.ytimg.com/vi/m0UJ_Sc0Udk/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/m0UJ_Sc0Udk",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "564469",
+      "datepublished": "2015-03-16",
+      "genre": "Comedy"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/LateNightSeth"
+     },
+     {
+      "url": "https://plus.google.com/104306507229714934467"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaY_qvH3Pcj8c1CQTX097kYqjAhwYn_Eb27Zqh4JQZOiiw9U1oijGPPwUo"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Senator Ted Cruz on His \"The World Is on Fire\" Comments and Global Warming",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/watch?v=m0UJ_Sc0Udk",
+      "og:title": "Senator Ted Cruz on His \"The World Is on Fire\" Comments and Global Warming",
+      "og:image": "https://i.ytimg.com/vi/m0UJ_Sc0Udk/maxresdefault.jpg",
+      "og:description": "Ted Cruz responds to reports that he terrified a three-year-old girl with a political speech over the weekend. » Subscribe to Late Night: http://bit.ly/LateN...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=m0UJ_Sc0Udk&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=m0UJ_Sc0Udk&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/watch?v=m0UJ_Sc0Udk&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/m0UJ_Sc0Udk",
+      "og:video:secure_url": "https://www.youtube.com/embed/m0UJ_Sc0Udk",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "Late Night",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/watch?v=m0UJ_Sc0Udk",
+      "twitter:title": "Senator Ted Cruz on His \"The World Is on Fire\" Comments and Global Warming"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://i.ytimg.com/vi/m0UJ_Sc0Udk/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ted Cruz Is Guest of Two Gay Businessmen - The New York Times",
+   "htmlTitle": "\u003cb\u003eTed Cruz\u003c/b\u003e Is Guest of Two Gay Businessmen - The New York Times",
+   "link": "http://www.nytimes.com/2015/04/24/us/politics/at-new-york-reception-ted-cruz-is-said-to-strike-different-tone-toward-gays.html",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Apr 23, 2015 ... Senator Ted Cruz of Texas, left, a Republican presidential hopeful, with Mati \nWeiderpass, in a photo posted to Mr. Weiderpass's Facebook ...",
+   "htmlSnippet": "Apr 23, 2015 \u003cb\u003e...\u003c/b\u003e Senator \u003cb\u003eTed Cruz\u003c/b\u003e of Texas, left, a Republican presidential hopeful, with Mati \u003cbr\u003e\nWeiderpass, in a photo posted to Mr. Weiderpass&#39;s Facebook&nbsp;...",
+   "formattedUrl": "www.nytimes.com/.../at-new-york-reception-ted-cruz-is-said-to-strike- different-tone-toward-gays.html",
+   "htmlFormattedUrl": "www.nytimes.com/.../at-new-york-reception-\u003cb\u003eted\u003c/b\u003e-\u003cb\u003ecruz\u003c/b\u003e-is-said-to-strike- different-tone-toward-gays.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static01.nyt.com/images/2015/04/24/us/politics/24CRUZ-web/24CRUZ-web-master675.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "tickersymbol": "NYSE NYT"
+     }
+    ],
+    "person": [
+     {
+      "name": "MAGGIE HABERMAN"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "274",
+      "height": "184",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFoWdB3pNYm5EO4IEnec1nXgNLCTMIF7eXgjir_oSHxlWmdLsYkBjL1Ny6"
+     }
+    ],
+    "newsarticle": [
+     {
+      "alternativeheadline": "Cruz Is Guest of Two Gay Businessmen",
+      "description": "Mr. Cruz said at an event hosted by prominent gay hoteliers that he would have no problem if one of his daughters was gay, according to one of the attendees.",
+      "genre": "News",
+      "identifier": "100000003645035",
+      "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+      "inlanguage": "en-US",
+      "datepublished": "2015-04-23",
+      "articlesection": "Politics",
+      "datemodified": "2015-04-24",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/04/24/us/politics/24CRUZ-web/24CRUZ-web-thumbStandard.jpg",
+      "headline": "Ted Cruz Is Guest of Two Gay Businessmen",
+      "articlebody": "Senator Ted Cruz has positioned himself as a strong opponent of same-sex marriage, urging pastors nationwide to preach in support of marriage as an institution between a man and a woman, which...",
+      "printedition": "New York edition",
+      "copyrightnotice": "© 2015 The New York Times Company",
+      "copyrightyear": "2015"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "sourceapp": "nyt-v5",
+      "applicationname": "article",
+      "al:android:url": "nytimes://reader/id/100000003645035",
+      "al:android:package": "com.nytimes.android",
+      "al:android:app_name": "NYTimes",
+      "twitter:app:name:googleplay": "NYTimes",
+      "twitter:app:id:googleplay": "com.nytimes.android",
+      "twitter:app:url:googleplay": "nytimes://reader/id/100000003645035",
+      "al:iphone:url": "nytimes://www.nytimes.com/2015/04/24/us/politics/at-new-york-reception-ted-cruz-is-said-to-strike-different-tone-toward-gays.html",
+      "al:iphone:app_store_id": "284862083",
+      "al:iphone:app_name": "NYTimes",
+      "al:ipad:url": "nytimes://www.nytimes.com/2015/04/24/us/politics/at-new-york-reception-ted-cruz-is-said-to-strike-different-tone-toward-gays.html",
+      "al:ipad:app_store_id": "357066198",
+      "al:ipad:app_name": "NYTimes",
+      "hdl_p": "Cruz Is Guest of Two Gay Businessmen",
+      "channels": "NytNow",
+      "articleid": "100000003645035",
+      "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+      "hdl": "Ted Cruz Is Guest of Two Gay Businessmen",
+      "pdate": "20150423",
+      "utime": "20150424155738",
+      "ptime": "20150423131615",
+      "displaydate": "April 23, 2015",
+      "dat": "April 23, 2015",
+      "lp": "Mr. Cruz said at an event hosted by prominent gay hoteliers that he would have no problem if one of his daughters was gay, according to one of the attendees.",
+      "msapplication-starturl": "http://www.nytimes.com",
+      "cre": "The New York Times",
+      "slug": "24cruz",
+      "article:collection": "http://json8.nytimes.com/services/json/sectionfronts/politics/index.jsonp",
+      "sectionfront_jsonp": "http://json8.nytimes.com/services/json/sectionfronts/politics/index.jsonp",
+      "og:url": "http://www.nytimes.com/2015/04/24/us/politics/at-new-york-reception-ted-cruz-is-said-to-strike-different-tone-toward-gays.html",
+      "og:type": "article",
+      "og:title": "Ted Cruz Is Guest of Two Gay Businessmen",
+      "og:description": "Mr. Cruz said at an event hosted by prominent gay hoteliers that he would have no problem if one of his daughters was gay, according to one of the attendees.",
+      "article:published": "2015-04-23",
+      "article:section": "Politics",
+      "article:section-taxonomy-id": "23FD6C8B-62D5-4CEA-A331-6C2A9A1223BE",
+      "fb:app_id": "9869919170",
+      "twitter:url": "http://www.nytimes.com/2015/04/24/us/politics/at-new-york-reception-ted-cruz-is-said-to-strike-different-tone-toward-gays.html",
+      "twitter:title": "Ted Cruz Is Guest of Two Gay Businessmen",
+      "twitter:description": "Mr. Cruz said at an event hosted by prominent gay hoteliers that he would have no problem if one of his daughters was gay, according to one of the attendees.",
+      "author": "Maggie Haberman",
+      "tone": "news",
+      "byl": "By MAGGIE HABERMAN",
+      "pt": "article",
+      "cg": "us",
+      "scg": "politics",
+      "pst": "News",
+      "tom": "News"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://static01.nyt.com/images/2015/04/24/us/politics/24CRUZ-web/24CRUZ-web-master675.jpg",
+      "height": "452",
+      "width": "675",
+      "caption": "Senator Ted Cruz of Texas, left, a Republican presidential hopeful, with Mati Weiderpass, in a photo posted to Mr. Weiderpass’s Facebook page.",
+      "description": "Senator Ted Cruz of Texas, left, a Republican presidential hopeful, with Mati Weiderpass, in a photo posted to Mr. Weiderpass’s Facebook page."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cruz Rips Press At CNBC Debate: \"This Debate Illustrates Why We ...",
+   "htmlTitle": "\u003cb\u003eCruz\u003c/b\u003e Rips Press At CNBC Debate: &quot;This Debate Illustrates Why We \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.realclearpolitics.com/video/2015/10/28/cruz_rips_press_at_cnbc_debate_this_debate_illustrates_why_we_can_not_trust_the_media.html",
+   "displayLink": "www.realclearpolitics.com",
+   "snippet": "Oct 28, 2015 ... At the Republican debate hosted by CNBC in Boulder, Colorado Wednesday \nnight, presidential candidate Sen. Ted Cruz lambasted the ...",
+   "htmlSnippet": "Oct 28, 2015 \u003cb\u003e...\u003c/b\u003e At the Republican debate hosted by CNBC in Boulder, Colorado Wednesday \u003cbr\u003e\nnight, presidential candidate Sen. \u003cb\u003eTed Cruz\u003c/b\u003e lambasted the&nbsp;...",
+   "cacheId": "mstArhrZ0LsJ",
+   "formattedUrl": "www.realclearpolitics.com/.../cruz_rips_press_at_cnbc_debate_this_debate_ illustrates_why_we_can_not_trust_the_media.html",
+   "htmlFormattedUrl": "www.realclearpolitics.com/.../\u003cb\u003ecruz\u003c/b\u003e_rips_press_at_cnbc_debate_this_debate_ illustrates_why_we_can_not_trust_the_media.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.rcp.realclearpolitics.com/327723.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStPiKguoOu-d1uQfRYiDHOvbIBXtkLjeVvqlMF86s1ESlfg5qNoWUPdl4"
+     }
+    ],
+    "metatags": [
+     {
+      "fragment": "!",
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=1",
+      "title": "Cruz Rips Press At CNBC Debate: \"This Debate Illustrates Why We Can Not Trust The Media\"",
+      "og:title": "Cruz Rips Press At CNBC Debate: \"This Debate Illustrates Why We Can Not Trust The Media\"",
+      "og:type": "video",
+      "og:url": "http://www.realclearpolitics.com/video/2015/10/28/cruz_rips_press_at_cnbc_debate_this_debate_illustrates_why_we_can_not_trust_the_media.html",
+      "og:description": "At the Republican debate hosted by CNBC in Boulder, Colorado Wednesday night, presidential candidate Sen. Ted Cruz lambasted the moderators, particularly John Harwood of The New York Times, and the media for their treatment and characterization of himself and his competitors.    \"The questions asked in this debate illustrate why the American people don't trust the media,\" Cruz at Wednesday's Republican debate. \"Everyone home tonight knows that the moderators have no intention of voting in a Republican primary.\"    Cruz later went tete-a-tete with Harwood, a CNBC contributor, for cutting him off and wanting to move on.    \"Congressional Republicans, Democrats and the White House are about to strike a compromise that would raise the debt limit, prevent a government shutdown, and calm financial markets of the fear that a Washington crisis is on the way. Does your opposition to it show you're not the kind of problem-solver that American voters want?\" CNBC anchor Carl Quintanilla asked the presidential candidate. ",
+      "fb:app_id": "1415921935346245",
+      "og:image": "http://images.rcp.realclearpolitics.com/327723.jpg",
+      "twitter:card": "summary",
+      "twitter:site": "@rcpvideo",
+      "tweetmeme-title": "Cruz Rips Press At CNBC Debate: \"This Debate Illustrates Why We Can Not Trust The Media\""
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Watch Ellen Page Confront Ted Cruz on Gay Rights at Iowa Fair",
+   "htmlTitle": "Watch Ellen Page Confront \u003cb\u003eTed Cruz\u003c/b\u003e on Gay Rights at Iowa Fair",
+   "link": "http://abcnews.go.com/Politics/ellen-page-confronts-ted-cruz-gay-rights-iowa/story?id=33231236",
+   "displayLink": "abcnews.go.com",
+   "snippet": "Aug 21, 2015 ... While Sen. Ted Cruz was grilling pork chops at the Iowa State Fair today, actress \nEllen Page, wearing a hat and sunglasses, snuck her way up ...",
+   "htmlSnippet": "Aug 21, 2015 \u003cb\u003e...\u003c/b\u003e While Sen. \u003cb\u003eTed Cruz\u003c/b\u003e was grilling pork chops at the Iowa State Fair today, actress \u003cbr\u003e\nEllen Page, wearing a hat and sunglasses, snuck her way up&nbsp;...",
+   "formattedUrl": "abcnews.go.com/Politics/ellen-page-confronts-ted-cruz-gay.../story?id...",
+   "htmlFormattedUrl": "abcnews.go.com/Politics/ellen-page-confronts-\u003cb\u003eted\u003c/b\u003e-\u003cb\u003ecruz\u003c/b\u003e-gay.../story?id...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.abcnews.go.com/images/Politics/GTY_cruz_page_jef_150821_16x9_992.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFNCoVPw2_umn64l0bq4xNDQraDEA2DuPy_QWaCrmAOv6lMgTczJ5GET6-"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "U.S.",
+      "url": "U.S."
+     }
+    ],
+    "metatags": [
+     {
+      "author": "ABC News",
+      "copyright": "Copyright (c) 2015 ABC News Internet Ventures",
+      "fb:admins": "704409894",
+      "fb:app_id": "4942312939",
+      "fb_title": "Watch Ellen Page Confront Ted Cruz on Gay Rights at Iowa Fair",
+      "og:site_name": "ABC News",
+      "og:title": "Watch Ellen Page Confront Ted Cruz on Gay Rights at Iowa Fair",
+      "og:description": "While Sen. Ted Cruz was grilling pork chops at the Iowa State Fair today, actress Ellen Page, wearing a hat and sunglasses, snuck her way up to the grill and asked the GOP presidential candidate about \"the persecution of gays in the workplace and LGBT rights.\" ABC News caught the exchange. \"What...",
+      "og:url": "http://abcnews.go.com/Politics/ellen-page-confronts-ted-cruz-gay-rights-iowa/story?id=33231236",
+      "og:image:type": "image/jpeg",
+      "og:image": "http://a.abcnews.go.com/images/Politics/GTY_cruz_page_jef_150821_16x9_992.jpg",
+      "dc.date.issued": "2015-08-24",
+      "date": "2015-08-24",
+      "last-modified": "2015-08-24 08:35:15",
+      "news_keywords": "Ellen Page, Ted Cruz, Iowa State Fair",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@ABC",
+      "twitter:creator": "@jesshop23",
+      "twitter:title": "Watch Ellen Page Confront Ted Cruz on Gay Rights at Iowa Fair",
+      "twitter:description": "While Sen. Ted Cruz was grilling pork chops at the Iowa State Fair today, actress Ellen Page, wearing a hat and sunglasses, snuck her way up to the grill and asked the GOP presidential candidate about \"the persecution of gays in the workplace and LGBT rights.\" ABC News caught the exchange. \"What...",
+      "twitter:url": "http://abcnews.go.com/Politics/ellen-page-confronts-ted-cruz-gay-rights-iowa/story?id=33231236",
+      "twitter:image:width": "150",
+      "twitter:image:height": "116",
+      "twitter:app:name:iphone": "ABC News",
+      "twitter:app:id:iphone": "300255638",
+      "twitter:app:url:iphone": "abcnewsiphone://link/story,33231236",
+      "twitter:app:name:ipad": "ABC News",
+      "twitter:app:id:ipad": "306934135",
+      "twitter:app:url:ipad": "abcnewsipad://link/story,33231236",
+      "twitter:app:name:googleplay": "ABC News",
+      "twitter:app:id:googleplay": "com.abc.abcnews",
+      "twitter:app:url:googleplay": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/ellen-page-confronts-ted-cruz-gay-rights-iowa/story?id=33231236",
+      "twitter:image": "http://a.abcnews.go.com/images/Politics/GTY_cruz_page_jef_150821_4x3t_240.jpg",
+      "al:iphone:url": "abcnewsiphone://link/story,33231236",
+      "al:iphone:app_store_id": "300255638",
+      "al:iphone:app_name": "ABC News - Breaking US & World News",
+      "al:ipad:url": "abcnewsipad://link/story,33231236",
+      "al:ipad:app_store_id": "380520716",
+      "al:ipad:app_name": "ABC News for iPad",
+      "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/ellen-page-confronts-ted-cruz-gay-rights-iowa/story?id=33231236",
+      "al:android:app_name": "ABC News Breaking Latest News",
+      "al:android:package": "com.abc.abcnews",
+      "al:web:url": "http://abcnews.go.com/Politics/ellen-page-confronts-ted-cruz-gay-rights-iowa/story?id=33231236",
+      "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yes, Ted Cruz Can Be Born in Canada and Still Become President ...",
+   "htmlTitle": "Yes, \u003cb\u003eTed Cruz\u003c/b\u003e Can Be Born in Canada and Still Become President \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.theatlantic.com/politics/archive/2013/05/yes-ted-cruz-can-be-born-in-canada-and-still-become-president-of-the-us/275469/",
+   "displayLink": "www.theatlantic.com",
+   "snippet": "May 1, 2013 ... No one's as good at covering Congressional Republicans as Robert Costa, so if \nhe says Ted Cruz is seriously considering a run for president, ...",
+   "htmlSnippet": "May 1, 2013 \u003cb\u003e...\u003c/b\u003e No one&#39;s as good at covering Congressional Republicans as Robert Costa, so if \u003cbr\u003e\nhe says \u003cb\u003eTed Cruz\u003c/b\u003e is seriously considering a run for president,&nbsp;...",
+   "cacheId": "p-xXKCbXpn0J",
+   "formattedUrl": "www.theatlantic.com/politics/archive/...ted-cruz.../275469/",
+   "htmlFormattedUrl": "www.theatlantic.com/politics/archive/...\u003cb\u003eted\u003c/b\u003e-\u003cb\u003ecruz\u003c/b\u003e.../275469/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.theatlantic.com/static/mt/assets/politics/tedcruz.banner.ap.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "322",
+      "height": "157",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT84z9T5RtkJamXcC37QupDD5RLd725JeJKbPNXldyTXaYLLXixjnywthw"
+     }
+    ],
+    "newsarticle": [
+     {
+      "headline": "Yes, Ted Cruz Can Be Born in Canada and Still Become President of the U.S.",
+      "description": "The Calgary-born Texas senator is considering a bid for the Oval Office. Let's nip those birther questions in the bud right now.",
+      "datepublished": "2013-05-01T13:23:26",
+      "articlebody": "Associated Press No one's as good at covering Congressional Republicans as Robert Costa, so if he says Ted Cruz is seriously considering a run for president, it must be true -- which is not..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, maximum-scale=1.0, width=device-width",
+      "og:site_name": "The Atlantic",
+      "og:locale": "en_US",
+      "fb:admins": "577048155,17301937",
+      "fb:page_id": "29259828486",
+      "fb:app_id": "100770816677686",
+      "p:domain_verify": "68e1a0361a557708fefc992f3309ed70",
+      "og:title": "Yes, Ted Cruz Can Be Born in Canada and Still Become President of the U.S.",
+      "og:type": "article",
+      "og:url": "http://www.theatlantic.com/politics/archive/2013/05/yes-ted-cruz-can-be-born-in-canada-and-still-become-president-of-the-us/275469/",
+      "og:image": "http://cdn.theatlantic.com/assets/static/b/theatlantic/img/default-thumbnail.png",
+      "og:description": "The Calgary-born Texas senator is considering a bid for the Oval Office. Let's nip those birther questions in the bud right now.",
+      "author": "David A. Graham",
+      "twitter:site": "@theatlantic",
+      "twitter:domain": "theatlantic.com",
+      "twitter:card": "summary",
+      "parsely-page": "{\"title\": \"Yes, Ted Cruz Can Be Born in Canada and Still Become President of the U.S.\", \"type\": \"post\", \"section\": \"politics\", \"author\": \"David A. Graham\", \"post_id\": 275469, \"link\": \"http://www.theatlantic.com/politics/archive/2013/05/yes-ted-cruz-can-be-born-in-canada-and-still-become-president-of-the-us/275469/\", \"pub_date\": \"2013-05-01T13:23:26Z\"}"
+     }
+    ]
+   }
+  }
+ ]
+}

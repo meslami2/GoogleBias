@@ -1,0 +1,1796 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Martin O'Malley",
+    "totalResults": "858000",
+    "searchTerms": "Martin O'Malley",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Martin O'Malley",
+    "totalResults": "858000",
+    "searchTerms": "Martin O'Malley",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.359194,
+  "formattedSearchTime": "0.36",
+  "totalResults": "858000",
+  "formattedTotalResults": "858,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "https://en.wikipedia.org/wiki/Martin_O'Malley",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Martin Joseph O'Malley (born January 18, 1963) is an American politician who \nserved as the 61st Governor of Maryland, from 2007 to 2015. Prior to being ...",
+   "htmlSnippet": "\u003cb\u003eMartin\u003c/b\u003e Joseph \u003cb\u003eO&#39;Malley\u003c/b\u003e (born January 18, 1963) is an American politician who \u003cbr\u003e\nserved as the 61st Governor of Maryland, from 2007 to 2015. Prior to being&nbsp;...",
+   "cacheId": "objV4lyFTRgJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Martin_O'Malley",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eMartin\u003c/b\u003e_\u003cb\u003eO&#39;Malley\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Governor_O'Malley_Portrait.jpg/220px-Governor_O'Malley_Portrait.jpg"
+     }
+    ],
+    "person": [
+     {
+      "org": "Democratic"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "252",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThptEslcgPC-vxz5CMgH7wC0B2sLX7JI_RnGwBrVHkr4FzOliVbpVRWSCy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Martin O'Malley",
+      "nickname": "Martin Joseph O'Malley",
+      "bday": "1963-01-18"
+     },
+     {
+      "fn": "Martin O'Malley"
+     },
+     {
+      "fn": "Carl Stokes"
+     },
+     {
+      "fn": "Lawrence Bell"
+     },
+     {
+      "fn": "Other",
+      "nickname": "Other"
+     },
+     {
+      "fn": "Martin O'Malley"
+     },
+     {
+      "fn": "David F. Tufaro"
+     },
+     {
+      "fn": "Martin O'Malley"
+     },
+     {
+      "fn": "Robert Ehrlich (incumbent)"
+     },
+     {
+      "fn": "Martin O'Malley (incumbent)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Home - Martin O'Malley for President",
+   "htmlTitle": "Home - \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e for President",
+   "link": "https://martinomalley.com/",
+   "displayLink": "martinomalley.com",
+   "snippet": "New leadership, progressive values, and record of getting results that we need to \naddress these challenges and move our nation forward.",
+   "htmlSnippet": "New leadership, progressive values, and record of getting results that we need to \u003cbr\u003e\naddress these challenges and move our nation forward.",
+   "cacheId": "5NzgEYdFbyoJ",
+   "formattedUrl": "https://martinomalley.com/",
+   "htmlFormattedUrl": "https://\u003cb\u003emartinomalley\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://martinomalley.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-30-at-7.49.39-AM.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "309",
+      "height": "163",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6MCgNBOLs9miZoBem9HpMNUkFjxM-OCGHcwOOalf7VNI3ULpjWvY8anGY"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "application-name": "Martin O'Malley for President",
+      "msapplication-tileimage": "https://martinomalley.com/wp-content/themes/scotchpress/img/favicons/favicon-144.png",
+      "msapplication-tilecolor": "#ffffff",
+      "og:locale": "en_US",
+      "og:locale:alternate": "es_ES",
+      "og:type": "website",
+      "og:title": "Home - Martin O'Malley for President",
+      "og:description": "New leadership, progressive values, and record of getting results that we need to address these challenges and move our nation forward.",
+      "og:url": "https://martinomalley.com/",
+      "og:site_name": "Martin O'Malley for President",
+      "article:publisher": "https://www.facebook.com/MartinOMalley",
+      "og:image": "https://martinomalley.com/wp-content/uploads/2015/05/Screen-Shot-2015-05-30-at-7.49.39-AM.png",
+      "twitter:card": "summary_large_image",
+      "twitter:description": "New leadership, progressive values, and record of getting results that we need to address these challenges and move our nation forward.",
+      "twitter:title": "Home - Martin O'Malley for President",
+      "twitter:site": "@martinomalley",
+      "twitter:domain": "Martin O'Malley for President",
+      "twitter:image:src": "/wp-content/uploads/2015/05/Screen-Shot-2015-05-30-at-7.49.39-AM.png",
+      "twitter:creator": "@martinomalley"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e",
+   "link": "https://www.facebook.com/MartinOMalley/",
+   "displayLink": "www.facebook.com",
+   "snippet": "Martin O'Malley. 99414 likes · 4761 talking about this. Father of four, husband, \nFormer Governor of Maryland and Mayor of Baltimore.",
+   "htmlSnippet": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e. 99414 likes · 4761 talking about this. Father of four, husband, \u003cbr\u003e\nFormer Governor of Maryland and Mayor of Baltimore.",
+   "cacheId": "vp3XVRfa02oJ",
+   "formattedUrl": "https://www.facebook.com/MartinOMalley/",
+   "htmlFormattedUrl": "https://www.facebook.com/\u003cb\u003eMartinOMalley\u003c/b\u003e/",
+   "pagemap": {
+    "organization": [
+     {
+      "name": "Martin O'Malley"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "al:android:app_name": "Facebook",
+      "al:android:package": "com.facebook.katana",
+      "al:android:url": "fb://page/28684115392",
+      "al:ios:app_name": "Facebook",
+      "al:ios:app_store_id": "284882215",
+      "al:ios:url": "fb://page/?id=28684115392"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Office of Governor Larry Hogan",
+   "htmlTitle": "The Office of Governor Larry Hogan",
+   "link": "http://governor.maryland.gov/",
+   "displayLink": "governor.maryland.gov",
+   "snippet": "Contains executive orders, press releases, legislative highlights, and the text of \nthe governor's speeches.",
+   "htmlSnippet": "Contains executive orders, press releases, legislative highlights, and the text of \u003cbr\u003e\nthe governor&#39;s speeches.",
+   "cacheId": "2Yu2DM4mNK8J",
+   "formattedUrl": "governor.maryland.gov/",
+   "htmlFormattedUrl": "governor.maryland.gov/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://governor.maryland.gov/wp-content/uploads/2015/02/state_of_the_state_banner.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "353",
+      "height": "143",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQToC6pF95h66vib8OsLjFg0v96GBOJda0AQnYXZGKSQMoi6oLPM62xPws6"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley - Baltimore Sun",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e - Baltimore Sun",
+   "link": "http://www.baltimoresun.com/news/martin-omalley/",
+   "displayLink": "www.baltimoresun.com",
+   "snippet": "Promising to \"rebuild the heart of America's cities,\" former Gov. Martin O'Malley \nused an appearance at a meeting of the nation's mayors on Sunday to call for a ...",
+   "htmlSnippet": "Promising to &quot;rebuild the heart of America&#39;s cities,&quot; former Gov. \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e \u003cbr\u003e\nused an appearance at a meeting of the nation&#39;s mayors on Sunday to call for a&nbsp;...",
+   "cacheId": "ciAWIWRbfyEJ",
+   "formattedUrl": "www.baltimoresun.com/news/martin-omalley/",
+   "htmlFormattedUrl": "www.baltimoresun.com/news/\u003cb\u003emartin\u003c/b\u003e-\u003cb\u003eomalley\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.trbimg.com/img-55877d71/turbine/bs-md-omalley-speech-20150621/650/650x366"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuvYSCzyJb1nw5kv9GOiSyzyqV08TinP6C0E0e0AWBgyW2nkCCXi5WgM"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+      "x-servername": "lalvp05.15",
+      "apple-itunes-app": "app-id=496681035, app-argument=http://www.baltimoresun.com/sectionfront/news/martin-omalley/",
+      "fb:page_id": "9299179711",
+      "fb:app_id": "310302989040998",
+      "og:image": "http://www.trbimg.com/img-53fdf16a/turbine/bal-baltimore-default-facebook-icon"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Should Martin O'Malley Be President? by Haley Sweetland Edwards ...",
+   "htmlTitle": "Should \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e Be President? by Haley Sweetland Edwards \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.washingtonmonthly.com/magazine/may_june_2013/features/should_martin_omalley_be_presi044513.php?page=all",
+   "displayLink": "www.washingtonmonthly.com",
+   "snippet": "(Jay Baker/Office of Governor Martin O'Malley). The governor is hungry. Brown \npaper bag in hand, Maryland Governor Martin O'Malley strides into a conference\n ...",
+   "htmlSnippet": "(Jay Baker/Office of Governor \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e). The governor is hungry. Brown \u003cbr\u003e\npaper bag in hand, Maryland Governor \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e strides into a conference\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "-aSF7O28I0AJ",
+   "formattedUrl": "www.washingtonmonthly.com/.../should_martin_omalley_be_presi044513. php?...",
+   "htmlFormattedUrl": "www.washingtonmonthly.com/.../should_\u003cb\u003emartin\u003c/b\u003e_\u003cb\u003eomalley\u003c/b\u003e_be_presi044513. php?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s3.amazonaws.com/wamo/admin/wamo_logo_FB.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "160",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR55MpoQWHv2Otiip7A2iumsVPhMLbuWSIHAMR6DKAGm5wY5cXI6JKUlpA"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "og:title": "Should Martin O’Malley Be President?",
+      "og:type": "article",
+      "og:url": "http://www.washingtonmonthly.com/magazine/may_june_2013/features/should_martin_omalley_be_presi044513.php",
+      "og:image": "http://s3.amazonaws.com/wamo/admin/wamo_logo_FB.png",
+      "og:site_name": "The Washington Monthly",
+      "og:description": "The governor of Maryland is a long shot for the White House—and the best manager in government today."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley presidential campaign, 2016 - Ballotpedia",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e presidential campaign, 2016 - Ballotpedia",
+   "link": "https://ballotpedia.org/Martin_O'Malley_presidential_campaign,_2016",
+   "displayLink": "ballotpedia.org",
+   "snippet": "Martin O'Malley is a Democratic candidate for the office of President of the United \nStates in 2016. He made his announcement on May 30, 2015, becoming the ...",
+   "htmlSnippet": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e is a Democratic candidate for the office of President of the United \u003cbr\u003e\nStates in 2016. He made his announcement on May 30, 2015, becoming the&nbsp;...",
+   "cacheId": "ToLHy2Jrr70J",
+   "formattedUrl": "https://ballotpedia.org/Martin_O'Malley_presidential_campaign,_2016",
+   "htmlFormattedUrl": "https://ballotpedia.org/\u003cb\u003eMartin\u003c/b\u003e_\u003cb\u003eO&#39;Malley\u003c/b\u003e_presidential_campaign,_2016",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://ballotpedia.org/wiki/skins/Ballotpedia/images/ballotpedia-logo-square.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Martin O'Malley presidential campaign, 2016 - Ballotpedia",
+      "og:type": "article",
+      "og:url": "https://ballotpedia.org/Martin_O'Malley_presidential_campaign,_2016",
+      "og:image": "https://ballotpedia.org/wiki/skins/Ballotpedia/images/ballotpedia-logo-square.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley (@MartinOMalley) | Twitter",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e (@\u003cb\u003eMartinOMalley\u003c/b\u003e) | Twitter",
+   "link": "https://twitter.com/martinomalley?lang=en",
+   "displayLink": "twitter.com",
+   "snippet": "12.2K tweets • 1677 photos/videos • 113K followers. Check out the latest Tweets \nfrom Martin O'Malley (@MartinOMalley)",
+   "htmlSnippet": "12.2K tweets • 1677 photos/videos • 113K followers. Check out the latest Tweets \u003cbr\u003e\nfrom \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e (@\u003cb\u003eMartinOMalley\u003c/b\u003e)",
+   "cacheId": "NwXYQCWclyIJ",
+   "formattedUrl": "https://twitter.com/martinomalley?lang=en",
+   "htmlFormattedUrl": "https://twitter.com/\u003cb\u003emartinomalley\u003c/b\u003e?lang=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pbs.twimg.com/profile_images/655015890639941632/f2DZOW_J_400x400.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaL7As0b_m7U09ceXzoXEtnQeV-JGnK635UiVinjw7zcQ_2HyVPjOyy2g"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O`Malley on the Issues",
+   "htmlTitle": "\u003cb\u003eMartin O`Malley\u003c/b\u003e on the Issues",
+   "link": "http://www.ontheissues.org/Martin_O%60Malley.htm",
+   "displayLink": "www.ontheissues.org",
+   "snippet": "3 days ago ... Martin O`Malley on the Issues on Martin O`Malley; Presidential candidates.",
+   "htmlSnippet": "3 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMartin O`Malley\u003c/b\u003e on the Issues on \u003cb\u003eMartin O`Malley\u003c/b\u003e; Presidential candidates.",
+   "cacheId": "3PizUdWvVH4J",
+   "formattedUrl": "www.ontheissues.org/Martin_O%60Malley.htm",
+   "htmlFormattedUrl": "www.ontheissues.org/\u003cb\u003eMartin\u003c/b\u003e_O%60Malley.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ontheissues.org/Martin_O%60Malley.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "219",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2R8R5XyyKOQbmnTcb8CUFQJ7-aav0CoJvmPEi6D9dPpcamhgFlgQWDJw"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "OnTheIssues.org"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "O'Malley apologizes for saying 'all lives matter' - CNNPolitics.com",
+   "htmlTitle": "\u003cb\u003eO&#39;Malley\u003c/b\u003e apologizes for saying &#39;all lives matter&#39; - CNNPolitics.com",
+   "link": "http://www.cnn.com/2015/07/18/politics/martin-omalley-all-lives-matter/",
+   "displayLink": "www.cnn.com",
+   "snippet": "Jul 19, 2015 ... Martin O'Malley apologized after being criticized for saying \"all lives matter\" in the \ncontext of a discussion about black Americans killed by ...",
+   "htmlSnippet": "Jul 19, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e apologized after being criticized for saying &quot;all lives matter&quot; in the \u003cbr\u003e\ncontext of a discussion about black Americans killed by&nbsp;...",
+   "cacheId": "P1GR1EARSLIJ",
+   "formattedUrl": "www.cnn.com/2015/07/18/politics/martin-omalley-all-lives-matter/",
+   "htmlFormattedUrl": "www.cnn.com/2015/07/18/politics/\u003cb\u003emartin\u003c/b\u003e-\u003cb\u003eomalley\u003c/b\u003e-all-lives-matter/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150718185559-netroots-nation-martin-omalley-large-169.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150718185559-netroots-nation-martin-omalley-large-169.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "politics",
+      "datecreated": "2015-07-19T00:21:05Z",
+      "datepublished": "2015-07-19T00:21:05Z",
+      "datemodified": "2015-07-19T14:11:49Z",
+      "url": "http://www.cnn.com/2015/07/18/politics/martin-omalley-all-lives-matter/index.html",
+      "author": "Chris Moody, CNN Senior Digital Correspondent; Video by Jeremy Moorhead",
+      "headline": "O'Malley apologizes for saying 'all lives matter' - CNNPolitics.com",
+      "description": "Martin O'Malley apologized after being criticized for saying \"all lives matter\" in the context of a discussion about black Americans killed by police.",
+      "keywords": "politics, O'Malley apologizes for saying 'all lives matter' - CNNPolitics.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150718185559-netroots-nation-martin-omalley-large-169.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/150718185559-netroots-nation-martin-omalley-large-169.jpg",
+      "alternativeheadline": "O'Malley apologizes for saying 'all lives matter' at liberal conference",
+      "articlebody": "Phoenix (CNN)Democratic presidential candidate Martin O'Malley apologized on Saturday for saying \"All lives matter\" while discussing police violence against African-Americans with liberal demonstra..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "politics",
+      "og:pubdate": "2015-07-19T00:21:05Z",
+      "pubdate": "2015-07-19T00:21:05Z",
+      "lastmod": "2015-07-19T14:11:49Z",
+      "og:url": "http://www.cnn.com/2015/07/18/politics/martin-omalley-all-lives-matter/index.html",
+      "author": "Chris Moody, CNN Senior Digital Correspondent; Video by Jeremy Moorhead",
+      "og:title": "O'Malley apologizes for saying 'all lives matter'  - CNNPolitics.com",
+      "og:description": "Martin O'Malley apologized after being criticized for saying \"all lives matter\" in the context of a discussion about black Americans killed by police.",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150718185559-netroots-nation-martin-omalley-large-169.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/150718185559-netroots-nation-martin-omalley-large-169.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/07/18/politics/martin-omalley-all-lives-matter/index.html",
+      "fb:app_id": "80401312489",
+      "template-top": "politics,bra-2016-elections,art-vid-col,col-being-moody"
+     }
+    ]
+   }
+  }
+ ]
+}
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Martin O'Malley",
+    "totalResults": "858000",
+    "searchTerms": "Martin O'Malley",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Martin O'Malley",
+    "totalResults": "858000",
+    "searchTerms": "Martin O'Malley",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - Martin O'Malley",
+    "totalResults": "858000",
+    "searchTerms": "Martin O'Malley",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.290554,
+  "formattedSearchTime": "0.29",
+  "totalResults": "858000",
+  "formattedTotalResults": "858,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e",
+   "link": "https://bio.martinomalley.com/",
+   "displayLink": "bio.martinomalley.com",
+   "snippet": "Born in Washington, DC, Martin O'Malley was raised in Rockville, Maryland by \nparents who taught him the importance of public service. His father, Thomas ...",
+   "htmlSnippet": "Born in Washington, DC, \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e was raised in Rockville, Maryland by \u003cbr\u003e\nparents who taught him the importance of public service. His father, Thomas&nbsp;...",
+   "cacheId": "15HMDb-3zNIJ",
+   "formattedUrl": "https://bio.martinomalley.com/",
+   "htmlFormattedUrl": "https://bio.\u003cb\u003emartinomalley\u003c/b\u003e.com/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley enters 2016 presidential race - CNNPolitics.com",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e enters 2016 presidential race - CNNPolitics.com",
+   "link": "http://www.cnn.com/2015/05/30/politics/martin-omalley-2016-presidential-announcement/",
+   "displayLink": "www.cnn.com",
+   "snippet": "May 30, 2015 ... Baltimore (CNN) Martin O'Malley launched his presidential campaign Saturday \nwith an appeal to the party's progressive base that he hopes ...",
+   "htmlSnippet": "May 30, 2015 \u003cb\u003e...\u003c/b\u003e Baltimore (CNN) \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e launched his presidential campaign Saturday \u003cbr\u003e\nwith an appeal to the party&#39;s progressive base that he hopes&nbsp;...",
+   "cacheId": "JnuApYEXA4gJ",
+   "formattedUrl": "www.cnn.com/.../martin-omalley-2016-presidential-announcement/",
+   "htmlFormattedUrl": "www.cnn.com/.../\u003cb\u003emartin\u003c/b\u003e-\u003cb\u003eomalley\u003c/b\u003e-2016-presidential-announcement/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150530084652-martin-o-malley-hillary-clinton-composite-large-169.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150530084652-martin-o-malley-hillary-clinton-composite-large-169.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "politics",
+      "datecreated": "2015-05-30T12:28:52Z",
+      "datepublished": "2015-05-30T12:28:52Z",
+      "datemodified": "2015-05-30T16:45:41Z",
+      "url": "http://www.cnn.com/2015/05/30/politics/martin-omalley-2016-presidential-announcement/index.html",
+      "author": "Rachel Streitfeld and MJ Lee, CNN",
+      "headline": "Martin O'Malley enters 2016 presidential race - CNNPolitics.com",
+      "description": "Martin O'Malley launched his presidential campaign Saturday with an appeal to the party's progressive base.",
+      "keywords": "politics, Martin O'Malley enters 2016 presidential race - CNNPolitics.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150530084652-martin-o-malley-hillary-clinton-composite-large-169.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/150530084652-martin-o-malley-hillary-clinton-composite-large-169.jpg",
+      "alternativeheadline": "O'Malley jumps into presidential race, offers progressive alternative to Clinton",
+      "articlebody": "Story highlightsMartin O'Malley aims to present himself as a progressive alternative to Hillary ClintonRecent polls suggest former Maryland governor is lagging far behind Baltimore (CNN)Martin..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "politics",
+      "og:pubdate": "2015-05-30T12:28:52Z",
+      "pubdate": "2015-05-30T12:28:52Z",
+      "lastmod": "2015-05-30T16:45:41Z",
+      "og:url": "http://www.cnn.com/2015/05/30/politics/martin-omalley-2016-presidential-announcement/index.html",
+      "author": "Rachel Streitfeld and MJ Lee, CNN",
+      "og:title": "Martin O'Malley enters 2016 presidential race - CNNPolitics.com",
+      "og:description": "Martin O'Malley launched his presidential campaign Saturday with an appeal to the party's progressive base.",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150530084652-martin-o-malley-hillary-clinton-composite-large-169.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/150530084652-martin-o-malley-hillary-clinton-composite-large-169.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/05/30/politics/martin-omalley-2016-presidential-announcement/index.html",
+      "fb:app_id": "80401312489",
+      "template-top": "politics,bra-2016-elections,art-vid-col,col-race-to-2016"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "O'Malley sticks to his call for 65,000 Syrian refugees",
+   "htmlTitle": "\u003cb\u003eO&#39;Malley\u003c/b\u003e sticks to his call for 65,000 Syrian refugees",
+   "link": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+   "displayLink": "www.usatoday.com",
+   "snippet": "Nov 16, 2015 ... NEW HAMPTON, Iowa — Martin O'Malley stuck to his call for the United States to \naccept 65,000 Syrian refugees, even as several Republican ...",
+   "htmlSnippet": "Nov 16, 2015 \u003cb\u003e...\u003c/b\u003e NEW HAMPTON, Iowa — \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e stuck to his call for the United States to \u003cbr\u003e\naccept 65,000 Syrian refugees, even as several Republican&nbsp;...",
+   "cacheId": "mySvdpT6pUwJ",
+   "formattedUrl": "www.usatoday.com/story/news/politics/.../omalley.../75906882/",
+   "htmlFormattedUrl": "www.usatoday.com/story/news/politics/.../\u003cb\u003eomalley\u003c/b\u003e.../75906882/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gannett-cdn.com/-mm-/9f18f13127bc0b7b9acc9c6216e581f76ac6c1df/c=0-102-2000-1232&r=x633&c=1200x630/local/-/media/2015/11/15/IAGroup/DesMoines/635832002871595164-20151115-bp-demBBQ-20.JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfXP3UnoKYpOXUs8Qfpz_Z1dVr6Si9yuhN9gd02aV_LXNE1mP63rHWT_g"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "Democratic candidate was first to ask Obama to take more refugees from Syria's civil war.",
+      "thumbnailurl": "http://www.gannett-cdn.com/-mm-/b2ae57450767967d470b32bbe1e2f557f81fbfbc/c=334-0-1667-1333&r=x153&c=150x150/local/-/media/2015/11/15/IAGroup/DesMoines/635832002871595164-20151115-bp-demBBQ-20.JPG",
+      "thumbnailheight": "150",
+      "thumbnailwidth": "150",
+      "image": "http://www.gannett-cdn.com/-mm-/e37a13c00077f143a70d5b2f5bead09d5f3ea548/c=334-0-1667-1333&r=x203&c=200x200/local/-/media/2015/11/15/IAGroup/DesMoines/635832002871595164-20151115-bp-demBBQ-20.JPG",
+      "datemodified": "2015-11-16T22:35:03.9200000",
+      "datepublished": "2015-11-16T22:33:52.5500000",
+      "articlesection": "news,politics,elections,2016",
+      "headline": "O'Malley sticks to his call for 65,000 Syrian refugees",
+      "articlebody": "Martin OÕMalley speaks at the Central Iowa Democrats Fall Barbecue inside the Hansen Agriculture Student Learning Center on Sunday, November 15, 2015 in Ames. (Photo: Brian Powers/The Register)..."
+     },
+     {
+      "url": "NationEODM Join U2 on Stage in ParisEODM Join U2 on Stage in ParisU.S. rock band Eagles of Death Metal make a surprise return to the stage in Paris as guests of U2, for their first performance...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "EODM Join U2 on Stage in Paris",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "3 minutes ago"
+     },
+     {
+      "url": "NationHomeless man wins $500,000 on lottery ticketHomeless man wins $500,000 on lottery ticketA man who has been very much down on his luck for the past six years can now be considered incredibly...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Homeless man wins $500,000 on lottery ticket",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "4 minutes ago"
+     },
+     {
+      "url": "Nation NowNavy rear admiral fired for public drunkenness, nudityNavy rear admiral fired for public drunkenness, nudityAn investigation reveals a top supply officer had all or part of at least...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Navy rear admiral fired for public drunkenness, nudity",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation Now",
+      "datepublished": "6 minutes ago"
+     },
+     {
+      "url": "OpinionRahm Emanuel: I’m committed to reformRahm Emanuel: I’m committed to reformThe shooting of Laquan McDonald was indefensible.Opinion14 hours, 53 minutes ago",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Rahm Emanuel: I’m committed to reform",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Opinion",
+      "datepublished": "14 hours, 53 minutes ago"
+     },
+     {
+      "url": "ElectionsTrump doesn't back down on call for Muslim banTrump doesn't back down on call for Muslim banDonald Trump wants to block Muslim immigration into the United States.Elections10 minutes ago",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Trump doesn't back down on call for Muslim ban",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Elections",
+      "datepublished": "10 minutes ago"
+     },
+     {
+      "url": "NationTarantino Slams Trump's 'Ridiculous' CommentsTarantino Slams Trump's 'Ridiculous' CommentsAt the Los Angeles premiere of 'The Hateful Eight,' director Quentin Tarantino and cast members...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Tarantino Slams Trump's 'Ridiculous' Comments",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "23 minutes ago"
+     },
+     {
+      "url": "NationBest dad ever: Man buys island for 8-year-old daughterBest dad ever: Man buys island for 8-year-old daughter\"Furious 7\" star Tyrese Gibson revealed that he bought his young daughter,...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Best dad ever: Man buys island for 8-year-old daughter",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "34 minutes ago"
+     },
+     {
+      "url": "NationAP Top Stories December 8 AAP Top Stories December 8 AHere's the latest for Tuesday, December 8th: Republicans blast Trump's comments on Muslims; Air France plane diverted; Pistorius...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "AP Top Stories December 8 A",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "38 minutes ago"
+     },
+     {
+      "url": "WorldPope Francis launches Catholic JubileePope Francis launches Catholic JubileePope Francis marks the start of an extraordinary Jubilee year for the world's 1.2 billion Catholics at the St...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Pope Francis launches Catholic Jubilee",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "World",
+      "datepublished": "42 minutes ago"
+     },
+     {
+      "url": "Nation Now6 arrested in abduction of N.Y. college students6 arrested in abduction of N.Y. college studentsTwo University of Rochester seniors were rescued by a SWAT after being 'forcibly abducted.'...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "6 arrested in abduction of N.Y. college students",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation Now",
+      "datepublished": "46 minutes ago"
+     },
+     {
+      "url": "Nation NowHomeless man wins $500K on lottery ticketHomeless man wins $500K on lottery ticketASPEN, Colo. - A homeless man turned his luck around on Friday when he won $500,000 on a scratch...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Homeless man wins $500K on lottery ticket",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation Now",
+      "datepublished": "49 minutes ago"
+     },
+     {
+      "url": "Nation NowMan allegedly shot wife to end her 'suffering'Man allegedly shot wife to end her 'suffering'EL PASO, Texas — A 91-year-old man allegedly shot and killed his wife to end her suffering...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Man allegedly shot wife to end her 'suffering'",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation Now",
+      "datepublished": "1 hour, 12 minutes ago"
+     },
+     {
+      "url": "WorldOscar Pistorius granted bail after murder convictionOscar Pistorius granted bail after murder convictionFormer Paralympic champion Oscar Pistorius is released on bail after being convicted...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Oscar Pistorius granted bail after murder conviction",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "World",
+      "datepublished": "1 hour, 59 minutes ago"
+     },
+     {
+      "url": "NationFox contributors suspended for on-air profanity against ObamaFox contributors suspended for on-air profanity against ObamaFox News suspended two contributors after they used profane language...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Fox contributors suspended for on-air profanity against Obama",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "2 hours, 7 minutes ago"
+     },
+     {
+      "url": "Sponsor StoryInteractive: Need-to-know resources for small biz ownersInteractive: Need-to-know resources for small biz ownersGet your business started or take it to the next level with help...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Interactive: Need-to-know resources for small biz owners",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Sponsor Story",
+      "datepublished": "3 weeks ago"
+     },
+     {
+      "url": "On PoliticsFor the Record: With Trump, all things are TrumpossibleFor the Record: With Trump, all things are TrumpossibleIs there a policy position that can bring Bernie Sanders and Dick Cheney...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "For the Record: With Trump, all things are Trumpossible",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "On Politics",
+      "datepublished": "2 hours, 22 minutes ago"
+     },
+     {
+      "url": "NationRaw: Oregon Flood Forces EvacuationsRaw: Oregon Flood Forces EvacuationsHeavy flooding forced residents to evacuate a neighborhood in Clackamas County, Oregon, near Portland. The National...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Raw: Oregon Flood Forces Evacuations",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "2 hours, 46 minutes ago"
+     },
+     {
+      "url": "WorldOscar Pistorius granted bail by judgeOscar Pistorius granted bail by judgeJudge Aubrey Ledwaba said Pistorius had proved that he is not a flight risk.World3 hours, 42 minutes ago",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Oscar Pistorius granted bail by judge",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "World",
+      "datepublished": "3 hours, 42 minutes ago"
+     },
+     {
+      "url": "WorldAir France flight diverted to Montreal after threatAir France flight diverted to Montreal after threatAir France officials would not elaborate on the nature of the threat.World3 hours,...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Air France flight diverted to Montreal after threat",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "World",
+      "datepublished": "3 hours, 54 minutes ago"
+     },
+     {
+      "url": "Elections'Huffington Post' no longer considers Trump entertaining'Huffington Post' no longer considers Trump entertainingArianna Huffington is not amused by the latest shocking statement from...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "'Huffington Post' no longer considers Trump entertaining",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Elections",
+      "datepublished": "4 hours, 13 minutes ago"
+     },
+     {
+      "url": "NationRaw: Oregon Flood Forces EvacuationsRaw: Oregon Flood Forces EvacuationsHeavy flooding forced residents to evacuate a neighborhood in Clackamas County, Oregon, near Portland. The National...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Raw: Oregon Flood Forces Evacuations",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "4 hours, 28 minutes ago"
+     },
+     {
+      "url": "WorldRecord refugee flights hit all parts of globeRecord refugee flights hit all parts of globeNever before in history have so many people in so many places been uprooted from homes.World2...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Record refugee flights hit all parts of globe",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "World",
+      "datepublished": "2 weeks, 4 days ago"
+     },
+     {
+      "url": "NationEagles of Death Metal Join U2 on Paris StageEagles of Death Metal Join U2 on Paris StageU2 welcomed the band the Eagles of Death Metal onto their stage during a concert in Paris on Wednesday...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Eagles of Death Metal Join U2 on Paris Stage",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "5 hours, 29 minutes ago"
+     },
+     {
+      "url": "Nation NowAlligator kills Florida burglary suspect hiding from copsAlligator kills Florida burglary suspect hiding from copsPolice find man's remains inside euthanized alligator.Nation Now6...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Alligator kills Florida burglary suspect hiding from cops",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation Now",
+      "datepublished": "6 hours, 35 minutes ago"
+     },
+     {
+      "url": "Nation NowMayor requests patience in Wis. motorcycle shop shootingMayor requests patience in Wis. motorcycle shop shootingThree Neenah police officers were placed on administrative leave after...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Mayor requests patience in Wis. motorcycle shop shooting",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation Now",
+      "datepublished": "6 hours, 52 minutes ago"
+     },
+     {
+      "url": "NationToday in History for December 8thToday in History for December 8thAmerica enters World War Two; Former Beatle John Lennon is shot to death in New York. (Dec. 8)Nation7 hours, 21 minutes ago",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "Today in History for December 8th",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "7 hours, 21 minutes ago"
+     },
+     {
+      "url": "NationFBI: Killers were 'radicalized,' no evidence of global plotFBI: Killers were 'radicalized,' no evidence of global plotOfficials are trying to determine when and how the shooters obtained...",
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "headline": "FBI: Killers were 'radicalized,' no evidence of global plot",
+      "thumbnailurl": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "articlesection": "Nation",
+      "datepublished": "8 hours, 39 minutes ago"
+     }
+    ],
+    "metatags": [
+     {
+      "content-type": "text/html; charset=UTF-8",
+      "google": "notranslate",
+      "fb:app_id": "215046668549694",
+      "og:site_name": "USA TODAY",
+      "og:image": "http://www.gannett-cdn.com/-mm-/9f18f13127bc0b7b9acc9c6216e581f76ac6c1df/c=0-102-2000-1232&r=x633&c=1200x630/local/-/media/2015/11/15/IAGroup/DesMoines/635832002871595164-20151115-bp-demBBQ-20.JPG",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "twitter:card": "summary_large_image",
+      "twitter:image:src": "http://www.gannett-cdn.com/-mm-/76a7d1d514c37c626b7abb59580c15cdf1cc575e/c=0-102-2000-1232&r=x453&c=800x450/local/-/media/2015/11/15/IAGroup/DesMoines/635832002871595164-20151115-bp-demBBQ-20.JPG",
+      "twitter:site": "@usatoday",
+      "twitter:creator": "@usatoday",
+      "twitter:title": "O'Malley sticks to his call for 65,000 Syrian refugees",
+      "twitter:description": "Democratic candidate was first to ask Obama to take more refugees from Syria's civil war.",
+      "og:title": "O'Malley sticks to his call for 65,000 Syrian refugees",
+      "og:description": "Democratic candidate was first to ask Obama to take more refugees from Syria's civil war.",
+      "og:url": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "og:type": "article",
+      "news_keywords": "martin o'malley, democrat, candidate, president, syrian, refugees, obama, civil war",
+      "cxenseparse:recs:articleid": "75906882",
+      "cxenseparse:pageclass": "article",
+      "cxenseparse:recs:publishtime": "2015-11-16T22:35:03.9200000",
+      "cxenseparse:recs:category": "news/politics/elections/2016",
+      "cxenseparse:title": "O'Malley sticks to his call for 65,000 Syrian refugees",
+      "cxenseparse:author": "Grant Rodgers",
+      "cxenseparse:recs:contenttype": "story",
+      "cxenseparse:gci_asset_type": "story",
+      "cxenseparse:recs:image": "http://www.gannett-cdn.com/-mm-/b2ae57450767967d470b32bbe1e2f557f81fbfbc/c=334-0-1667-1333&r=x153&c=150x150/local/-/media/2015/11/15/IAGroup/DesMoines/635832002871595164-20151115-bp-demBBQ-20.JPG",
+      "cxenseparse:recs:imagedimensions": "150x150",
+      "cxenseparse:gci-topic": "Persons/Nouri al-Maliki",
+      "cxenseparse:gci-categories": "Persons/Nouri al-Maliki",
+      "viewport": "width=1070"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://www.gannett-cdn.com/-mm-/ca2c30a383450ee7a690a0e92c63ff2aa4bacf33/c=114-0-1887-1333&r=x404&c=534x401/local/-/media/2015/11/15/IAGroup/DesMoines/635832002871595164-20151115-bp-demBBQ-20.JPG",
+      "name": "635832002871595164-20151115-bp-demBBQ-20"
+     },
+     {
+      "image": "http://www.gannett-cdn.com/-mm-/8828ef6b09fbb7a10bd3a8d46614b8bc697116de/c=72-0-1864-1347&r=x513&c=680x510/local/-/media/2015/01/12/USATODAY/USATODAY/635566547750539043-martinxCNVDx011.jpg",
+      "height": "510",
+      "width": "680",
+      "caption": "Martin O'Malley greets former mayor, governor and then-state comptroller William Donald Schaefer before receiving his mayoral endorsement on Aug. 17, 1999, in Baltimore. Gail Burton, AP",
+      "copyrightholder": "Gail Burton, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley, accompanied by wife Katie and daughter Grace, is sworn in as Baltimore mayor by Frank M. Conaway, clerk of the Circuit Court of Baltimore City, on Dec. 7, 1999. Roberto Borea, AP",
+      "copyrightholder": "Roberto Borea, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "Art Modell, left, owner and CEO of the Baltimore Ravens football team, talks with then-Baltimore mayor O'Malley at the M&T Bank Stadium in Baltimore on May 6, 2003. Matt Houston, AP",
+      "copyrightholder": "Matt Houston, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley, left, looks over his notes as Maryland Gov. Robert Ehrlich gestures before the start a gubernatorial debate in Owings Mills, Md., on Oct. 14, 2006. Chris Gardner, AP",
+      "copyrightholder": "Chris Gardner, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley answers questions from reporters before greeting volunteers at his campaign headquarters on Sept. 14, 2010, in Baltimore. Gail Burton, AP",
+      "copyrightholder": "Gail Burton, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley and his wife, Katie, arrive for a State Dinner for British Prime Minister David Cameron at the White House on March 14, 2012. Brendan Hoffman, Getty Images",
+      "copyrightholder": "Brendan Hoffman, Getty Images"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley speaks at a USA TODAY Newsmaker event at the Democratic National Convention on Sept. 3, 2012, in Charlotte. Evan Eile, USA TODAY",
+      "copyrightholder": "Evan Eile, USA TODAY"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley speaks at the Democratic National Convention on Sept. 4, 2012, in Charlotte, N.C. H. Darr Beiser, USA TODAY",
+      "copyrightholder": "H. Darr Beiser, USA TODAY"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley rubs his nose with Tibetan spiritual leader the Dalai Lama on May 7, 2013, at the Sadat Lecture for Peace event at the University of Maryland at College Park, Md. Nicolas Kamm, AFP/Getty...",
+      "copyrightholder": "Nicolas Kamm, AFP/Getty Images"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley gestures as he warms up the crowd while campaigning for Maryland gubernatorial candidate Anthony Brown at an early vote rally at Dr. Henry Wise High School in Upper Marlboro on Oct....",
+      "copyrightholder": "Cliff Owen, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley casts an early vote at a polling station in Baltimore on Oct. 30, 2014. Patrick Semansky, AP",
+      "copyrightholder": "Patrick Semansky, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley speaks alongside Democratic lieutenant governor candidate and Howard County Executive Ken Ulman during a get-out-the-vote rally on Nov. 3, 2014, in Baltimore. Patrick Semansky, AP",
+      "copyrightholder": "Patrick Semansky, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley speaks at the University of Maryland on Oct. 30, 2014, in College Park. Patrick Semansky, AP",
+      "copyrightholder": "Patrick Semansky, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley takes a selfie with members of the press during a roundtable interview on Jan. 16, 2015, at the Maryland State House in Annapolis, Md. Patrick Semansky, AP",
+      "copyrightholder": "Patrick Semansky, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley walks off stage after speaking at the International Association of Firefighters Legislative Conference and Presidential Forum in Washington on March 10, 2015. Pablo Martinez Monsivais, AP",
+      "copyrightholder": "Pablo Martinez Monsivais, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "Martin O'Malley sings Woody Guthrie's \"This Land is Your Land\" during an appearance at a meeting of the New Hampshire Young Democrats during a campaign-style swing through New Hampshire on...",
+      "copyrightholder": "Josh T. Reynolds, for USA TODAY"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley takes the stage to deliver remarks at the South Carolinna Democratic Party state convention on April 25, 2015, in Columbia. Win McNamee, Getty Images",
+      "copyrightholder": "Win McNamee, Getty Images"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley meets with Baltimore residents on April 28, 2015, as the city was on edge following the death of Freddie Gray. Matt Rourke, AP",
+      "copyrightholder": "Matt Rourke, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley talks with New Hampshire state Rep. Bob Backus, left, and former state senator Peter Burling before a private meeting with New Hampshire Democrats on May 13, 2015, in Concord, N.H....",
+      "copyrightholder": "Jim Cole, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley speaks during his 2016 campaign announcement event on May 30, 2015, in Baltimore, as his wife Katie, right, looks on. Evan Vucci, AP",
+      "copyrightholder": "Evan Vucci, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley speaks to guests during a campaign event at the Sanctuary Pub on June 11, 2015, in Iowa City, Iowa. Scott Olson, Getty Images",
+      "copyrightholder": "Scott Olson, Getty Images"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley scoops up some corn, the raw material for ethanol, during a visit to the Southwest Iowa Renewable Energy ethanol plant in Council Bluffs, Iowa, on July 2, 2015. Nati Harnik, AP",
+      "copyrightholder": "Nati Harnik, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley hosts an immigration roundtable at the New York Immigration Action Fund on July 14, 2015. Andrew Gombert, European Pressphoto Agency",
+      "copyrightholder": "Andrew Gombert, European Pressphoto Agency"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "Tia Oso, national coordinator for the Black Immigration Network, speaks to O'Malley after she took the stage at the presidential town hall in Phoenix on July 18, 2015. Isaac Hale, The Arizona Republic",
+      "copyrightholder": "Isaac Hale, The Arizona Republic"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley takes a selfie in front of the Butter Cow with his children Grace and William during the Iowa State Fair on Aug. 13, 2015 in Des Moines. Justin Sullivan, Getty Images",
+      "copyrightholder": "Justin Sullivan, Getty Images"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley speaks while standing in a median in front of the Trump International Hotel & Tower Las Vegas on Aug. 19, 2015. He held a news conference outside the resort to bring attention to its...",
+      "copyrightholder": "Ethan Miller, Getty Images"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley takes a selfie after a meet-and-greet on Aug. 23, 2015, in Muscatine, Iowa. Paul Sancya, AP",
+      "copyrightholder": "Paul Sancya, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley speaks during a campaign stop hosted by the Salem Chamber of Commerce on Sept. 4, 2015, in Salem, N.H. Jim Cole, AP",
+      "copyrightholder": "Jim Cole, AP"
+     },
+     {
+      "image": "http://www.usatoday.com/story/news/politics/elections/2016/2015/11/16/omalley-sticks-his-call-65000-syrian-refugees/75906882/",
+      "height": "510",
+      "width": "680",
+      "caption": "O'Malley speaks during the New Hampshire Democratic Party State Convention on Sept. 19, 2015 in Manchester, N.H. Scott Eisen, Getty Images",
+      "copyrightholder": "Scott Eisen, Getty Images"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley Announces 2016 Presidential Run",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e Announces 2016 Presidential Run",
+   "link": "http://www.huffingtonpost.com/2015/05/30/martin-omalley-2016_n_6557794.html",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "May 30, 2015 ... Martin O'Malley (D) announced on Saturday that he's running for president in \n2016. \"I declare that I am a candidate for President of the United ...",
+   "htmlSnippet": "May 30, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e (D) announced on Saturday that he&#39;s running for president in \u003cbr\u003e\n2016. &quot;I declare that I am a candidate for President of the United&nbsp;...",
+   "cacheId": "cMtZbJp-8JYJ",
+   "formattedUrl": "www.huffingtonpost.com/.../martin-omalley-2016_n_6557794.html",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../\u003cb\u003emartin\u003c/b\u003e-\u003cb\u003eomalley\u003c/b\u003e-2016_n_6557794.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.huffpost.com/gen/2541996/images/o-MARTIN-OMALLEY-facebook.jpg",
+      "type": "1",
+      "width": "318",
+      "height": "159"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i.huffpost.com/gen/2541996/images/o-MARTIN-OMALLEY-facebook.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "category": "Politics",
+      "twitter:description": "Former Maryland Gov. Martin O'Malley (D) announced on Saturday that he's running for president in 2016.    \"I declare that I am a candidate for President of the United States,\" O'Malley said",
+      "fb:app_id": "46744042133",
+      "og:site_name": "The Huffington Post",
+      "og:title": "Martin O'Malley Announces 2016 Presidential Run",
+      "og:type": "article",
+      "og:url": "http://www.huffingtonpost.com/2015/05/30/martin-omalley-2016_n_6557794.html",
+      "og:image": "http://i.huffpost.com/gen/2541996/images/o-MARTIN-OMALLEY-facebook.jpg",
+      "og:description": "Former Maryland Gov. Martin O'Malley (D) announced on Saturday that he's running for president in 2016.    \"I declare that I am a candidate for President of the United States,\" O'Malley said",
+      "og:locale": "en_US",
+      "sailthru.date": "Sat, 30 May 2015 10:59:15 -0400",
+      "sailthru.expire_date": "Sun, 31 May 2015 10:59:15 -0400",
+      "sailthru.image.thumb": "http://i.huffpost.com/gen/2541996/images/s-MARTIN-OMALLEY-small.jpg",
+      "sailthru.image.full": "http://i.huffpost.com/gen/2541996/images/h-MARTIN-OMALLEY-628x314.jpg",
+      "sailthru.tags": "martin o'malley 2016,Martin O'Malley,maryland governor martin o'malley,2016 presidential run,democratic presidential nomination,democratic presidential candidates 2016,hillary clinton 2016,martin o'malley presidential campaign,martin o'malley white house bid,video",
+      "article:publisher": "https://www.facebook.com/HuffPostPolitics",
+      "article:section": "Politics",
+      "image": "http://i.huffpost.com/gen/2541996/images/s-MARTIN-OMALLEY-small.jpg",
+      "thumbnail": "http://i.huffpost.com/gen/2541996/images/o-MARTIN-OMALLEY-facebook.jpg",
+      "og:see_also": "http://www.huffingtonpost.com/2015/12/08/white-house-donald-trump-disqualified_n_8751184.html"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "| By Sam Levine"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley on Baltimore, Policing, Inequality, and Reform - The ...",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e on Baltimore, Policing, Inequality, and Reform - The \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.theatlantic.com/politics/archive/2015/05/talking-with-martin-omalley-reform-or-pitchforks/392633/",
+   "displayLink": "www.theatlantic.com",
+   "snippet": "May 7, 2015 ... The geographic-information systems company Esri, which hosted the Q-and-A \nsession I did on Tuesday night with former governor Martin ...",
+   "htmlSnippet": "May 7, 2015 \u003cb\u003e...\u003c/b\u003e The geographic-information systems company Esri, which hosted the Q-and-A \u003cbr\u003e\nsession I did on Tuesday night with former governor \u003cb\u003eMartin\u003c/b\u003e&nbsp;...",
+   "cacheId": "4FMOJzPpwn0J",
+   "formattedUrl": "www.theatlantic.com/politics/archive/...martin-omalley.../392633/",
+   "htmlFormattedUrl": "www.theatlantic.com/politics/archive/...\u003cb\u003emartin\u003c/b\u003e-\u003cb\u003eomalley\u003c/b\u003e.../392633/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.theatlantic.com/assets/media/img/mt/2015/05/image668_1024/lead_large.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "282",
+      "height": "179",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsEIp79VKyqGEF5qr7JeyEijM_B8E0B-9NvEwS4mkmwd5qzcZ3pySGFdDJ"
+     }
+    ],
+    "newsarticle": [
+     {
+      "headline": "Talking With Martin O'Malley: Reform, or Pitchforks?",
+      "description": "An underdog (potential) candidate makes the case for a new approach",
+      "image": "http://cdn.theatlantic.com/assets/media/img/mt/2015/05/image668_1024/lead_960.png?1431044077",
+      "datepublished": "2015-05-07T02:19:00",
+      "articlebody": "The geographic-information systems company Esri, which hosted the Q-and-A session I did on Tuesday night with former governor Martin O'Malley of Maryland, has put the video of the discussion..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, maximum-scale=1.0, width=device-width",
+      "og:site_name": "The Atlantic",
+      "og:locale": "en_US",
+      "fb:admins": "577048155,17301937",
+      "fb:page_id": "29259828486",
+      "fb:app_id": "100770816677686",
+      "p:domain_verify": "68e1a0361a557708fefc992f3309ed70",
+      "og:title": "Talking With Martin O'Malley: Reform, or Pitchforks?",
+      "og:type": "article",
+      "og:url": "http://www.theatlantic.com/politics/archive/2015/05/talking-with-martin-omalley-reform-or-pitchforks/392633/",
+      "og:image": "http://cdn.theatlantic.com/assets/media/img/mt/2015/05/image668_1024/lead_large.png",
+      "og:description": "Why an underdog candidate thinks it's time for a generational change in politics",
+      "author": "James Fallows",
+      "twitter:site": "@theatlantic",
+      "twitter:domain": "theatlantic.com",
+      "twitter:card": "summary",
+      "parsely-page": "{\"title\": \"Talking With Martin O'Malley: Reform, or Pitchforks?\", \"type\": \"post\", \"section\": \"politics\", \"author\": \"James Fallows\", \"post_id\": 392633, \"link\": \"http://www.theatlantic.com/politics/archive/2015/05/talking-with-martin-omalley-reform-or-pitchforks/392633/\", \"pub_date\": \"2015-05-07T02:19:00Z\"}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley: Net migration from Mexico was 0 in 2014 | PolitiFact",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e: Net migration from Mexico was 0 in 2014 | PolitiFact",
+   "link": "http://www.politifact.com/truth-o-meter/statements/2015/nov/14/martin-omalley/martin-omalley-net-migration-mexico-was-0-2014/",
+   "displayLink": "www.politifact.com",
+   "snippet": "Nov 14, 2015 ... At the Democratic debate in Des Moines, former Maryland Gov. Martin O'Malley \nshared a statistic that he said you would never hear out of one ...",
+   "htmlSnippet": "Nov 14, 2015 \u003cb\u003e...\u003c/b\u003e At the Democratic debate in Des Moines, former Maryland Gov. \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e \u003cbr\u003e\nshared a statistic that he said you would never hear out of one&nbsp;...",
+   "cacheId": "y7208fwbP0gJ",
+   "formattedUrl": "www.politifact.com/.../martin-omalley/martin-omalley-net-migration-mexico- was-0-2014/",
+   "htmlFormattedUrl": "www.politifact.com/.../\u003cb\u003emartin\u003c/b\u003e-\u003cb\u003eomalley\u003c/b\u003e/\u003cb\u003emartin\u003c/b\u003e-\u003cb\u003eomalley\u003c/b\u003e-net-migration-mexico- was-0-2014/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.politifact.com.s3.amazonaws.com/politifact%2Fphotos%2Fpolitifact-photos-Omalley.JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq5n7RVEky2dg_M43zeeLI7hBoH7ZDbxxI86T4vWXiti82LW5-wBXURqU"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "106379906558",
+      "og:title": "Martin O'Malley: Net migration from Mexico was 0 in 2014",
+      "og:type": "article",
+      "og:url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/14/martin-omalley/martin-omalley-net-migration-mexico-was-0-2014/",
+      "og:image": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif",
+      "og:site_name": "@politifact",
+      "fb:admins": "750116788",
+      "og:description": "At the Democratic debate in Des Moines, former Maryland Gov. Martin O’Malley shared a statistic that he said you would never hear out of one of the leading Republican presidential candidates.",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "PolitiFact",
+      "twitter:url": "http://www.politifact.com/truth-o-meter/statements/2015/nov/14/martin-omalley/martin-omalley-net-migration-mexico-was-0-2014/",
+      "twitter:username": "PolitiFact",
+      "twitter:title": "Martin O'Malley: Net migration from Mexico was 0 in 2014",
+      "twitter:description": "At the Democratic debate in Des Moines, former Maryland Gov. Martin O&rsquo;Malley shared a statistic that he said you would never hear out of one of the leading Republican presidential candidates. &quot;Let&rsquo;s say it in our debate because you&rsquo;ll never hear this from that immigrant-bashing carnival barker Donald Trump: The truth of the matter is net immigration from Mexico last year was zero. Fact-check me. Go ahead, check it out,&quot; O&rsquo;Malley said. Challenge accepted. We actually wrote about this back in June when former President Bill Clinton said something similar. When we did that fact-check, we didn&rsquo;t have the 2014 ...",
+      "twitter:image": "http://static.politifact.com.s3.amazonaws.com:80/rulings%2Ftom-mostlytrue.gif",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley: Zero out fossil fuels by 2050",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e: Zero out fossil fuels by 2050",
+   "link": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+   "displayLink": "www.usatoday.com",
+   "snippet": "Martin O'Malley: Zero out fossil fuels by 2050. Martin O'Malley 9:19 a.m. EDT \nJune 18, 2015. American prosperity and our planet are intertwined.",
+   "htmlSnippet": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e: Zero out fossil fuels by 2050. \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e 9:19 a.m. EDT \u003cbr\u003e\nJune 18, 2015. American prosperity and our planet are intertwined.",
+   "cacheId": "ir_GpHmWVWQJ",
+   "formattedUrl": "www.usatoday.com/story/opinion/2015/06/18/.../28859409/",
+   "htmlFormattedUrl": "www.usatoday.com/story/opinion/2015/06/18/.../28859409/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.gannett-cdn.com/-mm-/a4a57f3a261a27759cdccd802b2c9d19ab7f901b/c=0-103-945-637&r=x633&c=1200x630/local/-/media/2015/06/17/USATODAY/USATODAY/635701396390143193-AX073-7372-9.JPG"
+     }
+    ],
+    "videoobject": [
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/12/29906170001_4649109927001_4648921978001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/12/07/76944182/",
+      "uploaddate": "1449524404919"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/12/29906170001_4649796974001_4649774795001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/12/07/76917560/",
+      "uploaddate": "1449499280267"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/12/29906170001_4646180717001_4646164345001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/12/04/76783314/",
+      "uploaddate": "1449249948487"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/12/29906170001_4642144157001_4642106074001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/12/02/76663614/",
+      "uploaddate": "1449071818332"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/12/29906170001_4639832106001_4639742933001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/12/01/76605286/",
+      "uploaddate": "1448984609010"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4638371573001_4638269328001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/30/76582400/",
+      "uploaddate": "1448923184518"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4637665721001_4637606540001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/30/76557332/",
+      "uploaddate": "1448893001210"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4634647996001_4634641242001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/27/76446704/",
+      "uploaddate": "1448639297095"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4631587249001_4631559862001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/25/76368640/",
+      "uploaddate": "1448467430890"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4629784596001_thumbnail-for-video-4629748826001.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/24/76310512/",
+      "uploaddate": "1448381556770"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4628137737001_4628078538001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/23/76255226/",
+      "uploaddate": "1448293707523"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4624396057001_thumbnail-for-video-4624123280001.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/22/76233760/",
+      "uploaddate": "1448236833194"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4621822198001_4621755513001-th.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/19/76049802/",
+      "uploaddate": "1447953486003"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4620233167001_thumbnail-for-video-4620181008001.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/18/76002142/",
+      "uploaddate": "1447872702079"
+     },
+     {
+      "width": "455",
+      "height": "300",
+      "thumbnailurl": "http://videos.usatoday.net/Brightcove2/29906170001/2015/11/29906170001_4618808705001_thumbnail-for-video-4618751661001.jpg?pubId=29906170001",
+      "contenturl": "http://www.usatoday.com/videos/opinion/2015/11/17/75956480/",
+      "uploaddate": "1447800170825"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKkZQ3cljxkXhBmRYy90xhJjs5M0d28b3flyjoVjCrnaJNjym4OHZ0VX-_"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "American prosperity and our planet are intertwined.",
+      "thumbnailurl": "http://www.gannett-cdn.com/-mm-/745b9d14bb61588df7b60e4ea7038ad90860f542/c=0-40-945-985&r=x153&c=150x150/local/-/media/2015/06/17/USATODAY/USATODAY/635701396390143193-AX073-7372-9.JPG",
+      "thumbnailheight": "150",
+      "thumbnailwidth": "150",
+      "image": "http://www.gannett-cdn.com/-mm-/eda28f0ec093afbcbdaae1ad6406ecd6fe3c952c/c=0-40-945-985&r=x203&c=200x200/local/-/media/2015/06/17/USATODAY/USATODAY/635701396390143193-AX073-7372-9.JPG",
+      "datemodified": "2015-06-18T09:19:35.1500000",
+      "datepublished": "2015-06-18T09:19:35.1500000",
+      "articlesection": "opinion",
+      "headline": "Martin O'Malley: Zero out fossil fuels by 2050",
+      "articlebody": "American prosperity and our planet are intertwined.Former Maryland Governor Martin O'Malley announces his intention to seek the 2016 Democratic nomination to run for president, on May 30, 2015,..."
+     },
+     {
+      "url": "OpinionChicago inquiry more than justified: Our viewChicago inquiry more than justified: Our viewMayor Rahm Emanuel is now embracing it after initially calling the idea 'misguided.'Opinion1...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Chicago inquiry more than justified: Our view",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 3 hours ago"
+     },
+     {
+      "url": "OpinionRahm Emanuel: I’m committed to reformRahm Emanuel: I’m committed to reformThe shooting of Laquan McDonald was indefensible.Opinion1 day, 3 hours ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Rahm Emanuel: I’m committed to reform",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 3 hours ago"
+     },
+     {
+      "url": "OpinionDon't let fear provoke repeat of shameful history: ColumnDon't let fear provoke repeat of shameful history: ColumnConfusing Syrian refugees with terrorists is as misguided as WWII suspicion...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Don't let fear provoke repeat of shameful history: Column",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 7 hours ago"
+     },
+     {
+      "url": "OpinionLet's kill them first: ColumnLet's kill them first: ColumnAnswer to terror is tougher citizens, not tougher government.Opinion1 day, 9 hours ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Let's kill them first: Column",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 9 hours ago"
+     },
+     {
+      "url": "OpinionKoch campus funding, killer cops: ObjectionsKoch campus funding, killer cops: ObjectionsReaders offer another view of Koch funding and take issue with a column about killer cops.Opinion21...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Koch campus funding, killer cops: Objections",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "21 hours, 46 minutes ago"
+     },
+     {
+      "url": "OpinionYou're not about to die in a mass shooting: James Alan FoxYou're not about to die in a mass shooting: James Alan FoxOnly an absurdly broad definition yields wild statistic of hundreds...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "You're not about to die in a mass shooting: James Alan Fox",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 9 hours ago"
+     },
+     {
+      "url": "OpinionThe weapon that binds Sandy Hook and San Bernardino: Sandy Hook familiesThe weapon that binds Sandy Hook and San Bernardino: Sandy Hook familiesRecklessly advertised AR-15 rifles attract...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "The weapon that binds Sandy Hook and San Bernardino: Sandy Hook families",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "2 days, 1 hour ago"
+     },
+     {
+      "url": "OpinionTime to open all combat roles to women: Your SayTime to open all combat roles to women: Your SayStarting next year, all U.S. military combat jobs will be open to women, Defense Secretary...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Time to open all combat roles to women: Your Say",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 23 hours ago"
+     },
+     {
+      "url": "OpinionFacebook founder offers inspiration: #tellusatodayFacebook founder offers inspiration: #tellusatodayMark Zuckerberg and his wife, Priscilla Chan, pledged to give away 99% of their Facebook...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Facebook founder offers inspiration: #tellusatoday",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 23 hours ago"
+     },
+     {
+      "url": "OpinionDestroy ISIL, not American values: Our viewDestroy ISIL, not American values: Our viewObama’s rare Oval Office address Sunday night underscored the gravity of the problem.Opinion1...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Destroy ISIL, not American values: Our view",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 22 hours ago"
+     },
+     {
+      "url": "OpinionYouToon: December's cartoon is here!YouToon: December's cartoon is here!Send us a clever caption for a chance to win a prize.Opinion1 day, 8 hours ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "YouToon: December's cartoon is here!",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 8 hours ago"
+     },
+     {
+      "url": "OpinionPunchlines: Need inspiration for baby names? Check InstagramPunchlines: Need inspiration for baby names? Check InstagramCheck out our favorite jokes about baby names, then vote for yours...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Punchlines: Need inspiration for baby names? Check Instagram",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "22 hours, 3 minutes ago"
+     },
+     {
+      "url": "OpinionGlenn Reynolds: 'The New York Times' deploys 'stray voltage'Glenn Reynolds: 'The New York Times' deploys 'stray voltage'Too many topics expose Obama's domestic and foreign policy failures,...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Glenn Reynolds: 'The New York Times' deploys 'stray voltage'",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 9 hours ago"
+     },
+     {
+      "url": "OpinionObama launches new phase with old playbook: ColumnObama launches new phase with old playbook: ColumnIn the war on terror, the president doubles down on failure.Opinion1 day, 22 hours ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Obama launches new phase with old playbook: Column",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 22 hours ago"
+     },
+     {
+      "url": "OpinionWhat are Obama's options?: Other viewsWhat are Obama's options?: Other viewsWhat others are saying about the war on ISIL.Opinion1 day, 22 hours ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "What are Obama's options?: Other views",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 day, 22 hours ago"
+     },
+     {
+      "url": "OpinionNo, Mr. President, the NRA is not to blame: Chris CoxNo, Mr. President, the NRA is not to blame: Chris CoxCalifornia has the strictest gun control in the nation, so Obama's politicization...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "No, Mr. President, the NRA is not to blame: Chris Cox",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "5 days ago"
+     },
+     {
+      "url": "OpinionJames Alan Fox: In San Bernardino, focus on the murderous partnershipJames Alan Fox: In San Bernardino, focus on the murderous partnershipMost mass killers are enabled by social isolation,...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "James Alan Fox: In San Bernardino, focus on the murderous partnership",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "5 days, 1 hour ago"
+     },
+     {
+      "url": "VoicesVoices: Emanuel faces biggest political testVoices: Emanuel faces biggest political testRahm Emanuel, America’s best-known mayor, is drowning.Voices2 days, 1 hour ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Voices: Emanuel faces biggest political test",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Voices",
+      "datepublished": "2 days, 1 hour ago"
+     },
+     {
+      "url": "VoicesVoices: Battered and stricken, San Bernardino mournsVoices: Battered and stricken, San Bernardino mournsSan Bernardino has suffered many setbacks in recent years.Voices4 days, 23 hours ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Voices: Battered and stricken, San Bernardino mourns",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Voices",
+      "datepublished": "4 days, 23 hours ago"
+     },
+     {
+      "url": "OpinionTerrorism gender stereotypes can kill: ColumnTerrorism gender stereotypes can kill: ColumnWomen and marriage have long been a part of the terrorism story.Opinion4 days, 23 hours ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Terrorism gender stereotypes can kill: Column",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "4 days, 23 hours ago"
+     },
+     {
+      "url": "OpinionPunchlines: Trying to revive the Bush campaignPunchlines: Trying to revive the Bush campaignThe late-night comics on all things political including Bush's struggles, Clinton's logo and...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Punchlines: Trying to revive the Bush campaign",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "4 days, 7 hours ago"
+     },
+     {
+      "url": "OpinionAnother (mass shooting) day in the USA: Our viewAnother (mass shooting) day in the USA: Our viewThe work of ending this plague that threatens to define America won't happen overnight,...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Another (mass shooting) day in the USA: Our view",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "5 days, 22 hours ago"
+     },
+     {
+      "url": "OpinionNation must find way to stop mass shootings: #tellusatodayNation must find way to stop mass shootings: #tellusatodayIn the wake of the San Bernardino tragedy, we asked what the nation...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Nation must find way to stop mass shootings: #tellusatoday",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "4 days, 22 hours ago"
+     },
+     {
+      "url": "OpinionGun control is not the answer: Opposing viewGun control is not the answer: Opposing viewThere will always be people who fall through the cracks.Opinion5 days, 22 hours ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Gun control is not the answer: Opposing view",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "5 days, 22 hours ago"
+     },
+     {
+      "url": "OpinionLost highway safety opportunities: Our viewLost highway safety opportunities: Our viewLegislation up for vote this week in Congress would do little to change automakers.Opinion6 days ago",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Lost highway safety opportunities: Our view",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "6 days ago"
+     },
+     {
+      "url": "OpinionWho is the United States fighting in the Middle East? Ask USA TODAYWho is the United States fighting in the Middle East? Ask USA TODAYDeputy Editorial Page Editor David Mastio explains...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "Who is the United States fighting in the Middle East? Ask USA TODAY",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "1 week, 1 day ago"
+     },
+     {
+      "url": "OpinionFor Amazon drones, bad outweighs good: #tellusatodayFor Amazon drones, bad outweighs good: #tellusatodayWe asked what followers thought of Amazon testing drone delivery of packages weighing...",
+      "image": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "headline": "For Amazon drones, bad outweighs good: #tellusatoday",
+      "thumbnailurl": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "articlesection": "Opinion",
+      "datepublished": "5 days, 21 hours ago"
+     }
+    ],
+    "metatags": [
+     {
+      "content-type": "text/html; charset=UTF-8",
+      "google": "notranslate",
+      "fb:app_id": "215046668549694",
+      "og:site_name": "USA TODAY",
+      "og:image": "http://www.gannett-cdn.com/-mm-/a4a57f3a261a27759cdccd802b2c9d19ab7f901b/c=0-103-945-637&r=x633&c=1200x630/local/-/media/2015/06/17/USATODAY/USATODAY/635701396390143193-AX073-7372-9.JPG",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "twitter:card": "summary_large_image",
+      "twitter:image:src": "http://www.gannett-cdn.com/-mm-/5e12e4f3acb8cd066b958e0d1eac762a94758721/c=0-103-945-637&r=x453&c=800x450/local/-/media/2015/06/17/USATODAY/USATODAY/635701396390143193-AX073-7372-9.JPG",
+      "twitter:site": "@usatoday",
+      "twitter:creator": "@usatoday",
+      "twitter:title": "Martin O'Malley: Zero out fossil fuels by 2050",
+      "twitter:description": "American prosperity and our planet are intertwined.",
+      "og:title": "Martin O'Malley: Zero out fossil fuels by 2050",
+      "og:description": "American prosperity and our planet are intertwined.",
+      "og:url": "http://www.usatoday.com/story/opinion/2015/06/18/pope-francis-encyclical-clean-energy-technology-campaign-column/28859409/",
+      "og:type": "article",
+      "news_keywords": "Pope Francis, Encyclical, climate change, green energy, renewable energy, Martin O'Malley, energy independence, presidential campaign, greenhouse gas emissions, Maryland",
+      "cxenseparse:recs:articleid": "28859409",
+      "cxenseparse:pageclass": "article",
+      "cxenseparse:recs:publishtime": "2015-06-18T09:19:35.1500000",
+      "cxenseparse:recs:category": "opinion",
+      "cxenseparse:title": "Martin O'Malley: Zero out fossil fuels by 2050",
+      "cxenseparse:author": "Martin O'Malley",
+      "cxenseparse:recs:contenttype": "story",
+      "cxenseparse:gci_asset_type": "story",
+      "cxenseparse:recs:image": "http://www.gannett-cdn.com/-mm-/745b9d14bb61588df7b60e4ea7038ad90860f542/c=0-40-945-985&r=x153&c=150x150/local/-/media/2015/06/17/USATODAY/USATODAY/635701396390143193-AX073-7372-9.JPG",
+      "cxenseparse:recs:imagedimensions": "150x150",
+      "cxenseparse:gci-topic": "Topics/Columnists' Opinions",
+      "cxenseparse:gci-categories": "Topics/Columnists' Opinions",
+      "viewport": "width=1070"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://www.gannett-cdn.com/-mm-/962b8d4cc9c9bbeeb6ac20e3c660d65d263c7a8a/c=89-0-857-1024&r=537&c=0-0-534-712/local/-/media/2015/06/17/USATODAY/USATODAY/635701396390143193-AX073-7372-9.JPG",
+      "name": "635701396390143193-AX073-7372-9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley - Bio, News, Photos - Washington Times",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e - Bio, News, Photos - Washington Times",
+   "link": "http://www.washingtontimes.com/topics/martin-omalley/",
+   "displayLink": "www.washingtontimes.com",
+   "snippet": "Latest news and commentary on Martin O'Malley including photos, videos, \nquotations, and a biography.",
+   "htmlSnippet": "Latest news and commentary on \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e including photos, videos, \u003cbr\u003e\nquotations, and a biography.",
+   "cacheId": "JYwEyoDe_GMJ",
+   "formattedUrl": "www.washingtontimes.com/topics/martin-omalley/",
+   "htmlFormattedUrl": "www.washingtontimes.com/topics/\u003cb\u003emartin\u003c/b\u003e-\u003cb\u003eomalley\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://twt-thumbs.washtimes.com/media/image/2015/11/14/DEBATE_c0-175-5184-3196_s326x190.jpg?b6f0d15725755567e851df85518b6ca4b876beeb"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "152",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6Yf-HguZfywaYc035QTFjw-fyJNAAOfGlpSipTwSv4Vi4lZjKi5ZO7jw"
+     }
+    ],
+    "metatags": [
+     {
+      "bitly-verification": "d180fd45f70d",
+      "msvalidate.01": "5B44585918D69318CA2120B5FA20D85C",
+      "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+      "format-detection": "telephone=no",
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "serverf": "web0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Martin O'Malley: Clinton \"Wrapping Herself in the Tragedy of 9/11\" Is ...",
+   "htmlTitle": "\u003cb\u003eMartin O&#39;Malley\u003c/b\u003e: Clinton &quot;Wrapping Herself in the Tragedy of 9/11&quot; Is \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.realclearpolitics.com/video/2015/11/16/martin_omalley_clintons_wall_street-911_comments_were_shameful.html",
+   "displayLink": "www.realclearpolitics.com",
+   "snippet": "Nov 16, 2015 ... MARTIN O'MALLEY: She had a lot of friends in the hall, let's say. Secretary \nClinton has a lot of friends on Wall Street. Her friends on Wall Street ...",
+   "htmlSnippet": "Nov 16, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMARTIN O&#39;MALLEY\u003c/b\u003e: She had a lot of friends in the hall, let&#39;s say. Secretary \u003cbr\u003e\nClinton has a lot of friends on Wall Street. Her friends on Wall Street&nbsp;...",
+   "cacheId": "N-dY-bJt8gAJ",
+   "formattedUrl": "www.realclearpolitics.com/.../martin_omalley_clintons_wall_street-911_ comments_were_shameful.html",
+   "htmlFormattedUrl": "www.realclearpolitics.com/.../\u003cb\u003emartin\u003c/b\u003e_\u003cb\u003eomalley\u003c/b\u003e_clintons_wall_street-911_ comments_were_shameful.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.rcp.realclearpolitics.com/330719.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTROfV7ms9e8X9dd6kVpNzsnTQk4qqP9JHWjMrox_7LYibB7ImPBb4BPnOC"
+     }
+    ],
+    "metatags": [
+     {
+      "fragment": "!",
+      "title": "Martin O'Malley: Clinton \"Wrapping Herself in the Tragedy of 9/11\" Is A \"Smokescreen,\" \"Shameful\"",
+      "og:title": "Martin O'Malley: Clinton \"Wrapping Herself in the Tragedy of 9/11\" Is A \"Smokescreen,\" \"Shameful\"",
+      "og:type": "video",
+      "og:url": "http://www.realclearpolitics.com/video/2015/11/16/martin_omalley_clintons_wall_street-911_comments_were_shameful.html",
+      "og:description": "MARTIN O'MALLEY: She had a lot of friends in the hall, let's say. Secretary Clinton has a lot of friends on Wall Street. Her friends on Wall Street from the big banks, have given her hundreds of thousands of dollars in speakin fees, and are the ones that will be guiding our country's economic policies should Hillary Clinton be elected. I think that notion was shameful. I don't think the people watching were applauding the notion that she was putting up this smokescreen and wrapping herself in the tragedy of 9/11, I don't think they saw that as something that is appropriate to do, to mask her coziness and her closeness to Wall Street and all of the architects of the crash of 2008.",
+      "fb:app_id": "1415921935346245",
+      "og:image": "http://images.rcp.realclearpolitics.com/330719.jpg",
+      "twitter:card": "summary",
+      "twitter:site": "@rcpvideo",
+      "tweetmeme-title": "Martin O'Malley: Clinton \"Wrapping Herself in the Tragedy of 9/11\" Is A \"Smokescreen,\" \"Shameful\""
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Can Martin O'Malley be Democrats' Plan B? - The Washington Post",
+   "htmlTitle": "Can \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e be Democrats&#39; Plan B? - The Washington Post",
+   "link": "https://www.washingtonpost.com/blogs/right-turn/wp/2015/11/16/can-martin-omalley-be-democrats-plan-b/",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Nov 16, 2015 ... 4, 2012, photo, Maryland Gov. Martin O' Then-Maryland Gov. Martin O'Malley \naddresses the Democratic National Convention in Charlotte in ...",
+   "htmlSnippet": "Nov 16, 2015 \u003cb\u003e...\u003c/b\u003e 4, 2012, photo, Maryland Gov. Martin O&#39; Then-Maryland Gov. \u003cb\u003eMartin O&#39;Malley\u003c/b\u003e \u003cbr\u003e\naddresses the Democratic National Convention in Charlotte in&nbsp;...",
+   "formattedUrl": "https://www.washingtonpost.com/.../can-martin-omalley-be-democrats-plan-b /",
+   "htmlFormattedUrl": "https://www.washingtonpost.com/.../can-\u003cb\u003emartin\u003c/b\u003e-\u003cb\u003eomalley\u003c/b\u003e-be-democrats-plan-b /",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2012/09/05/National-Politics/Advance/Images/Democrats_2016_and_Beyond-0883b.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "Jennifer Rubin"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpTuqqv6XZhfflttGzYx1NMCFRzGZoueNc8cboI0y9uEapSbhRo1xmTfms"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "Run, Martin, run!",
+      "mainentityofpage": "True",
+      "image": "http://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2012/09/05/National-Politics/Advance/Images/Democrats_2016_and_Beyond-0883b.jpg",
+      "url": "https://www.washingtonpost.com/blogs/right-turn/wp/2015/11/16/can-martin-omalley-be-democrats-plan-b/",
+      "headline": "Can Martin O’Malley be Democrats’ Plan B?",
+      "datepublished": "2015-11-16T12:45-500",
+      "articlebody": "Then-Maryland Gov. Martin O’Malley addresses the Democratic National Convention in Charlotte in 2012. (J. Scott Applewhite/Associated Press) If Democrats could find a candidate to Hillary..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+      "referrer": "unsafe-url",
+      "news_keywords": "o'malley attacks clinton, o'malley debate, o'malley alternative to clinton",
+      "twitter:card": "summary_large_image",
+      "og:description": "Run, Martin, run!",
+      "og:type": "article",
+      "og:site_name": "Washington Post",
+      "og:image": "http://img.washingtonpost.com/rf/image_908w/2010-2019/WashingtonPost/2012/09/05/National-Politics/Advance/Images/Democrats_2016_and_Beyond-0883b.jpg",
+      "og:title": "Can Martin O’Malley be Democrats’ Plan B?",
+      "article:publisher": "https://www.facebook.com/washingtonpost",
+      "fb:admins": "1513210492",
+      "fb:app_id": "41245586762",
+      "og:url": "https://www.washingtonpost.com/blogs/right-turn/wp/2015/11/16/can-martin-omalley-be-democrats-plan-b/",
+      "apple-itunes-app": "app-id=938922398, app-argument=https://www.washingtonpost.com/blogs/right-turn/wp/2015/11/16/can-martin-omalley-be-democrats-plan-b/",
+      "twitter:creator": "@JRubinBlogger"
+     }
+    ]
+   }
+  }
+ ]
+}

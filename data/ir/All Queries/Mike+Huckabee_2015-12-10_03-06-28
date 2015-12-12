@@ -1,0 +1,1415 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mike Huckabee",
+    "totalResults": "716000",
+    "searchTerms": "Mike Huckabee",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mike Huckabee",
+    "totalResults": "716000",
+    "searchTerms": "Mike Huckabee",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.345575,
+  "formattedSearchTime": "0.35",
+  "totalResults": "716000",
+  "formattedTotalResults": "716,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "https://en.wikipedia.org/wiki/Mike_Huckabee",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Michael Dale \"Mike\" Huckabee (born August 24, 1955) is an American politician, \nChristian minister, author, and commentator who served as the 44th Governor ...",
+   "htmlSnippet": "Michael Dale &quot;\u003cb\u003eMike\u003c/b\u003e&quot; \u003cb\u003eHuckabee\u003c/b\u003e (born August 24, 1955) is an American politician, \u003cbr\u003e\nChristian minister, author, and commentator who served as the 44th Governor&nbsp;...",
+   "cacheId": "R5Q5-TJ7YlcJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Mike_Huckabee",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eMike\u003c/b\u003e_\u003cb\u003eHuckabee\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mike_Huckabee_by_Gage_Skidmore_6.jpg/220px-Mike_Huckabee_by_Gage_Skidmore_6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "231",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQnyQnvGVeOOInPYRAmDBdiGn04X7FbWq_DgfJi8RtDVfoblNHM1lDjN8"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Mike Huckabee",
+      "nickname": "Michael Dale Huckabee",
+      "url": "www.mikehuckabee.com",
+      "url_text": "www.mikehuckabee.com",
+      "bday": "1955-08-24",
+      "label": "Santa Rosa Beach, Florida, United States[2]"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee for President",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e for President",
+   "link": "https://www.mikehuckabee.com/",
+   "displayLink": "www.mikehuckabee.com",
+   "snippet": "Official campaign site of Mike Huckabee for President. If you haven't already, join \nthe campaign today! Together, we can take our country from Hope to Higher ...",
+   "htmlSnippet": "Official campaign site of \u003cb\u003eMike Huckabee\u003c/b\u003e for President. If you haven&#39;t already, join \u003cbr\u003e\nthe campaign today! Together, we can take our country from Hope to Higher&nbsp;...",
+   "cacheId": "d9TRz72uxyQJ",
+   "formattedUrl": "https://www.mikehuckabee.com/",
+   "htmlFormattedUrl": "https://www.\u003cb\u003emikehuckabee\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.mikehuckabee.com/vendor/_skins/mikehuckabee2016/images/social_logo.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRftQyHy6T7u4zf-BG5R4FA5XHuUrDmc2TMclHEtRb5zsc9Fp-im__OYS0"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:site_name": "Mike Huckabee for President",
+      "og:type": "website",
+      "og:description": "Official campaign site of Mike Huckabee for President. If you haven't already, join the campaign today! Together, we can take our country from Hope to Higher Ground.",
+      "og:image": "https://www.mikehuckabee.com/vendor/_skins/mikehuckabee2016/images/social_logo.png",
+      "og:url": "https://www.mikehuckabee.com/",
+      "twitter:image:src": "https://www.mikehuckabee.com/vendor/_skins/mikehuckabee2016/images/social_logo.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e",
+   "link": "https://www.facebook.com/mikehuckabee/",
+   "displayLink": "www.facebook.com",
+   "snippet": "Mike Huckabee's profile page provides information about the presidential \ncandidate along with photos, events, posted items, wall posts and links to \nsupporters ...",
+   "htmlSnippet": "\u003cb\u003eMike Huckabee&#39;s\u003c/b\u003e profile page provides information about the presidential \u003cbr\u003e\ncandidate along with photos, events, posted items, wall posts and links to \u003cbr\u003e\nsupporters&nbsp;...",
+   "cacheId": "UfMLGhWPc24J",
+   "formattedUrl": "https://www.facebook.com/mikehuckabee/",
+   "htmlFormattedUrl": "https://www.facebook.com/\u003cb\u003emikehuckabee\u003c/b\u003e/",
+   "pagemap": {
+    "organization": [
+     {
+      "name": "Mike Huckabee"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "al:android:app_name": "Facebook",
+      "al:android:package": "com.facebook.katana",
+      "al:android:url": "fb://page/6934857868",
+      "al:ios:app_name": "Facebook",
+      "al:ios:app_store_id": "284882215",
+      "al:ios:url": "fb://page/?id=6934857868"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gov. Mike Huckabee (@GovMikeHuckabee) | Twitter",
+   "htmlTitle": "Gov. \u003cb\u003eMike Huckabee\u003c/b\u003e (@GovMikeHuckabee) | Twitter",
+   "link": "https://twitter.com/govmikehuckabee",
+   "displayLink": "twitter.com",
+   "snippet": "5929 tweets • 603 photos/videos • 429K followers. Check out the latest Tweets \nfrom Gov. Mike Huckabee (@GovMikeHuckabee)",
+   "htmlSnippet": "5929 tweets • 603 photos/videos • 429K followers. Check out the latest Tweets \u003cbr\u003e\nfrom Gov. \u003cb\u003eMike Huckabee\u003c/b\u003e (@GovMikeHuckabee)",
+   "cacheId": "tptb055SLk4J",
+   "formattedUrl": "https://twitter.com/govmikehuckabee",
+   "htmlFormattedUrl": "https://twitter.com/gov\u003cb\u003emikehuckabee\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pbs.twimg.com/profile_images/595604836667691008/34kTwIqb_400x400.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY2kCrgb8Kq71dOog5bMPdEisojSQ8XCP_kTakAq_mSGYQJ9vCsCPN8xtJ"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e",
+   "link": "http://www.explorehuckabee.com/",
+   "displayLink": "www.explorehuckabee.com",
+   "snippet": "Mike Huckabee site. ... running for office nationwide. Huckabee is also an author \nof several books, a public speaker and a an ordained Southern Baptist minister.",
+   "htmlSnippet": "\u003cb\u003eMike Huckabee\u003c/b\u003e site. ... running for office nationwide. Huckabee is also an author \u003cbr\u003e\nof several books, a public speaker and a an ordained Southern Baptist minister.",
+   "cacheId": "DKD-g6ZFVLsJ",
+   "formattedUrl": "www.explorehuckabee.com/",
+   "htmlFormattedUrl": "www.explore\u003cb\u003ehuckabee\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.explorehuckabee.com/images/index-banner.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "294",
+      "height": "171",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkGTvVL__knz-XJX2KXLfQ_i-kPUPV5E8QSZaG5pYAQcKbLCtJAzgPFuD9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee on the Issues",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e on the Issues",
+   "link": "http://www.ontheissues.org/Mike_Huckabee.htm",
+   "displayLink": "www.ontheissues.org",
+   "snippet": "6 days ago ... Mike Huckabee on the Issues on Mike Huckabee; Presidential candidates.",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMike Huckabee\u003c/b\u003e on the Issues on \u003cb\u003eMike Huckabee\u003c/b\u003e; Presidential candidates.",
+   "cacheId": "bf8r6mRz9JMJ",
+   "formattedUrl": "www.ontheissues.org/Mike_Huckabee.htm",
+   "htmlFormattedUrl": "www.ontheissues.org/\u003cb\u003eMike\u003c/b\u003e_\u003cb\u003eHuckabee\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ontheissues.org/Mike_Huckabee.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "84",
+      "height": "117",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjwUqvZTUw85Vq5mT1MCA-vC87r3rmBgS7gVQmGf30cXjv3imEsk6M"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "OnTheIssues.org"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee: Obama Marching Israelis to 'Door of Oven'",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e: Obama Marching Israelis to &#39;Door of Oven&#39;",
+   "link": "http://www.breitbart.com/big-government/2015/07/25/huckabee-obama-marching-israelis-to-door-of-oven/",
+   "displayLink": "www.breitbart.com",
+   "snippet": "Jul 25, 2015 ... Presidential aspirant and former governor of Arkansas Mike Huckabee joined \nBreitbart's editor-in-chief Alexander Marlow in an interview on ...",
+   "htmlSnippet": "Jul 25, 2015 \u003cb\u003e...\u003c/b\u003e Presidential aspirant and former governor of Arkansas \u003cb\u003eMike Huckabee\u003c/b\u003e joined \u003cbr\u003e\nBreitbart&#39;s editor-in-chief Alexander Marlow in an interview on&nbsp;...",
+   "cacheId": "F87_actVyLAJ",
+   "formattedUrl": "www.breitbart.com/.../huckabee-obama-marching-israelis-to-door-of-oven/",
+   "htmlFormattedUrl": "www.breitbart.com/.../\u003cb\u003ehuckabee\u003c/b\u003e-obama-marching-israelis-to-door-of-oven/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.breitbart.com/media/2015/07/Huckabee-Getty.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPOxqlsBpdZx3e0abkyEOIMq5SIqfZi7Huy2reFROSoUFP_Hef9fgU9Zvh"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Mike Huckabee: Obama Marching Israelis to ‘Door of Oven’",
+      "og:description": "Mike Huckabee on Iran Deal: Obama Marching Israelis to ‘Door of Oven’",
+      "og:url": "http://www.breitbart.com/big-government/2015/07/25/huckabee-obama-marching-israelis-to-door-of-oven/",
+      "og:site_name": "Breitbart",
+      "article:publisher": "https://www.facebook.com/Breitbart",
+      "article:tag": "Breitbart News Saturday",
+      "article:section": "2016 Presidential Race",
+      "article:published_time": "2015-07-25T15:30:27+00:00",
+      "article:modified_time": "2015-07-27T11:36:16+00:00",
+      "og:updated_time": "2015-07-27T11:36:16+00:00",
+      "og:image": "http://media.breitbart.com/media/2015/07/Huckabee-Getty.jpg",
+      "twitter:card": "summary",
+      "twitter:description": "Mike Huckabee on Iran Deal: Obama Marching Israelis to ‘Door of Oven’",
+      "twitter:title": "Mike Huckabee: Obama Marching Israelis to ‘Door of Oven’",
+      "twitter:site": "@BreitbartNews",
+      "twitter:domain": "Breitbart",
+      "twitter:image": "http://media.breitbart.com/media/2015/07/Huckabee-Getty.jpg",
+      "twitter:creator": "@BreitbartNews",
+      "article:categories": "Big Government,Big Journalism,2016 Presidential Race",
+      "msapplication-tilecolor": "#ff5500",
+      "application-name": "Breitbart",
+      "apple-mobile-web-app-title": "Breitbart",
+      "msapplication-tileimage": "/mstile-144x144.png",
+      "mobile-web-app-capable": "yes",
+      "msapplication-config": "/browserconfig.xml",
+      "op:markup_version": "v1.0"
+     }
+    ],
+    "blogposting": [
+     {
+      "headline": "Huckabee: Obama Marching Israelis to ‘Door of Oven’",
+      "image": "http://media.breitbart.com/media/2015/07/Huckabee-Getty-640x480.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "God, Guns, Grits, and Gravy: Mike Huckabee: 9781250060990 ...",
+   "htmlTitle": "God, Guns, Grits, and Gravy: \u003cb\u003eMike Huckabee\u003c/b\u003e: 9781250060990 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Guns-Grits-Gravy-Mike-Huckabee/dp/1250060990",
+   "displayLink": "www.amazon.com",
+   "snippet": "God, Guns, Grits, and Gravy [Mike Huckabee] on Amazon.com. *FREE* shipping \non qualifying offers. The New York Times, USA Today, Wall Street Journal, and ...",
+   "htmlSnippet": "God, Guns, Grits, and Gravy [\u003cb\u003eMike Huckabee\u003c/b\u003e] on Amazon.com. *FREE* shipping \u003cbr\u003e\non qualifying offers. The New York Times, USA Today, Wall Street Journal, and&nbsp;...",
+   "cacheId": "AG7DaxzHT-8J",
+   "formattedUrl": "www.amazon.com/Guns-Grits-Gravy-Mike-Huckabee/.../1250060990",
+   "htmlFormattedUrl": "www.amazon.com/Guns-Grits-Gravy-\u003cb\u003eMike\u003c/b\u003e-\u003cb\u003eHuckabee\u003c/b\u003e/.../1250060990",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/51TU25kRaIL.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "276",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnL36fn1QKHAfQ5OVUGmmJObWHNEz84Jh4xvhP_xa6-YobS1PFoWw71K0"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/51TU25kRaIL.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "God, Guns, Grits, and Gravy: Mike Huckabee: 9781250060990: Amazon.com: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee: Obama pretends to be a Christian - CNNPolitics.com",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e: Obama pretends to be a Christian - CNNPolitics.com",
+   "link": "http://www.cnn.com/2015/09/23/politics/mike-huckabee-barack-obama-christian/",
+   "displayLink": "www.cnn.com",
+   "snippet": "Sep 23, 2015 ... Washington (CNN) Mike Huckabee suggested President Barack Obama \"\npretends to be\" a Christian in knocking the President's handling of ...",
+   "htmlSnippet": "Sep 23, 2015 \u003cb\u003e...\u003c/b\u003e Washington (CNN) \u003cb\u003eMike Huckabee\u003c/b\u003e suggested President Barack Obama &quot;\u003cbr\u003e\npretends to be&quot; a Christian in knocking the President&#39;s handling of&nbsp;...",
+   "cacheId": "ZVBGZbCNKy8J",
+   "formattedUrl": "www.cnn.com/2015/09/23/.../mike-huckabee-barack-obama-christian/",
+   "htmlFormattedUrl": "www.cnn.com/2015/09/23/.../\u003cb\u003emike\u003c/b\u003e-\u003cb\u003ehuckabee\u003c/b\u003e-barack-obama-christian/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150727111225-obama-huckabee-large-169.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/150727111225-obama-huckabee-large-169.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "politics",
+      "datecreated": "2015-09-23T19:28:25Z",
+      "datepublished": "2015-09-23T19:28:25Z",
+      "datemodified": "2015-09-24T01:17:47Z",
+      "url": "http://www.cnn.com/2015/09/23/politics/mike-huckabee-barack-obama-christian/index.html",
+      "author": "Tom LoBianco, CNN",
+      "headline": "Mike Huckabee: Obama pretends to be a Christian - CNNPolitics.com",
+      "description": "Mike Huckabee suggested President Barack Obama \"pretends to be\" a Christian in knocking the President's handling of Pope Francis' first visit to the U.S.",
+      "keywords": "politics, Mike Huckabee: Obama pretends to be a Christian - CNNPolitics.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150727111225-obama-huckabee-large-169.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/150727111225-obama-huckabee-large-169.jpg",
+      "alternativeheadline": "Mike Huckabee: Obama pretends to be a Christian",
+      "articlebody": "Story highlightsFormer Arkansas Gov. Mike Huckabee said President Barack Obama \"pretends to be\" ChristianHuckabee also tweeted that Obama should treat Pope Francis better on his first U.S...."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "politics",
+      "og:pubdate": "2015-09-23T19:28:25Z",
+      "pubdate": "2015-09-23T19:28:25Z",
+      "lastmod": "2015-09-24T01:17:47Z",
+      "og:url": "http://www.cnn.com/2015/09/23/politics/mike-huckabee-barack-obama-christian/index.html",
+      "author": "Tom LoBianco, CNN",
+      "og:title": "Mike Huckabee: Obama pretends to be a Christian - CNNPolitics.com",
+      "og:description": "Mike Huckabee suggested President Barack Obama \"pretends to be\" a Christian in knocking the President's handling of Pope Francis' first visit to the U.S.",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/150727111225-obama-huckabee-large-169.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/150727111225-obama-huckabee-large-169.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/09/23/politics/mike-huckabee-barack-obama-christian/index.html",
+      "fb:app_id": "80401312489",
+      "template-top": "politics,bra-2016-elections,art-vid-col,col-mike-huckabee"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Huckabee blasts SCOTUS \"I will not acquiesce to an imperial court ...",
+   "htmlTitle": "\u003cb\u003eHuckabee\u003c/b\u003e blasts SCOTUS &quot;I will not acquiesce to an imperial court \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://mikehuckabee.com/2015/6/huckabee-blasts-scotus-i-will-not-acquiesce-to-an-imperial-court-vows-to-resist-and-reject-judicial-tyranny",
+   "displayLink": "mikehuckabee.com",
+   "snippet": "Jun 26, 2015 ... Little Rock, Ark. - Former Arkansas governor and 2016 Republican presidential \ncandidate Mike Huckabee made the following statement in ...",
+   "htmlSnippet": "Jun 26, 2015 \u003cb\u003e...\u003c/b\u003e Little Rock, Ark. - Former Arkansas governor and 2016 Republican presidential \u003cbr\u003e\ncandidate \u003cb\u003eMike Huckabee\u003c/b\u003e made the following statement in&nbsp;...",
+   "cacheId": "pRBpKFT56hkJ",
+   "formattedUrl": "mikehuckabee.com/.../huckabee-blasts-scotus-i-will-not-acquiesce-to-an- imperial-court-vows-to-resist-and-reject-judicial-tyranny",
+   "htmlFormattedUrl": "\u003cb\u003emikehuckabee\u003c/b\u003e.com/.../\u003cb\u003ehuckabee\u003c/b\u003e-blasts-scotus-i-will-not-acquiesce-to-an- imperial-court-vows-to-resist-and-reject-judicial-tyranny",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mikehuckabee.com/?a=Files.Serve&File_id=8E27D065-27C4-4FB9-9219-52DC57B96E83"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhFUof0FHJCMt-uUgg9pgjMXgpqTYXhmMlv8VWAxIZ9qWDhi9dZews7XM"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:site_name": "Mike Huckabee for President",
+      "og:type": "article",
+      "og:title": "Huckabee blasts SCOTUS \"I will not acquiesce to an imperial court\" vows to \"resist and reject judicial tyranny\"",
+      "og:description": "Launches statewide \"Religious Liberty Townhall Tour\" across Iowa  Little Rock, Ark. - Former Arkansas governor and 2016 Republican presidential candidate Mike Huckabee made the following statement in response to the Supreme Court's ruling on Obergefell v. Hodges.  \"The Supreme Court has spoken with a very divided voice on something only the Supreme Being can do-redefine marriage. I will not acquiesce to an imperial court any more than our Founders acquiesced to an imperial British monarch. We must resist and reject judicial tyranny, not retreat.  \"This ruling is not about marriage equality, it's about marriage redefinition. This irrational, unconstitutional rejection of the expressed will of the people in over 30 states will prove to be one of the court's most disastrous decisions, and they have had many. The only outcome worse than this flawed, failed decision would be for the President and Congress, two co-equal branches of government, to surrender in the face of this out-of-control act of unconstitutional,",
+      "og:image": "/?a=Files.Serve&File_id=8E27D065-27C4-4FB9-9219-52DC57B96E83",
+      "og:url": "/2015/6/huckabee-blasts-scotus-i-will-not-acquiesce-to-an-imperial-court-vows-to-resist-and-reject-judicial-tyranny",
+      "twitter:title": "Huckabee blasts SCOTUS \"I will not acquiesce to an imperial court\" vows to \"resist and reject judicial tyranny\"",
+      "twitter:description": "Launches statewide \"Religious Liberty Townhall Tour\" across Iowa  Little Rock, Ark. - Former Arkansas governor and 2016 Republican presidential candidate Mike Huckabee made the following statement in response to the Supreme Court's ruling on Obergefell v. Hodges.  \"The Supreme Court has spoken with a very divided voice on something only the Supreme Being can do-redefine marriage. I will not acquiesce to an imperial court any more than our Founders acquiesced to an imperial British monarch. We must resist and reject judicial tyranny, not retreat.  \"This ruling is not about marriage equality, it's about marriage redefinition. This irrational, unconstitutional rejection of the expressed will of the people in over 30 states will prove to be one of the court's most disastrous decisions, and they have had many. The only outcome worse than this flawed, failed decision would be for the President and Congress, two co-equal branches of government, to surrender in the face of this out-of-control act of unconstitutional,",
+      "twitter:image:src": "/?a=Files.Serve&File_id=8E27D065-27C4-4FB9-9219-52DC57B96E83"
+     }
+    ]
+   }
+  }
+ ]
+}
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mike Huckabee",
+    "totalResults": "716000",
+    "searchTerms": "Mike Huckabee",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mike Huckabee",
+    "totalResults": "716000",
+    "searchTerms": "Mike Huckabee",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - Mike Huckabee",
+    "totalResults": "716000",
+    "searchTerms": "Mike Huckabee",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.336714,
+  "formattedSearchTime": "0.34",
+  "totalResults": "716000",
+  "formattedTotalResults": "716,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Trevor Noah dismantles Mike Huckabee's 'batsh*t crazy' rant about ...",
+   "htmlTitle": "Trevor Noah dismantles \u003cb\u003eMike Huckabee&#39;s\u003c/b\u003e &#39;batsh*t crazy&#39; rant about \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.rawstory.com/2015/11/trevor-noah-dismantles-mike-huckabees-batsht-crazy-rant-about-syrian-refugees/",
+   "displayLink": "www.rawstory.com",
+   "snippet": "Nov 18, 2015 ... Daily Show host Trevor Noah mocked Republicans' anti-refugee stance on \nTuesday, taking particular aim at former Arkansas Gov. Mike ...",
+   "htmlSnippet": "Nov 18, 2015 \u003cb\u003e...\u003c/b\u003e Daily Show host Trevor Noah mocked Republicans&#39; anti-refugee stance on \u003cbr\u003e\nTuesday, taking particular aim at former Arkansas Gov. \u003cb\u003eMike\u003c/b\u003e&nbsp;...",
+   "cacheId": "OSmGoS7BOEAJ",
+   "formattedUrl": "www.rawstory.com/.../trevor-noah-dismantles-mike-huckabees-batsht-crazy- rant-about-syrian-refugees/",
+   "htmlFormattedUrl": "www.rawstory.com/.../trevor-noah-dismantles-\u003cb\u003emike\u003c/b\u003e-\u003cb\u003ehuckabee\u003c/b\u003es-batsht-crazy- rant-about-syrian-refugees/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.rawstory.com/wp-content/uploads/2015/11/Trevor-Noah-111715-800x430.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "306",
+      "height": "164",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9qMMd4FJ7oJi_rYnxxzDLfVrzlD8tpAthZEnW7g3GuOXhFHWbL-oD8qkZ"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Trevor Noah dismantles Mike Huckabee’s ‘batsh*t crazy’ rant about Syrian refugees",
+      "og:image": "http://www.rawstory.com/wp-content/uploads/2015/11/Trevor-Noah-111715-800x430.jpg",
+      "og:image:width": "800",
+      "og:image:height": "430",
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "fb:app_id": "212555972273585"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GOP's Mike Huckabee Questions the Obamas' Parenting of Sasha ...",
+   "htmlTitle": "GOP&#39;s \u003cb\u003eMike Huckabee\u003c/b\u003e Questions the Obamas&#39; Parenting of Sasha \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.people.com/article/mike-huckabee-questions-obamas-parenting",
+   "displayLink": "www.people.com",
+   "snippet": "Jan 13, 2015 ... In an interview about his new book, God, Guns, Grits and Gravy, Huckabee tells \nPEOPLE he doesn't get how the Obamas can encourage their ...",
+   "htmlSnippet": "Jan 13, 2015 \u003cb\u003e...\u003c/b\u003e In an interview about his new book, God, Guns, Grits and Gravy, \u003cb\u003eHuckabee\u003c/b\u003e tells \u003cbr\u003e\nPEOPLE he doesn&#39;t get how the Obamas can encourage their&nbsp;...",
+   "formattedUrl": "www.people.com/article/mike-huckabee-questions-obamas-parenting",
+   "htmlFormattedUrl": "www.people.com/article/\u003cb\u003emike\u003c/b\u003e-\u003cb\u003ehuckabee\u003c/b\u003e-questions-obamas-parenting",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img2-2.timeinc.net/people/i/2015/news/150126/mike-huckabee-800.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEFgkQ7w2PBY-GRkdC_5LOgcNInINHm8zd_1tsqO5s6UFqpX-nsGmLC5Ii"
+     }
+    ],
+    "metatags": [
+     {
+      "canonical_url": "http://www.people.com/article/mike-huckabee-questions-obamas-parenting",
+      "category_id": "EntPeopleOnt:ActorClass, EntPeopleOnt:DirectorsClass, EntPeopleOnt:MusicianClass, EntPeopleOnt:RolesClass, EntPeopleOnt:SoloRapperClass, EntPeopleOnt:SoloSingerClass, MediaProductsOnt:MediaProducts, personsOnt:IndividualClass, personsTax:BarackObama, personsTax:BeyonceKnowles, personsTax:JayZ, personsTax:MaliaObama, personsTax:MichelleObama, personsTax:SashaObama",
+      "category_name": "Actor Class, Directors Class, Musician Class, RolesClass, Solo Rapper Class, Solo Singer Class, Media Products, Individual Class, Barack Obama, Beyonce Knowles, Jay-Z, Malia Obama, Michelle Obama, Sasha Obama, Individual Class, Barack Obama, Michelle Obama",
+      "column_id": "1",
+      "credit": "Sandra Sobieraj Westfall, @sswestfall",
+      "date_published": "01/13/2015 07:00AM",
+      "description_tout": "The conservative tells PEOPLE he wants the Duggar family campaigning for him – if he runs for president again",
+      "headline": "GOP's Mike Huckabee Questions the Obamas' Parenting of Sasha and Malia",
+      "headline_tout": "GOP's Mike Huckabee Questions the Obamas' Parenting of Sasha and Malia",
+      "image_id": "30282114",
+      "image_path": "http://img2-2.timeinc.net/people/i/2015/news/150126/mike-huckabee-75.jpg",
+      "image_path_full": "http://img2-2.timeinc.net/people/i/2015/news/150126/mike-huckabee-800.jpg",
+      "is_ad": "0",
+      "is_entry_page": "1",
+      "news_keywords": "huckabee, mike huckabee, huckabee and beyonce, huckabee and jay z, huckabee and obama, huckabee book",
+      "path": "/article/mike-huckabee-questions-obamas-parenting",
+      "section": "news",
+      "srce": "News",
+      "title": "GOP's Mike Huckabee Questions the Obamas' Parenting of Sasha and Malia",
+      "image_src": "http://img2-2.timeinc.net/people/i/2015/news/150126/mike-huckabee-800.jpg",
+      "twitter:card": "summary",
+      "twitter:creator": "@SandraSobierajWestfall,@sswestfall",
+      "twitter:description": "The conservative tells PEOPLE he wants the Duggar family campaigning for him – if he runs for president again",
+      "twitter:image": "http://img2-2.timeinc.net/people/i/2015/news/150126/mike-huckabee-800.jpg",
+      "twitter:site": "@People",
+      "twitter:title": "GOP's Mike Huckabee Questions the Obamas' Parenting of Sasha and Malia",
+      "viewport": "width=1168px",
+      "fb:admins": "500091559,636967203,500060514,508981852,672882124",
+      "og:description": "The conservative tells PEOPLE he wants the Duggar family campaigning for him – if he runs for president again",
+      "og:image": "http://img2-2.timeinc.net/people/i/2015/news/150126/mike-huckabee-800.jpg",
+      "og:site_name": "PEOPLE.com",
+      "og:title": "GOP's Mike Huckabee Questions the Obamas' Parenting of Sasha and Malia",
+      "og:type": "article",
+      "og:url": "http://www.people.com/article/mike-huckabee-questions-obamas-parenting"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee - The New York Times",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e - The New York Times",
+   "link": "http://www.nytimes.com/topic/person/mike-huckabee",
+   "displayLink": "www.nytimes.com",
+   "snippet": "News about Mike Huckabee. Commentary and archival information about Mike \nHuckabee from The New York Times.",
+   "htmlSnippet": "News about \u003cb\u003eMike Huckabee\u003c/b\u003e. Commentary and archival information about \u003cb\u003eMike\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eHuckabee\u003c/b\u003e from The New York Times.",
+   "formattedUrl": "www.nytimes.com/topic/person/mike-huckabee",
+   "htmlFormattedUrl": "www.nytimes.com/topic/person/\u003cb\u003emike\u003c/b\u003e-\u003cb\u003ehuckabee\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static01.nyt.com/images/2015/11/23/us/23firstdraft-nbc/23firstdraft-nbc-mediumThreeByTwo210.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "tickersymbol": "NYSE NYT"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "168",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTctSMzGlm0wiQubsg2ssipOMYfWBDX1Qv3Sv5Je7vj7bdwG_z9-5pCisQ"
+     }
+    ],
+    "newsarticle": [
+     {
+      "headline": "Searching for Answers and Comfort After Killings at Planned Parenthood",
+      "description": "The governor of Colorado and other national leaders condemned Friday’s attack as a form of terrorism in discussions on the factors behind such frequent shootings.",
+      "author": "By DAVE PHILIPPS and JACK HEALY",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/30/us/30colorado-JP-01/30colorado-JP-01-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-29"
+     },
+     {
+      "headline": "Donald Trump’s Hosting of ‘S.N.L.’ Means Equal Airtime for Rivals",
+      "description": "NBC viewers in Iowa, New Hampshire and South Carolina should be prepared to see a lot of four Republican candidates over the Thanksgiving weekend.",
+      "author": "By NICK CORASANITI",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/23/us/23firstdraft-nbc/23firstdraft-nbc-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-23"
+     },
+     {
+      "headline": "Republicans Discuss Geopolitics at Thanksgiving Table in Iowa",
+      "description": "Rather than the social issues the candidates might have come ready to address before some of Iowa’s most influential conservative voters, geopolitics and the threat of terrorism intruded.",
+      "author": "By TRIP GABRIEL and MATT FLEGENHEIMER",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/21/us/21CAMPAIGN/21CAMPAIGN-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-21"
+     },
+     {
+      "headline": "Republican Candidates Chase Donald Trump’s 12 Minutes on ‘S.N.L.’",
+      "description": "Donald J. Trump was on screen for just over 12 minutes when he hosted “Saturday Night Live” this month, and the other candidates are entitled to file for “equal opportunities” with...",
+      "author": "By NICK CORASANITI",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/17/us/17firstdraftnl-snl/17firstdraftnl-snl-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-18"
+     },
+     {
+      "headline": "Ted Cruz and the Anti-Gay Pastor",
+      "description": "The religious right gets into the presidential race.",
+      "author": "By KATHERINE STEWART",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/16/opinion/16stewartWeb/16stewartWeb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-16"
+     },
+     {
+      "headline": "First Draft Focus: Summit in the Sunshine State",
+      "description": "Clockwise from top left: Senator Ted Cruz, Senator Lindsey Graham, Senator Marco Rubio and Mike Huckabee spoke Friday at the Republican Party of Florida’s Sunshine Summit in Orlando.",
+      "author": "By FIRST DRAFT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/13/us/13firstdraft-sunshine/13firstdraft-sunshine-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-13"
+     },
+     {
+      "headline": "The Flat Tax Goes Mainstream",
+      "description": "Among Republican candidates, the once-fringe idea is now downright popular — even though it’s totally unfair.",
+      "author": "By ANNA NORTH",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/12/opinion/11northWEB/11northWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-11"
+     },
+     {
+      "headline": "Chris Christie Saves All His Shots for Clinton in G.O.P. Undercard Debate",
+      "description": "At the risk of seeing his campaign slipping away, Mr. Christie projected himself as above intraparty conflict, while inviting Republicans to view him as their warrior against Hillary Clinton.",
+      "author": "By TRIP GABRIEL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/11/us/11UNDERCARD/11UNDERCARD-mediumThreeByTwo210-v2.jpg",
+      "datepublished": "2015-11-10"
+     },
+     {
+      "headline": "The Most Ridiculous Comments of the Republican Debate: Readers Weigh In",
+      "description": "Readers called out the candidates, the moderators and The New York Times in our debate survey.",
+      "author": "By ANNA NORTH",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/30/opinion/30northWEB/30northWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-30"
+     },
+     {
+      "video": "Transcript: Republican Presidential Debate The main debate on Wednesday, hosted by CNBC in Boulder, Colo., as transcribed by the Federal News Service.",
+      "headline": "Transcript: Republican Presidential Debate",
+      "description": "The main debate on Wednesday, hosted by CNBC in Boulder, Colo., as transcribed by the Federal News Service.",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/28/us/politics/jimcoloradorepubdebate-173/jimcoloradorepubdebate-173-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-28"
+     },
+     {
+      "headline": "CNBC Sets Lineups for Republican Debates Next Week",
+      "description": "CNBC has set the stages for the Republican presidential debate next Wednesday, with 10 candidates on the main card and four lower in the polls on the undercard.",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/21/us/21firstdraft-cnbc/21firstdraft-cnbc-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-21"
+     },
+     {
+      "headline": "Donald Trump Campaign Raises Specter of Boycotting Next Debate",
+      "description": "Several campaigns are unhappy with the criteria set by CNBC for the Oct. 28 Republican debate in Boulder, Colo., including the lack of opening and closing statements and, as of now, a lack...",
+      "author": "By MAGGIE HABERMAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/15/us/15firstdraft-trump/15firstdraft-trump-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-15"
+     },
+     {
+      "headline": "No Comment Necessary: Mike Huckabee’s Racist Debate Tweet",
+      "description": "By way of criticizing Bernie Sanders, Mr. Huckabee joked about a “North Korean chef” cooking dog.",
+      "author": "By THE EDITORS",
+      "datepublished": "2015-10-14"
+     },
+     {
+      "headline": "Republicans Say Hillary Clinton Got Off Easy in Debate",
+      "description": "Donald J. Trump, Jeb Bush, Marco Rubio and Mike Huckabee were among the Republican presidential candidates saying that Hillary Rodham Clinton was not challenged hard enough by her Democratic...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/14/us/14firstdraft-rebub/14firstdraft-rebub-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-14"
+     },
+     {
+      "headline": "Tax Plans of G.O.P. Favor the Rich Despite Populist Talk",
+      "description": "For all their talk of anger and angst among working-class voters, Republican candidates have shied away from economic populism.",
+      "author": "By JOHN HARWOOD",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/14/world/14Letter-web/14Letter-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-14"
+     },
+     {
+      "headline": "Ted Cruz, Outsider?",
+      "description": "Mr. Cruz is part of the most insider elite group imaginable, the United States Senate. But his campaign apparently wants to send a different message.",
+      "author": "By ANDREW ROSENTHAL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/05/opinion/5rosenthalWEB/5rosenthalWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-05"
+     },
+     {
+      "headline": "Next Republican Debate Is Likely to Have a Smaller Field",
+      "description": "The next Republican presidential debate will have stricter polling criteria for candidates to make the main debate stage, potentially winnowing the field, CNBC said Wednesday.",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/09/30/us/30firstdraft-repub/30firstdraft-repub-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-09-30"
+     },
+     {
+      "headline": "Drawing the Line Between Civil and Religious Rights",
+      "description": "The clash over marriage licenses in Kentucky teaches a valuable lesson on the dangers of elevating religious rights over civil rights.",
+      "author": "By LINDA GREENHOUSE",
+      "thumbnailurl": "http://static01.nyt.com/images/2014/11/01/opinion/greenhouse-circular/greenhouse-circular-mediumThreeByTwo210-v2.png",
+      "datepublished": "2015-09-17"
+     },
+     {
+      "headline": "How the Republicans Fared in the Second Debate",
+      "description": "For nearly three hours on Wednesday, the Republican presidential candidates sparred over policy, political tactics and, occasionally, physical appearance.",
+      "author": "By MATT FLEGENHEIMER and ASHLEY PARKER",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/09/17/us/16cand-trump2/16cand-trump2-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-09-17"
+     },
+     {
+      "headline": "First Draft Focus: The Week in Political Pictures",
+      "description": "A Labor Day parade, a rally against the Iran nuclear deal and campaign cookies in this week’s political pictures.",
+      "author": "By FIRST DRAFT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/09/11/us/politics/11firstdraft-weekinpics-slide-US9E/11firstdraft-weekinpics-slide-US9E-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-09-11"
+     },
+     {
+      "headline": "Ted Cruz and the Anti-Gay Pastor",
+      "description": "The religious right gets into the presidential race.",
+      "author": "By KATHERINE STEWART",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/16/opinion/16stewartWeb/16stewartWeb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-16"
+     },
+     {
+      "headline": "Mike Huckabee Seems to Be Going His Own Way on Social Programs",
+      "description": "As Mr. Huckabee began his campaign for president, his pledge on Social Security and Medicare put him at odds with his Republican opponents.",
+      "author": "By MAGGIE HABERMAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/05/07/us/07ENTITLEMENTS/07ENTITLEMENTS-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-05-06"
+     },
+     {
+      "headline": "Mike Huckabee Joins Republican Presidential Race",
+      "description": "The former Arkansas governor thrilled conservatives when he ran for the White House in 2008, but the competition for their vote is lot tougher this time.",
+      "author": "By TRIP GABRIEL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/05/06/us/06ANNOUNCE/06ANNOUNCE-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-05-05"
+     },
+     {
+      "headline": "Mike Huckabee Would Be a More Important Candidate Than You Might Think",
+      "description": "The former Arkansas governor may not be receiving much attention, but he can shape the Republican race.",
+      "author": "By NATE COHN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/04/18/upshot/18UP-Huckabee/18UP-Huckabee-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-04-20"
+     },
+     {
+      "headline": "Huckabee Pursues Unconventional Ways to Fund a Campaign",
+      "description": "As Mike Huckabee, the former Arkansas governor and Fox News host, seeks to win over major Republican donors, he has pursued highly unconventional income streams, including a cure for diabetes.",
+      "author": "By TRIP GABRIEL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/03/16/us/16huckabee/16huckabee-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-03-15"
+     },
+     {
+      "headline": "Politics by Restaurant Review",
+      "description": "The first entry in the 2016 presidential primary book club comes from Mike Huckabee. We read it so you don’t have to.",
+      "author": "By GAIL COLLINS",
+      "thumbnailurl": "http://static01.nyt.com/images/2014/11/01/opinion/collins-circular/collins-circular-mediumThreeByTwo210-v2.png",
+      "datepublished": "2015-02-06"
+     },
+     {
+      "headline": "Santorum Criticizes Potential G.O.P. Rivals as ‘Bomb Throwers’",
+      "description": "Rick Santorum sharply criticized potential rivals for the Republican presidential nomination, indicating he intends to reclaim conservative primary voters ahead of a new White House bid.",
+      "author": "By JONATHAN MARTIN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/01/12/us/SANTORUM/SANTORUM-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-01-11"
+     },
+     {
+      "headline": "In G.O.P., a Divide of Ideology and Age",
+      "description": "As Mike Huckabee and Jeb Bush consider seeking the Republican nomination for president, they face challenges in their party over their past departures from conservative orthodoxy.",
+      "author": "By JONATHAN MARTIN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/01/08/us/08memo3/08memo3-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-01-07"
+     },
+     {
+      "headline": "Huckabee Leaves Fox News Show to Consider 2016 Run",
+      "description": "Mr. Huckabee, a Republican, used his weekly Fox News program to reveal that he was leaving the network as he weighs a second campaign for the White House.",
+      "author": "By JONATHAN MARTIN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/01/04/us/04Huckabee/04Huckabee-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-01-03"
+     },
+     {
+      "headline": "New Hampshire Republicans Get a Preview of 2016",
+      "description": "What unfolded at the “Freedom Summit” on Saturday was a display of today’s Republican Party in all its dynamism, division and sometimes strange spectacle.",
+      "author": "By JEREMY W. PETERS",
+      "datepublished": "2014-04-12"
+     },
+     {
+      "headline": "Huckabee Spills the Beans",
+      "description": "The former Republican presidential candidate is back to talking his way into a controversy. Well, now we know what he’s been up to lately.",
+      "author": "By GAIL COLLINS",
+      "datepublished": "2014-01-24"
+     },
+     {
+      "headline": "Huckabee Criticizes Required Coverage of Birth Control",
+      "description": "Former Gov. Mike Huckabee of Arkansas minced no words in criticizing requirements that health insurance pay for birth control.",
+      "author": "By THE NEW YORK TIMES",
+      "datepublished": "2014-01-23"
+     },
+     {
+      "headline": "Huckabee, an Eye on 2016, Sees ‘a Real Opportunity’",
+      "description": "The former Arkansas governor, who won the 2008 G.O.P. caucuses in Iowa, says other candidates may not have his potential in early nominating states.",
+      "author": "By JONATHAN MARTIN",
+      "thumbnailurl": "http://static01.nyt.com/images/2013/12/14/us/huckabee/huckabee-mediumThreeByTwo210.jpg",
+      "datepublished": "2013-12-13"
+     },
+     {
+      "headline": "A Day for Chicken Sandwiches as Proxy in a Cultural Debate",
+      "description": "Wednesday was a day for the chicken-sandwich culture wars, at least in Atlanta, where Chick-fil-A got its start in 1946.",
+      "author": "By KIM SEVERSON and ROBBIE BROWN",
+      "datepublished": "2012-08-01"
+     },
+     {
+      "headline": "Mike Huckabee Likes Romney. Really.",
+      "description": "But he feels out of step with the G.O.P.",
+      "author": "Interview by ANDREW GOLDMAN",
+      "datepublished": "2012-07-06"
+     },
+     {
+      "headline": "New Huckabee Radio Show Could Vie With Limbaugh",
+      "description": "Rush Limbaugh will soon have a new radio rival: Mike Huckabee, who will be running a radio show from noon to 3 p.m. for Cumulus Media Networks.",
+      "author": "By BRIAN STELTER",
+      "datepublished": "2012-02-08"
+     },
+     {
+      "headline": "Huckabee Gets Star Treatment on Return to Iowa",
+      "description": "Four years after his big victory in the Iowa caucuses, Mike Huckabee, who isn’t running for president this year, is still a huge favorite among evangelical conservatives in the state.",
+      "author": "By JEREMY W. PETERS",
+      "datepublished": "2011-12-15"
+     },
+     {
+      "headline": "Searching for Answers and Comfort After Killings at Planned Parenthood",
+      "description": "The governor of Colorado and other national leaders condemned Friday’s attack as a form of terrorism in discussions on the factors behind such frequent shootings.",
+      "author": "By DAVE PHILIPPS and JACK HEALY",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/30/us/30colorado-JP-01/30colorado-JP-01-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-29"
+     },
+     {
+      "headline": "Donald Trump’s Hosting of ‘S.N.L.’ Means Equal Airtime for Rivals",
+      "description": "NBC viewers in Iowa, New Hampshire and South Carolina should be prepared to see a lot of four Republican candidates over the Thanksgiving weekend.",
+      "author": "By NICK CORASANITI",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/23/us/23firstdraft-nbc/23firstdraft-nbc-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-23"
+     },
+     {
+      "headline": "Republicans Discuss Geopolitics at Thanksgiving Table in Iowa",
+      "description": "Rather than the social issues the candidates might have come ready to address before some of Iowa’s most influential conservative voters, geopolitics and the threat of terrorism intruded.",
+      "author": "By TRIP GABRIEL and MATT FLEGENHEIMER",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/21/us/21CAMPAIGN/21CAMPAIGN-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-21"
+     },
+     {
+      "headline": "Republican Candidates Chase Donald Trump’s 12 Minutes on ‘S.N.L.’",
+      "description": "Donald J. Trump was on screen for just over 12 minutes when he hosted “Saturday Night Live” this month, and the other candidates are entitled to file for “equal opportunities” with...",
+      "author": "By NICK CORASANITI",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/17/us/17firstdraftnl-snl/17firstdraftnl-snl-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-18"
+     },
+     {
+      "headline": "Ted Cruz and the Anti-Gay Pastor",
+      "description": "The religious right gets into the presidential race.",
+      "author": "By KATHERINE STEWART",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/16/opinion/16stewartWeb/16stewartWeb-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-16"
+     },
+     {
+      "headline": "First Draft Focus: Summit in the Sunshine State",
+      "description": "Clockwise from top left: Senator Ted Cruz, Senator Lindsey Graham, Senator Marco Rubio and Mike Huckabee spoke Friday at the Republican Party of Florida’s Sunshine Summit in Orlando.",
+      "author": "By FIRST DRAFT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/13/us/13firstdraft-sunshine/13firstdraft-sunshine-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-13"
+     },
+     {
+      "headline": "The Flat Tax Goes Mainstream",
+      "description": "Among Republican candidates, the once-fringe idea is now downright popular — even though it’s totally unfair.",
+      "author": "By ANNA NORTH",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/12/opinion/11northWEB/11northWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-11-11"
+     },
+     {
+      "headline": "Chris Christie Saves All His Shots for Clinton in G.O.P. Undercard Debate",
+      "description": "At the risk of seeing his campaign slipping away, Mr. Christie projected himself as above intraparty conflict, while inviting Republicans to view him as their warrior against Hillary Clinton.",
+      "author": "By TRIP GABRIEL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/11/11/us/11UNDERCARD/11UNDERCARD-mediumThreeByTwo210-v2.jpg",
+      "datepublished": "2015-11-10"
+     },
+     {
+      "headline": "The Most Ridiculous Comments of the Republican Debate: Readers Weigh In",
+      "description": "Readers called out the candidates, the moderators and The New York Times in our debate survey.",
+      "author": "By ANNA NORTH",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/30/opinion/30northWEB/30northWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-30"
+     },
+     {
+      "video": "Transcript: Republican Presidential Debate The main debate on Wednesday, hosted by CNBC in Boulder, Colo., as transcribed by the Federal News Service.",
+      "headline": "Transcript: Republican Presidential Debate",
+      "description": "The main debate on Wednesday, hosted by CNBC in Boulder, Colo., as transcribed by the Federal News Service.",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/28/us/politics/jimcoloradorepubdebate-173/jimcoloradorepubdebate-173-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-28"
+     },
+     {
+      "headline": "CNBC Sets Lineups for Republican Debates Next Week",
+      "description": "CNBC has set the stages for the Republican presidential debate next Wednesday, with 10 candidates on the main card and four lower in the polls on the undercard.",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/21/us/21firstdraft-cnbc/21firstdraft-cnbc-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-21"
+     },
+     {
+      "headline": "Donald Trump Campaign Raises Specter of Boycotting Next Debate",
+      "description": "Several campaigns are unhappy with the criteria set by CNBC for the Oct. 28 Republican debate in Boulder, Colo., including the lack of opening and closing statements and, as of now, a lack...",
+      "author": "By MAGGIE HABERMAN",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/15/us/15firstdraft-trump/15firstdraft-trump-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-15"
+     },
+     {
+      "headline": "No Comment Necessary: Mike Huckabee’s Racist Debate Tweet",
+      "description": "By way of criticizing Bernie Sanders, Mr. Huckabee joked about a “North Korean chef” cooking dog.",
+      "author": "By THE EDITORS",
+      "datepublished": "2015-10-14"
+     },
+     {
+      "headline": "Republicans Say Hillary Clinton Got Off Easy in Debate",
+      "description": "Donald J. Trump, Jeb Bush, Marco Rubio and Mike Huckabee were among the Republican presidential candidates saying that Hillary Rodham Clinton was not challenged hard enough by her Democratic...",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/14/us/14firstdraft-rebub/14firstdraft-rebub-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-14"
+     },
+     {
+      "headline": "Tax Plans of G.O.P. Favor the Rich Despite Populist Talk",
+      "description": "For all their talk of anger and angst among working-class voters, Republican candidates have shied away from economic populism.",
+      "author": "By JOHN HARWOOD",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/14/world/14Letter-web/14Letter-web-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-14"
+     },
+     {
+      "headline": "Ted Cruz, Outsider?",
+      "description": "Mr. Cruz is part of the most insider elite group imaginable, the United States Senate. But his campaign apparently wants to send a different message.",
+      "author": "By ANDREW ROSENTHAL",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/10/05/opinion/5rosenthalWEB/5rosenthalWEB-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-10-05"
+     },
+     {
+      "headline": "Next Republican Debate Is Likely to Have a Smaller Field",
+      "description": "The next Republican presidential debate will have stricter polling criteria for candidates to make the main debate stage, potentially winnowing the field, CNBC said Wednesday.",
+      "author": "By ALAN RAPPEPORT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/09/30/us/30firstdraft-repub/30firstdraft-repub-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-09-30"
+     },
+     {
+      "headline": "Drawing the Line Between Civil and Religious Rights",
+      "description": "The clash over marriage licenses in Kentucky teaches a valuable lesson on the dangers of elevating religious rights over civil rights.",
+      "author": "By LINDA GREENHOUSE",
+      "thumbnailurl": "http://static01.nyt.com/images/2014/11/01/opinion/greenhouse-circular/greenhouse-circular-mediumThreeByTwo210-v2.png",
+      "datepublished": "2015-09-17"
+     },
+     {
+      "headline": "How the Republicans Fared in the Second Debate",
+      "description": "For nearly three hours on Wednesday, the Republican presidential candidates sparred over policy, political tactics and, occasionally, physical appearance.",
+      "author": "By MATT FLEGENHEIMER and ASHLEY PARKER",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/09/17/us/16cand-trump2/16cand-trump2-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-09-17"
+     },
+     {
+      "headline": "First Draft Focus: The Week in Political Pictures",
+      "description": "A Labor Day parade, a rally against the Iran nuclear deal and campaign cookies in this week’s political pictures.",
+      "author": "By FIRST DRAFT",
+      "thumbnailurl": "http://static01.nyt.com/images/2015/09/11/us/politics/11firstdraft-weekinpics-slide-US9E/11firstdraft-weekinpics-slide-US9E-mediumThreeByTwo210.jpg",
+      "datepublished": "2015-09-11"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "sourceapp": "nyt-v5",
+      "applicationname": "collection",
+      "nyt-collection:identifier": "Huckabee, Mike",
+      "cn": "Huckabee, Mike",
+      "nyt-collection:type": "timestopic",
+      "ct": "timestopic",
+      "nyt-collection:display-name": "Mike Huckabee",
+      "nyt-collection:tagline": "News about Mike Huckabee, including commentary and archival articles published in The New York Times.",
+      "pt": "collection",
+      "asset_id": "1124991186418",
+      "slug": "Huckabee, Mike",
+      "og:description": "News about Mike Huckabee. Commentary and archival information about Mike Huckabee from The New York Times.",
+      "og:title": "Mike Huckabee",
+      "twitter:title": "Mike Huckabee",
+      "news_keywords": "U.S.",
+      "og:image": "http://static01.nyt.com/images/icons/t_logo_291_black.png",
+      "twitter:image": "http://static01.nyt.com/images/icons/t_logo_291_black.png",
+      "collection:section": "politics",
+      "collection:parentsection": "us",
+      "nyt-collection:url": "http://www.nytimes.com/topic/person/mike-huckabee",
+      "nyt-collection:uri": "/topic/person/mike-huckabee",
+      "og:url": "http://www.nytimes.com/topic/person/mike-huckabee",
+      "twitter:url": "http://www.nytimes.com/topic/person/mike-huckabee",
+      "og:type": "article",
+      "fb:app_id": "9869919170",
+      "dfp-ad-unit-path": "us/huckabeemike/topic",
+      "collection:language": "en",
+      "wt.z_rcgn": "General",
+      "wt.z_cad": "0"
+     }
+    ],
+    "collectionpage": [
+     {
+      "name": "Mike Huckabee",
+      "about": "News about Mike Huckabee, including commentary and archival articles published in The New York Times.",
+      "datepublished": "2015-09-08"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Free Kim Davis Now - Mike Huckabee for President",
+   "htmlTitle": "Free Kim Davis Now - \u003cb\u003eMike Huckabee\u003c/b\u003e for President",
+   "link": "http://www.mikehuckabee.com/freekimdavis",
+   "displayLink": "www.mikehuckabee.com",
+   "snippet": "Exercising Religious Liberty should never be a crime in America. This is a direct \nattack on our God-given, constitutional rights. Sincerely,. Mike Huckabee.",
+   "htmlSnippet": "Exercising Religious Liberty should never be a crime in America. This is a direct \u003cbr\u003e\nattack on our God-given, constitutional rights. Sincerely,. \u003cb\u003eMike Huckabee\u003c/b\u003e.",
+   "cacheId": "GV1ogbS6S9kJ",
+   "formattedUrl": "www.mikehuckabee.com/freekimdavis",
+   "htmlFormattedUrl": "www.\u003cb\u003emikehuckabee\u003c/b\u003e.com/freekimdavis",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mikehuckabee.com/?a=Files.Image&Image_id=FBB48B27-34FE-45DB-B515-F81767974269&ImageSize=PhotoGallery"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "162",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoLaFDnPhvKCbML_WPfKpZncB2LATez6f0J30XYh_YmXPToxEd-falNYE"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:site_name": "Mike Huckabee for President",
+      "og:type": "website",
+      "og:image": "http://www.mikehuckabee.com/?a=Files.Image&Image_id=FBB48B27-34FE-45DB-B515-F81767974269&ImageSize=PhotoGallery",
+      "og:url": "http://www.mikehuckabee.com/freekimdavis"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee On Letting In Refugees: 'It's Time To Wake Up And ...",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e On Letting In Refugees: &#39;It&#39;s Time To Wake Up And \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.huffingtonpost.com/entry/mike-huckabee-refugees-falafel_564a41b5e4b06037734a5470",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "Nov 16, 2015 ... Former governor of Arkansas and current presidential hopeful Mike Huckabee \nresponded to Friday night's terrorist attacks in Paris by saying on ...",
+   "htmlSnippet": "Nov 16, 2015 \u003cb\u003e...\u003c/b\u003e Former governor of Arkansas and current presidential hopeful \u003cb\u003eMike Huckabee\u003c/b\u003e \u003cbr\u003e\nresponded to Friday night&#39;s terrorist attacks in Paris by saying on&nbsp;...",
+   "cacheId": "nHhqsP9uspkJ",
+   "formattedUrl": "www.huffingtonpost.com/.../mike-huckabee-refugees-falafel_ 564a41b5e4b06037734a5470",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../\u003cb\u003emike\u003c/b\u003e-\u003cb\u003ehuckabee\u003c/b\u003e-refugees-falafel_ 564a41b5e4b06037734a5470",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.huffingtonpost.com/asset/1200_630/564a4aeb1600002d0026d7b2.jpeg?cache=lnsplmfptf"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTd8HteEUJ73LX0leQ0klRVu8dRnFcxuUIq5nMXaxQ5XAcWsUYq7nUx_wM"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "fb:app_id": "46744042133",
+      "og:title": "Mike Huckabee On Refugees: ‘Wake Up And Smell The Falafel'",
+      "og:type": "article",
+      "og:image": "http://img.huffingtonpost.com/asset/1200_630/564a4aeb1600002d0026d7b2.jpeg?cache=lnsplmfptf",
+      "og:url": "http://www.huffingtonpost.com/entry/mike-huckabee-refugees-falafel_564a41b5e4b06037734a5470",
+      "og:site_name": "The Huffington Post",
+      "og:description": "Yes, he really said that.",
+      "og:locale": "en_US",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@HuffPostPol",
+      "twitter:title": "Mike Huckabee On Refugees: ‘Wake Up And Smell The Falafel'",
+      "twitter:description": "Yes, he really said that.",
+      "twitter:image": "http://img.huffingtonpost.com/asset/1200_630/564a4aeb1600002d0026d7b2.jpeg?cache=lnsplmfptf",
+      "sailthru.date": "2015-11-16 18:03:50 -0500",
+      "sailthru.expire_date": "2015-11-17 18:03:50 -0500"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee: Iran Nuclear Deal Will Lead Israelis to 'Door of the ...",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e: Iran Nuclear Deal Will Lead Israelis to &#39;Door of the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nbcnews.com/storyline/iran-nuclear-talks/mike-huckabee-iran-deal-will-lead-israelis-door-oven-n398816",
+   "displayLink": "www.nbcnews.com",
+   "snippet": "Jul 27, 2015 ... Presidential candidate Mike Huckabee called the Iran deal \"idiotic,\" and likened it \nto events of the Holocaust.",
+   "htmlSnippet": "Jul 27, 2015 \u003cb\u003e...\u003c/b\u003e Presidential candidate \u003cb\u003eMike Huckabee\u003c/b\u003e called the Iran deal &quot;idiotic,&quot; and likened it \u003cbr\u003e\nto events of the Holocaust.",
+   "cacheId": "hcCnxcCfaR4J",
+   "formattedUrl": "www.nbcnews.com/.../mike-huckabee-iran-deal-will-lead-israelis-door-oven- n398816",
+   "htmlFormattedUrl": "www.nbcnews.com/.../\u003cb\u003emike\u003c/b\u003e-\u003cb\u003ehuckabee\u003c/b\u003e-iran-deal-will-lead-israelis-door-oven- n398816",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media3.s-nbcnews.com/j/newscms/2015_31/1141431/150727-mike-huckabee-jpo-514a_d9ae36908413bde201ac109734a0bcee.nbcnews-fp-1200-800.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTa_DByoOkjylISMguJmSGcXjsM9Is3ijj7mFIvU2Rf-QCDAMN3XIxUruD-"
+     }
+    ],
+    "newsarticle": [
+     {
+      "thumbnailurl": "http://media3.s-nbcnews.com/j/newscms/2015_31/1141431/150727-mike-huckabee-jpo-514a_d9ae36908413bde201ac109734a0bcee.nbcnews-fp-1200-800.jpg",
+      "image": "http://media3.s-nbcnews.com/j/newscms/2015_31/1141431/150727-mike-huckabee-jpo-514a_d9ae36908413bde201ac109734a0bcee.nbcnews-fp-1200-800.jpg",
+      "description": "Presidential candidate Mike Huckabee called the Iran deal \"idiotic,\" and likened it to events of the Holocaust.",
+      "articlesection": "Politics",
+      "datemodified": "2015-10-30T16:33:28.000Z",
+      "headline": "Mike Huckabee: Iran Nuclear Deal Will Lead Israelis to 'Door of the Oven'",
+      "author": "Anna Brand",
+      "articlebody": "(0:34) advertisementadvertisement \\${title} Text Display Font Default Arial Arial Black Courier Georgia Impact Lucida Sans Palatino Tahoma Times New Roman Size Default Tiny Small Medium Large...",
+      "datepublished": "2015-07-27T09:38:48.000Z"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "fb:app_id": "10150138890205613",
+      "og:site_name": "NBC News",
+      "og:description": "Presidential candidate Mike Huckabee called the Iran deal \"idiotic,\" and likened it to events of the Holocaust.",
+      "og:title": "Iran Deal Puts Israelis at 'Door of the Oven,' Mike Huckabee Says",
+      "og:url": "http://www.nbcnews.com/storyline/iran-nuclear-talks/mike-huckabee-iran-deal-will-lead-israelis-door-oven-n398816",
+      "og:type": "article",
+      "og:image": "http://media3.s-nbcnews.com/j/newscms/2015_31/1141431/150727-mike-huckabee-jpo-514a_d9ae36908413bde201ac109734a0bcee.nbcnews-fp-1200-800.jpg",
+      "twitter:card": "summary",
+      "twitter:site": "NBCNews",
+      "twitter:title": "Mike Huckabee: Iran Nuclear Deal Will Lead Israelis to 'Door of the Oven' - NBC News",
+      "twitter:description": "Presidential candidate Mike Huckabee called the Iran deal \"idiotic,\" and likened it to events of the Holocaust.",
+      "twitter:creator": "NBCNews",
+      "twitter:domain": "NBCNews.com",
+      "twitter:image:src": "http://media3.s-nbcnews.com/j/newscms/2015_31/1141431/150727-mike-huckabee-jpo-514a_d9ae36908413bde201ac109734a0bcee.nbcnews-fp-1200-800.jpg",
+      "apple-itunes-app": "app-id=319740707, app-argument=http://www.nbcnews.com/storyline/iran-nuclear-talks/mike-huckabee-iran-deal-will-lead-israelis-door-oven-n398816",
+      "news_keywords": "mike huckabee, 2016, iran, republican, GOP, barack obama,Politics,2016 Election,Mideast,Politics News,White House,World",
+      "article:author": "https://www.facebook.com/NBCNews",
+      "dc.date.issued": "2015-10-30",
+      "blitz": "mu-e1e842c9-946002e6-ea8f0454-41b29546"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee's file | PolitiFact",
+   "htmlTitle": "\u003cb\u003eMike Huckabee&#39;s\u003c/b\u003e file | PolitiFact",
+   "link": "http://www.politifact.com/personalities/mike-huckabee/",
+   "displayLink": "www.politifact.com",
+   "snippet": "Mike Huckabee is running for the Republican nomination for president in 2016. \nHe is a former governor of Arkansas; he also sought the Republican presidential\n ...",
+   "htmlSnippet": "\u003cb\u003eMike Huckabee\u003c/b\u003e is running for the Republican nomination for president in 2016. \u003cbr\u003e\nHe is a former governor of Arkansas; he also sought the Republican presidential\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "9BeCr_dNrZcJ",
+   "formattedUrl": "www.politifact.com/personalities/mike-huckabee/",
+   "htmlFormattedUrl": "www.politifact.com/personalities/\u003cb\u003emike\u003c/b\u003e-\u003cb\u003ehuckabee\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.politifact.com.s3.amazonaws.com/politifact%2Fmugs%2FMike_Huckabee.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "74",
+      "height": "74",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPEC7Lqzi7CIquIvqIGSCFWpYttEiGDHDcs3YOfCXZnLxXNAeEh9p8sA"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Huckabee On Transgender People: I Wish I Could've Said I Was ...",
+   "htmlTitle": "\u003cb\u003eHuckabee\u003c/b\u003e On Transgender People: I Wish I Could&#39;ve Said I Was \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.buzzfeed.com/meganapper/huckabee-on-transgender-people-i-wish-i-couldve-said-i-was-t",
+   "displayLink": "www.buzzfeed.com",
+   "snippet": "Jun 2, 2015 ... Mike Huckabee joked earlier in the year he wished he could have pretended to \nbe transgender in high school “when it came time to take ...",
+   "htmlSnippet": "Jun 2, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMike Huckabee\u003c/b\u003e joked earlier in the year he wished he could have pretended to \u003cbr\u003e\nbe transgender in high school “when it came time to take&nbsp;...",
+   "cacheId": "h0LQsWBRgUMJ",
+   "formattedUrl": "www.buzzfeed.com/.../huckabee-on-transgender-people-i-wish-i-couldve- said-i-was-t",
+   "htmlFormattedUrl": "www.buzzfeed.com/.../\u003cb\u003ehuckabee\u003c/b\u003e-on-transgender-people-i-wish-i-couldve- said-i-was-t",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s3-static-ak.buzzfed.com/static/2015-06/2/16/campaign_images/webdr08/huckabee-on-transgender-people-i-wish-i-couldve-s-2-18820-1433275592-17_dblbig.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPLhS2n0TxgWCQ6cII6aWwvLPwI7R8tKlpOAAVVZD3VL1gAHJbDtupJJRg"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright 2015 BuzzFeed, Inc. All rights reserved.",
+      "bf:buzzid": "3795202",
+      "bf:userid": "2388158",
+      "author": "Megan Apper, Andrew Kaczynski",
+      "news_keywords": "Huckabee, transgender",
+      "sailthru.tags": "Huckabee, transgender",
+      "apple-itunes-app": "app-id=352969997, affiliate-data=at=10l3HP&ct=Buzz/SmartBanner, app-argument=buzzfeed://buzz/meganapper/huckabee-on-transgender-people-i-wish-i-couldve-said-i-was-t",
+      "google-signin-clientid": "895639880237-tcoheof19odpd88p676rjc70v0iqit0o.apps.googleusercontent.com",
+      "google-signin-cookiepolicy": "single_host_origin",
+      "google-signin-requestvisibleactions": "https://schemas.google.com/AddActivity",
+      "google-signin-scope": "https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read",
+      "fb:app_id": "45075597673",
+      "og:site_name": "BuzzFeed",
+      "title": "Huckabee On Transgender People: I Wish I Could've Said I Was Transgender In HS To Shower With The Girls",
+      "og:title": "Huckabee On Transgender People: I Wish I Could've Said I Was Transgender In HS To Shower With The Girls",
+      "og:description": "\"There is something inherently wrong about forcing little children to be a part of this social experiment.\"",
+      "og:url": "http://www.buzzfeed.com/meganapper/huckabee-on-transgender-people-i-wish-i-couldve-said-i-was-t",
+      "article:author": "http://facebook.com/BuzzFeedAndrew",
+      "twitter:creator": "@MeganApper",
+      "article:tag": "transgender",
+      "article:section": "Politics",
+      "article:publisher": "https://www.facebook.com/BuzzFeed",
+      "og:image": "http://s3-static-ak.buzzfed.com/static/2015-06/2/16/campaign_images/webdr08/huckabee-on-transgender-people-i-wish-i-couldve-s-2-18820-1433275592-17_dblbig.jpg",
+      "og:image:width": "625",
+      "og:image:height": "415",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Huckabee On Transgender People: I Wish I Could've Said I Was Transgender In HS To Shower With The Girls",
+      "twitter:description": "\"There is something inherently wrong about forcing little children to be a part of this social experiment.\"",
+      "twitter:image": "http://s3-static-ak.buzzfed.com/static/2015-06/2/16/campaign_images/webdr08/huckabee-on-transgender-people-i-wish-i-couldve-s-2-18820-1433275592-17_big.jpg",
+      "twitter:site": "@buzzfeednews",
+      "twitter:url": "http://www.buzzfeed.com/meganapper/huckabee-on-transgender-people-i-wish-i-couldve-said-i-was-t",
+      "twitter:app:id:iphone": "981609476",
+      "twitter:app:url:iphone": "buzzfeed://buzz/meganapper/huckabee-on-transgender-people-i-wish-i-couldve-said-i-was-t",
+      "twitter:app:id:ipad": "981609476",
+      "twitter:app:url:ipad": "buzzfeed://buzz/meganapper/huckabee-on-transgender-people-i-wish-i-couldve-said-i-was-t",
+      "twitter:app:id:googleplay": "com.buzzfeed.android",
+      "twitter:app:url:googleplay": "http://www.buzzfeed.com/meganapper/huckabee-on-transgender-people-i-wish-i-couldve-said-i-was-t"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee Supports Denying Abortion to 10-Year-Old Rape ...",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e Supports Denying Abortion to 10-Year-Old Rape \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://time.com/3999799/mike-huckabee-abortion-rape/",
+   "displayLink": "time.com",
+   "snippet": "Aug 16, 2015 ... GOP presidential candidate and former Arkansas Governor Mike Huckabee said \nthat he supports the decision to deny an abortion to a ...",
+   "htmlSnippet": "Aug 16, 2015 \u003cb\u003e...\u003c/b\u003e GOP presidential candidate and former Arkansas Governor \u003cb\u003eMike Huckabee\u003c/b\u003e said \u003cbr\u003e\nthat he supports the decision to deny an abortion to a&nbsp;...",
+   "cacheId": "JgaCYEAC40AJ",
+   "formattedUrl": "time.com/3999799/mike-huckabee-abortion-rape/",
+   "htmlFormattedUrl": "time.com/3999799/\u003cb\u003emike\u003c/b\u003e-\u003cb\u003ehuckabee\u003c/b\u003e-abortion-rape/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://timedotcom.files.wordpress.com/2015/08/mike-huckabee.jpg?quality=75&strip=color&w=1012"
+     }
+    ],
+    "organization": [
+     {
+      "url": "Time.com"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPbAsvGaiDkf9hc34FoS5mAKDiG0T_YFzvlkrh_r8J6UGiQXy-cFMz8DFF"
+     }
+    ],
+    "article": [
+     {
+      "articlesection": "Politics",
+      "headline": "Mike Huckabee Supports Denying Abortion to 10-Year-Old Rape Victim",
+      "author": "Justin Worland",
+      "datepublished": "2015-08-16 16:48:47",
+      "articlebody": "The Paraguayan girl was raped by her stepfather GOP presidential candidate and former Arkansas Governor Mike Huckabee said that he supports the decision to deny an abortion to a 10-year-old...",
+      "alternativeheadline": "The Paraguayan girl was raped by her stepfather"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,minimum-scale=1.0,maximum-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "msapplication-tilecolor": "#FFFFFF",
+      "msapplication-tileimage": "https://s0.wp.com/wp-content/themes/vip/time2014/img/time-touch_icon_152.png",
+      "news_keywords": "Mike Huckabee, abortion, rape, Paraguay, election, republicans",
+      "p:domain_verify": "f48a8936c3fffc943fce516f2e3ff1d2",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "TIME",
+      "twitter:title": "Huckabee Supports Abortion Ban for 10-Year-Old Rape Victim",
+      "twitter:description": "The 10-year-old girl was raped by her stepfather.",
+      "twitter:image:src": "https://timedotcom.files.wordpress.com/2015/08/mike-huckabee.jpg?quality=75&strip=color&w=1012",
+      "fb:app_id": "53177223193",
+      "og:type": "article",
+      "og:url": "http://time.com/3999799/mike-huckabee-abortion-rape/",
+      "og:site_name": "TIME.com",
+      "og:image": "https://timedotcom.files.wordpress.com/2015/08/mike-huckabee.jpg?quality=75&strip=color&w=1012",
+      "og:description": "The 10-year-old girl was raped by her stepfather.",
+      "og:title": "Huckabee Supports Abortion Ban for 10-Year-Old Rape Victim",
+      "article:publisher": "https://www.facebook.com/time",
+      "application-name": "TIME",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "Current & Breaking News | National & World Updates",
+      "msapplication-task": "name=Subscribe;action-uri=http://time.com/feed/;icon-uri=http://0.gravatar.com/blavatar/2663fa8912699ba9dd3ac8275001a930?s=16"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Huckabee, Republican presidential candidate, won't rule out ...",
+   "htmlTitle": "\u003cb\u003eMike Huckabee\u003c/b\u003e, Republican presidential candidate, won&#39;t rule out \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://cjonline.com/news/2015-07-31/mike-huckabee-republican-presidential-candidate-wont-rule-out-employing-us-troops",
+   "displayLink": "cjonline.com",
+   "snippet": "Jul 31, 2015 ... Republican presidential candidate Mike Huckabee indicated Thursday that if \nelected, he wouldn't rule out employing federal troops or the ...",
+   "htmlSnippet": "Jul 31, 2015 \u003cb\u003e...\u003c/b\u003e Republican presidential candidate \u003cb\u003eMike Huckabee\u003c/b\u003e indicated Thursday that if \u003cbr\u003e\nelected, he wouldn&#39;t rule out employing federal troops or the&nbsp;...",
+   "cacheId": "ULq_MhJGN8kJ",
+   "formattedUrl": "cjonline.com/.../mike-huckabee-republican-presidential-candidate-wont-rule- out-employing-us-troops",
+   "htmlFormattedUrl": "cjonline.com/.../\u003cb\u003emike\u003c/b\u003e-\u003cb\u003ehuckabee\u003c/b\u003e-republican-presidential-candidate-wont-rule- out-employing-us-troops",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cjonline.com/sites/default/files/14604672.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPDuvbUBfxweSpXs0CpKc6IJquIOgqBK8BN02m3DWp6lpYJwoMfVs6W6o"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Mike Huckabee, Republican presidential candidate, won't rule out employing U.S. troops, FBI to stop abortion",
+      "og:type": "article",
+      "og:url": "http://cjonline.com/news/2015-07-31/mike-huckabee-republican-presidential-candidate-wont-rule-out-employing-us-troops",
+      "og:site_name": "CJOnline.com",
+      "og:description": "Republican presidential candidate Mike Huckabee indicated Thursday that if elected, he wouldn't rule out employing federal troops or the Federal Bureau of Investigation to stop abortion from taking place in the United States.   Though the U.S.",
+      "og:image": "http://cjonline.com/sites/default/files/14604672.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}
