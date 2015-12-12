@@ -25816,3 +25816,5 @@ File written: data/rep+debate_url_2015-12-12_09-02-38 append=true
 556123251 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
 556151781 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
 556177260 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556206614 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556230741 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
