@@ -1,6 +1,7 @@
 /dist/
 /build/
 /nbproject/
+nbproject/private/private.xml
 /build/classes/googlebias
 /instructions.txt
 /data

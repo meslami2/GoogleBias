@@ -50,7 +50,7 @@ public class QueryScheduler {
         Trigger trigger = newTrigger().withIdentity("trigger1", "group1").
                 startNow().
                 withSchedule(
-                        simpleSchedule().withIntervalInSeconds(1200)
+                        simpleSchedule().withIntervalInSeconds(600)
                         .repeatForever()).build();
 
         // Tell quartz to schedule the job using our trigger
