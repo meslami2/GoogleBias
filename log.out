@@ -25818,3 +25818,46 @@ File written: data/rep+debate_url_2015-12-12_09-02-38 append=true
 556177260 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
 556206614 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
 556230741 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556260193 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556283196 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556308227 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556331757 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556354961 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556381060 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556405733 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556435511 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556462913 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556492658 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556517265 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556544115 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556568523 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556591671 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556618684 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556642645 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556671195 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556694583 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556721741 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556748066 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556773652 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 1 triggers
+556800038 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.simpl.PropertySettingJobFactory  - Producing instance of Job 'group1.job1', class=googlebias.GoogleBias
+556800038 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556800039 [DefaultQuartzScheduler_Worker-5] DEBUG org.quartz.core.JobRunShell  - Calling execute on job group1.job1
+File written: data/democratic+debate_2015-12-12_09-22-34 append=true
+File written: data/democratic+debate_url_2015-12-12_09-22-34 append=true
+File written: data/dem+debate_2015-12-12_09-22-35 append=true
+File written: data/dem+debate_url_2015-12-12_09-22-35 append=true
+File written: data/republican+debate_2015-12-12_09-22-37 append=true
+File written: data/republican+debate_url_2015-12-12_09-22-37 append=true
+File written: data/rep+debate_2015-12-12_09-22-38 append=true
+File written: data/rep+debate_url_2015-12-12_09-22-38 append=true
+556829861 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556854593 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556884465 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556909968 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556939928 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556967791 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+556996726 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+557022707 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+557049123 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+557074106 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
+557103646 [DefaultQuartzScheduler_QuartzSchedulerThread] DEBUG org.quartz.core.QuartzSchedulerThread  - batch acquisition of 0 triggers
