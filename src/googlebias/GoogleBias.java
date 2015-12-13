@@ -25,11 +25,13 @@ import org.quartz.JobExecutionException;
  *
  * @author Motahhare
  */
-public class GoogleBias implements Job{
+public class GoogleBias implements Job {
 
     /**
      * @param args the command line arguments
      */
+    final static String root_dir = "/NS/twitter-7/work/meslamim/projects/GoogleBias/data/";
+
     public static void search(String query, int numberOfPages) {
 
         try {
@@ -84,8 +86,8 @@ public class GoogleBias implements Job{
             }
 
             String currentTime = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(Calendar.getInstance().getTime());
-            String dataFile = "data/" + query + "_" + currentTime;
-            String urlFile = "data/" + query + "_url_" + currentTime;
+            String dataFile = root_dir + query + "_" + currentTime;
+            String urlFile = root_dir + query + "_url_" + currentTime;
             IOUtils.writeDataIntoFile(result, dataFile);
             IOUtils.writeDataIntoFile(urls, urlFile);
 
@@ -101,21 +103,20 @@ public class GoogleBias implements Job{
     }
 
     public void execute(JobExecutionContext context)
-        throws JobExecutionException {
-        
-   
+            throws JobExecutionException {
+
         List<String> listofQueries = new ArrayList<>();
-        
+
         listofQueries.add("democratic debate");
         listofQueries.add("dem debate");
         listofQueries.add("republican debate");
         listofQueries.add("rep debate");
         listofQueries.add("democratic debate");
-        
+
         listofQueries.add("Bernie Sanders");
         listofQueries.add("Martin O'Malley");
         listofQueries.add("Hillary Clinton");
-          
+
         listofQueries.add("Jeb Bush");
         listofQueries.add("Ben Carson");
         listofQueries.add("Chris Christie");
@@ -130,7 +131,7 @@ public class GoogleBias implements Job{
         listofQueries.add("Marco Rubio");
         listofQueries.add("Rick Santorum");
         listofQueries.add("Donald Trump");
-        
+
         for (int i = 0; i < listofQueries.size(); i++) {
             search(listofQueries.get(i), 2);
         }
