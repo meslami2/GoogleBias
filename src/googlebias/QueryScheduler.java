@@ -34,6 +34,10 @@ import static org.quartz.JobBuilder.newJob;
  *
  * @author Bill Kratzer
  */
+//You Know What?! Use cron for the next time! Much easier!
+//@author: Moti
+
+/*
 public class QueryScheduler {
 
     public void run() throws Exception {
@@ -67,12 +71,8 @@ public class QueryScheduler {
         BasicConfigurator.configure();
         querySched.run();
         
-         /*Calendar cal = Calendar.getInstance();
-       // cal.setTime(date);
-       // cal.add(Calendar.MINUTE, 5);
-        Date newDate = cal.getTime();
-        System.out.println(newDate.toString());*/
 
     }
 
 }
+*/

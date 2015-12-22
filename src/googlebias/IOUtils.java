@@ -30,7 +30,6 @@ public class IOUtils {
     }
 
     public static void writeDataIntoFile(String content, String filepath, boolean append) {
-        System.out.println("File written: " + filepath + " append=" + append);
         FileWriter fw = null;
         try {
             File file = new File(filepath);
@@ -38,6 +37,8 @@ public class IOUtils {
             fw = new FileWriter(file, append);
             BufferedWriter bw = new BufferedWriter(fw);
             bw.write(content);
+            System.out.println("File written: " + filepath + " append=" + append);
+
             bw.close();
             fw.close();
         } catch (IOException ex) {
