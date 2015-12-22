@@ -7,6 +7,7 @@ package googlebias;
 
 import java.util.*;
 import java.io.*;
+import static java.lang.Thread.sleep;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.ProtocolException;
@@ -25,18 +26,37 @@ import org.quartz.JobExecutionException;
  *
  * @author Motahhare
  */
-public class GoogleBias implements Job{
+public class GoogleBias {// implements Job {
 
     /**
      * @param args the command line arguments
      */
-    public static void search(String query, int numberOfPages) {
+    String projectPath;
+    String APIkey;
+    String SearchEngineID;
+    int numberOfPages;
+    List<String> listofQueries;
+
+    public GoogleBias(String projectPath) {
+        this.projectPath = projectPath;
+        String fileName = "init.txt";
+
+        List<String> params = IOUtils.readFileLineByLine(projectPath + "/" + fileName, false);
+        this.APIkey = params.get(0);
+        this.SearchEngineID = params.get(1);
+        this.numberOfPages = Integer.parseInt(params.get(2));
+
+        listofQueries = new ArrayList<>();
+        for (int i = 3; i < params.size(); i++) {
+            listofQueries.add(params.get(i));
+        }
+
+    }
+
+    public void search(String query) {
 
         try {
 
-            // Setting up the google API URL
-            String APIkey = "AIzaSyBjuuChi0hV1B8WR9Jlu8_IaY3Am7cLLLI";
-            String SearchEngineID = "010165319554274961907:fpaojyvacss";
             query = URLEncoder.encode(query, "UTF-8");
             String result = "";
             String urls = "";
@@ -79,13 +99,20 @@ public class GoogleBias implements Job{
                         }
                     }
                 }
-
+                try {
+                    Thread.sleep(1000);//to comply with the rule of 1query/user/sec
+                } catch (InterruptedException ex) {
+                    Logger.getLogger(GoogleBias.class.getName()).log(Level.SEVERE, null, ex);
+                }
                 connection.disconnect();
+
             }
 
+            String filePath = projectPath + "/data/";//Local
+
             String currentTime = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss").format(Calendar.getInstance().getTime());
-            String dataFile = "data/" + query + "_" + currentTime;
-            String urlFile = "data/" + query + "_url_" + currentTime;
+            String dataFile = filePath + query + "_" + currentTime;
+            String urlFile = filePath + query + "_url_" + currentTime;
             IOUtils.writeDataIntoFile(result, dataFile);
             IOUtils.writeDataIntoFile(urls, urlFile);
 
@@ -100,22 +127,20 @@ public class GoogleBias implements Job{
         }
     }
 
-    public void execute(JobExecutionContext context)
-        throws JobExecutionException {
-        
-   
-        List<String> listofQueries = new ArrayList<>();
-        
+    //public void execute(JobExecutionContext context) throws JobExecutionException {
+    public static void main(String[] args) {
+
+        /*List<String> listofQueries = new ArrayList<>();
+
         listofQueries.add("democratic debate");
         listofQueries.add("dem debate");
         listofQueries.add("republican debate");
         listofQueries.add("rep debate");
-        listofQueries.add("democratic debate");
-        
+
         listofQueries.add("Bernie Sanders");
         listofQueries.add("Martin O'Malley");
         listofQueries.add("Hillary Clinton");
-          
+
         listofQueries.add("Jeb Bush");
         listofQueries.add("Ben Carson");
         listofQueries.add("Chris Christie");
@@ -130,11 +155,16 @@ public class GoogleBias implements Job{
         listofQueries.add("Marco Rubio");
         listofQueries.add("Rick Santorum");
         listofQueries.add("Donald Trump");
-        
-        for (int i = 0; i < listofQueries.size(); i++) {
-            search(listofQueries.get(i), 2);
+         */
+        GoogleBias gb = new GoogleBias(args[0]);
+
+        for (int i = 0; i < gb.listofQueries.size(); i++) {
+            gb.search(gb.listofQueries.get(i));
+            try {
+                Thread.sleep(1000);//to comply with the rule of 1 query/user/sec
+            } catch (InterruptedException ex) {
+                Logger.getLogger(GoogleBias.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }
-
     }
-
 }
