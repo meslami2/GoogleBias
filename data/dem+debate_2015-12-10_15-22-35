@@ -1,0 +1,2576 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dem debate",
+    "totalResults": "974000",
+    "searchTerms": "dem debate",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dem debate",
+    "totalResults": "974000",
+    "searchTerms": "dem debate",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.347414,
+  "formattedSearchTime": "0.35",
+  "totalResults": "974000",
+  "formattedTotalResults": "974,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Dem Debate: What Katy Perry, Ashton Kutcher and others want to ask",
+   "htmlTitle": "\u003cb\u003eDem Debate\u003c/b\u003e: What Katy Perry, Ashton Kutcher and others want to ask",
+   "link": "http://www.cnn.com/2015/10/12/opinions/opinion-roundup-dem-debate/",
+   "displayLink": "www.cnn.com",
+   "snippet": "Oct 13, 2015 ... What would celebrities, writers, thought leaders and other newsmakers want to \nask the presidential candidates at the Democratic debate?",
+   "htmlSnippet": "Oct 13, 2015 \u003cb\u003e...\u003c/b\u003e What would celebrities, writers, thought leaders and other newsmakers want to \u003cbr\u003e\nask the presidential candidates at the \u003cb\u003eDemocratic debate\u003c/b\u003e?",
+   "cacheId": "S136aqy7V_UJ",
+   "formattedUrl": "www.cnn.com/2015/10/12/opinions/opinion-roundup-dem-debate/",
+   "htmlFormattedUrl": "www.cnn.com/2015/10/12/opinions/opinion-roundup-\u003cb\u003edem\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/151012123219-homepage-t1-democratic-candidates-101215-large-169.jpg",
+      "type": "1",
+      "width": "299",
+      "height": "168"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://i2.cdn.turner.com/cnnnext/dam/assets/151012123219-homepage-t1-democratic-candidates-101215-large-169.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "articlesection": "opinions",
+      "datecreated": "2015-10-12T18:43:44Z",
+      "datepublished": "2015-10-12T18:43:44Z",
+      "datemodified": "2015-10-13T23:46:58Z",
+      "url": "http://www.cnn.com/2015/10/12/opinions/opinion-roundup-dem-debate/index.html",
+      "headline": "Dem Debate: What Katy Perry, Ashton Kutcher and others want to ask - CNN.com",
+      "description": "What would celebrities, writers, thought leaders and other newsmakers want to ask the presidential candidates at the Democratic debate?",
+      "keywords": "opinions, Dem Debate: What Katy Perry, Ashton Kutcher and others want to ask - CNN.com",
+      "image": "http://i2.cdn.turner.com/cnnnext/dam/assets/151012123219-homepage-t1-democratic-candidates-101215-large-169.jpg",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnnnext/dam/assets/151012123219-homepage-t1-democratic-candidates-101215-large-169.jpg",
+      "alternativeheadline": "Dem debate: What Katy Perry, Ashton Kutcher, Demi Lovato and others would ask",
+      "articlebody": "Story highlightsWhat do celebrities, writers and newsmakers want to ask the candidates on Tuesday's Democratic debate? Contributions from Katy Perry, Ashton Kutcher, Demi Lovato, Shonda Rhimes..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+      "section": "opinions",
+      "og:pubdate": "2015-10-12T18:43:44Z",
+      "pubdate": "2015-10-12T18:43:44Z",
+      "lastmod": "2015-10-13T23:46:58Z",
+      "og:url": "http://www.cnn.com/2015/10/12/opinions/opinion-roundup-dem-debate/index.html",
+      "og:title": "Dem Debate: What Katy Perry, Ashton Kutcher and others want to ask - CNN.com",
+      "og:description": "What would celebrities, writers, thought leaders and other newsmakers want to ask the presidential candidates at the Democratic debate?",
+      "og:site_name": "CNN",
+      "twitter:card": "summary_large_image",
+      "og:type": "article",
+      "og:image": "http://i2.cdn.turner.com/cnnnext/dam/assets/151012123219-homepage-t1-democratic-candidates-101215-large-169.jpg",
+      "thumbnail": "http://i2.cdn.turner.com/cnnnext/dam/assets/151012123219-homepage-t1-democratic-candidates-101215-large-169.jpg",
+      "vr:canonical": "http://www.cnn.com/2015/10/12/opinions/opinion-roundup-dem-debate/index.html",
+      "fb:app_id": "80401312489",
+      "template-top": "opinions,art-gal"
+     }
+    ],
+    "comment": [
+     {
+      "author": "liberal7liar",
+      "datecreated": "2015-11-07T16:21:44.000Z",
+      "text": "The WITTCHHES on the VIEW are OLLD, UGGLY, ANNGGRY, LIBERALLL HAGGS."
+     },
+     {
+      "author": "liberal7liar",
+      "datecreated": "2015-11-07T16:20:35.000Z",
+      "text": "Whoopi GOLDBERG is a FAAAATT, OVERWEIGHT, UUUGGGLY, WITCH. NO MAN WOULD marrry sUCH A MEAANN HAGG."
+     },
+     {
+      "author": "liberal7liar",
+      "datecreated": "2015-11-07T16:19:35.000Z",
+      "text": "The PPIGGSS on the VIEW are witcchees, FAAATTT, and UUGGLY."
+     },
+     {
+      "author": "liberal7liar",
+      "datecreated": "2015-11-07T16:18:38.000Z",
+      "text": "Whoopi Goldberg is an UUUGGGGLLYYY FAT Liberal Hack, only A MOTHER would love."
+     },
+     {
+      "author": "liberal7liar",
+      "datecreated": "2015-11-07T16:17:42.000Z",
+      "text": "The Ladies of the VIEW are Faattt, Uggglyyy, Liberal Hacks. Whoopi Goldberg is one of the UUUGLIEST females on Earth. Only a LOSSERR would Marry her."
+     },
+     {
+      "author": "WuzYoungOnce",
+      "datecreated": "2015-10-14T18:16:56.000Z",
+      "text": "- \"A few months ago, I sent my 13-year-old son out to pick me up some Mucinex and Nyquil. The pharmacist wouldn’t give them to him because he’s under 16. Why is it easier for him to get..."
+     },
+     {
+      "author": "BD Barney",
+      "datecreated": "2015-10-14T16:56:39.000Z",
+      "text": "\"A few months ago, I sent my 13-year-old son out to pick me up some Mucinex and Nyquil. The pharmacist wouldn't give them to him because he's under 16. Why is it easier for him to get a gun..."
+     },
+     {
+      "author": "mjcrawley316",
+      "datecreated": "2015-10-14T13:22:20.000Z",
+      "text": "And once again CNN proved they are as Biased as Fox News when it comes to the Rights of the Transgender Community, not a single question on the subject even with the fact that the Homicide..."
+     },
+     {
+      "author": "Steven Szirotnyak",
+      "datecreated": "2015-10-14T14:10:44.000Z",
+      "text": "@mjcrawley316 Take a number, get in line with the rest of the oppressed at the Complaint Department and wait your turn for the federal government to fix your problem."
+     },
+     {
+      "author": "Devon Baker",
+      "datecreated": "2015-10-14T19:47:08.000Z",
+      "text": "@mjcrawley316 homicide rate tripled in the transgender community. Hmmm, I can't help but think of drag queens attacking each other with purses while wobbling on 6 in stilettos."
+     },
+     {
+      "author": "Hammer666",
+      "datecreated": "2015-10-14T11:35:02.000Z",
+      "text": "It was a painful socialist fest......wait until socialism is entrenched here, and you will have a civil war..."
+     },
+     {
+      "author": "Hammer666",
+      "datecreated": "2015-10-14T11:33:49.000Z",
+      "text": "and of course, out here in the \"fields\" many were looking at what socialism and communism will look like soon...."
+     },
+     {
+      "author": "Clark Seydel",
+      "datecreated": "2015-10-14T04:34:46.000Z",
+      "text": "Climate???"
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T02:49:40.000Z",
+      "text": "I think a good follow up to Sander's....everything free stance....(free college, free healthcare, free family leave, free,free,free).... would be to ask each millionaire candidate if they would..."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T02:45:41.000Z",
+      "text": "Anderson...going to the only Mexican to ask about marijuana....that's racist...LOL"
+     },
+     {
+      "author": "Steven Szirotnyak",
+      "datecreated": "2015-10-14T02:30:05.000Z",
+      "text": "Pothead comedian Anderson Cooper... I can't take any more of this. Click."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T02:28:07.000Z",
+      "text": "No follow up on Hillary just saying she would be different because she is a women? He allowed her to just say she would be different.....Here is a suggestion....ask....HOW? specifics please...the..."
+     },
+     {
+      "author": "Steven Szirotnyak",
+      "datecreated": "2015-10-14T02:23:57.000Z",
+      "text": "At the rate they're headed left, by the end of this debate it'll be everything cheap or free for everyone, except the wealthy who (unless they are celebrities, athletes, Democrat politicians..."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T02:22:16.000Z",
+      "text": "Another attack on Sanders.....when this is over anyone that is interested in actually seeing the bias should look and the transcripts of the actual wording of questions.....very negative words..."
+     },
+     {
+      "author": "Devon Baker",
+      "datecreated": "2015-10-14T06:59:11.000Z",
+      "text": "@biaspress the only hard hitting question was her flip flop question. the rest she was given ample time and attention. Clearly biased."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T02:18:23.000Z",
+      "text": "Cutting Webb off again.....on a positive immigration and his wife's personal story....then lets Hillary run on with talking points"
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T02:09:00.000Z",
+      "text": "Anderson just questioned Chaffee about his vote on a position that he defended as not really ready to have voted on a(Chaffees words)and now regrets that vote....Anderson then stated doesn't..."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T02:07:51.000Z",
+      "text": "Anderson just slammed Webb, saying he is wasting time, when Webb suggested that there is some unbalanced time....to guess who...Hillary....yet she is allowed to grand slam...."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T02:06:48.000Z",
+      "text": "I never took a position on Keystone until I took a position on Keystone....where is the follow up questions Anderson.....she just set you up for a slam dunk follow up on changes in positions......w..."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:59:12.000Z",
+      "text": "Softball to Hillary about 1%........I think she should be wearing a baseball uniform and a \"Tball' stand in front of her instead of a podium and Anderson can just walk up a place the ball on..."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:55:50.000Z",
+      "text": "There again...he, Anderson let Hillary go well over her time with no interruption....Webb actually made a comment that he hopes he could get that kind of free overage.....Bias Anderson?????"
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:39:18.000Z",
+      "text": "another attack on Sanders.....Webb, Vietnam Marine Vet...asked if Sanders a Vietnam conscientious objector can be Commander in Chief...say it again....CNN needs to knock down Sanders.....to..."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:34:49.000Z",
+      "text": "Anderson just talked down Webb saying that he has gone over his time...then stated that Webb had agreed to the rules....yet when Hillary goes over he quietly say Secretary Clinton...Secretary..."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:26:51.000Z",
+      "text": "where is the talk over about flipflop...once again when there is a question about changes in views and policy positions they do not follow up on her ...they let her spew her talking points"
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:19:15.000Z",
+      "text": "Everybody jump on Sanders......."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:18:38.000Z",
+      "text": "Wow...It looks like the game plan is rolling out...now Anderson is getting Mallory to attack Sanders........"
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:15:33.000Z",
+      "text": "Just proposed a question to Sanders about flipflopping...lets see if he eventually will question Hillary about flipflopping...oh wait he did but it was asked in a positive way and he allowed..."
+     },
+     {
+      "author": "Steven Szirotnyak",
+      "datecreated": "2015-10-14T01:14:29.000Z",
+      "text": "I'm a registered Republican. I would not call any of these questions \"softballs.\" Anderson is making them uncomfortable. I'm surprised."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T02:34:20.000Z",
+      "text": "@Steven Szirotnyak look at the wording...the uncomfortable questions are directed towards the other candidates...and the strong follow ups are also directed at the other candidates...not Hillary"
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:09:01.000Z",
+      "text": "Anderson talked over Chaffee about flipflopping yet he let Hillary talk for 2 minutes about evolving, with out any follow up of or questioning like he just did with Chaffee"
+     },
+     {
+      "author": "Devon Baker",
+      "datecreated": "2015-10-14T01:09:42.000Z",
+      "text": "@biaspress CNN has decided which candidate they are supporting."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:10:08.000Z",
+      "text": "@Devon Baker @biaspress CNN...Clinton News Network...say no more"
+     },
+     {
+      "author": "Steven Szirotnyak",
+      "datecreated": "2015-10-14T01:02:49.000Z",
+      "text": "\"...Taking the opportunity posed by climate change to grow the economy.\" -Hillary Clinton in her debate introWell, that's curious..."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T01:01:53.000Z",
+      "text": "She did not say\"I hope it would be the gold standard\"...look at the quotes....she said\"it was the gold standard\""
+     },
+     {
+      "author": "Sam Gump",
+      "datecreated": "2015-10-14T01:01:26.000Z",
+      "text": "Glenn Beck, a Constitutionalist believes that the Constitution prohibits the government from infringing on individual freedom. A social democrat progressive believes that the Constitution is..."
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T00:58:00.000Z",
+      "text": "Chaffee might be short for this world....he said that he has had no scandals....."
+     },
+     {
+      "author": "Sam Gump",
+      "datecreated": "2015-10-14T00:57:18.000Z",
+      "text": "Judy Gold, send your kid to purchase a firearm and see if your asinine assumption is correct."
+     },
+     {
+      "author": "Devon Baker",
+      "datecreated": "2015-10-14T00:56:43.000Z",
+      "text": "Wow, Bernie has so much Rage. Reminds me of that one guy with a small mustache."
+     },
+     {
+      "author": "Sam Gump",
+      "datecreated": "2015-10-14T00:54:44.000Z",
+      "text": "Here's a question every candidate should answer (Republicans and Democrats):\"Are you aware of the 10th amendment? What would you do to the agencies and policies that are in direct violation of it?\""
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T00:53:34.000Z",
+      "text": "No takers.....well lets expand on the honesty and integrity question......According to then Senator Barack Obama, Senator Hillary Clinton, Speaker Pelosi, even with the absence of fact, the..."
+     },
+     {
+      "author": "Sam Gump",
+      "datecreated": "2015-10-14T00:51:50.000Z",
+      "text": "Ben Stein, I like where your heart's at, but the federal government has no business in education. As president, none of them could really do anything about how schools are run in each state...."
+     },
+     {
+      "author": "Sam Gump",
+      "datecreated": "2015-10-14T00:50:11.000Z",
+      "text": "John Dean, that's not a question. Have a seat."
+     },
+     {
+      "author": "Sam Gump",
+      "datecreated": "2015-10-14T00:48:30.000Z",
+      "text": "Paul F. Tompkins \u003c-- self-righteous liberal full of white guilt"
+     },
+     {
+      "author": "Devon Baker",
+      "datecreated": "2015-10-14T00:47:18.000Z",
+      "text": "CNN's Hard hitting questions to Hillary:How often do you eat at Chipotles?Do you iron your own pants suits?We love you, do you love us back?"
+     },
+     {
+      "author": "biaspress",
+      "datecreated": "2015-10-14T00:42:36.000Z",
+      "text": "opps....a little off key...on the National Anthem..."
+     }
+    ],
+    "Person": [
+     {
+      "url": "@mjcrawley316",
+      "name": "mjcrawley316"
+     },
+     {
+      "url": "@mjcrawley316",
+      "name": "mjcrawley316"
+     },
+     {
+      "url": "@biaspress",
+      "name": "biaspress"
+     },
+     {
+      "url": "@Steven Szirotnyak",
+      "name": "Steven Szirotnyak"
+     },
+     {
+      "url": "@biaspress",
+      "name": "biaspress"
+     },
+     {
+      "url": "@Devon Baker",
+      "name": "Devon Baker"
+     },
+     {
+      "url": "@biaspress",
+      "name": "biaspress"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "mjcrawley316",
+      "url": "@mjcrawley316"
+     },
+     {
+      "fn": "mjcrawley316",
+      "url": "@mjcrawley316"
+     },
+     {
+      "fn": "biaspress",
+      "nickname": "biaspress",
+      "url": "@biaspress"
+     },
+     {
+      "fn": "Steven Szirotnyak",
+      "url": "@Steven Szirotnyak"
+     },
+     {
+      "fn": "biaspress",
+      "nickname": "biaspress",
+      "url": "@biaspress"
+     },
+     {
+      "fn": "Devon Baker",
+      "url": "@Devon Baker"
+     },
+     {
+      "fn": "biaspress",
+      "nickname": "biaspress",
+      "url": "@biaspress"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Did You Know There's a Dem Debate Tonight? No, Because Debbie ...",
+   "htmlTitle": "Did You Know There&#39;s a \u003cb\u003eDem Debate\u003c/b\u003e Tonight? No, Because Debbie \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.mediaite.com/online/did-you-know-theres-a-dem-debate-tomorrow-no-because-debbie-doesnt-want-you-to/",
+   "displayLink": "www.mediaite.com",
+   "snippet": "Nov 13, 2015 ... I was struck by the Democratic debate schedule when I first wrote it up; not only \nare there only six entries onto the board (seven if you include ...",
+   "htmlSnippet": "Nov 13, 2015 \u003cb\u003e...\u003c/b\u003e I was struck by the \u003cb\u003eDemocratic debate\u003c/b\u003e schedule when I first wrote it up; not only \u003cbr\u003e\nare there only six entries onto the board (seven if you include&nbsp;...",
+   "cacheId": "pmWv5rKT0rQJ",
+   "formattedUrl": "www.mediaite.com/.../did-you-know-theres-a-dem-debate-tomorrow-no- because-debbie-doesnt-want-you-to/",
+   "htmlFormattedUrl": "www.mediaite.com/.../did-you-know-theres-a-\u003cb\u003edem\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-tomorrow-no- because-debbie-doesnt-want-you-to/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static01.mediaite.com/med/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-2.46.17-PM-150x100.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "80",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlSVf6FYDNv0EMAaiSJRZYwzH8jxe0M3GOLUXrQYyhPKWgAu48sNqe"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.5, minimum-scale=1.0",
+      "og:title": "Did You Know There’s a Dem Debate Tonight? No, Because Debbie Doesn’t Want You To",
+      "og:image": "http://www.mediaite.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-2.46.17-PM-300x196.png",
+      "twitter:card": "summary",
+      "twitter:site": "@mediaite",
+      "twitter:title": "Did You Know There's a Dem Debate Tonight? No, Because Debbie Doesn't Want You To",
+      "twitter:description": "DNC Chair Debbie Wasserman Schultz has made it her absolute mission to stifle the Democratic primary debates, to bury them underneath faintly-advertised headlines and shoehorn them into impossibly unrealistic time slots.",
+      "twitter:image": "http://www.mediaite.com/wp-content/uploads/2015/11/Screen-Shot-2015-11-13-at-2.46.17-PM-300x196.png",
+      "nextgen": "1.5.5",
+      "date": "1970-01-01T00:00:00+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Democratic Party presidential debates, 2016 - Wikipedia, the free ...",
+   "htmlTitle": "\u003cb\u003eDemocratic\u003c/b\u003e Party presidential \u003cb\u003edebates\u003c/b\u003e, 2016 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://en.wikipedia.org/wiki/Democratic_Party_presidential_debates,_2016",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2016 Democratic Party presidential debates will occur among candidates in \nthe campaign for the Democratic Party's nomination for the President of the ...",
+   "htmlSnippet": "The 2016 \u003cb\u003eDemocratic\u003c/b\u003e Party presidential \u003cb\u003edebates\u003c/b\u003e will occur among candidates in \u003cbr\u003e\nthe campaign for the \u003cb\u003eDemocratic\u003c/b\u003e Party&#39;s nomination for the President of the&nbsp;...",
+   "cacheId": "DXalCVimRigJ",
+   "formattedUrl": "https://en.wikipedia.org/.../Democratic_Party_presidential_debates,_2016",
+   "htmlFormattedUrl": "https://en.wikipedia.org/.../\u003cb\u003eDemocratic\u003c/b\u003e_Party_presidential_\u003cb\u003edebates\u003c/b\u003e,_2016"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2nd Democratic Presidential Debate: 7 Moments That Mattered ...",
+   "htmlTitle": "2nd \u003cb\u003eDemocratic\u003c/b\u003e Presidential \u003cb\u003eDebate\u003c/b\u003e: 7 Moments That Mattered \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://abcnews.go.com/Politics/2nd-democratic-presidential-debate-moments-mattered/story?id=35212034",
+   "displayLink": "abcnews.go.com",
+   "snippet": "Nov 14, 2015 ... A large portion of the second Democratic primary debate focused on matters of \nforeign policy and national security with the candidates offering ...",
+   "htmlSnippet": "Nov 14, 2015 \u003cb\u003e...\u003c/b\u003e A large portion of the second \u003cb\u003eDemocratic\u003c/b\u003e primary \u003cb\u003edebate\u003c/b\u003e focused on matters of \u003cbr\u003e\nforeign policy and national security with the candidates offering&nbsp;...",
+   "formattedUrl": "abcnews.go.com/Politics/2nd-democratic-presidential-debate.../story?id...",
+   "htmlFormattedUrl": "abcnews.go.com/Politics/2nd-\u003cb\u003edemocratic\u003c/b\u003e-presidential-\u003cb\u003edebate\u003c/b\u003e.../story?id...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://a.abcnews.go.com/images/Politics/gty_dem_debate_01_lb_151114_16x9_992.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2ufaqXIyXCUvNz-uPjLzXMIOqRW73TjzxC9R6gAIWM8VG8-SS4Nihay7x"
+     }
+    ],
+    "sitenavigationelement": [
+     {
+      "name": "U.S.",
+      "url": "U.S."
+     }
+    ],
+    "metatags": [
+     {
+      "author": "ABC News",
+      "copyright": "Copyright (c) 2015 ABC News Internet Ventures",
+      "fb:admins": "704409894",
+      "fb:app_id": "4942312939",
+      "fb_title": "7 Moments That Mattered in 2nd Dem Debate",
+      "og:site_name": "ABC News",
+      "og:title": "7 Moments That Mattered in 2nd Dem Debate",
+      "og:description": "Just over a day after a wave of attacks in Paris that claimed the lives of 129 people and injured hundreds of others, the three Democrats running for president sparred over their approaches to confronting the ongoing threat of terrorism. A large portion of the second Democratic primary debate...",
+      "og:url": "http://abcnews.go.com/Politics/2nd-democratic-presidential-debate-moments-mattered/story?id=35212034",
+      "og:image:type": "image/jpeg",
+      "og:image": "http://a.abcnews.go.com/images/Politics/gty_dem_debate_01_lb_151114_16x9_992.jpg",
+      "dc.date.issued": "2015-11-16",
+      "date": "2015-11-16",
+      "last-modified": "2015-11-16 07:49:48",
+      "news_keywords": "Hillary Clinton, Bernie Sanders, Martin O'Malley, Democratic Debate",
+      "og:type": "article",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@ABC",
+      "twitter:creator": "@ryanstruyk",
+      "twitter:title": "7 Moments That Mattered in 2nd Dem Debate",
+      "twitter:description": "Just over a day after a wave of attacks in Paris that claimed the lives of 129 people and injured hundreds of others, the three Democrats running for president sparred over their approaches to confronting the ongoing threat of terrorism. A large portion of the second Democratic primary debate...",
+      "twitter:url": "http://abcnews.go.com/Politics/2nd-democratic-presidential-debate-moments-mattered/story?id=35212034",
+      "twitter:image:width": "150",
+      "twitter:image:height": "116",
+      "twitter:app:name:iphone": "ABC News",
+      "twitter:app:id:iphone": "300255638",
+      "twitter:app:url:iphone": "abcnewsiphone://link/story,35212034",
+      "twitter:app:name:ipad": "ABC News",
+      "twitter:app:id:ipad": "306934135",
+      "twitter:app:url:ipad": "abcnewsipad://link/story,35212034",
+      "twitter:app:name:googleplay": "ABC News",
+      "twitter:app:id:googleplay": "com.abc.abcnews",
+      "twitter:app:url:googleplay": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/2nd-democratic-presidential-debate-moments-mattered/story?id=35212034",
+      "twitter:image": "http://a.abcnews.go.com/images/Politics/gty_dem_debate_01_lb_151114_4x3t_240.jpg",
+      "al:iphone:url": "abcnewsiphone://link/story,35212034",
+      "al:iphone:app_store_id": "300255638",
+      "al:iphone:app_name": "ABC News - Breaking US & World News",
+      "al:ipad:url": "abcnewsipad://link/story,35212034",
+      "al:ipad:app_store_id": "380520716",
+      "al:ipad:app_name": "ABC News for iPad",
+      "al:android:url": "android-app://com.abc.abcnews/abcnews/abcnews.go.com/Politics/2nd-democratic-presidential-debate-moments-mattered/story?id=35212034",
+      "al:android:app_name": "ABC News Breaking Latest News",
+      "al:android:package": "com.abc.abcnews",
+      "al:web:url": "http://abcnews.go.com/Politics/2nd-democratic-presidential-debate-moments-mattered/story?id=35212034",
+      "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Democratic Debate Schedule (2016 Primary Debates) | 2016 ...",
+   "htmlTitle": "\u003cb\u003eDemocratic Debate\u003c/b\u003e Schedule (2016 Primary Debates) | 2016 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.uspresidentialelectionnews.com/2016-debate-schedule/2016-democratic-primary-debate-schedule/",
+   "displayLink": "www.uspresidentialelectionnews.com",
+   "snippet": "Here is the most up-to-date and complete schedule of the 2015 / 2016 \nDemocratic Primary debates. These debates are between all the major \nDemocratic ...",
+   "htmlSnippet": "Here is the most up-to-date and complete schedule of the 2015 / 2016 \u003cbr\u003e\n\u003cb\u003eDemocratic\u003c/b\u003e Primary \u003cb\u003edebates\u003c/b\u003e. These \u003cb\u003edebates\u003c/b\u003e are between all the major \u003cbr\u003e\n\u003cb\u003eDemocratic\u003c/b\u003e&nbsp;...",
+   "cacheId": "9Ry0iHI1-C8J",
+   "formattedUrl": "www.uspresidentialelectionnews.com/...debate.../2016-democratic-primary- debate-schedule/",
+   "htmlFormattedUrl": "www.uspresidentialelectionnews.com/...\u003cb\u003edebate\u003c/b\u003e.../2016-\u003cb\u003edemocratic\u003c/b\u003e-primary- \u003cb\u003edebate\u003c/b\u003e-schedule/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i0.wp.com/www.uspresidentialelectionnews.com/wp-content/uploads/2015/10/gettyimages-492531172.jpg?resize=830%2C553"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhgqIKN2P971kYhRSIBO_qwQ33okX9XpUPa39yp7QJYOM-p_uLWali5Vs"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+      "handheldfriendly": "true",
+      "twitter:card": "summary",
+      "twitter:creator": "@PresElectNews",
+      "twitter:site": "@PresElectNews",
+      "twitter:title": "Democratic Debate Schedule (2016 Primary Debates)",
+      "twitter:description": "Here is the most up-to-date and complete schedule of the 2015 / 2016 Democratic Primary debates. These debates are between all the major Democratic candidates running for President in 2016. The Democr",
+      "twitter:image": "http://www.uspresidentialelectionnews.com/wp-content/uploads/2015/10/gettyimages-492531172-280x150.jpg",
+      "apple-itunes-app": "app-id=1044684808",
+      "google-play-app": "app-id=com.ml.ElectionCentral",
+      "author": "2016 Election Central",
+      "og:type": "article",
+      "og:title": "Democratic Debate Schedule (2016 Primary Debates)",
+      "og:url": "http://www.uspresidentialelectionnews.com/2016-debate-schedule/2016-democratic-primary-debate-schedule/",
+      "og:description": "Here is the most up-to-date and complete schedule of the 2015 / 2016 Democratic Primary debates. These debates are between all the major Democratic candidates running for President in 2016. The Dem…",
+      "article:published_time": "2014-10-14T15:22:24+00:00",
+      "article:modified_time": "2015-11-16T15:03:29+00:00",
+      "og:site_name": "2016 Election Central",
+      "og:image": "http://i0.wp.com/www.uspresidentialelectionnews.com/wp-content/uploads/2015/10/gettyimages-492531172.jpg?resize=830%2C553",
+      "og:image:width": "830",
+      "og:image:height": "553",
+      "og:locale": "en_US"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dem debate winners and losers | TheHill",
+   "htmlTitle": "\u003cb\u003eDem debate\u003c/b\u003e winners and losers | TheHill",
+   "link": "http://thehill.com/homenews/campaign/256870-dem-debate-winners-and-losers",
+   "displayLink": "thehill.com",
+   "snippet": "Oct 14, 2015 ... LAS VEGAS — The first Democratic presidential debate lived up to its billing \nTuesday night as an energized Hillary Clinton sought to assert her ...",
+   "htmlSnippet": "Oct 14, 2015 \u003cb\u003e...\u003c/b\u003e LAS VEGAS — The first \u003cb\u003eDemocratic\u003c/b\u003e presidential \u003cb\u003edebate\u003c/b\u003e lived up to its billing \u003cbr\u003e\nTuesday night as an energized Hillary Clinton sought to assert her&nbsp;...",
+   "cacheId": "5Q--kgnIZYUJ",
+   "formattedUrl": "thehill.com/homenews/.../256870-dem-debate-winners-and-losers",
+   "htmlFormattedUrl": "thehill.com/homenews/.../256870-\u003cb\u003edem\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-winners-and-losers",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thehill.com/sites/default/files/article_images/berniehillary3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9xTza40qQmx4Z8Aaky9Sn49xGeJV_FDB59V2W9EpoOFKQtps4A2X6s9n0"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Niall Stanage and Amie Parnes",
+      "smart_paging": "on",
+      "fb:admins": "581787871",
+      "fb:app_id": "566538590082898",
+      "og:site_name": "TheHill",
+      "og:type": "article",
+      "og:title": "Dem debate winners and losers",
+      "og:url": "http://thehill.com/homenews/campaign/256870-dem-debate-winners-and-losers",
+      "og:description": "Winners: Clinton and Obama; Sanders and Biden get mixed reviews.",
+      "og:updated_time": "2015-10-15T07:52:52-04:00",
+      "og:image": "http://thehill.com/sites/default/files/article_images/berniehillary3.jpg",
+      "twitter:card": "summary",
+      "twitter:title": "Dem debate winners and losers",
+      "twitter:url": "http://thehill.com/homenews/campaign/256870-dem-debate-winners-and-losers",
+      "twitter:description": "Winners: Clinton and Obama; Sanders and Biden get mixed reviews.",
+      "article:published_time": "2015-10-14T01:57:47-04:00",
+      "article:modified_time": "2015-10-15T07:52:52-04:00",
+      "dcterms.title": "Dem debate winners and losers",
+      "dcterms.creator": "Cheryl Segal",
+      "dcterms.description": "Winners: Clinton and Obama; Sanders and Biden get mixed reviews.",
+      "dcterms.date": "2015-10-14T01:57-04:00",
+      "dcterms.type": "Text",
+      "dcterms.format": "text/html",
+      "dcterms.identifier": "http://thehill.com/homenews/campaign/256870-dem-debate-winners-and-losers",
+      "dcterms.language": "und",
+      "dcterms.modified": "2015-10-15T07:52-04:00",
+      "twitter:widgets:csp": "on",
+      "apple-itunes-app": "app-id=360124019"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "'Daily Show' Finds Less to Fact-Check in Democratic Debate - The ...",
+   "htmlTitle": "&#39;Daily Show&#39; Finds Less to Fact-Check in \u003cb\u003eDemocratic Debate\u003c/b\u003e - The \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.thedailybeast.com/articles/2015/11/17/daily-show-finds-less-to-fact-check-in-democratic-debate.html",
+   "displayLink": "www.thedailybeast.com",
+   "snippet": "Nov 17, 2015 ... After fact-checking the GOP debate last week, Senior Political Analyst Desi Lydic \nturned to the Democrats Monday night, and found a lot less to ...",
+   "htmlSnippet": "Nov 17, 2015 \u003cb\u003e...\u003c/b\u003e After fact-checking the GOP \u003cb\u003edebate\u003c/b\u003e last week, Senior Political Analyst Desi Lydic \u003cbr\u003e\nturned to the Democrats Monday night, and found a lot less to&nbsp;...",
+   "cacheId": "1qqXDvMI-mYJ",
+   "formattedUrl": "www.thedailybeast.com/.../daily-show-finds-less-to-fact-check-in-democratic- debate.html",
+   "htmlFormattedUrl": "www.thedailybeast.com/.../daily-show-finds-less-to-fact-check-in-\u003cb\u003edemocratic\u003c/b\u003e- \u003cb\u003edebate\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/11/17/daily-show-finds-less-to-fact-check-in-democratic-debate/jcr:content/image.img.2000.jpg/1447860729169.cached.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2tvDDU8yt9nugeP1lOrmYZIXEkffr_4GEa9i43ENLlpO-idIXwyf63R7t"
+     }
+    ],
+    "article": [
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/11/17/daily-show-finds-less-to-fact-check-in-democratic-debate/jcr:content/image.crop.800.500.jpg/48262024.cached.jpg"
+     },
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/12/05/san-bernardino-was-new-hybrid-attack-counterrorism-experts-say/jcr:content/image.crop.800.500.jpg/48311076.cached.jpg"
+     },
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/12/03/a-day-in-the-life-of-santa-the-man-and-the-myth/jcr:content/image.crop.800.500.png/48305181.cached.png"
+     },
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/12/05/defying-the-darkness-hanukkah-lighting-goes-on-in-the-city-of-lights/jcr:content/image.crop.800.500.jpg/48311881.cached.jpg"
+     },
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/12/01/exclusive-secret-u-s-hostage-held-by-taliban-allies/jcr:content/image.crop.800.500.jpg/48300821.cached.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1145",
+      "apple-mobile-web-app-capable": "yes",
+      "template": "article",
+      "news_keywords": "Trevor Noah, Bernie Sanders, The Daily Show, Google, Entertainment, Debate, Hillary Clinton, Democrats, Democratic Party",
+      "og:title": "‘Daily Show’ Finds Less to Fact-Check in Democratic Debate",
+      "og:description": "After fact-checking the GOP debate last week, Senior Political Analyst Desi Lydic turned to the Democrats Monday night, and found a lot less to correct.",
+      "og:url": "http://www.thedailybeast.com/articles/2015/11/17/daily-show-finds-less-to-fact-check-in-democratic-debate.html",
+      "authors": "Matt Wilstein",
+      "tags": "entity:person/trevor_noah,entity:person/bernie_sanders,entity:tvshow/the_daily_show,syndication:syndication-google,topic:entertainment,debate,entity:person/hillary_clinton,entity:organization/democrats,entity:organization/democratic_party",
+      "contentpath": "/content/dailybeast/articles/2015/11/17/daily-show-finds-less-to-fact-check-in-democratic-debate",
+      "wrap": "/content/dailybeast/entertainment",
+      "og:type": "article",
+      "og:site_name": "The Daily Beast",
+      "fb:app_id": "189930913679",
+      "fb:admins": "1703087,30000737,1117577220,1276800108,931159,514915512",
+      "twitter:card": "summary",
+      "twitter:site": "@thedailybeast",
+      "twitter:creator": "TheMattWilstein",
+      "article:published_time": "2015-11-17T17:00:00.000Z",
+      "article:author": "http://www.thedailybeast.com/contributors/matt-wilsteinhtml",
+      "article:section": "entertainment",
+      "og:image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/11/17/daily-show-finds-less-to-fact-check-in-democratic-debate/jcr:content/image.img.2000.jpg/1447860729169.cached.jpg",
+      "resourcetype": "dailybeast2/components/pages/article",
+      "parsely-page": "{\"title\":\"‘Daily Show’ Finds Less to Fact-Check in Democratic Debate\",\"link\":\"http://www.thedailybeast.com/articles/2015/11/17/daily-show-finds-less-to-fact-check-in-democratic-debate.html\",\"image_url\":\"http://cdn.thedailybeast.com/content/dailybeast/articles/2015/11/17/daily-show-finds-less-to-fact-check-in-democratic-debate/jcr:content/image.crop.410.273.jpg/48262024.cached.jpg\",\"type\":\"post\",\"post_id\":\"/content/dailybeast/articles/2015/11/17/daily-show-finds-less-to-fact-check-in-democratic-debate\",\"pub_date\":\"2015-11-17T12:00:00-05:00\",\"section\":\"Entertainment\",\"author\": \"Matt Wilstein\",\"tags\":[\"trevor_noah\",\"bernie_sanders\",\"the_daily_show\",\"syndication-google\",\"entertainment\",\"debate\",\"hillary_clinton\",\"democrats\",\"democratic_party\"]}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dem Debate Part 4 - Heated exchanges over Wall Street, gun control",
+   "htmlTitle": "\u003cb\u003eDem Debate\u003c/b\u003e Part 4 - Heated exchanges over Wall Street, gun control",
+   "link": "http://www.cbsnews.com/videos/democratic-debate-part-4-heated-exchanges-over-wall-street-gun-control/",
+   "displayLink": "www.cbsnews.com",
+   "snippet": "Dem Debate Part 4 - Heated exchanges over Wall Street, gun control. November \n14, 2015, 10:36 PM |Hillary Clinton, Bernie Sanders and Martin O'Malley took ...",
+   "htmlSnippet": "\u003cb\u003eDem Debate\u003c/b\u003e Part 4 - Heated exchanges over Wall Street, gun control. November \u003cbr\u003e\n14, 2015, 10:36 PM |Hillary Clinton, Bernie Sanders and Martin O&#39;Malley took&nbsp;...",
+   "cacheId": "qzwssU7csJEJ",
+   "formattedUrl": "www.cbsnews.com/.../democratic-debate-part-4-heated-exchanges-over-wall- street-gun-control/",
+   "htmlFormattedUrl": "www.cbsnews.com/.../\u003cb\u003edemocratic\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-part-4-heated-exchanges-over-wall- street-gun-control/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/11/15/5cf18bd8-8da0-45d3-bf66-1e44b246f6a6/thumbnail/940x470/0b4b83bf8f2b2ca9930472bfdab40899/demdebatepart4467115640x360.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "name": "Dem Debate Part 4 - Heated exchanges over Wall Street, gun control",
+      "uploaddate": "2015-11-14T22:36:42+00:00",
+      "description": "Hillary Clinton, Bernie Sanders and Martin O'Malley took aim at each other over how to rein in Wall Street and the country's gun violence epidemic.",
+      "duration": "1096",
+      "thumbnailurl": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/11/15/5cf18bd8-8da0-45d3-bf66-1e44b246f6a6/thumbnail/140x90/c26107e8a60e758a7f4d5d0bd174b9c4/demdebatepart4467115640x360.jpg",
+      "contenturl": "http://www.cbsnews.com/video/democratic-debate-part-4-heated-exchanges-over-wall-street-gun-control",
+      "embedurl": "http://www.cbsnews.com/common/video/cbsnews_player.swf?type=embed&si=254&pid=gC4ythsaR1_0",
+      "width": "640",
+      "height": "360"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "318",
+      "height": "159",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQROfLrJPUaEvAWAxnmc1FtVBoTF7pHwqlZUtn_hWR59xfxuFuyfzWFZfU"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width",
+      "twitter:image": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/11/15/5cf18bd8-8da0-45d3-bf66-1e44b246f6a6/thumbnail/940x470/0b4b83bf8f2b2ca9930472bfdab40899/demdebatepart4467115640x360.jpg",
+      "twitter:title": "Dem Debate Part 4 - Heated exchanges over Wall Street, gun control",
+      "twitter:description": "Hillary Clinton, Bernie Sanders and Martin O'Malley took aim at each other over how to rein in Wall Street and the country's gun violence epidemic.",
+      "og:image": "http://cbsnews1.cbsistatic.com/hub/i/r/2015/11/15/5cf18bd8-8da0-45d3-bf66-1e44b246f6a6/thumbnail/940x470/0b4b83bf8f2b2ca9930472bfdab40899/demdebatepart4467115640x360.jpg",
+      "og:title": "Dem Debate Part 4 - Heated exchanges over Wall Street, gun control",
+      "og:description": "Hillary Clinton, Bernie Sanders and Martin O'Malley took aim at each other over how to rein in Wall Street and the country's gun violence epidemic.",
+      "article:publisher": "https://www.facebook.com/CBSPolitics"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hillary Escapes Another Dem Debate - The Daily Beast",
+   "htmlTitle": "Hillary Escapes Another \u003cb\u003eDem Debate\u003c/b\u003e - The Daily Beast",
+   "link": "http://www.thedailybeast.com/articles/2015/11/15/no-one-won-at-the-democratic-debate-but-sanders-and-o-malley-really-lost.html",
+   "displayLink": "www.thedailybeast.com",
+   "snippet": "Nov 15, 2015 ... Clinton made some critical errors but Bernie Sanders and Martin O'Malley looked \nlost at sea during the Democratic debate.",
+   "htmlSnippet": "Nov 15, 2015 \u003cb\u003e...\u003c/b\u003e Clinton made some critical errors but Bernie Sanders and Martin O&#39;Malley looked \u003cbr\u003e\nlost at sea during the \u003cb\u003eDemocratic debate\u003c/b\u003e.",
+   "cacheId": "Xx8AWR_YDLIJ",
+   "formattedUrl": "www.thedailybeast.com/.../no-one-won-at-the-democratic-debate-but-sanders -and-o-malley-really-lost.html",
+   "htmlFormattedUrl": "www.thedailybeast.com/.../no-one-won-at-the-\u003cb\u003edemocratic\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-but-sanders -and-o-malley-really-lost.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/11/15/no-one-won-at-the-democratic-debate-but-sanders-and-o-malley-really-lost/jcr:content/image.img.2000.jpg/1447564793003.cached.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "thumbnailurl": "http://brightcove.vo.llnwd.net/v1/unsecured/media/16991917/201511/2679/16991917_4613375145001_4613354613001-vs.jpg?pubId=16991917",
+      "name": "Hillary Escapes Another Dem Debate",
+      "description": "Clinton made some critical errors but Bernie Sanders and Martin O'Malley looked lost at sea during the Democratic debate."
+     },
+     {
+      "thumbnailurl": "http://brightcove.vo.llnwd.net/v1/unsecured/media/16991917/201511/3865/16991917_4613416086001_4613357379001-vs.jpg?pubId=16991917",
+      "name": "Hillary Escapes Another Dem Debate",
+      "description": "Clinton made some critical errors but Bernie Sanders and Martin O'Malley looked lost at sea during the Democratic debate."
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1SCiA8Nss1fiOL0KBXBiskfQgL5QvwD2JlNtVkUMPxLFnYnaCUO0t-w"
+     }
+    ],
+    "article": [
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/11/15/no-one-won-at-the-democratic-debate-but-sanders-and-o-malley-really-lost/jcr:content/image.crop.800.500.jpg/48252159.cached.jpg"
+     },
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/12/05/san-bernardino-was-new-hybrid-attack-counterrorism-experts-say/jcr:content/image.crop.800.500.jpg/48311076.cached.jpg"
+     },
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/12/03/a-day-in-the-life-of-santa-the-man-and-the-myth/jcr:content/image.crop.800.500.png/48305181.cached.png"
+     },
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/12/05/defying-the-darkness-hanukkah-lighting-goes-on-in-the-city-of-lights/jcr:content/image.crop.800.500.jpg/48311881.cached.jpg"
+     },
+     {
+      "image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/12/01/donald-trump-s-rally-in-georgia-was-a-total-bust/jcr:content/image.crop.800.500.jpg/48303025.cached.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1145",
+      "apple-mobile-web-app-capable": "yes",
+      "template": "article",
+      "news_keywords": "Hillary Clinton, Martin OMalley, 2016 Election, Democratic Party, Bernie Sanders",
+      "og:title": "Hillary Escapes Another Dem Debate",
+      "og:description": "Clinton made some critical errors but Bernie Sanders and Martin O'Malley looked lost at sea during the Democratic debate.",
+      "og:url": "http://www.thedailybeast.com/articles/2015/11/15/no-one-won-at-the-democratic-debate-but-sanders-and-o-malley-really-lost.html",
+      "authors": "Will Rahn,Jackie Kucinich",
+      "tags": "obsessional:Hillary Clinton,entity:person/martin_o_malley,obsessional:2016-election,entity:organization/democratic_party,entity:person/bernie_sanders",
+      "contentpath": "/content/dailybeast/articles/2015/11/15/no-one-won-at-the-democratic-debate-but-sanders-and-o-malley-really-lost",
+      "wrap": "/content/dailybeast/politics",
+      "og:type": "article",
+      "og:site_name": "The Daily Beast",
+      "fb:app_id": "189930913679",
+      "fb:admins": "1703087,30000737,1117577220,1276800108,931159,514915512",
+      "twitter:card": "summary",
+      "twitter:site": "@thedailybeast",
+      "twitter:creator": "willrahn",
+      "article:published_time": "2015-11-15T05:05:00.000Z",
+      "article:author": "http://www.thedailybeast.com/contributors/will-rahnhtml",
+      "og:image": "http://cdn.thedailybeast.com/content/dailybeast/articles/2015/11/15/no-one-won-at-the-democratic-debate-but-sanders-and-o-malley-really-lost/jcr:content/image.img.2000.jpg/1447564793003.cached.jpg",
+      "resourcetype": "dailybeast2/components/pages/article",
+      "parsely-page": "{\"title\":\"Hillary Escapes Another Dem Debate\",\"link\":\"http://www.thedailybeast.com/articles/2015/11/15/no-one-won-at-the-democratic-debate-but-sanders-and-o-malley-really-lost.html\",\"image_url\":\"http://cdn.thedailybeast.com/content/dailybeast/articles/2015/11/15/no-one-won-at-the-democratic-debate-but-sanders-and-o-malley-really-lost/jcr:content/image.crop.410.273.jpg/48252159.cached.jpg\",\"type\":\"post\",\"post_id\":\"/content/dailybeast/articles/2015/11/15/no-one-won-at-the-democratic-debate-but-sanders-and-o-malley-really-lost\",\"pub_date\":\"2015-11-15T00:05:00-05:00\",\"section\":\"Politics\",\"author\": \"Will Rahn,Jackie Kucinich\",\"tags\":[\"Hillary Clinton\",\"martin_o_malley\",\"2016-election\",\"democratic_party\",\"bernie_sanders\"]}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "First Democratic Presidential Debate 2016 by CNN 10-13-2015 - FULL",
+   "htmlTitle": "First \u003cb\u003eDemocratic\u003c/b\u003e Presidential \u003cb\u003eDebate\u003c/b\u003e 2016 by CNN 10-13-2015 - FULL",
+   "link": "https://www.youtube.com/watch?v=Mr1KJR5UZjM",
+   "displayLink": "www.youtube.com",
+   "snippet": "Oct 14, 2015 ... This is the first of 6 Democratic Presidential Debates. This one is in Las Vegas, \nNevada. Please join our page at: http://facebook.com/socausa.",
+   "htmlSnippet": "Oct 14, 2015 \u003cb\u003e...\u003c/b\u003e This is the first of 6 \u003cb\u003eDemocratic\u003c/b\u003e Presidential \u003cb\u003eDebates\u003c/b\u003e. This one is in Las Vegas, \u003cbr\u003e\nNevada. Please join our page at: http://facebook.com/socausa.",
+   "cacheId": "RvUT9UF_QRUJ",
+   "formattedUrl": "https://www.youtube.com/watch?v=Mr1KJR5UZjM",
+   "htmlFormattedUrl": "https://www.youtube.com/watch?v=Mr1KJR5UZjM",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/Mr1KJR5UZjM/hqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.youtube.com/watch?v=Mr1KJR5UZjM",
+      "name": "First Democratic Presidential Debate 2016 by CNN 10-13-2015 - FULL",
+      "description": "This is the first of 6 Democratic Presidential Debates. This one is in Las Vegas, Nevada. Please join our page at: http://facebook.com/socausa",
+      "paid": "False",
+      "channelid": "UCRWZ_IdTxS89733FebbyuZA",
+      "videoid": "Mr1KJR5UZjM",
+      "duration": "PT123M52S",
+      "unlisted": "False",
+      "thumbnailurl": "https://i.ytimg.com/vi/Mr1KJR5UZjM/hqdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/Mr1KJR5UZjM",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "1378967",
+      "datepublished": "2015-10-14",
+      "genre": "People & Blogs"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/channel/UCRWZ_IdTxS89733FebbyuZA"
+     },
+     {
+      "url": "https://plus.google.com/112489014971600471119"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStm_RVbLs6A-xxv1qY4ZeLinUX02_FF54h5U5NdVeTva3dGcOh5ECKuMw"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "First Democratic Presidential Debate 2016 by CNN 10-13-2015 - FULL",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/watch?v=Mr1KJR5UZjM",
+      "og:title": "First Democratic Presidential Debate 2016 by CNN 10-13-2015 - FULL",
+      "og:image": "https://i.ytimg.com/vi/Mr1KJR5UZjM/hqdefault.jpg",
+      "og:description": "This is the first of 6 Democratic Presidential Debates. This one is in Las Vegas, Nevada. Please join our page at: http://facebook.com/socausa",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=Mr1KJR5UZjM&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=Mr1KJR5UZjM&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/watch?v=Mr1KJR5UZjM&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/Mr1KJR5UZjM",
+      "og:video:secure_url": "https://www.youtube.com/embed/Mr1KJR5UZjM",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "Debate (Quotation Subject)",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/watch?v=Mr1KJR5UZjM",
+      "twitter:title": "First Democratic Presidential Debate 2016 by CNN 10-13-2015 - FULL",
+      "twitter:description": "This is the first of 6 Democratic Presidential Debates. This one is in Las Vegas, Nevada. Please join our page at: http://facebook.com/socausa"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://i.ytimg.com/vi/Mr1KJR5UZjM/hqdefault.jpg",
+      "width": "480",
+      "height": "360"
+     }
+    ]
+   }
+  }
+ ]
+}
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dem debate",
+    "totalResults": "3900000",
+    "searchTerms": "dem debate",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dem debate",
+    "totalResults": "3900000",
+    "searchTerms": "dem debate",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dem debate",
+    "totalResults": "3900000",
+    "searchTerms": "dem debate",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.368459,
+  "formattedSearchTime": "0.37",
+  "totalResults": "3900000",
+  "formattedTotalResults": "3,900,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Everything you need to know about Saturday's Democratic debate ...",
+   "htmlTitle": "Everything you need to know about Saturday&#39;s \u003cb\u003eDemocratic debate\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.politico.com/story/2015/11/second-democratic-2016-debate-iowa-when-is-it-215792",
+   "displayLink": "www.politico.com",
+   "snippet": "Nov 12, 2015 ... The second Democratic presidential debate will be Saturday, Nov. 14, live from \nDrake University in Des Moines, Iowa. The school has been a ...",
+   "htmlSnippet": "Nov 12, 2015 \u003cb\u003e...\u003c/b\u003e The second \u003cb\u003eDemocratic\u003c/b\u003e presidential \u003cb\u003edebate\u003c/b\u003e will be Saturday, Nov. 14, live from \u003cbr\u003e\nDrake University in Des Moines, Iowa. The school has been a&nbsp;...",
+   "cacheId": "Ft4eIzrtpy0J",
+   "formattedUrl": "www.politico.com/.../second-democratic-2016-debate-iowa-when-is-it- 215792",
+   "htmlFormattedUrl": "www.politico.com/.../second-\u003cb\u003edemocratic\u003c/b\u003e-2016-\u003cb\u003edebate\u003c/b\u003e-iowa-when-is-it- 215792",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.politico.com/45/08/2b151a104a64856aaa260ac721f2/debate-preview-ap-1160.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "305",
+      "height": "165",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQagB_5cUHGIGe-uZ9bP5AtlmnJ0lgVPBP9ULLcz4JcfVTod5Z8dx06DtiC"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Everything you need to know about Saturday's Democratic debate",
+      "og:description": "The debate will be broadcast live from Drake University in Des Moines, Iowa.",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:type": "article",
+      "og:url": "http://www.politico.com/story/2015/11/second-democratic-2016-debate-iowa-when-is-it-215792",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@politico",
+      "twitter:creator": "@politico",
+      "og:fb_appid": "114037015331397",
+      "og:site_name": "POLITICO",
+      "og:image": "http://static.politico.com/45/08/2b151a104a64856aaa260ac721f2/debate-preview-ap-1160.jpg"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Josh Gerstein",
+      "url": "http://www.politico.com/staff/josh-gerstein",
+      "url_text": "Josh Gerstein"
+     },
+     {
+      "fn": "Matthew Karnitschnig",
+      "url": "http://www.politico.com/staff/matthew-karnitschnig",
+      "url_text": "Matthew Karnitschnig"
+     },
+     {
+      "fn": "Andrew Glass",
+      "url": "http://www.politico.com/staff/andrew-glass",
+      "url_text": "Andrew Glass"
+     },
+     {
+      "fn": "Annie Karni",
+      "url": "http://www.politico.com/staff/annie-karni",
+      "url_text": "Annie Karni"
+     },
+     {
+      "fn": "John Bresnahan",
+      "url": "http://www.politico.com/staff/john-bresnahan",
+      "url_text": "John Bresnahan"
+     },
+     {
+      "fn": "Jake Sherman",
+      "url": "http://www.politico.com/staff/jake-sherman",
+      "url_text": "Jake Sherman"
+     },
+     {
+      "fn": "Lauren French",
+      "url": "http://www.politico.com/staff/lauren-french",
+      "url_text": "Lauren French"
+     },
+     {
+      "fn": "Hans von der Burchard",
+      "url": "http://www.politico.com/staff/hans-von-der-burchard",
+      "url_text": "Hans von der Burchard"
+     },
+     {
+      "fn": "Jack Shafer",
+      "url": "http://www.politico.com/staff/jack-shafer",
+      "url_text": "Jack Shafer"
+     },
+     {
+      "fn": "Eliza Collins",
+      "url": "http://www.politico.com/staff/eliza-collins",
+      "url_text": "Eliza Collins"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "“FIRST DEMOCRATIC DEBATE HIGHLIGHTS: 2015” —- A Bad Lip ...",
+   "htmlTitle": "“FIRST \u003cb\u003eDEMOCRATIC DEBATE\u003c/b\u003e HIGHLIGHTS: 2015” —- A Bad Lip \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.youtube.com/watch?v=V_yxGsWHx9o",
+   "displayLink": "www.youtube.com",
+   "snippet": "Oct 28, 2015 ... Democratic hopefuls discuss the important issues of our day. Like on Facebook! \nhttp://www.facebook.com/badlipreading Follow on Twitter!",
+   "htmlSnippet": "Oct 28, 2015 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDemocratic\u003c/b\u003e hopefuls discuss the important issues of our day. Like on Facebook! \u003cbr\u003e\nhttp://www.facebook.com/badlipreading Follow on Twitter!",
+   "cacheId": "ROncFCDbgFQJ",
+   "formattedUrl": "https://www.youtube.com/watch?v=V_yxGsWHx9o",
+   "htmlFormattedUrl": "https://www.youtube.com/watch?v=V_yxGsWHx9o",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/V_yxGsWHx9o/maxresdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.youtube.com/watch?v=V_yxGsWHx9o",
+      "name": "“FIRST DEMOCRATIC DEBATE HIGHLIGHTS: 2015” —- A Bad Lip Reading of the First Democratic Debate",
+      "description": "Democratic hopefuls discuss the important issues of our day. Like on Facebook! http://www.facebook.com/badlipreading Follow on Twitter! http://twitter.com/ba...",
+      "paid": "False",
+      "channelid": "UC67f2Qf7FYhtoUIF4Sf29cA",
+      "videoid": "V_yxGsWHx9o",
+      "duration": "PT4M59S",
+      "unlisted": "False",
+      "thumbnailurl": "https://i.ytimg.com/vi/V_yxGsWHx9o/maxresdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/V_yxGsWHx9o",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "4363101",
+      "datepublished": "2015-10-28",
+      "genre": "Comedy"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/BadLipReading"
+     },
+     {
+      "url": "https://plus.google.com/104138746671526001077"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKLxtMaF3O05moZVZ_H8EXZPyVji99ARzoK-5Um73QLuZLud5JNSoQDCY"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "“FIRST DEMOCRATIC DEBATE HIGHLIGHTS: 2015” —- A Bad Lip Reading of the First Democratic Debate",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/watch?v=V_yxGsWHx9o",
+      "og:title": "“FIRST DEMOCRATIC DEBATE HIGHLIGHTS: 2015” —- A Bad Lip Reading of the First Democratic Debate",
+      "og:image": "https://i.ytimg.com/vi/V_yxGsWHx9o/maxresdefault.jpg",
+      "og:description": "Democratic hopefuls discuss the important issues of our day. Like on Facebook! http://www.facebook.com/badlipreading Follow on Twitter! http://twitter.com/ba...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=V_yxGsWHx9o&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=V_yxGsWHx9o&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/watch?v=V_yxGsWHx9o&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/V_yxGsWHx9o",
+      "og:video:secure_url": "https://www.youtube.com/embed/V_yxGsWHx9o",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "bad lip reading",
+      "fb:app_id": "87741124305",
+      "twitter:card": "player",
+      "twitter:site": "@youtube",
+      "twitter:url": "https://www.youtube.com/watch?v=V_yxGsWHx9o",
+      "twitter:title": "“FIRST DEMOCRATIC DEBATE HIGHLIGHTS: 2015” —- A Bad Lip Reading of the First Democratic Debate",
+      "twitter:description": "Democratic hopefuls discuss the important issues of our day. Like on Facebook! http://www.facebook.com/badlipreading Follow on Twitter! http://twitter.com/ba...",
+      "twitter:image": "https://i.ytimg.com/vi/V_yxGsWHx9o/maxresdefault.jpg"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://i.ytimg.com/vi/V_yxGsWHx9o/maxresdefault.jpg",
+      "width": "1280",
+      "height": "720"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dem debate recap: No surprises « Hot Air",
+   "htmlTitle": "\u003cb\u003eDem debate\u003c/b\u003e recap: No surprises « Hot Air",
+   "link": "http://hotair.com/archives/2015/10/14/dem-debate-recap-no-surprises/",
+   "displayLink": "hotair.com",
+   "snippet": "Oct 14, 2015 ... Last night, I drew the short straw at Hot Air and watched the Democratic \npresidential debate, hosted by CNN in Las Vegas. As expected, the ...",
+   "htmlSnippet": "Oct 14, 2015 \u003cb\u003e...\u003c/b\u003e Last night, I drew the short straw at Hot Air and watched the \u003cb\u003eDemocratic\u003c/b\u003e \u003cbr\u003e\npresidential \u003cb\u003edebate\u003c/b\u003e, hosted by CNN in Las Vegas. As expected, the&nbsp;...",
+   "cacheId": "J8tRje7dOv4J",
+   "formattedUrl": "hotair.com/archives/2015/10/14/dem-debate-recap-no-surprises/",
+   "htmlFormattedUrl": "hotair.com/archives/2015/10/14/\u003cb\u003edem\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-recap-no-surprises/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://s0.wp.com/i/blank.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "312482775445602",
+      "fb:admins": "312482775445602",
+      "og:type": "article",
+      "og:title": "Dem debate recap: No surprises",
+      "og:url": "http://hotair.com/archives/2015/10/14/dem-debate-recap-no-surprises/",
+      "og:description": "Biggest loser?",
+      "article:published_time": "2015-10-14T12:41:49+00:00",
+      "article:modified_time": "2015-10-14T15:05:10+00:00",
+      "og:site_name": "Hot Air",
+      "og:image": "https://s0.wp.com/i/blank.jpg",
+      "og:locale": "en_US",
+      "twitter:site": "@hotairblog",
+      "twitter:card": "summary",
+      "twitter:creator": "@EdMorrissey"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How About That Democratic Debate? - YouTube",
+   "htmlTitle": "How About That \u003cb\u003eDemocratic Debate\u003c/b\u003e? - YouTube",
+   "link": "https://www.youtube.com/watch?v=AciwXaRfh3k",
+   "displayLink": "www.youtube.com",
+   "snippet": "Oct 15, 2015 ... Hillary was on point, Bernie was on percentages and three other people were \nthere, too. Subscribe To \"The Late Show\" Channel HERE: ...",
+   "htmlSnippet": "Oct 15, 2015 \u003cb\u003e...\u003c/b\u003e Hillary was on point, Bernie was on percentages and three other people were \u003cbr\u003e\nthere, too. Subscribe To &quot;The Late Show&quot; Channel HERE:&nbsp;...",
+   "cacheId": "4ijV-vDHvK4J",
+   "formattedUrl": "https://www.youtube.com/watch?v=AciwXaRfh3k",
+   "htmlFormattedUrl": "https://www.youtube.com/watch?v=AciwXaRfh3k",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://i.ytimg.com/vi/AciwXaRfh3k/hqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "https://www.youtube.com/watch?v=AciwXaRfh3k",
+      "name": "How About That Democratic Debate?",
+      "description": "Hillary was on point, Bernie was on percentages and three other people were there, too. Subscribe To \"The Late Show\" Channel HERE: http://bit.ly/ColbertYouTu...",
+      "paid": "False",
+      "channelid": "UCMtFAi84ehTSYSE9XoHefig",
+      "videoid": "AciwXaRfh3k",
+      "duration": "PT6M18S",
+      "unlisted": "False",
+      "thumbnailurl": "https://i.ytimg.com/vi/AciwXaRfh3k/hqdefault.jpg",
+      "embedurl": "https://www.youtube.com/embed/AciwXaRfh3k",
+      "playertype": "HTML5 Flash",
+      "width": "1280",
+      "height": "720",
+      "isfamilyfriendly": "True",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+      "interactioncount": "1196816",
+      "datepublished": "2015-10-15",
+      "genre": "Entertainment"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig"
+     },
+     {
+      "url": "https://plus.google.com/102957943872893903623"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9O6GN0R_vmQkmKnBm4IeVb8xuq9lSd7gmb4kDyQ4AVAeUlcXIRMQHLQI"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "How About That Democratic Debate?",
+      "og:site_name": "YouTube",
+      "og:url": "https://www.youtube.com/watch?v=AciwXaRfh3k",
+      "og:title": "How About That Democratic Debate?",
+      "og:image": "https://i.ytimg.com/vi/AciwXaRfh3k/hqdefault.jpg",
+      "og:description": "Hillary was on point, Bernie was on percentages and three other people were there, too. Subscribe To \"The Late Show\" Channel HERE: http://bit.ly/ColbertYouTu...",
+      "al:ios:app_store_id": "544007664",
+      "al:ios:app_name": "YouTube",
+      "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=AciwXaRfh3k&feature=applinks",
+      "al:android:url": "vnd.youtube://www.youtube.com/watch?v=AciwXaRfh3k&feature=applinks",
+      "al:android:app_name": "YouTube",
+      "al:android:package": "com.google.android.youtube",
+      "al:web:url": "https://www.youtube.com/watch?v=AciwXaRfh3k&feature=applinks",
+      "og:type": "video",
+      "og:video:url": "https://www.youtube.com/embed/AciwXaRfh3k",
+      "og:video:secure_url": "https://www.youtube.com/embed/AciwXaRfh3k",
+      "og:video:type": "text/html",
+      "og:video:width": "1280",
+      "og:video:height": "720",
+      "og:video:tag": "The Late Show"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "https://i.ytimg.com/vi/AciwXaRfh3k/hqdefault.jpg",
+      "width": "480",
+      "height": "360"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Democratic debate 2015: Donald Trump tweets the Dem debate ...",
+   "htmlTitle": "\u003cb\u003eDemocratic debate\u003c/b\u003e 2015: Donald Trump tweets the \u003cb\u003eDem debate\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.politico.com/story/2015/10/donald-trump-democratic-debate-twitter-214732",
+   "displayLink": "www.politico.com",
+   "snippet": "Oct 13, 2015 ... Because Donald Trump is not part of the Democratic debate on Tuesday night, \nhe's predicting that \"people are going to turn it on for a couple of ...",
+   "htmlSnippet": "Oct 13, 2015 \u003cb\u003e...\u003c/b\u003e Because Donald Trump is not part of the \u003cb\u003eDemocratic debate\u003c/b\u003e on Tuesday night, \u003cbr\u003e\nhe&#39;s predicting that &quot;people are going to turn it on for a couple of&nbsp;...",
+   "cacheId": "_UDZa3LkOP4J",
+   "formattedUrl": "www.politico.com/.../donald-trump-democratic-debate-twitter-214732",
+   "htmlFormattedUrl": "www.politico.com/.../donald-trump-\u003cb\u003edemocratic\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-twitter-214732",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.politico.com/ce/0b/4670bd884f51b2e21476949692b5/151013-generic-donald-trump-3ap-1160.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "305",
+      "height": "165",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEEoPBglKg1sjyNEeAoLK4wg47SXQWmMBkqf4qrCakdDOR6JDYR8wLit3X"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Trump tweets the Dem debate",
+      "og:description": "'Get rid of all of these commercials,' he tweets.",
+      "viewport": "width=device-width, initial-scale=1",
+      "og:type": "article",
+      "og:url": "http://www.politico.com/story/2015/10/donald-trump-democratic-debate-twitter-214732",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@politico",
+      "twitter:creator": "@politico",
+      "og:fb_appid": "114037015331397",
+      "og:site_name": "POLITICO",
+      "og:image": "http://static.politico.com/ce/0b/4670bd884f51b2e21476949692b5/151013-generic-donald-trump-3ap-1160.jpg"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Ben Schreckinger",
+      "url": "http://www.politico.com/staff/ben-schreckinger",
+      "url_text": "Ben Schreckinger"
+     },
+     {
+      "fn": "Ben Schreckinger",
+      "url": "http://www.politico.com/staff/ben-schreckinger",
+      "url_text": "Ben Schreckinger"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AP FACT CHECK: Clinton, Sanders revise history in Dem debate",
+   "htmlTitle": "AP FACT CHECK: Clinton, Sanders revise history in \u003cb\u003eDem debate\u003c/b\u003e",
+   "link": "http://apnews.myway.com/article/20151014/us--dem_2016-debate-fact_check-9882728f76.html",
+   "displayLink": "apnews.myway.com",
+   "snippet": "Oct 14, 2015 ... WASHINGTON (AP) — Hillary Rodham Clinton revised history in the Democratic \ndebate when insisting she's not a flip-flopper on a trade deal ...",
+   "htmlSnippet": "Oct 14, 2015 \u003cb\u003e...\u003c/b\u003e WASHINGTON (AP) — Hillary Rodham Clinton revised history in the \u003cb\u003eDemocratic\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003edebate\u003c/b\u003e when insisting she&#39;s not a flip-flopper on a trade deal&nbsp;...",
+   "cacheId": "WB2HfMx7MGkJ",
+   "formattedUrl": "apnews.myway.com/.../us--dem_2016-debate-fact_check-9882728f76.html",
+   "htmlFormattedUrl": "apnews.myway.com/.../us--\u003cb\u003edem\u003c/b\u003e_2016-\u003cb\u003edebate\u003c/b\u003e-fact_check-9882728f76.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AP FACT CHECK: In Dem debate, when 'free' isn't free - Yahoo News",
+   "htmlTitle": "AP FACT CHECK: In \u003cb\u003eDem debate\u003c/b\u003e, when &#39;free&#39; isn&#39;t free - Yahoo News",
+   "link": "http://news.yahoo.com/ap-fact-check-clinton-sanders-revise-history-dem-072510324--election.html",
+   "displayLink": "news.yahoo.com",
+   "snippet": "Oct 14, 2015 ... Associated Press reporter Cal Woodward takes a look at some of the claims the \nDemocratic rivals made in Tuesday night&#39;s debate and ...",
+   "htmlSnippet": "Oct 14, 2015 \u003cb\u003e...\u003c/b\u003e Associated Press reporter Cal Woodward takes a look at some of the claims the \u003cbr\u003e\n\u003cb\u003eDemocratic\u003c/b\u003e rivals made in Tuesday night&amp;#39;s \u003cb\u003edebate\u003c/b\u003e and&nbsp;...",
+   "formattedUrl": "news.yahoo.com/ap-fact-check-clinton-sanders-revise-history-dem- 072510324--election.html",
+   "htmlFormattedUrl": "news.yahoo.com/ap-fact-check-clinton-sanders-revise-history-\u003cb\u003edem\u003c/b\u003e- 072510324--election.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l2.yimg.com/bt/api/res/1.2/1VmuWHiJrrqEYMIZ3mGSSQ--/YXBwaWQ9eW5ld3NfbGVnbztxPTc1O3c9NjAw/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/11da787ea1c88af3a1db6775b6fe5265.cf.png"
+     }
+    ],
+    "series": [
+     {
+      "name": "AP"
+     }
+    ],
+    "videoobject": [
+     {
+      "name": "FACT CHECK: Clinton, Sanders Embellish In Debate",
+      "description": "Associated Press reporter Cal Woodward takes a look at some of the claims the Democratic rivals made in Tuesday night's debate and how they compare with the facts. (Oct. 14)",
+      "url": "https://news.yahoo.com/video/fact-check-clinton-sanders-embellish-081908647.html",
+      "embedurl": "https://news.yahoo.com/video/fact-check-clinton-sanders-embellish-081908647.html?format=embed",
+      "thumbnailurl": "https://s1.yimg.com/uu/api/res/1.2/TCG_NVihFpVC7juh4F00gQ--/Zmk9ZmlsbDtweW9mZj0wO3c9MjA4O2g9MTE3O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/11da787ea1c88af3a1db6775b6fe5265",
+      "videoquality": "hd",
+      "duration": "PY0M0D0TH0M2S31",
+      "datepublished": "2015-10-14T08:20:03Z",
+      "datecreated": "2015-10-14T08:19:08Z"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Associated Press Videos",
+      "url": "http://www.ap.org/"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbFGfzjqp-n8Yp9d9NM1aeO6dRAI1Bu1QFL0yefWx5zzlQhDqgkvBl76Y"
+     }
+    ],
+    "article": [
+     {
+      "datepublished": "2015-10-14T17:01:16Z",
+      "headline": "AP FACT CHECK: In Dem debate, when 'free' isn't free",
+      "image": "http://media.zenfs.com/en-US/video/video.associatedpressfree.com/11da787ea1c88af3a1db6775b6fe5265",
+      "description": "WASHINGTON (AP) — When does \"free\" cost a lot of money?"
+     }
+    ],
+    "metatags": [
+     {
+      "theme-color": "#400090",
+      "article:publisher": "http://www.facebook.com/yahoonews",
+      "fb:app_id": "90376669494",
+      "og:description": "WASHINGTON (AP) — When does \"free\" cost a lot of money?",
+      "og:image": "http://l2.yimg.com/bt/api/res/1.2/1VmuWHiJrrqEYMIZ3mGSSQ--/YXBwaWQ9eW5ld3NfbGVnbztxPTc1O3c9NjAw/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/11da787ea1c88af3a1db6775b6fe5265.cf.png",
+      "og:site_name": "Yahoo News",
+      "og:title": "AP FACT CHECK: In Dem debate, when 'free' isn't free",
+      "og:type": "article",
+      "og:url": "http://news.yahoo.com/ap-fact-check-clinton-sanders-revise-history-dem-072510324--election.html",
+      "twitter:card": "summary_large_image",
+      "twitter:description": "WASHINGTON (AP) — When does \"free\" cost a lot of money?",
+      "twitter:dnt": "on",
+      "twitter:image": "http://l2.yimg.com/bt/api/res/1.2/1VmuWHiJrrqEYMIZ3mGSSQ--/YXBwaWQ9eW5ld3NfbGVnbztxPTc1O3c9NjAw/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/11da787ea1c88af3a1db6775b6fe5265.cf.png",
+      "twitter:image:src": "http://l2.yimg.com/bt/api/res/1.2/1VmuWHiJrrqEYMIZ3mGSSQ--/YXBwaWQ9eW5ld3NfbGVnbztxPTc1O3c9NjAw/http://media.zenfs.com/en-US/video/video.associatedpressfree.com/11da787ea1c88af3a1db6775b6fe5265.cf.png",
+      "twitter:site": "@YahooNews",
+      "twitter:title": "AP FACT CHECK: In Dem debate, when 'free' isn't free",
+      "application-name": "AP FACT CHECK: In Dem debate, when 'free' isn't free",
+      "msapplication-tilecolor": "#6e329d",
+      "msapplication-tileimage": "http://l.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black",
+      "viewport": "width=device-width"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "JOSH BOAK and CALVIN WOODWARD"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "More People Watched 'NCIS' Than the Democratic Debate - Fortune",
+   "htmlTitle": "More People Watched &#39;NCIS&#39; Than the \u003cb\u003eDemocratic Debate\u003c/b\u003e - Fortune",
+   "link": "http://fortune.com/2015/10/14/democratic-debate-tuesday-ratings/",
+   "displayLink": "fortune.com",
+   "snippet": "Oct 14, 2015 ... CNN's broadcast set a record for Democratic debates, but it still fell short of the \nGOP's ratings and wasn't even the night's most-watched show.",
+   "htmlSnippet": "Oct 14, 2015 \u003cb\u003e...\u003c/b\u003e CNN&#39;s broadcast set a record for \u003cb\u003eDemocratic debates\u003c/b\u003e, but it still fell short of the \u003cbr\u003e\nGOP&#39;s ratings and wasn&#39;t even the night&#39;s most-watched show.",
+   "cacheId": "RaimVYF_1woJ",
+   "formattedUrl": "fortune.com/2015/10/14/democratic-debate-tuesday-ratings/",
+   "htmlFormattedUrl": "fortune.com/2015/10/14/\u003cb\u003edemocratic\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-tuesday-ratings/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://fortunedotcom.files.wordpress.com/2015/10/rts4cpx.jpg?quality=80&w=840&h=485&crop=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "296",
+      "height": "170",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZX3Jb4LPEeNeh-Wr7HyysVxCFf0Bp1J59cALCgPLBzeRAs21z3G92NwU"
+     }
+    ],
+    "article": [
+     {
+      "author": "Tom Huddleston, Jr.",
+      "datepublished": "October 14, 2015, 4:15 PM EST",
+      "image": "https://fortunedotcom.files.wordpress.com/2015/10/rts4cpx.jpg?quality=80&w=1024"
+     },
+     {
+      "articlesection": "Entertainment",
+      "headline": "More people watched 'NCIS' than the Democratic debate",
+      "author": "Tom Huddleston, Jr.",
+      "datepublished": "2015-10-14 04:04:15",
+      "articlebody": "Democratic presidential candidates U.S. Senator Bernie Sanders (L) and former Secretary of State Hillary Clinton debate duringthe first official Democratic candidates debate of the 2016 presidentia...",
+      "image": "https://fortunedotcom.files.wordpress.com/2015/10/rts4cpx.jpg?quality=80&w=840&h=485&crop=1",
+      "alternativeheadline": "CNN’s broadcast set a record for Democratic debates, but it still fell short of the GOP’s ratings and wasn’t even the night’s most-watched show."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,minimum-scale=1.0,maximum-scale=1.0",
+      "apple-mobile-web-app-capable": "yes",
+      "apple-mobile-web-app-status-bar-style": "black-translucent",
+      "news_keywords": "2016 Democratic Debate, Hillary Clinton, Bernie Sanders, Joe Biden, Donald Trump, mark Harmon, Fox News, CNN, Facebook, presidential primary debates, television ratings, tv ratings, advertising spending, campaign donations, MLB playoffs, media, CNBC, 2016 Republican Debates, politics, elections, Nielsen Ratings",
+      "bitly-verification": "d31810b12dd9",
+      "twitter:site": "@fortunemagazine",
+      "twitter:title": "More people watched ‘NCIS’ than the Democratic debate",
+      "twitter:description": "Hillary Clinton was widely declared the winner of Tuesday night’s debate, but in terms of ratings, the Democrats lost to the GOP … and NCIS. Hosted by CNN                   TWX             ...",
+      "twitter:image": "https://fortunedotcom.files.wordpress.com/2015/10/rts4cpx.jpg?w=560",
+      "twitter:card": "summary_large_image",
+      "sailthru.date": "2015-10-14 16:04:15",
+      "sailthru.title": "More people watched ‘NCIS’ than the Democratic debate",
+      "sailthru.tags": "2016 Democratic Debate, 2016 Republican Debates, advertising spending, Bernie Sanders, campaign donations, CNBC, CNN, Donald Trump, Elections, Facebook, fox news, Hillary Clinton, Joe Biden, mark Harmon, media, MLB playoffs, Nielsen Ratings, Politics, presidential primary debates, television ratings, TV ratings",
+      "sailthru.author": "Tom Huddleston, Jr.",
+      "sailthru.description": "CNN's broadcast set a record for Democratic debates, but it still fell short of the GOP's ratings and wasn't even the night's most-watched show.",
+      "sailthru.image.full": "https://fortunedotcom.files.wordpress.com/2015/10/rts4cpx.jpg?quality=80",
+      "sailthru.image.thumb": "https://fortunedotcom.files.wordpress.com/2015/10/rts4cpx.jpg?quality=80&w=50",
+      "application-name": "Fortune",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "Fortune 500 Daily & Breaking Business News",
+      "msapplication-task": "name=Subscribe;action-uri=http://fortune.com/feed/;icon-uri=http://1.gravatar.com/blavatar/fb4e3ba42c64ab42efc0c76495b59a33?s=16",
+      "og:site_name": "Fortune",
+      "og:type": "article",
+      "og:locale": "en_US",
+      "og:url": "http://fortune.com/2015/10/14/democratic-debate-tuesday-ratings/",
+      "og:title": "More people watched 'NCIS' than the Democratic debate",
+      "og:description": "CNN's broadcast set a record for Democratic debates, but it still fell short of the GOP's ratings and wasn't even the night's most-watched show.",
+      "article:published_time": "2015-10-14T20:04:15+00:00",
+      "article:modified_time": "2015-10-14T20:04:15+00:00",
+      "article:author": "http://fortune.com/author/tom-huddleston-jr/",
+      "article:section": "Entertainment",
+      "article:tag": "2016 Democratic Debate"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bad Lip Reading Warps Civil Dem Debate Into Hilarious Nonsense ...",
+   "htmlTitle": "Bad Lip Reading Warps Civil \u003cb\u003eDem Debate\u003c/b\u003e Into Hilarious Nonsense \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.rollingstone.com/politics/news/bad-lip-reading-warps-civil-dem-debate-into-hilarious-nonsense-20151029",
+   "displayLink": "www.rollingstone.com",
+   "snippet": "Oct 29, 2015 ... The first Democratic presidential debate of the 2016 election will be remembered \nfor several things: The man Jim Webb killed in Vietnam, ...",
+   "htmlSnippet": "Oct 29, 2015 \u003cb\u003e...\u003c/b\u003e The first \u003cb\u003eDemocratic\u003c/b\u003e presidential \u003cb\u003edebate\u003c/b\u003e of the 2016 election will be remembered \u003cbr\u003e\nfor several things: The man Jim Webb killed in Vietnam,&nbsp;...",
+   "cacheId": "e70PGbuqwSoJ",
+   "formattedUrl": "www.rollingstone.com/.../bad-lip-reading-warps-civil-dem-debate-into- hilarious-nonsense-20151029",
+   "htmlFormattedUrl": "www.rollingstone.com/.../bad-lip-reading-warps-civil-\u003cb\u003edem\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-into- hilarious-nonsense-20151029",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.rollingstone.com/assets/2015/article/bad-lip-reading-warps-civil-dem-debate-into-hilarious-nonsense-20151029/214729/large_rect/1446132981/1401x788-lipreading.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNO5GlFqA8GQXQxGqwMGojGL2TgUo-ES2suC8mxV1nImJ8C6f26q7hmS4q"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, maximum-scale=1.0, target-densityDpi=device-dpi",
+      "news_keywords": "bad lip reading, democratic presidential debate, election 2016, bad lip reading democratic debate, democratic debate, hillary clinton, bernie sanders",
+      "og:url": "http://www.rollingstone.com/politics/news/bad-lip-reading-warps-civil-dem-debate-into-hilarious-nonsense-20151029",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@RollingStone",
+      "twitter:title": "Bad Lip Reading Warps Civil Dem Debate Into Hilarious Nonsense",
+      "og:title": "Bad Lip Reading Warps Civil Dem Debate Into Hilarious Nonsense",
+      "twitter:description": "Bernie Sanders praises Hillary Clinton's pinto beans, Jim Webb remains weird, Lincoln Chafee is still there",
+      "og:description": "Bernie Sanders praises Hillary Clinton's pinto beans, Jim Webb remains weird, Lincoln Chafee is still there",
+      "og:image": "http://assets.rollingstone.com/assets/2015/article/bad-lip-reading-warps-civil-dem-debate-into-hilarious-nonsense-20151029/214729/large_rect/1446132981/1401x788-lipreading.jpg",
+      "og:image:width": "1401",
+      "og:image:height": "788",
+      "twitter:image:src": "http://assets.rollingstone.com/assets/2015/article/bad-lip-reading-warps-civil-dem-debate-into-hilarious-nonsense-20151029/214729/large_rect/1446132981/1401x788-lipreading.jpg",
+      "fb:app_id": "107978575944240",
+      "og:type": "article",
+      "og:site_name": "Rolling Stone",
+      "article:publisher": "https://www.facebook.com/rollingstone",
+      "article:published_time": "2015-10-29T16:16:00Z"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CBS Shifts Emphasis of Democratic Debate to Reflect Paris Attacks ...",
+   "htmlTitle": "CBS Shifts Emphasis of \u003cb\u003eDemocratic Debate\u003c/b\u003e to Reflect Paris Attacks \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nytimes.com/2015/11/14/us/politics/democratic-debate-to-get-new-terrorism-focus-after-paris-attacks-cbs-says.html",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Nov 14, 2015 ... DES MOINES — In the hours after the deadly attacks in Paris, CBS News \nsignificantly reworked its plans for the Democratic presidential debate ...",
+   "htmlSnippet": "Nov 14, 2015 \u003cb\u003e...\u003c/b\u003e DES MOINES — In the hours after the deadly attacks in Paris, CBS News \u003cbr\u003e\nsignificantly reworked its plans for the \u003cb\u003eDemocratic\u003c/b\u003e presidential \u003cb\u003edebate\u003c/b\u003e&nbsp;...",
+   "formattedUrl": "www.nytimes.com/.../democratic-debate-to-get-new-terrorism-focus-after- paris-attacks-cbs-says.html",
+   "htmlFormattedUrl": "www.nytimes.com/.../\u003cb\u003edemocratic\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-to-get-new-terrorism-focus-after- paris-attacks-cbs-says.html",
+   "pagemap": {
+    "organization": [
+     {
+      "name": "The New York Times Company",
+      "tickersymbol": "NYSE NYT"
+     }
+    ],
+    "person": [
+     {
+      "name": "EMILY STEEL"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "The network’s news team has reworked plans and reformulated questions for the Saturday debate to make them more related to terrorism and national security.",
+      "genre": "News",
+      "identifier": "100000004037333",
+      "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+      "inlanguage": "en-US",
+      "datepublished": "2015-11-14",
+      "articlesection": "Politics",
+      "datemodified": "2015-11-14",
+      "headline": "CBS Shifts Emphasis of Democratic Debate to Reflect Paris Attacks",
+      "articlebody": "DES MOINES — In the hours after the deadly attacks in Paris, CBS News significantly reworked its plans for the Democratic presidential debate it is hosting here on Saturday night to focus...",
+      "copyrightnotice": "© 2015 The New York Times Company",
+      "copyrightyear": "2015"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+      "sourceapp": "nyt-v5",
+      "applicationname": "article",
+      "al:android:url": "nytimes://reader/id/100000004037333",
+      "al:android:package": "com.nytimes.android",
+      "al:android:app_name": "NYTimes",
+      "twitter:app:name:googleplay": "NYTimes",
+      "twitter:app:id:googleplay": "com.nytimes.android",
+      "twitter:app:url:googleplay": "nytimes://reader/id/100000004037333",
+      "al:iphone:url": "nytimes://www.nytimes.com/2015/11/14/us/politics/democratic-debate-to-get-new-terrorism-focus-after-paris-attacks-cbs-says.html",
+      "al:iphone:app_store_id": "284862083",
+      "al:iphone:app_name": "NYTimes",
+      "al:ipad:url": "nytimes://www.nytimes.com/2015/11/14/us/politics/democratic-debate-to-get-new-terrorism-focus-after-paris-attacks-cbs-says.html",
+      "al:ipad:app_store_id": "357066198",
+      "al:ipad:app_name": "NYTimes",
+      "articleid": "100000004037333",
+      "usageterms": "http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html",
+      "hdl": "CBS Shifts Emphasis of Democratic Debate to Reflect Paris Attacks",
+      "pdate": "20151114",
+      "utime": "20151114213254",
+      "ptime": "20151114005025",
+      "displaydate": "Nov. 14, 2015",
+      "dat": "Nov. 14, 2015",
+      "lp": "The network’s news team has reworked plans and reformulated questions for the Saturday debate to make them more related to terrorism and national security.",
+      "msapplication-starturl": "http://www.nytimes.com",
+      "cre": "The New York Times",
+      "slug": "14cbs",
+      "article:collection": "http://json8.nytimes.com/services/json/sectionfronts/politics/index.jsonp",
+      "sectionfront_jsonp": "http://json8.nytimes.com/services/json/sectionfronts/politics/index.jsonp",
+      "og:url": "http://www.nytimes.com/2015/11/14/us/politics/democratic-debate-to-get-new-terrorism-focus-after-paris-attacks-cbs-says.html",
+      "og:type": "article",
+      "og:title": "CBS Shifts Emphasis of Democratic Debate to Reflect Paris Attacks",
+      "og:description": "The network’s news team has reworked plans and reformulated questions for the Saturday debate to make them more related to terrorism and national security.",
+      "article:published": "2015-11-14",
+      "article:section": "Politics",
+      "article:section-taxonomy-id": "23FD6C8B-62D5-4CEA-A331-6C2A9A1223BE",
+      "article:section_url": "http://www.nytimes.com/pages/national/index.html",
+      "fb:app_id": "9869919170",
+      "twitter:url": "http://www.nytimes.com/2015/11/14/us/politics/democratic-debate-to-get-new-terrorism-focus-after-paris-attacks-cbs-says.html",
+      "twitter:title": "CBS Shifts Emphasis of Democratic Debate to Reflect Paris Attacks",
+      "twitter:description": "The network’s news team has reworked plans and reformulated questions for the Saturday debate to make them more related to terrorism and national security.",
+      "author": "Emily Steel",
+      "tone": "news",
+      "byl": "By EMILY STEEL",
+      "pt": "article",
+      "cg": "us",
+      "scg": "politics",
+      "pst": "News",
+      "tom": "News",
+      "edt": "The New York Times on the Web"
+     }
+    ]
+   }
+  }
+ ]
+}
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - dem debate",
+    "totalResults": "974000",
+    "searchTerms": "dem debate",
+    "count": 10,
+    "startIndex": 31,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - dem debate",
+    "totalResults": "974000",
+    "searchTerms": "dem debate",
+    "count": 10,
+    "startIndex": 21,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ],
+  "previousPage": [
+   {
+    "title": "Google Custom Search - dem debate",
+    "totalResults": "974000",
+    "searchTerms": "dem debate",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "010165319554274961907:fpaojyvacss"
+   }
+  ]
+ },
+ "context": {
+  "title": "GoogleBias"
+ },
+ "searchInformation": {
+  "searchTime": 0.304704,
+  "formattedSearchTime": "0.30",
+  "totalResults": "974000",
+  "formattedTotalResults": "974,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Overnight ratings point to Democratic debate record - Oct. 14, 2015",
+   "htmlTitle": "Overnight ratings point to \u003cb\u003eDemocratic debate\u003c/b\u003e record - Oct. 14, 2015",
+   "link": "http://money.cnn.com/2015/10/14/media/cnn-democratic-debate-ratings-record/",
+   "displayLink": "money.cnn.com",
+   "snippet": "Oct 14, 2015 ... CNN's Tuesday night debate averaged 15.3 million viewers, easily making it the \nhighest-rated Democratic debate ever.",
+   "htmlSnippet": "Oct 14, 2015 \u003cb\u003e...\u003c/b\u003e CNN&#39;s Tuesday night debate averaged 15.3 million viewers, easily making it the \u003cbr\u003e\nhighest-rated \u003cb\u003eDemocratic debate\u003c/b\u003e ever.",
+   "cacheId": "GxzimPz8-R4J",
+   "formattedUrl": "money.cnn.com/2015/10/14/.../cnn-democratic-debate-ratings-record/",
+   "htmlFormattedUrl": "money.cnn.com/2015/10/14/.../cnn-\u003cb\u003edemocratic\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-ratings-record/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/money/dam/assets/151013205306-democratic-debate-candidates2-780x439.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQii0oRTGOAnSRHZHTSRmk2VGTAOQ9QONbN8X6z87uK6Mdrn1RGJd2FLXqu"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1140",
+      "date": "2015-10-14 09:52:09",
+      "title": "Overnight ratings point to Democratic debate record",
+      "news_keywords": "cnn, democratic debate, #demdebate, nielsen, ratings, television, hillary clinton, bernie sanders",
+      "author": "Brian Stelter",
+      "section": "media",
+      "og:title": "Overnight ratings point to Democratic debate record",
+      "og:type": "article",
+      "og:url": "http://money.cnn.com/2015/10/14/media/cnn-democratic-debate-ratings-record/index.html",
+      "og:image": "http://i2.cdn.turner.com/money/dam/assets/151013205306-democratic-debate-candidates2-780x439.jpg",
+      "og:site_name": "CNNMoney",
+      "og:description": "CNN's Tuesday night debate averaged 15.3 million viewers, easily making it the highest-rated Democratic debate ever.",
+      "fb:app_id": "521848191196480",
+      "twitter:card": "summary_large_image",
+      "twitter:site": "@CNNMoney",
+      "twitter:url": "http://money.cnn.com/2015/10/14/media/cnn-democratic-debate-ratings-record/index.html",
+      "twitter:title": "Overnight ratings point to Democratic debate record",
+      "twitter:description": "CNN's Tuesday night debate averaged 15.3 million viewers, easily making it the highest-rated Democratic debate ever.",
+      "twitter:image": "http://i2.cdn.turner.com/money/dam/assets/151013205306-democratic-debate-candidates2-540x304.jpg",
+      "dc.date.issued": "2015-10-14T09:52:09",
+      "vr:type": "Article",
+      "vr:category": "media"
+     }
+    ],
+    "comment": [
+     {
+      "author": "Andrew Doe",
+      "datecreated": "2015-10-16T13:46:15.000Z",
+      "text": "I guess the \"record\" is for CNN. Cause it was almost 10 million behind the GOP (http://money.cnn.com/2015/08/07/media/gop-debate-fox-news-ratings/)."
+     },
+     {
+      "author": "Ghazanfar Hussain",
+      "datecreated": "2015-10-16T12:31:04.000Z",
+      "text": "Was able to watch the whole debate hassle free on http://www.livenewsbox.com/american/cnn-news-usa.htmli think cnn should modify their ios app so that it start streaming on my ipad too."
+     },
+     {
+      "author": "Girardus",
+      "datecreated": "2015-10-16T01:29:36.000Z",
+      "text": "Bernie Sanders did a great job! #FeelTheBern"
+     },
+     {
+      "author": "Tinu Patel",
+      "datecreated": "2015-10-16T01:15:11.000Z",
+      "text": "Do not vote for failures vote for a successful man who loves this country. Make sure that person in your mind is DONALD TRUMP."
+     },
+     {
+      "author": "Dave Hoffman",
+      "datecreated": "2015-10-15T16:33:53.000Z",
+      "text": "Vote Ben Carson democrats, he's black and his life matters!"
+     },
+     {
+      "author": "Dave Hoffman",
+      "datecreated": "2015-10-15T16:32:42.000Z",
+      "text": "Your guys debates are funny.... Robot Hillary, the old socialist guy and 2 candidates know one has heard of, why bother? they serve no purpose."
+     },
+     {
+      "author": "Dave Hoffman",
+      "datecreated": "2015-10-15T16:29:02.000Z",
+      "text": "Ok all Democrats, tell me how Hillary said she read the trade deal and now does not like it when it has not been released to the public or even congress? Just another untruth by Hillary. she..."
+     },
+     {
+      "author": "joinedthisday",
+      "datecreated": "2015-10-15T16:00:39.000Z",
+      "text": "https://www.youtube.com/watch?v=NWCOkPMXzrk why would you delete your own online poll?"
+     },
+     {
+      "author": "Rick Berton",
+      "datecreated": "2015-10-15T11:48:30.000Z",
+      "text": "Concerning free college, there is a fact that most advocates won't admit. Some people don't belong in college. To pay for free college for a person who's not qualified and who would probably..."
+     },
+     {
+      "author": "Sirdirkfan1",
+      "datecreated": "2015-10-15T06:13:18.000Z",
+      "text": "Good thing that 'Democrat' was stipulated because Trump had 24 million for the debate.What happened to Hillary and her 'draw?'Hillary mentioned her values as criteria for voting for her.She's..."
+     },
+     {
+      "author": "onlydem",
+      "datecreated": "2015-10-15T03:13:58.000Z",
+      "text": "So many people talk about high taxes in Denmark and socialist countries and claim that it will never fly but you have to know more. Growing up in a socialist country...once you don't have to..."
+     },
+     {
+      "author": "NASHman19",
+      "datecreated": "2015-10-15T01:33:27.000Z",
+      "text": "Watching last night's Race to the Left will no doubt help Trump's poll numbers. I thought Sanders was supposed to have ballz but his cowering to Hillary was rather path etic, she will easily..."
+     },
+     {
+      "author": "DustinG",
+      "datecreated": "2015-10-15T05:07:30.000Z",
+      "text": "@NASHman19 Cowering? They fought over gun control and they fought over banking regulations. How is that cowering?"
+     },
+     {
+      "author": "Sirdirkfan1",
+      "datecreated": "2015-10-15T06:16:31.000Z",
+      "text": "@DustinG @NASHman19 From those interviewed afterward the debate was summed up as a debate for blacks."
+     },
+     {
+      "author": "WeihaiCN",
+      "datecreated": "2015-10-14T22:19:57.000Z",
+      "text": "I want to know why Webb was not given more opportunity to speak. Seems to me like CNN likes Hillary then Bernie. I turned it off 45 minutes. All stuff I had heard before. Losers."
+     },
+     {
+      "author": "Rosemary Sweeney-Johnson",
+      "datecreated": "2015-10-14T21:38:08.000Z",
+      "text": "Anderson Cooper was obviously Clinton biased. She was the only one he let finish. He was snotty to everyone else. Hillary tried to portray herself as growing up a factory workers child. She..."
+     },
+     {
+      "author": "NASHman19",
+      "datecreated": "2015-10-15T01:01:47.000Z",
+      "text": "@Rosemary Sweeney-Johnson \"We should have free college and medical like other countries\"................why can't you understand that nothing is \"free\"?!? Someone is paying for it, one way or another."
+     },
+     {
+      "author": "booboospal",
+      "datecreated": "2015-10-15T01:18:44.000Z",
+      "text": "NASH: Do you really think people don't understand that? Calling something \"free\" just means that the user/recipient does not uniquely pay for it. Your point is semantic, not substantive."
+     },
+     {
+      "author": "NASHman19",
+      "datecreated": "2015-10-15T01:23:36.000Z",
+      "text": "@booboospal Yes, I really do believe there are low intellect voters who actually think these things are \"free\" based on various comments read daily here but feel free to speak for everyone..."
+     },
+     {
+      "author": "booboospal",
+      "datecreated": "2015-10-15T04:11:28.000Z",
+      "text": "I doubt a dozen people believe that the folks who work at colleges or medical facilities all do it for no pay, there is no rent paiid in the facilities, supplies are offered for no cost, etc?You..."
+     },
+     {
+      "author": "chuckrrrrrrr",
+      "datecreated": "2015-10-15T02:56:59.000Z",
+      "text": "@NASHman19 @Rosemary Sweeney-Johnson yes..there are plenty of low information voters that believe that"
+     },
+     {
+      "author": "Steve Winston",
+      "datecreated": "2015-10-14T19:36:41.000Z",
+      "text": "Why do govt employees earn nearly twice as much as their counterparts in the private sector? It's so the Democrats can count on their political donations and free campaign work for the Dem..."
+     },
+     {
+      "author": "URwhatisrong",
+      "datecreated": "2015-10-14T19:39:30.000Z",
+      "text": "@Steve Winston Why don't you get a government job?"
+     },
+     {
+      "author": "Richard Kowalski",
+      "datecreated": "2015-10-15T17:54:54.000Z",
+      "text": "@URwhatisrong; In this affirmative action US, white males are the last ones hired."
+     },
+     {
+      "author": "Money User",
+      "datecreated": "2015-10-14T20:38:55.000Z",
+      "text": "@Steve Winston \"Why do govt employees earn nearly twice as much as their counterparts in the private sector?\"Because they don't."
+     },
+     {
+      "author": "booboospal",
+      "datecreated": "2015-10-14T21:45:39.000Z",
+      "text": "@Steve Winston They don't, for most job categories."
+     },
+     {
+      "author": "CPTWho",
+      "datecreated": "2015-10-14T23:26:04.000Z",
+      "text": "@Steve Winston Is that why the military kept getting huge pay raises during the Bush years?"
+     },
+     {
+      "author": "URwhatisrong",
+      "datecreated": "2015-10-14T19:28:34.000Z",
+      "text": "Bernie - Hillary - one of them will be elected and America wins again."
+     },
+     {
+      "author": "Freedom311",
+      "datecreated": "2015-10-14T19:36:28.000Z",
+      "text": "@URwhatisrong Naaaa. The middle class doesn't want to pay more than half of what they earn in taxes like Bernie's so called paradise in Denmark, nor do they want to pay a 25% sales tax like..."
+     },
+     {
+      "author": "URwhatisrong",
+      "datecreated": "2015-10-14T19:37:45.000Z",
+      "text": "@Freedom311 @URwhatisrong No they want low pay, long hours and high prices like Republicans are offering."
+     },
+     {
+      "author": "chuckrrrrrrr",
+      "datecreated": "2015-10-15T03:02:41.000Z",
+      "text": "@URwhatisrong @Freedom311 Republicans aren't offering hours, pay or prices. Move to Cuba ,North Korea or Venezuela if you want government to control thoose things"
+     },
+     {
+      "author": "Rick Berton",
+      "datecreated": "2015-10-15T11:38:32.000Z",
+      "text": "@URwhatisrong @Freedom311 Wrong, You're confusing that with the Obama economy."
+     },
+     {
+      "author": "Sam Sneed",
+      "datecreated": "2015-10-14T21:05:01.000Z",
+      "text": "@Freedom311 @URwhatisrong All he has to do is show a graph of tax burden from 1945-1982 and the median income with labor participation compared with 1982-2015"
+     },
+     {
+      "author": "WeihaiCN",
+      "datecreated": "2015-10-14T22:21:20.000Z",
+      "text": "@URwhatisrong Lets truly hope not."
+     },
+     {
+      "author": "NASHman19",
+      "datecreated": "2015-10-15T01:43:13.000Z",
+      "text": "@URwhatisrong Why didn't Bernie talk about his $18 trillion new spending plan over the next 10 years?!? That is gold, Bernie, gold............Hahahahahaha!!!!!"
+     },
+     {
+      "author": "URwhatisrong",
+      "datecreated": "2015-10-14T19:03:32.000Z",
+      "text": "Lucky Colin Powell isn't running for president because he used a private email server too when he was Sec. State. Then again the email nonsense is just that a nonsensical witch hunt by Republicans..."
+     },
+     {
+      "author": "Freedom311",
+      "datecreated": "2015-10-14T19:04:31.000Z",
+      "text": "@URwhatisrong The law has changed since he left. In fact Hillary fired people for doing the same thing she did."
+     },
+     {
+      "author": "URwhatisrong",
+      "datecreated": "2015-10-14T19:05:39.000Z",
+      "text": "@Freedom311 @URwhatisrong Technicality. More Americans died over seas while Gen. Powell was Sec. State. The outrage is phony."
+     },
+     {
+      "author": "NASHman19",
+      "datecreated": "2015-10-15T01:09:41.000Z",
+      "text": "@URwhatisrong So it is a \"technicality\" that Clinton sent out memos to State Department personnel and warned them about the use of private e-mail accounts for government business while exclusively..."
+     },
+     {
+      "author": "WeihaiCN",
+      "datecreated": "2015-10-14T22:23:47.000Z",
+      "text": "@URwhatisrong Where do get such nonsense? In today's world you should not use private emails for government business."
+     },
+     {
+      "author": "NASHman19",
+      "datecreated": "2015-10-15T01:04:51.000Z",
+      "text": "@URwhatisrong FALSE: Clinton is the only one who ever used a private e-mail server, learn the difference between an e-mail account and a server. Don't believe me, just check out the Washington..."
+     },
+     {
+      "author": "chuckrrrrrrr",
+      "datecreated": "2015-10-15T03:05:18.000Z",
+      "text": "@URwhatisrong private email and private server are not the same thing, and Powel didn't lie about it."
+     },
+     {
+      "author": "Freedom311",
+      "datecreated": "2015-10-14T19:03:02.000Z",
+      "text": "Bernie says he wants to emulate Denmark, but fails to mention the fact that the Danish middle class pay at or near 50% in income taxes, because there is not enough money to pay their programs..."
+     },
+     {
+      "author": "URwhatisrong",
+      "datecreated": "2015-10-14T19:04:14.000Z",
+      "text": "@Freedom311 50% and college and health care are covered. Did you want something for free? Of course you do."
+     },
+     {
+      "author": "Sam Sneed",
+      "datecreated": "2015-10-14T21:14:03.000Z",
+      "text": "@URwhatisrong @Freedom311 A 35 hour work week, health care,education,and a safety net of social security? No I don't want any of that in my life. I think Germany would be nice to emulate though..."
+     },
+     {
+      "author": "chuckrrrrrrr",
+      "datecreated": "2015-10-15T03:10:16.000Z",
+      "text": "@Sam Sneed @URwhatisrong @Freedom311 In Cuba alot of people don't have to have a job and they get free health care. What could be better"
+     },
+     {
+      "author": "Rick Berton",
+      "datecreated": "2015-10-15T11:36:30.000Z",
+      "text": "@chuckrrrrrrr @Sam Sneed @URwhatisrong @Freedom311 WOW, that's great! If I ever need heart surgery, I'll be sure to have it done in a Cuban hospital."
+     },
+     {
+      "author": "Stevie Whiteboard",
+      "datecreated": "2015-10-14T18:56:57.000Z",
+      "text": "I'm curious. i wonder what the Republican debates would be like without Trump."
+     },
+     {
+      "author": "Burns8282",
+      "datecreated": "2015-10-14T18:45:43.000Z",
+      "text": "What was the point. None of the candidates are anything but cowards trying to earn a spot in Hillary's good graces."
+     },
+     {
+      "author": "URwhatisrong",
+      "datecreated": "2015-10-14T18:52:24.000Z",
+      "text": "@Burns8282 Wise of them as she's most likely to be president."
+     },
+     {
+      "author": "WeihaiCN",
+      "datecreated": "2015-10-14T22:27:30.000Z",
+      "text": "@URwhatisrong @Burns8282 i hope not."
+     },
+     {
+      "author": "chuckrrrrrrr",
+      "datecreated": "2015-10-15T03:13:22.000Z",
+      "text": "@URwhatisrong @Burns8282 Right...everything for the party. Personal beliefs and convictions are subservient to dear leader"
+     }
+    ],
+    "Person": [
+     {
+      "url": "@NASHman19",
+      "name": "NASHman19"
+     },
+     {
+      "url": "@DustinG",
+      "name": "DustinG"
+     },
+     {
+      "url": "@NASHman19",
+      "name": "NASHman19"
+     },
+     {
+      "url": "@Rosemary Sweeney-Johnson",
+      "name": "Rosemary Sweeney-Johnson"
+     },
+     {
+      "url": "@booboospal",
+      "name": "booboospal"
+     },
+     {
+      "url": "@NASHman19",
+      "name": "NASHman19"
+     },
+     {
+      "url": "@Rosemary Sweeney-Johnson",
+      "name": "Rosemary Sweeney-Johnson"
+     },
+     {
+      "url": "@Steve Winston",
+      "name": "Steve Winston"
+     },
+     {
+      "url": "@URwhatisrong",
+      "name": "URwhatisrong"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "NASHman19",
+      "url": "@NASHman19"
+     },
+     {
+      "fn": "DustinG",
+      "nickname": "DustinG",
+      "url": "@DustinG"
+     },
+     {
+      "fn": "NASHman19",
+      "url": "@NASHman19"
+     },
+     {
+      "fn": "Rosemary Sweeney-Johnson",
+      "url": "@Rosemary Sweeney-Johnson"
+     },
+     {
+      "fn": "booboospal",
+      "nickname": "booboospal",
+      "url": "@booboospal"
+     },
+     {
+      "fn": "NASHman19",
+      "url": "@NASHman19"
+     },
+     {
+      "fn": "Rosemary Sweeney-Johnson",
+      "url": "@Rosemary Sweeney-Johnson"
+     },
+     {
+      "fn": "Steve Winston",
+      "url": "@Steve Winston"
+     },
+     {
+      "fn": "URwhatisrong",
+      "nickname": "URwhatisrong",
+      "url": "@URwhatisrong"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The CNN Democratic Debate in 90 Seconds",
+   "htmlTitle": "The CNN \u003cb\u003eDemocratic Debate\u003c/b\u003e in 90 Seconds",
+   "link": "http://www.slate.com/articles/news_and_politics/video/2015/10/cnn_democratic_debate_recap_all_the_hillary_and_bernie_action_from_the_first.html",
+   "displayLink": "www.slate.com",
+   "snippet": "Oct 14, 2015 ... Miss Tuesday's Democratic debate? In the above recap video, we've trimmed the \nfat from the Anderson Cooper-moderated debate down to a ...",
+   "htmlSnippet": "Oct 14, 2015 \u003cb\u003e...\u003c/b\u003e Miss Tuesday&#39;s \u003cb\u003eDemocratic debate\u003c/b\u003e? In the above recap video, we&#39;ve trimmed the \u003cbr\u003e\nfat from the Anderson Cooper-moderated debate down to a&nbsp;...",
+   "cacheId": "Ta0mVZW-68EJ",
+   "formattedUrl": "www.slate.com/.../cnn_democratic_debate_recap_all_the_hillary_and_bernie _action_from_the_first.html",
+   "htmlFormattedUrl": "www.slate.com/.../cnn_\u003cb\u003edemocratic\u003c/b\u003e_\u003cb\u003edebate\u003c/b\u003e_recap_all_the_hillary_and_bernie _action_from_the_first.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.slate.com/content/dam/slate/uploads/2015/10/14/492536068-democratic-presidential-candidates-u-s-sen-bernie.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "186",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9_2h0LL1qSZEfjBunvVjf5ZZqUyZdiOcm8sOJFX3zYd7wdvQgIf7nr_-U"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "og:title": "Watch the CNN Democratic Debate Recapped in 90 Seconds",
+      "article:publisher": "http://www.facebook.com/Slate",
+      "og:type": "article",
+      "og:url": "http://www.slate.com/articles/news_and_politics/video/2015/10/cnn_democratic_debate_recap_all_the_hillary_and_bernie_action_from_the_first.html",
+      "og:image": "http://www.slate.com/content/dam/slate/uploads/2015/10/14/492536068-democratic-presidential-candidates-u-s-sen-bernie.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "og:site_name": "Slate Magazine",
+      "og:description": "Miss Tuesday’s Democratic debate? In the above recap video, we’ve trimmed the fat from the Anderson Cooper-moderated debate down to a much more manageable",
+      "fb:app_id": "142011022527753",
+      "tw-line": "Watch the CNN Democratic debate recapped in 90 seconds",
+      "fb-share": "More socialism, less Trump.",
+      "parsely-page": "{   \"title\": \"Watch the CNN Democratic Debate Recapped in 90 Seconds\",   \"link\": \"http://www.slate.com/articles/news_and_politics/video/2015/10/cnn_democratic_debate_recap_all_the_hillary_and_bernie_action_from_the_first.html\",   \"image_url\": \"http://www.slate.com/content/dam/slate/uploads/2015/10/14/492536068-democratic-presidential-candidates-u-s-sen-bernie.jpg.CROP.thumbnail-small.jpg\",   \"type\": \"post\",   \"post_id\": \"100151014006\",   \"pub_date\": \"2015-10-14T03:21:54Z\",   \"section\": \"News and Politics\",   \"author\": \"Christian Lesperance and A.J. McCarthy\",   \"tags\": [\"dem primary 2016\"] }",
+      "sailthru.tags": "democratic debate, debate recap, cnn debate, cnn democratic debate, democrat debate, hi",
+      "sailthru.author": "Christian Lesperance, A.J. McCarthy",
+      "sailthru.date": "2015-10-14T03:21:54Z",
+      "sailthru.description": "Miss Tuesday’s Democratic debate? In the above recap video, we’ve trimmed the fat from the Anderson Cooper-moderated debate down to a much more manageable",
+      "sailthru.image.full": "http://www.slate.com/content/dam/slate/uploads/2015/10/14/492536068-democratic-presidential-candidates-u-s-sen-bernie.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "sailthru.headline": "The CNN Democratic Debate in 90 Seconds",
+      "sailthru.subheadline": "More socialism, less Trump.",
+      "sailthru.promoheadline": "Watch the CNN Democratic Debate Recapped in 90 Seconds"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Twitter Can't Get Over How White The Dem Debate Is | The Daily ...",
+   "htmlTitle": "Twitter Can&#39;t Get Over How White The \u003cb\u003eDem Debate\u003c/b\u003e Is | The Daily \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://dailycaller.com/2015/10/13/twitter-cant-get-over-how-white-the-dem-debate-is/",
+   "displayLink": "dailycaller.com",
+   "snippet": "Oct 13, 2015 ... Both conservatives and liberals on Twitter erupted against the uniform whiteness \nof the Democratic candidates at Tuesday's debate.",
+   "htmlSnippet": "Oct 13, 2015 \u003cb\u003e...\u003c/b\u003e Both conservatives and liberals on Twitter erupted against the uniform whiteness \u003cbr\u003e\nof the \u003cb\u003eDemocratic\u003c/b\u003e candidates at Tuesday&#39;s \u003cb\u003edebate\u003c/b\u003e.",
+   "cacheId": "0fFq0k9Hnt8J",
+   "formattedUrl": "dailycaller.com/.../twitter-cant-get-over-how-white-the-dem-debate-is/",
+   "htmlFormattedUrl": "dailycaller.com/.../twitter-cant-get-over-how-white-the-\u003cb\u003edem\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-is/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn01.dailycaller.com/wp-content/uploads/2015/06/GettyImages-187232843-1-e1444787671730.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "343",
+      "height": "147",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUR8qlzHiuNqr3hRSnEJ1tEmVxh-AP6B9rabwkJoWeykUcr-Xp67M9w31e"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:url": "http://dailycaller.com/2015/10/13/twitter-cant-get-over-how-white-the-dem-debate-is/",
+      "twitter:card": "summary",
+      "twitter:site": "@dailycaller",
+      "twitter:site:id": "39308549",
+      "twitter:title": "Twitter Can’t Get Over How White The Dem Debate Is Via @dailycaller",
+      "twitter:description": "'Is this a presidential debate or a white power rally?'",
+      "twitter:image:src": "http://dailycaller.com/wp-content/uploads/2015/06/GettyImages-187232843-1-e1444787671730.jpg",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+      "fb:app_id": "143489452702",
+      "og:site_name": "The Daily Caller",
+      "og:description": "The Democratic Party is increasingly defined by its support among America's younger and non-white population, but Tuesday night's Democratic debate drew stark attention to the fact that all five of th",
+      "og:title": "Twitter Can’t Get Over How White The Dem Debate Is",
+      "og:url": "http://dailycaller.com/2015/10/13/twitter-cant-get-over-how-white-the-dem-debate-is/",
+      "og:type": "article",
+      "og:image": "http://cdn01.dailycaller.com/wp-content/uploads/2015/06/GettyImages-187232843-1-e1444787671730.jpg",
+      "og:image:width": "1200",
+      "og:image:height": "516",
+      "sailthru.description": "The Democratic Party is increasingly defined by its support among America's younger and non-white population, but Tuesday night's Democratic debate drew stark attention to the fact that all five of th",
+      "sailthru.title": "Twitter Can't Get Over How White The Dem Debate Is",
+      "sailthru.date": "2015-10-13 22:04:01",
+      "sailthru.image.full": "http://cdn01.dailycaller.com/wp-content/uploads/2015/06/GettyImages-187232843-1-e1444787671730.jpg",
+      "sailthru.author": "Blake Neff",
+      "sailthru.tags": "bernie-sanders,cnn,elections-2016,hillary-clinton,jim-webb,martin-omalley,blake-neff",
+      "wp-parsely_version": "1.6",
+      "parsely-page": "{\"title\":\"Twitter Can’t Get Over How White The Dem Debate Is\",\"link\":\"http:\\/\\/dailycaller.com\\/2015\\/10\\/13\\/twitter-cant-get-over-how-white-the-dem-debate-is\\/\",\"image_url\":\"http:\\/\\/dailycaller.com\\/wp-content\\/uploads\\/2015\\/06\\/GettyImages-187232843-1-e1436905703887-220x120.jpg\",\"type\":\"post\",\"post_id\":\"4748810\",\"pub_date\":\"2015-10-14T02:04:01Z\",\"section\":\"Uncategorized\",\"author\":\"Blake Neff\",\"tags\":[\"bernie sanders\",\"cnn\",\"elections 2016\",\"hillary clinton\",\"jim webb\",\"lincoln chafee\",\"martin o\\u0027malley\"]}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dem Debate Live Blog #2",
+   "htmlTitle": "\u003cb\u003eDem Debate\u003c/b\u003e Live Blog #2",
+   "link": "http://talkingpointsmemo.com/edblog/dem-debate-live-blog-2",
+   "displayLink": "talkingpointsmemo.com",
+   "snippet": "Nov 14, 2015 ... This is an issue that's roiling the Democratic field and it's even getting tractions in \nthe GOP debates. 9:43 PM: I certainly do not expect to ever ...",
+   "htmlSnippet": "Nov 14, 2015 \u003cb\u003e...\u003c/b\u003e This is an issue that&#39;s roiling the \u003cb\u003eDemocratic\u003c/b\u003e field and it&#39;s even getting tractions in \u003cbr\u003e\nthe GOP \u003cb\u003edebates\u003c/b\u003e. 9:43 PM: I certainly do not expect to ever&nbsp;...",
+   "cacheId": "PhApmtxrUoEJ",
+   "formattedUrl": "talkingpointsmemo.com/edblog/dem-debate-live-blog-2",
+   "htmlFormattedUrl": "talkingpointsmemo.com/edblog/\u003cb\u003edem\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-live-blog-2",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:site_name": "TPM",
+      "fb:admins": "12330256",
+      "p:domain_verify": "da088b457e7d0e91a9f692968f1043c1",
+      "csrf-param": "authenticity_token",
+      "csrf-token": "QRW1QSADTCPhTBY6SJzdt001o73NCD03+fWYti7ZnM8=",
+      "parsely-metadata": "{}",
+      "parsely-page": "{\"title\":\"Dem Debate Live Blog #2\",\"link\":\"http://talkingpointsmemo.com/edblog/dem-debate-live-blog-2\",\"image_url\":null,\"type\":\"post\",\"section\":\"edblog\",\"author\":\"Josh Marshall\",\"pub_date\":\"2015-11-15T02:41:00Z\",\"post_id\":\"article_242856\",\"tags\":[]}",
+      "og:description": "9:39 PM: \"We’re going to have to redo how the pharmaceutical industry does business.\" That's Hillary. And that just sent chills down a lot of corporate spines. This is an issue that's roiling the Democratic field and it's even getting tractions in the GOP debates.  9:43 PM: I certainly do not expect to ever see the 90% income tax rates that were in effect in the 1950s, though the effective rate was much lower. But it showed a real element of unprofessionalism and deep bias that the moderators themselves (if I saw this right) actually broke into laughter when he said that. That was a real fail and a revealing one. Smug.  9:55 PM: The debate about the minimum wage usually get carried on by moderators who simply aren't aware of studies of the effects of the minimum wage in recent decades - particularly one covering the border between New Jersey and Pennsylvania. The empirical data shows that incremental increases to the minimum wage do not cause job losses. The actual empirical data shows this ... However, I t",
+      "og:title": "Dem Debate Live Blog #2",
+      "og:type": "article",
+      "og:url": "http://talkingpointsmemo.com/edblog/dem-debate-live-blog-2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Dem debate: Press calls Hillary Clinton the winner, no contest ...",
+   "htmlTitle": "The \u003cb\u003eDem debate\u003c/b\u003e: Press calls Hillary Clinton the winner, no contest \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.poynter.org/news/mediawire/378601/the-dem-debate-press-calls-hillary-clinton-the-winner-no-contest-almost/",
+   "displayLink": "www.poynter.org",
+   "snippet": "The Dem debate: Press calls Hillary Clinton the winner, no contest (almost). \navatar by James Warren Published Oct. 14, 2015 7:53 am. Good morning.",
+   "htmlSnippet": "The \u003cb\u003eDem debate\u003c/b\u003e: Press calls Hillary Clinton the winner, no contest (almost). \u003cbr\u003e\navatar by James Warren Published Oct. 14, 2015 7:53 am. Good morning.",
+   "cacheId": "n8QNNFXGO2QJ",
+   "formattedUrl": "www.poynter.org/.../the-dem-debate-press-calls-hillary-clinton-the-winner-no -contest-almost/",
+   "htmlFormattedUrl": "www.poynter.org/.../the-\u003cb\u003edem\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-press-calls-hillary-clinton-the-winner-no -contest-almost/",
+   "pagemap": {
+    "metatags": [
+     {
+      "twitter:account_id": "8383592",
+      "wp-parsely_version": "1.6",
+      "parsely-page": "{\"title\":\"The Dem debate: Press calls Hillary Clinton the winner, no contest (almost)\",\"link\":\"http:\\/\\/www.poynter.org\\/news\\/mediawire\\/378601\\/the-dem-debate-press-calls-hillary-clinton-the-winner-no-contest-almost\\/\",\"image_url\":\"\",\"type\":\"post\",\"post_id\":\"378601\",\"pub_date\":\"2015-10-14T11:53:14Z\",\"section\":\"MediaWire\",\"author\":\"James Warren\",\"tags\":[\"am newsletter\"]}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "#demdebate - Twitter Search",
+   "htmlTitle": "#\u003cb\u003edemdebate\u003c/b\u003e - Twitter Search",
+   "link": "https://twitter.com/search?q=%23demdebate",
+   "displayLink": "twitter.com",
+   "snippet": "The latest Tweets on #demdebate. Read what people are saying and join the \nconversation.",
+   "htmlSnippet": "The latest Tweets on #\u003cb\u003edemdebate\u003c/b\u003e. Read what people are saying and join the \u003cbr\u003e\nconversation.",
+   "cacheId": "FvMokpN0TIcJ",
+   "formattedUrl": "https://twitter.com/search?q=%23demdebate",
+   "htmlFormattedUrl": "https://twitter.com/search?q=%23\u003cb\u003edemdebate\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://pbs.twimg.com/media/CT0YydiWUAAJ0Ec.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "258",
+      "height": "195",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaNjugYrAJT2dm1F2--J_kOiauiHDs4MaYxufzEbWaJPvbBqcWCKgaRdpk"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//abs.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "search"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A Viewer's Guide to Tonight's First Democratic Debate - NBC News",
+   "htmlTitle": "A Viewer&#39;s Guide to Tonight&#39;s First \u003cb\u003eDemocratic Debate\u003c/b\u003e - NBC News",
+   "link": "http://www.nbcnews.com/meet-the-press/viewers-guide-tonights-first-democratic-debate-n443491",
+   "displayLink": "www.nbcnews.com",
+   "snippet": "Oct 13, 2015 ... A viewer's guide to tonight's debate: Tonight's Democratic presidential debate \nfrom Las Vegas won't look anything like the first two Republican ...",
+   "htmlSnippet": "Oct 13, 2015 \u003cb\u003e...\u003c/b\u003e A viewer&#39;s guide to tonight&#39;s \u003cb\u003edebate\u003c/b\u003e: Tonight&#39;s \u003cb\u003eDemocratic\u003c/b\u003e presidential \u003cb\u003edebate\u003c/b\u003e \u003cbr\u003e\nfrom Las Vegas won&#39;t look anything like the first two Republican&nbsp;...",
+   "cacheId": "lP4Eoa1if3UJ",
+   "formattedUrl": "www.nbcnews.com/.../viewers-guide-tonights-first-democratic-debate- n443491",
+   "htmlFormattedUrl": "www.nbcnews.com/.../viewers-guide-tonights-first-\u003cb\u003edemocratic\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e- n443491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media3.s-nbcnews.com/j/newscms/2015_42/1259901/democratic_debate_ad1ee1b7a67d70537fe54f3dfa81e9cb.nbcnews-fp-1200-800.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqbOKfEy5-OrdgraSyZ7DCovgg4If9cYEhcZJhKBwlV3qnLFpCQX28LYg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "thumbnailurl": "http://media3.s-nbcnews.com/j/newscms/2015_42/1259901/democratic_debate_ad1ee1b7a67d70537fe54f3dfa81e9cb.nbcnews-fp-1200-800.jpg",
+      "image": "http://media3.s-nbcnews.com/j/newscms/2015_42/1259901/democratic_debate_ad1ee1b7a67d70537fe54f3dfa81e9cb.nbcnews-fp-1200-800.jpg",
+      "description": "Here's what all five candidates need to accomplish and a reminder: Hillary Clinton is an experienced -- and aggressive - debater",
+      "articlesection": "Meet the Press",
+      "datemodified": "2015-10-13T18:15:36.000Z",
+      "headline": "A Viewer's Guide to Tonight's First Democratic Debate",
+      "author": "Leigh Ann Caldwell",
+      "articlebody": "(1:19) advertisementadvertisement \\${title} Text Display Font Default Arial Arial Black Courier Georgia Impact Lucida Sans Palatino Tahoma Times New Roman Size Default Tiny Small Medium Large...",
+      "datepublished": "2015-10-13T13:18:04.000Z"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "fb:app_id": "10150138890205613",
+      "og:site_name": "NBC News",
+      "og:description": "Here's what all five candidates need to accomplish and a reminder: Hillary Clinton is an experienced -- and aggressive - debater",
+      "og:title": "Your Guide to Tonight's First Democratic Debate",
+      "og:url": "http://www.nbcnews.com/meet-the-press/viewers-guide-tonights-first-democratic-debate-n443491",
+      "og:type": "article",
+      "og:image": "http://media3.s-nbcnews.com/j/newscms/2015_42/1259901/democratic_debate_ad1ee1b7a67d70537fe54f3dfa81e9cb.nbcnews-fp-1200-800.jpg",
+      "twitter:card": "summary",
+      "twitter:site": "meetthepress",
+      "twitter:title": "A Viewer's Guide to Tonight's First Democratic Debate - NBC News",
+      "twitter:description": "Here's what all five candidates need to accomplish and a reminder: Hillary Clinton is an experienced -- and aggressive - debater",
+      "twitter:creator": "meetthepress",
+      "twitter:domain": "NBCNews.com",
+      "twitter:image:src": "http://media3.s-nbcnews.com/j/newscms/2015_42/1259901/democratic_debate_ad1ee1b7a67d70537fe54f3dfa81e9cb.nbcnews-fp-1200-800.jpg",
+      "apple-itunes-app": "app-id=319740707, app-argument=http://www.nbcnews.com/meet-the-press/viewers-guide-tonights-first-democratic-debate-n443491",
+      "news_keywords": "Meet the Press,2016 Election",
+      "article:author": "https://www.facebook.com/NBCNews",
+      "dc.date.issued": "2015-10-13",
+      "blitz": "mu-e1e842c9-946002e6-ea8f0454-41b29546"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The CNN Democratic debate transcript, annotated - The Washington ...",
+   "htmlTitle": "The CNN \u003cb\u003eDemocratic debate\u003c/b\u003e transcript, annotated - The Washington \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://www.washingtonpost.com/news/the-fix/wp/2015/10/13/the-oct-13-democratic-debate-who-said-what-and-what-it-means/",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Oct 13, 2015 ... Tuesday night, five candidates participated in the first Democratic debate: Hillary \nClinton, Bernie Sanders, Martin O'Malley, Jim Webb and ...",
+   "htmlSnippet": "Oct 13, 2015 \u003cb\u003e...\u003c/b\u003e Tuesday night, five candidates participated in the first \u003cb\u003eDemocratic debate\u003c/b\u003e: Hillary \u003cbr\u003e\nClinton, Bernie Sanders, Martin O&#39;Malley, Jim Webb and&nbsp;...",
+   "formattedUrl": "https://www.washingtonpost.com/.../the-oct-13-democratic-debate-who-said- what-and-what-it-means/",
+   "htmlFormattedUrl": "https://www.washingtonpost.com/.../the-oct-13-\u003cb\u003edemocratic\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-who-said- what-and-what-it-means/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.washingtonpost.com/blogs/the-fix/files/2015/10/Was8972783.jpg"
+     }
+    ],
+    "person": [
+     {
+      "name": "Washington Post"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "280",
+      "height": "180",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQmKLz3qH4RUUyD7Z89gIHPJptGaSbxK6KezKRBeTUARmXZf0UEPwZ0X5_"
+     }
+    ],
+    "newsarticle": [
+     {
+      "description": "We're annotating the transcript.",
+      "mainentityofpage": "True",
+      "image": "http://www.washingtonpost.com/blogs/the-fix/files/2015/10/Was8972783.jpg",
+      "url": "https://www.washingtonpost.com/news/the-fix/wp/2015/10/13/the-oct-13-democratic-debate-who-said-what-and-what-it-means/",
+      "headline": "The CNN Democratic debate transcript, annotated",
+      "datepublished": "2015-10-13T11:25-500",
+      "articlebody": "Hillary Clinton and Bernie Sanders and the other candidates took on gun control, Benghazi and other big issues at the first Democratic presidential debate of the 2016 race. Here are the highlights...."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.5, maximum-scale=2.0",
+      "referrer": "unsafe-url",
+      "news_keywords": "democrats, hillary clinton, bernie sanders, annotated transcript, debate transcript, martin o'malley, jim webb, lincoln chafee, partner-exclude",
+      "twitter:card": "summary_large_image",
+      "og:description": "We're annotating the transcript.",
+      "og:type": "article",
+      "og:site_name": "Washington Post",
+      "og:image": "http://www.washingtonpost.com/blogs/the-fix/files/2015/10/Was8972783.jpg",
+      "og:title": "The CNN Democratic debate transcript, annotated",
+      "article:publisher": "https://www.facebook.com/washingtonpost",
+      "fb:admins": "1513210492",
+      "fb:app_id": "41245586762",
+      "og:url": "https://www.washingtonpost.com/news/the-fix/wp/2015/10/13/the-oct-13-democratic-debate-who-said-what-and-what-it-means/",
+      "apple-itunes-app": "app-id=938922398, app-argument=https://www.washingtonpost.com/news/the-fix/wp/2015/10/13/the-oct-13-democratic-debate-who-said-what-and-what-it-means/"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CNN Facebook Democratic Debate Live Stream – CNN Press Room ...",
+   "htmlTitle": "CNN Facebook \u003cb\u003eDemocratic Debate\u003c/b\u003e Live Stream – CNN Press Room \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://cnnpressroom.blogs.cnn.com/2015/10/08/cnn-facebook-democratic-debate-live-stream/",
+   "displayLink": "cnnpressroom.blogs.cnn.com",
+   "snippet": "Oct 8, 2015 ... CNN will offer a live stream of the Democratic Presidential Primary Candidates \nDebate on Tuesday, October 13, from 8p to 11p ET. All users ...",
+   "htmlSnippet": "Oct 8, 2015 \u003cb\u003e...\u003c/b\u003e CNN will offer a live stream of the \u003cb\u003eDemocratic\u003c/b\u003e Presidential Primary Candidates \u003cbr\u003e\n\u003cb\u003eDebate\u003c/b\u003e on Tuesday, October 13, from 8p to 11p ET. All users&nbsp;...",
+   "cacheId": "vyXz2vyv-JwJ",
+   "formattedUrl": "cnnpressroom.blogs.cnn.com/.../cnn-facebook-democratic-debate-live-stream /",
+   "htmlFormattedUrl": "cnnpressroom.blogs.cnn.com/.../cnn-facebook-\u003cb\u003edemocratic\u003c/b\u003e-\u003cb\u003edebate\u003c/b\u003e-live-stream /",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnn/2015/images/10/13/t1larg.goplivestream.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzpuH8hKdQsUDGCfu_mJN4tLS4_GlvtffqIfKM2ZOO_y_rv7A9uCfbcPo"
+     }
+    ],
+    "metatags": [
+     {
+      "original-source": "http://cnnpressroom.blogs.cnn.com/2015/10/08/cnn-facebook-democratic-debate-live-stream/",
+      "title": "CNN Facebook Democratic Debate Live Stream",
+      "msvalidate.01": "DE341CAC7D45B696ED1776216C18054C",
+      "application-name": "CNN Press Room",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-task": "name=Subscribe;action-uri=http://cnnpressroom.blogs.cnn.com/feed/;icon-uri=http://0.gravatar.com/blavatar/06398c754fa0b5e1467e6cfad2056cdd?s=16",
+      "og:title": "CNN Facebook Democratic Debate Live Stream",
+      "og:url": "http://cnnpressroom.blogs.cnn.com/2015/10/08/cnn-facebook-democratic-debate-live-stream/",
+      "og:type": "article",
+      "fb:admins": "690014395",
+      "fb:app_id": "80401312489",
+      "og:description": "CNN will offer a live stream of the Democratic Presidential Primary Candidates Debate on Tuesday, October 13, from 8p to 11p ET.  All users will be able to watch live CNN TV online and on their mobile devices without logging in.",
+      "og:image": "http://i2.cdn.turner.com/cnn/2015/images/10/13/t1larg.goplivestream.jpg"
+     }
+    ],
+    "blog": [
+     {
+      "name": "CNN Facebook Democratic Debate Live Stream",
+      "url": "http://cnnpressroom.blogs.cnn.com/2015/10/08/cnn-facebook-democratic-debate-live-stream/",
+      "description": "CNN will offer a live stream of the Democratic Presidential Primary Candidates Debate on Tuesday, October 13, from 8p to 11p ET. All users will be able to watch live CNN TV online and on their...",
+      "image": "http://i2.cdn.turner.com/cnn/2015/images/10/13/t1larg.goplivestream.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Who Won the First Democratic Presidential Debate in Las Vegas ...",
+   "htmlTitle": "Who Won the First \u003cb\u003eDemocratic\u003c/b\u003e Presidential \u003cb\u003eDebate\u003c/b\u003e in Las Vegas \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.theatlantic.com/politics/archive/2015/10/the-atlantics-liveblog-of-the-democratic-presidential-debate/410413/",
+   "displayLink": "www.theatlantic.com",
+   "snippet": "Oct 13, 2015 ... Despite dire predictions that the first Democratic presidential debate would be a \nsnoozefest, the Las Vegas summit actually offered a little bit of ...",
+   "htmlSnippet": "Oct 13, 2015 \u003cb\u003e...\u003c/b\u003e Despite dire predictions that the first \u003cb\u003eDemocratic\u003c/b\u003e presidential \u003cb\u003edebate\u003c/b\u003e would be a \u003cbr\u003e\nsnoozefest, the Las Vegas summit actually offered a little bit of&nbsp;...",
+   "cacheId": "-mCFtGXrEWQJ",
+   "formattedUrl": "www.theatlantic.com/politics/.../10/...democratic...debate/410413/",
+   "htmlFormattedUrl": "www.theatlantic.com/politics/.../10/...\u003cb\u003edemocratic\u003c/b\u003e...\u003cb\u003edebate\u003c/b\u003e/410413/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.theatlantic.com/assets/media/img/mt/2015/10/Clinton_and_Bernie_2/facebook.jpg?1444797382"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "311",
+      "height": "162",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqWpmxbgDuVOleAu7uV5ugXh26MtGFXEWavMSdnEgqzPk2FI0pxRtKBKM"
+     }
+    ],
+    "newsarticle": [
+     {
+      "headline": "Who Won the Democratic Debate?",
+      "description": "Five candidates faced off in Las Vegas, as they tried to shake up the race.",
+      "image": "http://cdn.theatlantic.com/assets/media/img/mt/2015/10/Clinton_and_Bernie_2/lead_960.jpg?1444797381",
+      "datepublished": "2015-10-13T23:30:00",
+      "articlebody": "Well, that wasn’t so bad, was it? Despite dire predictions that the first Democratic presidential debate would be a snoozefest, the Las Vegas summit actually offered a little bit of everything:..."
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, maximum-scale=1.0, width=device-width",
+      "og:site_name": "The Atlantic",
+      "og:locale": "en_US",
+      "fb:admins": "577048155,17301937",
+      "fb:page_id": "29259828486",
+      "fb:app_id": "100770816677686",
+      "p:domain_verify": "68e1a0361a557708fefc992f3309ed70",
+      "og:title": "Who Won the First Democratic Debate?",
+      "og:type": "article",
+      "og:url": "http://www.theatlantic.com/politics/archive/2015/10/the-atlantics-liveblog-of-the-democratic-presidential-debate/410413/",
+      "og:image": "http://cdn.theatlantic.com/assets/media/img/mt/2015/10/Clinton_and_Bernie_2/facebook.jpg?1444797382",
+      "og:description": "Five candidates faced off in Las Vegas, as they tried to shake up the race.",
+      "author": "David A. Graham, Yoni Appelbaum, Molly Ball, Priscilla Alvarez, Tyler Bishop, Matt Ford, and Russell Berman",
+      "twitter:site": "@theatlantic",
+      "twitter:domain": "theatlantic.com",
+      "twitter:card": "summary",
+      "parsely-page": "{\"title\": \"Who Won the Democratic Debate?\", \"type\": \"post\", \"section\": \"politics\", \"author\": \"David A. Graham,Yoni Appelbaum,Molly Ball,Priscilla Alvarez,Tyler Bishop,Matt Ford,Russell Berman\", \"post_id\": 410413, \"link\": \"http://www.theatlantic.com/politics/archive/2015/10/the-atlantics-liveblog-of-the-democratic-presidential-debate/410413/\", \"pub_date\": \"2015-10-13T23:30:00Z\"}"
+     }
+    ]
+   }
+  }
+ ]
+}

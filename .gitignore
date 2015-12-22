@@ -1,7 +1,14 @@
 /dist/
 /build/
 /nbproject/
+<<<<<<< HEAD
 /build/classes/googlebias
 /instructions.txt
 /data
 /init.txt
+=======
+nbproject/private/private.xml
+/build/classes/googlebias
+/instructions.txt
+/data
+>>>>>>> 0ab9d1a138cf79b024cd88d4e688f583fb24d4f5
