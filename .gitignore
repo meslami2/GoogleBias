@@ -1,7 +1,7 @@
 /dist/
 /build/
 /nbproject/
-build/classes/googlebias
+/build/classes/googlebias
 /instructions.txt
 /data
 /init.txt
